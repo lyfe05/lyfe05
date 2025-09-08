@@ -52,7 +52,7 @@
 📺 Channels: FIFA+, ESPN Select, SuperSport PSL, Sportklub 2 Croatia, SD-8498303
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1379.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1382.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 2
 --------------------------------------------------
 🏟️ Match: Guinea-Bissau Vs Djibouti
 🕒 Start: 2025-09-08 19:00 (GMT+3)
@@ -68,7 +68,7 @@
 📺 Channels: FIFA+, ESPN Select, Sportklub 3 Croatia, SD-8480774
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1380.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1375.png
-⚽ Score: 1 | 1
+⚽ Score: 2 | 1
 --------------------------------------------------
 🏟️ Match: Wales U21 Vs Denmark U21
 🕒 Start: 2025-09-08 21:30 (GMT+3)
