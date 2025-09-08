@@ -20,7 +20,7 @@
 📺 Channels: FIFA+, ESPN Select, Sportklub 2 Croatia, SD-8480771
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1011.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/112.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: Kazakhstan U21 Vs England U21
 🕒 Start: 2025-09-08 18:00 (GMT+3)
@@ -28,7 +28,7 @@
 📺 Channels: YouTube
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18730.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1866.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: Uganda Vs Somalia
 🕒 Start: 2025-09-08 19:00 (GMT+3)
