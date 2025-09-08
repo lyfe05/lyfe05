@@ -85,7 +85,7 @@
 📺 Channels: BBC iPlayer, S4C, S4C Online
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18713.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4039.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 27'
 --------------------------------------------------
 🏟️ Match: Switzerland Vs Slovenia
@@ -94,7 +94,7 @@
 📺 Channels: Fox Soccer Plus, ŠTV 1 Slovenia, SRF zwei, Sky Sport 5 NZ, Polsat Sport Premium 2 Poland, Arena 4 Premium Serbia, Nova Sports 2 Greece, Diema Sport Bulgaria, ESPN3 Brazil, SuperSport Football, Sportklub 2 Croatia, Sportklub 3 Croatia, beIN Sports MENA 5, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/93.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/67.png
-⚽ Score: 0 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 13'
 --------------------------------------------------
 🏟️ Match: Kosovo Vs Sweden
@@ -103,7 +103,7 @@
 📺 Channels: RTK1 Kosovo, Viaplay Sport Sweden, Sky Sport 4 NZ, Sport TV3 Portugal, Digi Sport 3 Romania, Prima Sport 3 Romania, Nova Sports 4 Greece, ESPN Brazil, SuperSport Variety 3, beIN Sports MENA 6, Sport 3 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6677.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/105.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 14'
 --------------------------------------------------
 🏟️ Match: Belarus Vs Scotland
@@ -121,7 +121,7 @@
 📺 Channels: Amazon Prime Video, Alpha TV Greece, TV2 Denmark, Sky Sport 1 NZ, Sport TV2 Portugal, Polsat Sport 2 Poland, Digi Sport 4 Romania, Prima Sport 4 Romania, Ziggo Sport 4 NL, Arena 2 Premium Serbia, Diema Sport 2 Bulgaria, Sportv2 Brazil, SuperSport Action, Supersport Grandstand, beIN Sports MENA 4, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/44.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/92.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 15'
 --------------------------------------------------
 🏟️ Match: Israel Vs Italy
@@ -130,7 +130,7 @@
 📺 Channels: Amazon Prime Video, Fox Sports 2 USA, RAI 1 IT, Sky Sport 3 NZ, DAZN1 DE, Sport TV1 Portugal, Ziggo Sport 3 NL, Polsat Sport 1 Poland, TMC France, Digi Sport 1 Romania, Prima Sport 1 Romania, TV2 Sport 1 Norway, Arena 1 Premium Serbia, Nova Sports 1 Greece, TV2 Sport X Denmark, Diema Sport 3 Bulgaria, ESPN Argentina, SuperSport Premier League, SuperSport MaXimo 1, Sport Klub 1 Croatia, 5Sport Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/308.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/37.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 14'
 --------------------------------------------------
 🏟️ Match: Croatia Vs Montenegro
@@ -139,7 +139,7 @@
 📺 Channels: Nova TV Croatia, DAZN2 DE, RTCG 2 Montenegro, Sport 2 Czech, Sky Sport 6 NZ, Sport TV6 Portugal, Polsat Sport 3 Poland, Digi Sport 2 Romania, Prima Sport 2 Romania, Arena 5 Premium Serbia, Nova Sports Start Greece, Nova Sport Bulgaria, Sportv Brazil, V Sport Premium, SuperSport Variety, beIN Sports MENA 1, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/99.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/316.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 15'
 --------------------------------------------------
 🏟️ Match: Gibraltar Vs Faroe Islands
@@ -166,5 +166,5 @@
 📺 Channels: FIFA+, ESPN Select, SuperSport Laliga, SD-8480767
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/892.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1371.png
-⚽ Score: 0 | 0
+⚽ Score: 2 | 0
 --------------------------------------------------
