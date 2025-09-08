@@ -1,11 +1,3 @@
-🏟️ Match: Malaysia Vs Palestine
-🕒 Start: 2025-09-08 16:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: TVS Malaysia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1394.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1398.png
-⚽ Score: 0 | 0
---------------------------------------------------
 🏟️ Match: Zambia Vs Morocco
 🕒 Start: 2025-09-08 16:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
@@ -28,14 +20,6 @@
 📺 Channels: FIFA+, ESPN Select, Sportklub 2 Croatia, SD-8480771
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1011.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/112.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Indonesia Vs Lebanon
-🕒 Start: 2025-09-08 16:30 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Indosiar
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1410.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1386.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Kazakhstan U21 Vs England U21
@@ -86,92 +70,12 @@
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1375.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Estonia U21 Vs Iceland U21
-🕒 Start: 2025-09-08 19:00 (GMT+3)
-📍 Tournament: Euro Under-21 Qualifying
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18714.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18715.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Belarus U21 Vs Austria U21
-🕒 Start: 2025-09-08 19:00 (GMT+3)
-📍 Tournament: Euro Under-21 Qualifying
-📺 Channels: Belarus 5, ORF Sport Plus, Polsat Sport Premium 1 Poland
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18735.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/11971.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: United Arab Emirates Vs Bahrain
-🕒 Start: 2025-09-08 19:30 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Abu Dhabi Sports 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/594.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/897.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Switzerland U21 Vs Albania U21
-🕒 Start: 2025-09-08 19:30 (GMT+3)
-📍 Tournament: U21 National Team Friendlies
-📺 Channels: SD-8561354
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18703.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18732.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Norrby Vs Ljungskile
-🕒 Start: 2025-09-08 20:00 (GMT+3)
-📍 Tournament: Ettan
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4227.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4181.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Czech Republic Vs Saudi Arabia
-🕒 Start: 2025-09-08 20:15 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: ČT Sport CZ, Sky Sport 9 NZ, DAZN2 DE
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/100.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/104.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Arsenal de Sarandí Vs Tristán Suárez
-🕒 Start: 2025-09-08 21:00 (GMT+3)
-📍 Tournament: Primera Nacional
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1695.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19288.png
-⚽ Score: 0 | 0
---------------------------------------------------
 🏟️ Match: Wales U21 Vs Denmark U21
 🕒 Start: 2025-09-08 21:30 (GMT+3)
 📍 Tournament: Euro Under-21 Qualifying
 📺 Channels: BBC iPlayer, S4C, S4C Online
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18713.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4039.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Eibar Vs FC Andorra
-🕒 Start: 2025-09-08 21:30 (GMT+3)
-📍 Tournament: La Liga 2
-📺 Channels: LaLiga Hypermotion, Match! Football 2 Russia, Nova Sport 4 CZ, beIN Sports 4 MAX France, Arena Sport 2 Serbia, TV4 Fotball
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1248.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/15047.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Urquiza Vs Real Pilar
-🕒 Start: 2025-09-08 21:30 (GMT+3)
-📍 Tournament: Primera B Metropolitana
-📺 Channels: TyC Sports Argentina
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10203.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/12549.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Flandria Vs Laferrere
-🕒 Start: 2025-09-08 21:30 (GMT+3)
-📍 Tournament: Primera B Metropolitana
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7268.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7430.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Switzerland Vs Slovenia
@@ -244,109 +148,5 @@
 📺 Channels: FIFA+, ESPN Select, SuperSport Laliga, SD-8480767
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/892.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1371.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: France U21 Vs Serbia U21
-🕒 Start: 2025-09-08 22:00 (GMT+3)
-📍 Tournament: U21 National Team Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1025.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4037.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Boca Juniors de Cali Vs Atlético
-🕒 Start: 2025-09-09 00:00 (GMT+3)
-📍 Tournament: Primera B
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4704.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4707.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Almirante Vs San Telmo
-🕒 Start: 2025-09-09 00:00 (GMT+3)
-📍 Tournament: Primera Nacional
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19292.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19289.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Quilmes Vs Ferro
-🕒 Start: 2025-09-09 01:00 (GMT+3)
-📍 Tournament: Primera Nacional
-📺 Channels: TyC Sports Argentina
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1819.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4748.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Novorizontino Vs Atlético Goianiense
-🕒 Start: 2025-09-09 01:30 (GMT+3)
-📍 Tournament: Brasileirão Série B Betnacional
-📺 Channels: ESPN Brazil
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6310.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1800.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Cuiabá Vs CRB
-🕒 Start: 2025-09-09 02:00 (GMT+3)
-📍 Tournament: Brasileirão Série B Betnacional
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2704.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4828.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: New England Revolution II Vs Huntsville City FC
-🕒 Start: 2025-09-09 02:00 (GMT+3)
-📍 Tournament: MLS Next Pro
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17440.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/40067.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Midland Vs Dock Sud
-🕒 Start: 2025-09-09 02:00 (GMT+3)
-📍 Tournament: Primera B Metropolitana
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10037.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/12552.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Cundinamarca Vs Patriotas
-🕒 Start: 2025-09-09 02:05 (GMT+3)
-📍 Tournament: Primera B
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/47232.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2303.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Argentinos Juniors Vs Lanús
-🕒 Start: 2025-09-09 03:10 (GMT+3)
-📍 Tournament: Copa Argentina
-📺 Channels: TyC Sports Argentina, Sport TV1 Portugal
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1830.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1832.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Vila Nova Vs Athletic
-🕒 Start: 2025-09-09 03:30 (GMT+3)
-📍 Tournament: Brasileirão Série B Betnacional
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2865.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/12089.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: El Salvador Vs Suriname
-🕒 Start: 2025-09-09 03:30 (GMT+3)
-📍 Tournament: CONCACAF World Cup Qualifying
-📺 Channels: CBS Sports Golazo USA, Telemundo, ESPN 1 NL
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/126.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1351.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Panama Vs Guatemala
-🕒 Start: 2025-09-09 04:30 (GMT+3)
-📍 Tournament: CONCACAF World Cup Qualifying
-📺 Channels: CBS Sports Network USA, NBC UNIVERSO USA, RPC Panama
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1022.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/593.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
