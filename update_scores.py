@@ -63,6 +63,25 @@ def fetch_onefootball_matches():
 
     return matches
 
+def should_update(matches):
+    """Decide if updates should run based on match times"""
+    if not matches:
+        return False
+
+    # Convert kickoff strings to datetime
+    times = [datetime.strptime(m["kickoff"], "%Y-%m-%d %H:%M") for m in matches if m["kickoff"] != "Unknown"]
+    if not times:
+        return False
+
+    first_match = min(times)
+    last_match = max(times)
+
+    start_time = first_match + timedelta(minutes=20)
+    end_time = last_match + timedelta(hours=2)
+    now = datetime.now()
+
+    return start_time <= now <= end_time
+
 def update_scores():
     """Update scores in matches.txt using latest OneFootball data"""
     try:
@@ -74,6 +93,11 @@ def update_scores():
 
     # Load fresh data
     live_matches = fetch_onefootball_matches()
+
+    # Smart check: only update if we are in the match window
+    if not should_update(live_matches):
+        print("⏸️ Outside match window, skipping update.")
+        return
 
     updated_lines = []
     for line in lines:
@@ -90,13 +114,8 @@ def update_scores():
             for lm in live_matches:
                 if (normalize_team_name(home_team) == normalize_team_name(lm["home"]) and
                     normalize_team_name(away_team) == normalize_team_name(lm["away"])):
-                    # Replace score in output
                     updated_lines.append(line)  # keep the match line
-                    updated_lines.append(next((l for l in lines if l.startswith("🕒 Start:")), ""))
-                    updated_lines.append(next((l for l in lines if l.startswith("📍 Tournament:")), ""))
-                    updated_lines.append(next((l for l in lines if l.startswith("📺 Channels:")), ""))
                     updated_lines.append(f"⚽ Score: {lm['home_score']} | {lm['away_score']}\n")
-                    updated_lines.append("-" * 50 + "\n")
                     break
             else:
                 updated_lines.append(line)
