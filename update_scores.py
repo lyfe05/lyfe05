@@ -89,13 +89,11 @@ def update_scores():
     updated_lines = []
     changes_made = False
     current_match = None
-    skip_next_score = False
     
-    for i, line in enumerate(lines):
-        if skip_next_score:
-            skip_next_score = False
-            continue
-            
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        
         if line.startswith("🏟️ Match: "):
             # Extract teams from the match line
             try:
@@ -106,39 +104,50 @@ def update_scores():
             except Exception as e:
                 print(f"⚠️ Error parsing match line: {e}")
                 updated_lines.append(line)
-                current_match = None
+                i += 1
                 continue
             
-            # Add the match line
+            # Add the match line and all subsequent lines until we find the score line
             updated_lines.append(line)
+            i += 1
             
-            # Check if next line is a score line
-            if i + 1 < len(lines) and lines[i + 1].startswith("⚽ Score:"):
+            # Keep adding lines until we find the score line or separator
+            while i < len(lines) and not lines[i].startswith("⚽ Score:") and not lines[i].startswith("--------------------------------------------------"):
+                updated_lines.append(lines[i])
+                i += 1
+            
+            # If we found a score line, process it
+            if i < len(lines) and lines[i].startswith("⚽ Score:"):
                 # Fetch the current score from OneFootball
                 home_score, away_score = fetch_match_score_from_onefootball(home_team, away_team)
                 
                 if home_score is not None and away_score is not None:
-                    new_score = f"⚽ Score: {home_score} | {away_score}"
-                    current_score = lines[i + 1].strip()
+                    new_score_line = f"⚽ Score: {home_score} | {away_score}\n"
+                    current_score_line = lines[i]
                     
-                    if current_score != new_score:
-                        print(f"🔄 Updating: {current_score} -> {new_score}")
-                        updated_lines.append(new_score + "\n")
+                    if current_score_line.strip() != new_score_line.strip():
+                        print(f"🔄 Updating: {current_score_line.strip()} -> {new_score_line.strip()}")
+                        updated_lines.append(new_score_line)
                         changes_made = True
                     else:
-                        print(f"✅ Score unchanged: {new_score}")
-                        updated_lines.append(lines[i + 1])
+                        print(f"✅ Score unchanged: {new_score_line.strip()}")
+                        updated_lines.append(current_score_line)
                 else:
                     print("⏭️ Keeping original score (match not found)")
-                    updated_lines.append(lines[i + 1])
+                    updated_lines.append(lines[i])
                 
-                # Skip the second score line
-                skip_next_score = True
+                i += 1
+                
+                # Skip the duplicate score line if it exists
+                if i < len(lines) and lines[i].startswith("⚽ Score:"):
+                    print("⏭️ Skipping duplicate score line")
+                    i += 1
             else:
-                print("⚠️ No score line found after match line")
+                print("⚠️ No score line found for this match")
                 
         else:
             updated_lines.append(line)
+            i += 1
 
     if changes_made:
         with open("matches.txt", "w", encoding="utf-8") as f:
