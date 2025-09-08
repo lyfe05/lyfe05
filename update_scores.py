@@ -1,7 +1,7 @@
 import re
 import json
-from datetime import datetime, timedelta
 import requests
+from datetime import datetime
 from zoneinfo import ZoneInfo
 
 # ---------- HELPERS ----------
@@ -9,127 +9,87 @@ def normalize_team_name(name):
     """Normalize team names for comparison"""
     return re.sub(r'[^a-z0-9]', '', name.lower())
 
-def fetch_onefootball_matches():
-    """Fetch today's matches (with live scores) from OneFootball"""
+def fetch_match_score_from_onefootball(home_team, away_team):
+    """Fetch score for a specific match from OneFootball"""
     url = "https://onefootball.com/en/matches"
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
-    matches = []
-
+    
     try:
-        response = requests.get(url, headers=headers, timeout=10)
+        response = requests.get(url, headers=headers, timeout=15)
         response.raise_for_status()
 
         json_pattern = r'<script id="__NEXT_DATA__" type="application/json">({.*?})</script>'
         match = re.search(json_pattern, response.text, re.DOTALL)
 
         if not match:
-            print("❌ No JSON data found in response")
-            return matches
+            print(f"❌ No JSON data found for {home_team} vs {away_team}")
+            return None, None
 
         json_data = json.loads(match.group(1))
         
-        # Try to find matches in the JSON structure
-        matches_data = None
+        # Normalize the team names we're looking for
+        norm_home = normalize_team_name(home_team)
+        norm_away = normalize_team_name(away_team)
         
-        # Look in props -> pageProps -> containers
-        if "props" in json_data and "pageProps" in json_data["props"]:
-            page_props = json_data["props"]["pageProps"]
-            
-            if "containers" in page_props:
-                for container in page_props["containers"]:
-                    if "type" in container and "fullWidth" in container["type"]:
-                        comp = container["type"]["fullWidth"].get("component", {})
-                        content_type = comp.get("contentType", {})
-                        
-                        if content_type.get("$case") == "matchCardsList":
-                            matches_data = content_type["matchCardsList"].get("matchCards", [])
-                            break
-        
-        if not matches_data:
-            print("❌ Could not find match data in JSON structure")
+        # Recursively search for matches in the JSON data
+        def find_matches(data):
+            matches = []
+            if isinstance(data, dict):
+                # Check if this is a match object
+                if "homeTeam" in data and "awayTeam" in data:
+                    matches.append(data)
+                # Recursively search nested structures
+                for value in data.values():
+                    matches.extend(find_matches(value))
+            elif isinstance(data, list):
+                for item in data:
+                    matches.extend(find_matches(item))
             return matches
 
-        for m in matches_data:
+        all_matches = find_matches(json_data)
+        
+        # Look for our specific match
+        for match_data in all_matches:
             try:
-                # Extract competition name
-                competition = "Unknown Tournament"
-                if "tournament" in m:
-                    competition = m["tournament"].get("name", "Unknown Tournament")
-                elif "competition" in m:
-                    competition = m["competition"].get("name", "Unknown Tournament")
+                match_home = match_data["homeTeam"]["name"]
+                match_away = match_data["awayTeam"]["name"]
                 
-                # Extract team names and scores
-                home_team = m["homeTeam"]["name"]
-                away_team = m["awayTeam"]["name"]
-                
-                # Handle scores - convert to string and handle None values
-                home_score = str(m["homeTeam"].get("score", "0") or "0")
-                away_score = str(m["awayTeam"].get("score", "0") or "0")
-                
-                # Handle kickoff time
-                kickoff_str = "Unknown"
-                if "kickoff" in m and m["kickoff"]:
-                    try:
-                        kickoff_utc = datetime.strptime(m["kickoff"], "%Y-%m-%dT%H:%M:%SZ")
-                        kickoff_gmt3 = kickoff_utc.replace(tzinfo=ZoneInfo("UTC")).astimezone(ZoneInfo("Europe/Istanbul"))
-                        kickoff_str = kickoff_gmt3.strftime("%Y-%m-%d %H:%M")
-                    except:
-                        kickoff_str = m["kickoff"]
-
-                matches.append({
-                    "home": home_team,
-                    "away": away_team,
-                    "competition": competition,
-                    "kickoff": kickoff_str,
-                    "home_score": home_score,
-                    "away_score": away_score
-                })
-                
+                # Check if this is the match we're looking for
+                if (normalize_team_name(match_home) == norm_home and 
+                    normalize_team_name(match_away) == norm_away):
+                    
+                    home_score = str(match_data["homeTeam"].get("score", "0") or "0")
+                    away_score = str(match_data["awayTeam"].get("score", "0") or "0")
+                    
+                    print(f"✅ Found score: {home_team} {home_score}-{away_score} {away_team}")
+                    return home_score, away_score
+                    
             except Exception as e:
-                print(f"⚠️ Error parsing match: {e}")
                 continue
+        
+        print(f"❌ Match not found: {home_team} vs {away_team}")
+        return None, None
                 
     except Exception as e:
-        print(f"⚠️ Error fetching OneFootball: {e}")
-
-    print(f"📊 Found {len(matches)} matches")
-    for i, match in enumerate(matches[:5]):  # Show first 5 matches for debugging
-        print(f"  {i+1}. {match['home']} {match['home_score']}-{match['away_score']} {match['away']}")
-    
-    return matches
-
-def should_update(matches):
-    """Always update if we have matches (remove time restrictions for now)"""
-    if not matches:
-        print("❌ No matches found, skipping update")
-        return False
-    
-    print("✅ Matches found, proceeding with update")
-    return True
+        print(f"⚠️ Error fetching data for {home_team} vs {away_team}: {e}")
+        return None, None
 
 def update_scores():
-    """Update scores in matches.txt using latest OneFootball data"""
+    """Update scores in matches.txt by reading each match and fetching its score"""
     try:
         with open("matches.txt", "r", encoding="utf-8") as f:
             lines = f.readlines()
         print(f"📖 Read {len(lines)} lines from matches.txt")
     except FileNotFoundError:
-        print("⚠️ matches.txt not found. Run matches.py first.")
-        return
-
-    # Load fresh data
-    live_matches = fetch_onefootball_matches()
-
-    # Smart check
-    if not should_update(live_matches):
-        print("⏸️ Outside match window, skipping update.")
+        print("⚠️ matches.txt not found.")
         return
 
     updated_lines = []
     changes_made = False
-    skip_next_score = False  # Flag to skip the second score line
+    current_match = None
+    skip_next_score = False
     
     for i, line in enumerate(lines):
         if skip_next_score:
@@ -141,42 +101,41 @@ def update_scores():
             try:
                 parts = line.strip().split("Match: ")[1].split(" Vs ")
                 home_team, away_team = parts[0].strip(), parts[1].strip()
-                print(f"🔍 Looking for: {home_team} vs {away_team}")
+                current_match = (home_team, away_team)
+                print(f"\n🔍 Processing: {home_team} vs {away_team}")
             except Exception as e:
-                print(f"⚠️ Error parsing line {i}: {e}")
+                print(f"⚠️ Error parsing match line: {e}")
                 updated_lines.append(line)
+                current_match = None
                 continue
-
-            # Find this match in live data
-            found_match = None
-            for lm in live_matches:
-                if (normalize_team_name(home_team) == normalize_team_name(lm["home"]) and
-                    normalize_team_name(away_team) == normalize_team_name(lm["away"])):
-                    found_match = lm
-                    break
-
-            if found_match:
-                # Add the match line
-                updated_lines.append(line)
+            
+            # Add the match line
+            updated_lines.append(line)
+            
+            # Check if next line is a score line
+            if i + 1 < len(lines) and lines[i + 1].startswith("⚽ Score:"):
+                # Fetch the current score from OneFootball
+                home_score, away_score = fetch_match_score_from_onefootball(home_team, away_team)
                 
-                # Check if next line is a score line
-                if i + 1 < len(lines) and lines[i + 1].startswith("⚽ Score:"):
+                if home_score is not None and away_score is not None:
+                    new_score = f"⚽ Score: {home_score} | {away_score}"
                     current_score = lines[i + 1].strip()
-                    new_score = f"⚽ Score: {found_match['home_score']} | {found_match['away_score']}"
                     
                     if current_score != new_score:
-                        print(f"🔄 Updating score: {current_score} -> {new_score}")
+                        print(f"🔄 Updating: {current_score} -> {new_score}")
                         updated_lines.append(new_score + "\n")
                         changes_made = True
                     else:
+                        print(f"✅ Score unchanged: {new_score}")
                         updated_lines.append(lines[i + 1])
+                else:
+                    print("⏭️ Keeping original score (match not found)")
+                    updated_lines.append(lines[i + 1])
                 
-                # Skip the second score line (we'll handle it by not adding it)
+                # Skip the second score line
                 skip_next_score = True
-                
             else:
-                # Match not found in live data, keep original lines
-                updated_lines.append(line)
+                print("⚠️ No score line found after match line")
                 
         else:
             updated_lines.append(line)
@@ -184,9 +143,9 @@ def update_scores():
     if changes_made:
         with open("matches.txt", "w", encoding="utf-8") as f:
             f.writelines(updated_lines)
-        print("✅ Scores updated in matches.txt")
+        print(f"\n✅ Scores updated in matches.txt")
     else:
-        print("✅ No score changes detected")
+        print(f"\n✅ No score changes detected")
 
 if __name__ == "__main__":
     update_scores()
