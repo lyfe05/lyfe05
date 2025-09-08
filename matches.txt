@@ -2,21 +2,11 @@
 🕒 Start: 2025-09-08 16:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, Arryadia 3 Morocco, Sportdigital FUSSBALL DE, ESPN 1 NL, Sport Klub 1 Croatia, SuperSport PSL, SD-8480768
-⚽ Score: 0 | 0
---------------------------------------------------
-🕒 Start: 2025-09-08 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Arryadia 3 Morocco, Sportdigital FUSSBALL DE, ESPN 1 NL, Sport Klub 1 Croatia, SuperSport PSL, SD-8480768
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/596.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/108.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Mozambique Vs Botswana
-🕒 Start: 2025-09-08 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Arryadia 3 Morocco, Sportdigital FUSSBALL DE, ESPN 1 NL, Sport Klub 1 Croatia, SuperSport PSL, SD-8480768
-⚽ Score: 0 | 0
---------------------------------------------------
 🕒 Start: 2025-09-08 16:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, Sport TV1 Portugal, Arena 2 Premium Serbia, SuperSport Football, SuperSport MaXimo 1, Sportklub 3 Croatia, SD-6571593
@@ -27,22 +17,12 @@
 🏟️ Match: Equatorial Guinea Vs Tunisia
 🕒 Start: 2025-09-08 16:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Arryadia 3 Morocco, Sportdigital FUSSBALL DE, ESPN 1 NL, Sport Klub 1 Croatia, SuperSport PSL, SD-8480768
-⚽ Score: 0 | 0
---------------------------------------------------
-🕒 Start: 2025-09-08 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, Sportklub 2 Croatia, SD-8480771
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1011.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/112.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Uganda Vs Somalia
-🕒 Start: 2025-09-08 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Arryadia 3 Morocco, Sportdigital FUSSBALL DE, ESPN 1 NL, Sport Klub 1 Croatia, SuperSport PSL, SD-8480768
-⚽ Score: 0 | 0
---------------------------------------------------
 🕒 Start: 2025-09-08 19:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, SuperSport Football, SD-6571572
@@ -51,11 +31,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Guinea Vs Algeria
-🕒 Start: 2025-09-08 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Arryadia 3 Morocco, Sportdigital FUSSBALL DE, ESPN 1 NL, Sport Klub 1 Croatia, SuperSport PSL, SD-8480768
-⚽ Score: 0 | 0
---------------------------------------------------
 🕒 Start: 2025-09-08 19:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, 0, 1, 2, 3, 4, 6, SD-6571570
@@ -64,11 +39,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Malawi Vs Liberia
-🕒 Start: 2025-09-08 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Arryadia 3 Morocco, Sportdigital FUSSBALL DE, ESPN 1 NL, Sport Klub 1 Croatia, SuperSport PSL, SD-8480768
-⚽ Score: 0 | 0
---------------------------------------------------
 🕒 Start: 2025-09-08 19:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, SuperSport PSL, Sportklub 2 Croatia, SD-8498303
@@ -77,11 +47,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Guinea-Bissau Vs Djibouti
-🕒 Start: 2025-09-08 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Arryadia 3 Morocco, Sportdigital FUSSBALL DE, ESPN 1 NL, Sport Klub 1 Croatia, SuperSport PSL, SD-8480768
-⚽ Score: 0 | 0
---------------------------------------------------
 🕒 Start: 2025-09-08 19:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, Sport TV1 Portugal, SD-8508956
@@ -90,11 +55,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Madagascar Vs Chad
-🕒 Start: 2025-09-08 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Arryadia 3 Morocco, Sportdigital FUSSBALL DE, ESPN 1 NL, Sport Klub 1 Croatia, SuperSport PSL, SD-8480768
-⚽ Score: 0 | 0
---------------------------------------------------
 🕒 Start: 2025-09-08 19:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, Sportklub 3 Croatia, SD-8480774
@@ -103,11 +63,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Belarus Vs Scotland
-🕒 Start: 2025-09-08 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Arryadia 3 Morocco, Sportdigital FUSSBALL DE, ESPN 1 NL, Sport Klub 1 Croatia, SuperSport PSL, SD-8480768
-⚽ Score: 0 | 0
---------------------------------------------------
 🕒 Start: 2025-09-08 21:45 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: BBC1 Scotland, BBC iPlayer, BBC Sport Website, BBC3, Belarus 5, BBC Scotland, BBC3 UK, Sky Sport 2 NZ, Sport TV4 Portugal, Arena 3 Premium Serbia, Nova Sports 3 Greece, TV2 Sport Denmark, SuperSport Variety 2, beIN Sports MENA 3, beIN Sports MENA English 1, Sport 4 Israel
@@ -116,11 +71,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Greece Vs Denmark
-🕒 Start: 2025-09-08 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Arryadia 3 Morocco, Sportdigital FUSSBALL DE, ESPN 1 NL, Sport Klub 1 Croatia, SuperSport PSL, SD-8480768
-⚽ Score: 0 | 0
---------------------------------------------------
 🕒 Start: 2025-09-08 21:45 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: Amazon Prime Video, Alpha TV Greece, TV2 Denmark, Sky Sport 1 NZ, Sport TV2 Portugal, Polsat Sport 2 Poland, Digi Sport 4 Romania, Prima Sport 4 Romania, Ziggo Sport 4 NL, Arena 2 Premium Serbia, Diema Sport 2 Bulgaria, Sportv2 Brazil, SuperSport Action, Supersport Grandstand, beIN Sports MENA 4, Sport 2 Israel
@@ -129,11 +79,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Israel Vs Italy
-🕒 Start: 2025-09-08 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Arryadia 3 Morocco, Sportdigital FUSSBALL DE, ESPN 1 NL, Sport Klub 1 Croatia, SuperSport PSL, SD-8480768
-⚽ Score: 0 | 0
---------------------------------------------------
 🕒 Start: 2025-09-08 21:45 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: Amazon Prime Video, Fox Sports 2 USA, RAI 1 IT, Sky Sport 3 NZ, DAZN1 DE, Sport TV1 Portugal, Ziggo Sport 3 NL, Polsat Sport 1 Poland, TMC France, Digi Sport 1 Romania, Prima Sport 1 Romania, TV2 Sport 1 Norway, Arena 1 Premium Serbia, Nova Sports 1 Greece, TV2 Sport X Denmark, Diema Sport 3 Bulgaria, ESPN Argentina, SuperSport Premier League, SuperSport MaXimo 1, Sport Klub 1 Croatia, 5Sport Israel
@@ -142,11 +87,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Ghana Vs Mali
-🕒 Start: 2025-09-08 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Arryadia 3 Morocco, Sportdigital FUSSBALL DE, ESPN 1 NL, Sport Klub 1 Croatia, SuperSport PSL, SD-8480768
-⚽ Score: 0 | 0
---------------------------------------------------
 🕒 Start: 2025-09-08 22:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, Sportdigital FUSSBALL DE, ESPN 1 NL, Arena Sport 1 Serbia, SuperSport PSL, SD-8480773
