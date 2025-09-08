@@ -60,7 +60,7 @@
 📺 Channels: FIFA+, ESPN Select, Sport TV1 Portugal, SD-8508956
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1376.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1368.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
 🏟️ Match: Madagascar Vs Chad
 🕒 Start: 2025-09-08 19:00 (GMT+3)
@@ -68,7 +68,7 @@
 📺 Channels: FIFA+, ESPN Select, Sportklub 3 Croatia, SD-8480774
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1380.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1375.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 --------------------------------------------------
 🏟️ Match: Wales U21 Vs Denmark U21
 🕒 Start: 2025-09-08 21:30 (GMT+3)
