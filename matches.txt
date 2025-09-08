@@ -1,23 +1,20 @@
 🏟️ Match: Zambia Vs Morocco
-⚽ Score: 0 | 1
 🕒 Start: 2025-09-08 16:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, Arryadia 3 Morocco, Sportdigital FUSSBALL DE, ESPN 1 NL, Sport Klub 1 Croatia, SuperSport PSL, SD-8480768
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/596.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/108.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: Mozambique Vs Botswana
-⚽ Score: 1 | 0
 🕒 Start: 2025-09-08 16:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, Sport TV1 Portugal, Arena 2 Premium Serbia, SuperSport Football, SuperSport MaXimo 1, Sportklub 3 Croatia, SD-6571593
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/595.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/839.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
 🏟️ Match: Equatorial Guinea Vs Tunisia
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 16:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, Sportklub 2 Croatia, SD-8480771
@@ -26,7 +23,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Kazakhstan U21 Vs England U21
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 18:00 (GMT+3)
 📍 Tournament: Euro Under-21 Qualifying
 📺 Channels: YouTube
@@ -35,7 +31,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Uganda Vs Somalia
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 19:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, SuperSport Football, SD-6571572
@@ -44,7 +39,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Guinea Vs Algeria
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 19:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, 0, 1, 2, 3, 4, 6, SD-6571570
@@ -53,7 +47,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Malawi Vs Liberia
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 19:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, SuperSport PSL, Sportklub 2 Croatia, SD-8498303
@@ -62,7 +55,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Guinea-Bissau Vs Djibouti
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 19:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, Sport TV1 Portugal, SD-8508956
@@ -71,7 +63,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Madagascar Vs Chad
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 19:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, Sportklub 3 Croatia, SD-8480774
@@ -80,7 +71,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Wales U21 Vs Denmark U21
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 21:30 (GMT+3)
 📍 Tournament: Euro Under-21 Qualifying
 📺 Channels: BBC iPlayer, S4C, S4C Online
@@ -89,7 +79,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Switzerland Vs Slovenia
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 21:45 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: Fox Soccer Plus, ŠTV 1 Slovenia, SRF zwei, Sky Sport 5 NZ, Polsat Sport Premium 2 Poland, Arena 4 Premium Serbia, Nova Sports 2 Greece, Diema Sport Bulgaria, ESPN3 Brazil, SuperSport Football, Sportklub 2 Croatia, Sportklub 3 Croatia, beIN Sports MENA 5, Sport 1 Israel
@@ -98,7 +87,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Kosovo Vs Sweden
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 21:45 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: RTK1 Kosovo, Viaplay Sport Sweden, Sky Sport 4 NZ, Sport TV3 Portugal, Digi Sport 3 Romania, Prima Sport 3 Romania, Nova Sports 4 Greece, ESPN Brazil, SuperSport Variety 3, beIN Sports MENA 6, Sport 3 Israel
@@ -107,7 +95,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Belarus Vs Scotland
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 21:45 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: BBC1 Scotland, BBC iPlayer, BBC Sport Website, BBC3, Belarus 5, BBC Scotland, BBC3 UK, Sky Sport 2 NZ, Sport TV4 Portugal, Arena 3 Premium Serbia, Nova Sports 3 Greece, TV2 Sport Denmark, SuperSport Variety 2, beIN Sports MENA 3, beIN Sports MENA English 1, Sport 4 Israel
@@ -116,7 +103,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Greece Vs Denmark
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 21:45 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: Amazon Prime Video, Alpha TV Greece, TV2 Denmark, Sky Sport 1 NZ, Sport TV2 Portugal, Polsat Sport 2 Poland, Digi Sport 4 Romania, Prima Sport 4 Romania, Ziggo Sport 4 NL, Arena 2 Premium Serbia, Diema Sport 2 Bulgaria, Sportv2 Brazil, SuperSport Action, Supersport Grandstand, beIN Sports MENA 4, Sport 2 Israel
@@ -125,7 +111,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Israel Vs Italy
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 21:45 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: Amazon Prime Video, Fox Sports 2 USA, RAI 1 IT, Sky Sport 3 NZ, DAZN1 DE, Sport TV1 Portugal, Ziggo Sport 3 NL, Polsat Sport 1 Poland, TMC France, Digi Sport 1 Romania, Prima Sport 1 Romania, TV2 Sport 1 Norway, Arena 1 Premium Serbia, Nova Sports 1 Greece, TV2 Sport X Denmark, Diema Sport 3 Bulgaria, ESPN Argentina, SuperSport Premier League, SuperSport MaXimo 1, Sport Klub 1 Croatia, 5Sport Israel
@@ -134,7 +119,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Croatia Vs Montenegro
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 21:45 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: Nova TV Croatia, DAZN2 DE, RTCG 2 Montenegro, Sport 2 Czech, Sky Sport 6 NZ, Sport TV6 Portugal, Polsat Sport 3 Poland, Digi Sport 2 Romania, Prima Sport 2 Romania, Arena 5 Premium Serbia, Nova Sports Start Greece, Nova Sport Bulgaria, Sportv Brazil, V Sport Premium, SuperSport Variety, beIN Sports MENA 1, Sport 1 Israel
@@ -143,7 +127,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Gibraltar Vs Faroe Islands
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 21:45 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: Sky Sport 7 NZ, Nova Sports 5 Greece, beIN Sports MENA 7
@@ -152,7 +135,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Ghana Vs Mali
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 22:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, Sportdigital FUSSBALL DE, ESPN 1 NL, Arena Sport 1 Serbia, SuperSport PSL, SD-8480773
@@ -161,7 +143,6 @@
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Libya Vs Eswatini
-⚽ Score: 0 | 0
 🕒 Start: 2025-09-08 22:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN Select, SuperSport Laliga, SD-8480767
