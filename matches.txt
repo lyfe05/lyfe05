@@ -86,7 +86,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18713.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4039.png
 ⚽ Score: 2 | 2
-⏳ Elapsed time: 51'
+⏳ Elapsed time: 64'
 --------------------------------------------------
 🏟️ Match: Switzerland Vs Slovenia
 🕒 Start: 2025-09-08 21:45 (GMT+3)
@@ -95,7 +95,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/93.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/67.png
 ⚽ Score: 3 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 47'
 --------------------------------------------------
 🏟️ Match: Kosovo Vs Sweden
 🕒 Start: 2025-09-08 21:45 (GMT+3)
@@ -104,7 +104,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6677.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/105.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 46'
 --------------------------------------------------
 🏟️ Match: Belarus Vs Scotland
 🕒 Start: 2025-09-08 21:45 (GMT+3)
@@ -113,7 +113,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/303.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/113.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 50'
 --------------------------------------------------
 🏟️ Match: Greece Vs Denmark
 🕒 Start: 2025-09-08 21:45 (GMT+3)
@@ -122,7 +122,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/44.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/92.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 49'
 --------------------------------------------------
 🏟️ Match: Israel Vs Italy
 🕒 Start: 2025-09-08 21:45 (GMT+3)
@@ -131,7 +131,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/308.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/37.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 47'
 --------------------------------------------------
 🏟️ Match: Croatia Vs Montenegro
 🕒 Start: 2025-09-08 21:45 (GMT+3)
@@ -140,7 +140,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/99.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/316.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 47'
 --------------------------------------------------
 🏟️ Match: Gibraltar Vs Faroe Islands
 🕒 Start: 2025-09-08 21:45 (GMT+3)
@@ -149,7 +149,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2347.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/317.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 50'
 --------------------------------------------------
 🏟️ Match: Ghana Vs Mali
 🕒 Start: 2025-09-08 22:00 (GMT+3)
@@ -158,7 +158,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/60.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1009.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 38'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Libya Vs Eswatini
 🕒 Start: 2025-09-08 22:00 (GMT+3)
@@ -167,5 +167,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/892.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1371.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: 36'
+⏳ Elapsed time: 45+4'
 --------------------------------------------------
