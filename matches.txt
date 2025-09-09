@@ -148,7 +148,7 @@
 📺 Channels: BBC Wales, BBC iPlayer, BBC Sport Website, S4C, BBC3, S4C Online, TSN1, TSN4, RDS, Sky Sport 9 NZ
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/312.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/132.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 38'
 --------------------------------------------------
 🏟️ Match: France Vs Iceland
@@ -166,7 +166,7 @@
 📺 Channels: Amazon Prime Video, M4 Sports Hungary, Sport TV1 Portugal, RTP 1 Portugal, Sky Sport 3 NZ, TVP Sport Poland, Ziggo Sport 3 NL, Polsat Sport 3 Poland, Prima Sport 1 Romania, Arena 4 Premium Serbia, Nova Sports 1 Greece, Digi Sport 2 Romania, Sportklub 3 Croatia, Diema Sport Bulgaria, SporTV BR, SuperSport Variety 3, beIN Sports MENA 3, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/125.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/43.png
-⚽ Score: 1 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 38'
 --------------------------------------------------
 🏟️ Match: Bosnia & Herzegovina Vs Austria
@@ -193,7 +193,7 @@
 📺 Channels: ŠTV 1 Slovenia, Fox Soccer Plus, TV2 Direkte Norway, Sport TV4 Portugal, Sky Sport Select NZ, Polsat Sport Premium 2 Poland, Nova Sports 4 Greece, ESPN4 Brazil, SuperSport Action, beIN Sports MENA 4, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/115.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/301.png
-⚽ Score: 2 | 0
+⚽ Score: 5 | 0
 ⏳ Elapsed time: 40'
 --------------------------------------------------
 🏟️ Match: Albania Vs Latvia
@@ -211,7 +211,7 @@
 📺 Channels: ITV1, ITVX, STV, STV Player, ITV 1 UK, RTS 1 Serbia, Arena 1 Premium Serbia, Sky Sport 1 NZ, SRF zwei, DAZN1 DE, Sport TV2 Portugal, Polsat Sport 2 Poland, L'Equipe France, Prima Sport 2 Romania, Ziggo Sport 2 NL, Nova Sports Premier League Greece, TV2 Sport X Denmark, Diema Sport 3 Bulgaria, Diema Sport 2 Bulgaria, ESPN Argentina, Sportklub 2 Croatia, Digi Sport 4 Romania, ESPN Brazil, SuperSport Premier League, Supersport Grandstand, beIN Sports MENA 2, beIN Sports MENA English 1, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/88.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/61.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 38'
 --------------------------------------------------
 🏟️ Match: Mansfield Town Vs Harrogate Town
@@ -273,7 +273,7 @@
 📺 Channels: FIFA+, Sport TV5 Portugal, ESPN Select, SuperSport PSL, SD-8503358
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/97.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/893.png
-⚽ Score: 1 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 24'
 --------------------------------------------------
 🏟️ Match: Ecuador Vs Argentina
