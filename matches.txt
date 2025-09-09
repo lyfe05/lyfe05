@@ -1,282 +1,3 @@
-🏟️ Match: New Zealand Vs Australia
-🕒 Start: 2025-09-09 10:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: FIFA+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/54.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/74.png
-⚽ Score: 1 | 3
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Sierra Leone Vs Ethiopia
-🕒 Start: 2025-09-09 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Sportklub 3 Croatia, SuperSport Variety 3, SD-8480761
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1370.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1369.png
-⚽ Score: 2 | 0
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Zimbabwe Vs Rwanda
-🕒 Start: 2025-09-09 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Sportklub 2 Croatia, SuperSport PSL, SD-8503271
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/587.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1366.png
-⚽ Score: 0 | 1
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Tanzania Vs Niger
-🕒 Start: 2025-09-09 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, SuperSport Action, Sport Klub HD Croatia, SD-8480769
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/585.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1007.png
-⚽ Score: 0 | 1
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Kenya Vs Seychelles
-🕒 Start: 2025-09-09 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Sport Klub 4 Croatia, SuperSport Laliga, SD-8503272
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1372.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1374.png
-⚽ Score: 5 | 0
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Namibia Vs São Tomé
-🕒 Start: 2025-09-09 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Sport TV1 Portugal, SuperSport Football, SD-8480772
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1377.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1367.png
-⚽ Score: 3 | 0
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Azerbaijan Vs Ukraine
-🕒 Start: 2025-09-09 19:00 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: CBC Sport Azerbaijan, Sky Sport 3 NZ, DAZN1 DE, Sport TV3 Portugal, Polsat Sport 2 Poland, Sky Sport Calcio IT, Digi Sport 1 Romania, Prima Sport 2 Romania, Nova Sports 2 Greece, Diema Sport 3 Bulgaria, Sportv2 Brazil, Sportklub 3 Croatia, ESPN2 Argentina, SuperSport Football, SuperSport MaXimo 1, beIN Sports MENA 2, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/309.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/119.png
-⚽ Score: 1 | 1
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Armenia Vs Ireland
-🕒 Start: 2025-09-09 19:00 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Amazon Prime Video, RTE 2, RTE Player, RTE 2 Ireland, Sky Sport 2 NZ, DAZN2 DE, Sport TV2 Portugal, Polsat Sport 1 Poland, Sky Sport Arena IT, Ziggo Sport 2 NL, Prima Sport 3 Romania, Arena 1 Premium Serbia, Nova Sports 1 Greece, Digi Sport 2 Romania, Diema Sport Bulgaria, Sportklub 2 Croatia, ESPN4 Brazil, SuperSport Premier League, beIN Sports MENA 3, beIN Sports MENA English 1, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/315.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/122.png
-⚽ Score: 2 | 1
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Burkina Faso Vs Egypt
-🕒 Start: 2025-09-09 19:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, ON Time Sports Egypt, Sportdigital FUSSBALL DE, Arena 5 Premium Serbia, Sport Klub 4 Croatia, SD-8480759
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1018.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/590.png
-⚽ Score: 0 | 0
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: South Africa Vs Nigeria
-🕒 Start: 2025-09-09 19:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Sport TV4 Portugal, ESPN 3 NL, Arena Sport 2 Serbia, ESPN Deportes, SuperSport Variety 4, SuperSport PSL, Sport Klub HD Croatia, Supersport Grandstand, Sport 4 Israel, SD-8480764
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/39.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/85.png
-⚽ Score: 1 | 1
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Togo Vs Sudan
-🕒 Start: 2025-09-09 19:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, SD-8480763
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/106.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1017.png
-⚽ Score: 1 | 0
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: DR Congo Vs Senegal
-🕒 Start: 2025-09-09 19:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Arena Sport 1 Serbia, SD-8503290
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/895.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/121.png
-⚽ Score: 2 | 3
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Cabo Verde Vs Cameroon
-🕒 Start: 2025-09-09 19:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Arena 4 Premium Serbia, Sport TV1 Portugal, SD-8480766
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/589.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/87.png
-⚽ Score: 1 | 0
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Tranmere Rovers Vs Nottingham Forest U21
-🕒 Start: 2025-09-09 21:00 (GMT+3)
-📍 Tournament: EFL Trophy
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/608.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/28539.png
-⚽ Score: 2 (9) | 2 (8)
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Ireland U21 Vs Andorra U21
-🕒 Start: 2025-09-09 21:30 (GMT+3)
-📍 Tournament: Euro Under-21 Qualifying
-📺 Channels: RTE 2, RTE Player, SD-8503320
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18710.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18717.png
-⚽ Score: 1 | 0
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Germany U21 Vs Latvia U21
-🕒 Start: 2025-09-09 21:30 (GMT+3)
-📍 Tournament: Euro Under-21 Qualifying
-📺 Channels: German Football YouTube, DFB Play, Sat.1 DE, SD-8424498
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1867.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18725.png
-⚽ Score: 5 | 0
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Wales Vs Canada
-🕒 Start: 2025-09-09 21:45 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: BBC Wales, BBC iPlayer, BBC Sport Website, S4C, BBC3, S4C Online, TSN1, TSN4, RDS, Sky Sport 9 NZ
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/312.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/132.png
-⚽ Score: 0 | 1
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: France Vs Iceland
-🕒 Start: 2025-09-09 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Amazon Prime Video, Fox Sports 2 USA, TF1 France, Sky Sport 2 NZ, DAZN2 DE, Sport TV3 Portugal, Polsat Sport 1 Poland, Prima Sport 3 Romania, TV2 Sport 1 Norway, Arena 3 Premium Serbia, Nova Sports 2 Greece, Diema Sport Bulgaria, Digi Sport 3 Romania, V Sport Premium, Sportv2 Brazil, SuperSport Football, SuperSport MaXimo 1, Sport Klub 4 Croatia, beIN Sports MENA 1, Sport 3 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/45.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/296.png
-⚽ Score: 2 | 1
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Hungary Vs Portugal
-🕒 Start: 2025-09-09 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Amazon Prime Video, M4 Sports Hungary, Sport TV1 Portugal, RTP 1 Portugal, Sky Sport 3 NZ, TVP Sport Poland, Ziggo Sport 3 NL, Polsat Sport 3 Poland, Prima Sport 1 Romania, Arena 4 Premium Serbia, Nova Sports 1 Greece, Digi Sport 2 Romania, Sportklub 3 Croatia, Diema Sport Bulgaria, SporTV BR, SuperSport Variety 3, beIN Sports MENA 3, Sport 4 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/125.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/43.png
-⚽ Score: 2 | 3
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Bosnia & Herzegovina Vs Austria
-🕒 Start: 2025-09-09 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: BHT 1, ORF eins, Sky Sport 6 NZ, Sport TV6 Portugal, Polsat Sport Premium 1 Poland, Digi Sport 1 Romania, Prima Sport 4 Romania, Arena Sport 1 Serbia, Nova Sports 5 Greece, SuperSport Laliga, Sport Klub HD Croatia, beIN Sports MENA 6
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/297.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/117.png
-⚽ Score: 1 | 2
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Cyprus Vs Romania
-🕒 Start: 2025-09-09 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Antena 1 Romania, Sky Sport 4 NZ, Arena Sport 2 Serbia, Nova Sports 3 Greece, beIN Sports MENA 5
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/305.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/109.png
-⚽ Score: 2 | 2
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Norway Vs Moldova
-🕒 Start: 2025-09-09 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: ŠTV 1 Slovenia, Fox Soccer Plus, TV2 Direkte Norway, Sport TV4 Portugal, Sky Sport Select NZ, Polsat Sport Premium 2 Poland, Nova Sports 4 Greece, ESPN4 Brazil, SuperSport Action, beIN Sports MENA 4, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/115.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/301.png
-⚽ Score: 11 | 1
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Albania Vs Latvia
-🕒 Start: 2025-09-09 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: LTV7 Latvia, SuperSport 2 Digitalb, Sky Sport 5 NZ, Arena 5 Premium Serbia, beIN Sports MENA 7
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/304.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/313.png
-⚽ Score: 1 | 0
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Serbia Vs England
-🕒 Start: 2025-09-09 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: ITV1, ITVX, STV, STV Player, ITV 1 UK, RTS 1 Serbia, Arena 1 Premium Serbia, Sky Sport 1 NZ, SRF zwei, DAZN1 DE, Sport TV2 Portugal, Polsat Sport 2 Poland, L'Equipe France, Prima Sport 2 Romania, Ziggo Sport 2 NL, Nova Sports Premier League Greece, TV2 Sport X Denmark, Diema Sport 3 Bulgaria, Diema Sport 2 Bulgaria, ESPN Argentina, Sportklub 2 Croatia, Digi Sport 4 Romania, ESPN Brazil, SuperSport Premier League, Supersport Grandstand, beIN Sports MENA 2, beIN Sports MENA English 1, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/88.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/61.png
-⚽ Score: 0 | 5
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Mansfield Town Vs Harrogate Town
-🕒 Start: 2025-09-09 21:45 (GMT+3)
-📍 Tournament: EFL Trophy
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/629.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1528.png
-⚽ Score: 0 | 1
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: York City Vs Tamworth
-🕒 Start: 2025-09-09 21:45 (GMT+3)
-📍 Tournament: National League
-📺 Channels: DAZN National League
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/624.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1574.png
-⚽ Score: 4 | 0
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Benin Vs Lesotho
-🕒 Start: 2025-09-09 22:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, SuperSport Variety 4, SD-8480765
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1385.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/894.png
-⚽ Score: 4 | 0
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Gabon Vs Côte d'Ivoire
-🕒 Start: 2025-09-09 22:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, Sportdigital FUSSBALL DE, ESPN 1 NL, Arena Sport 3 Serbia, SD-8480770
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1016.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/41.png
-⚽ Score: 0 | 0
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Gambia Vs Burundi
-🕒 Start: 2025-09-09 22:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, SD-8503359
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/588.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1383.png
-⚽ Score: 2 | 0
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Mauritania Vs South Sudan
-🕒 Start: 2025-09-09 22:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN Select, SD-8480762
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2070.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5836.png
-⚽ Score: 0 | 0
-⏳ Elapsed time: Full time
---------------------------------------------------
-🏟️ Match: Angola Vs Mauritius
-🕒 Start: 2025-09-09 22:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, Sport TV5 Portugal, ESPN Select, SuperSport PSL, SD-8503358
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/97.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/893.png
-⚽ Score: 3 | 1
-⏳ Elapsed time: Full time
---------------------------------------------------
 🏟️ Match: Ecuador Vs Argentina
 🕒 Start: 2025-09-10 02:00 (GMT+3)
 📍 Tournament: CONMEBOL World Cup Qualifying
@@ -284,5 +5,68 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/101.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/55.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 29'
+--------------------------------------------------
+🏟️ Match: Chile Vs Uruguay
+🕒 Start: 2025-09-10 02:30 (GMT+3)
+📍 Tournament: CONMEBOL World Cup Qualifying
+📺 Channels: Movistar Liga de Campeones 2, Sport TV2 Portugal, Eleven Sports 1 Poland, Arena 1 Premium Serbia, Match Football 3 Russia, Sport 3 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/35.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/56.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Peru Vs Paraguay
+🕒 Start: 2025-09-10 02:30 (GMT+3)
+📍 Tournament: CONMEBOL World Cup Qualifying
+📺 Channels: Movistar Liga de Campeones 4 Spain, Eleven Sports 3 Poland, Arena 3 Premium Serbia, Match Football 2 Russia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/127.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/47.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Venezuela Vs Colombia
+🕒 Start: 2025-09-10 02:30 (GMT+3)
+📍 Tournament: CONMEBOL World Cup Qualifying
+📺 Channels: Caracol TV Colombia, M+ #Vamos Spain, Movistar Liga de Campeones 3, Sport TV3 Portugal, Match Football 1 Russia, Eleven Sports 2 Poland, Arena 4 Premium Serbia, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/591.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/118.png
+⚽ Score: 1 | 0
+--------------------------------------------------
+🏟️ Match: Bolivia Vs Brazil
+🕒 Start: 2025-09-10 02:30 (GMT+3)
+📍 Tournament: CONMEBOL World Cup Qualifying
+📺 Channels: SporTV BR, Sport 4 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/840.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/79.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Jamaica Vs Trinidad and Tobago
+🕒 Start: 2025-09-10 03:00 (GMT+3)
+📍 Tournament: CONCACAF World Cup Qualifying
+📺 Channels: YouTube, CBS Sports Golazo USA
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/110.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/107.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Curaçao Vs Bermuda
+🕒 Start: 2025-09-10 03:00 (GMT+3)
+📍 Tournament: CONCACAF World Cup Qualifying
+📺 Channels: YouTube
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1354.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1350.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Honduras Vs Nicaragua
+🕒 Start: 2025-09-10 05:00 (GMT+3)
+📍 Tournament: CONCACAF World Cup Qualifying
+📺 Channels: YouTube, NBC UNIVERSO USA
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/91.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1364.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Costa Rica Vs Haiti
+🕒 Start: 2025-09-10 05:00 (GMT+3)
+📍 Tournament: CONCACAF World Cup Qualifying
+📺 Channels: YouTube, CBS Sports Golazo USA
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/98.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/134.png
+⚽ Score: 0 | 0
 --------------------------------------------------
