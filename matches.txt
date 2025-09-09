@@ -103,7 +103,7 @@
 📺 Channels: FIFA+, ESPN Select, Arena Sport 1 Serbia, SD-8503290
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/895.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/121.png
-⚽ Score: 2 | 2
+⚽ Score: 2 | 3
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Cabo Verde Vs Cameroon
@@ -121,7 +121,7 @@
 📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/608.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/28539.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 34'
 --------------------------------------------------
 🏟️ Match: Ireland U21 Vs Andorra U21
@@ -180,7 +180,7 @@
 📺 Channels: Antena 1 Romania, Sky Sport 4 NZ, Arena Sport 2 Serbia, Nova Sports 3 Greece, beIN Sports MENA 5
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/305.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/109.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: Norway Vs Moldova
 🕒 Start: 2025-09-09 21:45 (GMT+3)
@@ -212,7 +212,7 @@
 📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/629.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1528.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: York City Vs Tamworth
 🕒 Start: 2025-09-09 21:45 (GMT+3)
