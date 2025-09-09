@@ -238,7 +238,7 @@
 📺 Channels: FIFA+, ESPN Select, SuperSport Variety 4, SD-8480765
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1385.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/894.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 7'
 --------------------------------------------------
 🏟️ Match: Gabon Vs Côte d'Ivoire
@@ -256,7 +256,7 @@
 📺 Channels: FIFA+, ESPN Select, SD-8503359
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/588.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1383.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 59'
 --------------------------------------------------
 🏟️ Match: Mauritania Vs South Sudan
