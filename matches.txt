@@ -139,7 +139,7 @@
 📺 Channels: German Football YouTube, DFB Play, Sat.1 DE, SD-8424498
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1867.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18725.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 18'
 --------------------------------------------------
 🏟️ Match: Wales Vs Canada
@@ -192,7 +192,7 @@
 📺 Channels: ŠTV 1 Slovenia, Fox Soccer Plus, TV2 Direkte Norway, Sport TV4 Portugal, Sky Sport Select NZ, Polsat Sport Premium 2 Poland, Nova Sports 4 Greece, ESPN4 Brazil, SuperSport Action, beIN Sports MENA 4, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/115.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/301.png
-⚽ Score: 0 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 4'
 --------------------------------------------------
 🏟️ Match: Albania Vs Latvia
