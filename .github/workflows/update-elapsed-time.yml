@@ -3,7 +3,7 @@ name: Update Elapsed Time
 on:
   schedule:
     # Run every 10 minutes during matches
-    - cron: "*/5 * * * *"
+    - cron: "*/3 * * * *"
   workflow_dispatch:
 
 concurrency:
