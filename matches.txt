@@ -239,7 +239,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1385.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/894.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: 7'
+⏳ Elapsed time: 30'
 --------------------------------------------------
 🏟️ Match: Gabon Vs Côte d'Ivoire
 🕒 Start: 2025-09-09 22:00 (GMT+3)
@@ -248,7 +248,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1016.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/41.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 90+1'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Gambia Vs Burundi
 🕒 Start: 2025-09-09 22:00 (GMT+3)
@@ -257,7 +257,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/588.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1383.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: 59'
+⏳ Elapsed time: 82'
 --------------------------------------------------
 🏟️ Match: Mauritania Vs South Sudan
 🕒 Start: 2025-09-09 22:00 (GMT+3)
@@ -266,7 +266,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2070.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5836.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 90+2'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Angola Vs Mauritius
 🕒 Start: 2025-09-09 22:00 (GMT+3)
@@ -275,7 +275,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/97.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/893.png
 ⚽ Score: 3 | 1
-⏳ Elapsed time: 90+3'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Ecuador Vs Argentina
 🕒 Start: 2025-09-10 02:00 (GMT+3)
