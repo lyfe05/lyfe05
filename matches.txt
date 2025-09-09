@@ -122,7 +122,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/608.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/28539.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 52'
 --------------------------------------------------
 🏟️ Match: Ireland U21 Vs Andorra U21
 🕒 Start: 2025-09-09 21:30 (GMT+3)
@@ -131,7 +131,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18710.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18717.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 18'
+⏳ Elapsed time: 38'
 --------------------------------------------------
 🏟️ Match: Germany U21 Vs Latvia U21
 🕒 Start: 2025-09-09 21:30 (GMT+3)
@@ -140,7 +140,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1867.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18725.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 18'
+⏳ Elapsed time: 38'
 --------------------------------------------------
 🏟️ Match: Wales Vs Canada
 🕒 Start: 2025-09-09 21:45 (GMT+3)
@@ -149,7 +149,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/312.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/132.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 2'
+⏳ Elapsed time: 22'
 --------------------------------------------------
 🏟️ Match: France Vs Iceland
 🕒 Start: 2025-09-09 21:45 (GMT+3)
@@ -158,6 +158,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/45.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/296.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 19'
 --------------------------------------------------
 🏟️ Match: Hungary Vs Portugal
 🕒 Start: 2025-09-09 21:45 (GMT+3)
@@ -166,7 +167,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/125.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/43.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 2'
+⏳ Elapsed time: 22'
 --------------------------------------------------
 🏟️ Match: Bosnia & Herzegovina Vs Austria
 🕒 Start: 2025-09-09 21:45 (GMT+3)
@@ -175,7 +176,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/297.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/117.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 3'
+⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: Cyprus Vs Romania
 🕒 Start: 2025-09-09 21:45 (GMT+3)
@@ -184,7 +185,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/305.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/109.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 3'
+⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: Norway Vs Moldova
 🕒 Start: 2025-09-09 21:45 (GMT+3)
@@ -193,7 +194,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/115.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/301.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: 4'
+⏳ Elapsed time: 24'
 --------------------------------------------------
 🏟️ Match: Albania Vs Latvia
 🕒 Start: 2025-09-09 21:45 (GMT+3)
@@ -202,7 +203,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/304.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/313.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 2'
+⏳ Elapsed time: 22'
 --------------------------------------------------
 🏟️ Match: Serbia Vs England
 🕒 Start: 2025-09-09 21:45 (GMT+3)
@@ -211,7 +212,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/88.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/61.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 2'
+⏳ Elapsed time: 22'
 --------------------------------------------------
 🏟️ Match: Mansfield Town Vs Harrogate Town
 🕒 Start: 2025-09-09 21:45 (GMT+3)
@@ -220,7 +221,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/629.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1528.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 5'
+⏳ Elapsed time: 25'
 --------------------------------------------------
 🏟️ Match: York City Vs Tamworth
 🕒 Start: 2025-09-09 21:45 (GMT+3)
@@ -229,7 +230,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/624.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1574.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 1'
+⏳ Elapsed time: 21'
 --------------------------------------------------
 🏟️ Match: Benin Vs Lesotho
 🕒 Start: 2025-09-09 22:00 (GMT+3)
@@ -246,6 +247,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1016.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/41.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 7'
 --------------------------------------------------
 🏟️ Match: Gambia Vs Burundi
 🕒 Start: 2025-09-09 22:00 (GMT+3)
@@ -254,6 +256,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/588.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1383.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 6'
 --------------------------------------------------
 🏟️ Match: Mauritania Vs South Sudan
 🕒 Start: 2025-09-09 22:00 (GMT+3)
@@ -262,6 +265,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2070.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5836.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 9'
 --------------------------------------------------
 🏟️ Match: Angola Vs Mauritius
 🕒 Start: 2025-09-09 22:00 (GMT+3)
@@ -270,6 +274,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/97.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/893.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 8'
 --------------------------------------------------
 🏟️ Match: Ecuador Vs Argentina
 🕒 Start: 2025-09-10 02:00 (GMT+3)
