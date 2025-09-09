@@ -121,7 +121,7 @@
 📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/608.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/28539.png
-⚽ Score: 1 | 1
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 52'
 --------------------------------------------------
 🏟️ Match: Ireland U21 Vs Andorra U21
@@ -139,7 +139,7 @@
 📺 Channels: German Football YouTube, DFB Play, Sat.1 DE, SD-8424498
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1867.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18725.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 38'
 --------------------------------------------------
 🏟️ Match: Wales Vs Canada
@@ -157,7 +157,7 @@
 📺 Channels: Amazon Prime Video, Fox Sports 2 USA, TF1 France, Sky Sport 2 NZ, DAZN2 DE, Sport TV3 Portugal, Polsat Sport 1 Poland, Prima Sport 3 Romania, TV2 Sport 1 Norway, Arena 3 Premium Serbia, Nova Sports 2 Greece, Diema Sport Bulgaria, Digi Sport 3 Romania, V Sport Premium, Sportv2 Brazil, SuperSport Football, SuperSport MaXimo 1, Sport Klub 4 Croatia, beIN Sports MENA 1, Sport 3 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/45.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/296.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 19'
 --------------------------------------------------
 🏟️ Match: Hungary Vs Portugal
@@ -166,7 +166,7 @@
 📺 Channels: Amazon Prime Video, M4 Sports Hungary, Sport TV1 Portugal, RTP 1 Portugal, Sky Sport 3 NZ, TVP Sport Poland, Ziggo Sport 3 NL, Polsat Sport 3 Poland, Prima Sport 1 Romania, Arena 4 Premium Serbia, Nova Sports 1 Greece, Digi Sport 2 Romania, Sportklub 3 Croatia, Diema Sport Bulgaria, SporTV BR, SuperSport Variety 3, beIN Sports MENA 3, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/125.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/43.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 22'
 --------------------------------------------------
 🏟️ Match: Bosnia & Herzegovina Vs Austria
@@ -184,7 +184,7 @@
 📺 Channels: Antena 1 Romania, Sky Sport 4 NZ, Arena Sport 2 Serbia, Nova Sports 3 Greece, beIN Sports MENA 5
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/305.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/109.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: Norway Vs Moldova
@@ -202,7 +202,7 @@
 📺 Channels: LTV7 Latvia, SuperSport 2 Digitalb, Sky Sport 5 NZ, Arena 5 Premium Serbia, beIN Sports MENA 7
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/304.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/313.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 22'
 --------------------------------------------------
 🏟️ Match: Serbia Vs England
@@ -211,7 +211,7 @@
 📺 Channels: ITV1, ITVX, STV, STV Player, ITV 1 UK, RTS 1 Serbia, Arena 1 Premium Serbia, Sky Sport 1 NZ, SRF zwei, DAZN1 DE, Sport TV2 Portugal, Polsat Sport 2 Poland, L'Equipe France, Prima Sport 2 Romania, Ziggo Sport 2 NL, Nova Sports Premier League Greece, TV2 Sport X Denmark, Diema Sport 3 Bulgaria, Diema Sport 2 Bulgaria, ESPN Argentina, Sportklub 2 Croatia, Digi Sport 4 Romania, ESPN Brazil, SuperSport Premier League, Supersport Grandstand, beIN Sports MENA 2, beIN Sports MENA English 1, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/88.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/61.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 22'
 --------------------------------------------------
 🏟️ Match: Mansfield Town Vs Harrogate Town
@@ -273,7 +273,7 @@
 📺 Channels: FIFA+, Sport TV5 Portugal, ESPN Select, SuperSport PSL, SD-8503358
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/97.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/893.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 8'
 --------------------------------------------------
 🏟️ Match: Ecuador Vs Argentina
