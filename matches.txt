@@ -90,7 +90,7 @@
 📺 Channels: FIFA+, ESPN Select, SD-8480763
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/106.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1017.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
 🏟️ Match: DR Congo Vs Senegal
 🕒 Start: 2025-09-09 19:00 (GMT+3)
