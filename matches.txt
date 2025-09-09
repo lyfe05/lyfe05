@@ -121,7 +121,7 @@
 📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/608.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/28539.png
-⚽ Score: 2 | 1
+⚽ Score: 2 | 2
 ⏳ Elapsed time: 82'
 --------------------------------------------------
 🏟️ Match: Ireland U21 Vs Andorra U21
@@ -139,7 +139,7 @@
 📺 Channels: German Football YouTube, DFB Play, Sat.1 DE, SD-8424498
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1867.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18725.png
-⚽ Score: 2 | 0
+⚽ Score: 4 | 0
 ⏳ Elapsed time: 52'
 --------------------------------------------------
 🏟️ Match: Wales Vs Canada
@@ -157,7 +157,7 @@
 📺 Channels: Amazon Prime Video, Fox Sports 2 USA, TF1 France, Sky Sport 2 NZ, DAZN2 DE, Sport TV3 Portugal, Polsat Sport 1 Poland, Prima Sport 3 Romania, TV2 Sport 1 Norway, Arena 3 Premium Serbia, Nova Sports 2 Greece, Diema Sport Bulgaria, Digi Sport 3 Romania, V Sport Premium, Sportv2 Brazil, SuperSport Football, SuperSport MaXimo 1, Sport Klub 4 Croatia, beIN Sports MENA 1, Sport 3 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/45.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/296.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Hungary Vs Portugal
