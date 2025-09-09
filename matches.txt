@@ -85,7 +85,7 @@
 📺 Channels: FIFA+, ESPN Select, Sport TV4 Portugal, ESPN 3 NL, Arena Sport 2 Serbia, ESPN Deportes, SuperSport Variety 4, SuperSport PSL, Sport Klub HD Croatia, Supersport Grandstand, Sport 4 Israel, SD-8480764
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/39.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/85.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 32'
 --------------------------------------------------
 🏟️ Match: Togo Vs Sudan
@@ -103,7 +103,7 @@
 📺 Channels: FIFA+, ESPN Select, Arena Sport 1 Serbia, SD-8503290
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/895.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/121.png
-⚽ Score: 0 | 0
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 33'
 --------------------------------------------------
 🏟️ Match: Cabo Verde Vs Cameroon
