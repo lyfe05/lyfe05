@@ -130,7 +130,7 @@
 📺 Channels: RTE 2, RTE Player, SD-8503320
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18710.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18717.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 61'
 --------------------------------------------------
 🏟️ Match: Germany U21 Vs Latvia U21
@@ -139,7 +139,7 @@
 📺 Channels: German Football YouTube, DFB Play, Sat.1 DE, SD-8424498
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1867.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18725.png
-⚽ Score: 4 | 0
+⚽ Score: 5 | 0
 ⏳ Elapsed time: 65'
 --------------------------------------------------
 🏟️ Match: Wales Vs Canada
@@ -175,7 +175,7 @@
 📺 Channels: BHT 1, ORF eins, Sky Sport 6 NZ, Sport TV6 Portugal, Polsat Sport Premium 1 Poland, Digi Sport 1 Romania, Prima Sport 4 Romania, Arena Sport 1 Serbia, Nova Sports 5 Greece, SuperSport Laliga, Sport Klub HD Croatia, beIN Sports MENA 6
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/297.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/117.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 48'
 --------------------------------------------------
 🏟️ Match: Cyprus Vs Romania
@@ -193,7 +193,7 @@
 📺 Channels: ŠTV 1 Slovenia, Fox Soccer Plus, TV2 Direkte Norway, Sport TV4 Portugal, Sky Sport Select NZ, Polsat Sport Premium 2 Poland, Nova Sports 4 Greece, ESPN4 Brazil, SuperSport Action, beIN Sports MENA 4, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/115.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/301.png
-⚽ Score: 5 | 0
+⚽ Score: 6 | 0
 ⏳ Elapsed time: 51'
 --------------------------------------------------
 🏟️ Match: Albania Vs Latvia
@@ -229,7 +229,7 @@
 📺 Channels: DAZN National League
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/624.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1574.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Benin Vs Lesotho
