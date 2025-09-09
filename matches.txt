@@ -67,7 +67,7 @@
 📺 Channels: Amazon Prime Video, RTE 2, RTE Player, RTE 2 Ireland, Sky Sport 2 NZ, DAZN2 DE, Sport TV2 Portugal, Polsat Sport 1 Poland, Sky Sport Arena IT, Ziggo Sport 2 NL, Prima Sport 3 Romania, Arena 1 Premium Serbia, Nova Sports 1 Greece, Digi Sport 2 Romania, Diema Sport Bulgaria, Sportklub 2 Croatia, ESPN4 Brazil, SuperSport Premier League, beIN Sports MENA 3, beIN Sports MENA English 1, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/315.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/122.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 59'
 --------------------------------------------------
 🏟️ Match: Burkina Faso Vs Egypt
@@ -103,7 +103,7 @@
 📺 Channels: FIFA+, ESPN Select, Arena Sport 1 Serbia, SD-8503290
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/895.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/121.png
-⚽ Score: 2 | 1
+⚽ Score: 2 | 2
 ⏳ Elapsed time: 57'
 --------------------------------------------------
 🏟️ Match: Cabo Verde Vs Cameroon
@@ -112,7 +112,7 @@
 📺 Channels: FIFA+, ESPN Select, Arena 4 Premium Serbia, Sport TV1 Portugal, SD-8480766
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/589.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/87.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 53'
 --------------------------------------------------
 🏟️ Match: Tranmere Rovers Vs Nottingham Forest U21
