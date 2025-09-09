@@ -13,7 +13,7 @@
 📺 Channels: FIFA+, ESPN Select, Sportklub 3 Croatia, SuperSport Variety 3, SD-8480761
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1370.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1369.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Zimbabwe Vs Rwanda
@@ -22,7 +22,7 @@
 📺 Channels: FIFA+, ESPN Select, Sportklub 2 Croatia, SuperSport PSL, SD-8503271
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/587.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1366.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Tanzania Vs Niger
@@ -40,7 +40,7 @@
 📺 Channels: FIFA+, ESPN Select, Sport Klub 4 Croatia, SuperSport Laliga, SD-8503272
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1372.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1374.png
-⚽ Score: 3 | 0
+⚽ Score: 4 | 0
 ⏳ Elapsed time: 45+4'
 --------------------------------------------------
 🏟️ Match: Namibia Vs São Tomé
