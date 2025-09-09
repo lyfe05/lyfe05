@@ -5,7 +5,6 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/126.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1351.png
 ⚽ Score: 1 | 2
-⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Panama Vs Guatemala
 🕒 Start: 2025-09-09 04:30 (GMT+3)
@@ -14,5 +13,4 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1022.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/593.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: Full time
 --------------------------------------------------
