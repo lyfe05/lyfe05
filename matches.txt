@@ -14,6 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1370.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1369.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 30'
 --------------------------------------------------
 🏟️ Match: Zimbabwe Vs Rwanda
 🕒 Start: 2025-09-09 16:00 (GMT+3)
@@ -22,6 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/587.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1366.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 32'
 --------------------------------------------------
 🏟️ Match: Tanzania Vs Niger
 🕒 Start: 2025-09-09 16:00 (GMT+3)
@@ -30,6 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/585.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1007.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 30'
 --------------------------------------------------
 🏟️ Match: Kenya Vs Seychelles
 🕒 Start: 2025-09-09 16:00 (GMT+3)
@@ -38,6 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1372.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1374.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 31'
 --------------------------------------------------
 🏟️ Match: Namibia Vs São Tomé
 🕒 Start: 2025-09-09 16:00 (GMT+3)
@@ -46,6 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1377.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1367.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 34'
 --------------------------------------------------
 🏟️ Match: Azerbaijan Vs Ukraine
 🕒 Start: 2025-09-09 19:00 (GMT+3)
