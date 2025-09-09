@@ -239,7 +239,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1385.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/894.png
 ⚽ Score: 3 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 50'
 --------------------------------------------------
 🏟️ Match: Gabon Vs Côte d'Ivoire
 🕒 Start: 2025-09-09 22:00 (GMT+3)
