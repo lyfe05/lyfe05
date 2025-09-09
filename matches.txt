@@ -239,7 +239,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1385.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/894.png
 ⚽ Score: 3 | 0
-⏳ Elapsed time: 30'
+⏳ Elapsed time: 44'
 --------------------------------------------------
 🏟️ Match: Gabon Vs Côte d'Ivoire
 🕒 Start: 2025-09-09 22:00 (GMT+3)
@@ -257,7 +257,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/588.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1383.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: 82'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Mauritania Vs South Sudan
 🕒 Start: 2025-09-09 22:00 (GMT+3)
