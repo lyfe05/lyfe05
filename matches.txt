@@ -67,7 +67,7 @@
 📺 Channels: YouTube, NBC UNIVERSO USA
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/91.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1364.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Costa Rica Vs Haiti
@@ -76,6 +76,6 @@
 📺 Channels: YouTube, CBS Sports Golazo USA
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/98.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/134.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: Half time
 --------------------------------------------------
