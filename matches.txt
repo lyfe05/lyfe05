@@ -31,7 +31,7 @@
 📺 Channels: Caracol TV Colombia, M+ #Vamos Spain, Movistar Liga de Campeones 3, Sport TV3 Portugal, Match Football 1 Russia, Eleven Sports 2 Poland, Arena 4 Premium Serbia, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/591.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/118.png
-⚽ Score: 2 | 1
+⚽ Score: 3 | 6
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Bolivia Vs Brazil
@@ -58,7 +58,7 @@
 📺 Channels: YouTube
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1354.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1350.png
-⚽ Score: 2 | 2
+⚽ Score: 3 | 2
 ⏳ Elapsed time: 87'
 --------------------------------------------------
 🏟️ Match: Honduras Vs Nicaragua
@@ -75,5 +75,5 @@
 📺 Channels: YouTube, CBS Sports Golazo USA
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/98.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/134.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
