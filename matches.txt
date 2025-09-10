@@ -5,7 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/101.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/55.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 45+11'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Chile Vs Uruguay
 🕒 Start: 2025-09-10 02:30 (GMT+3)
@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/35.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/56.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 25'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Peru Vs Paraguay
 🕒 Start: 2025-09-10 02:30 (GMT+3)
@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/127.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/47.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 26'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Venezuela Vs Colombia
 🕒 Start: 2025-09-10 02:30 (GMT+3)
@@ -32,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/591.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/118.png
 ⚽ Score: 2 | 1
-⏳ Elapsed time: 21'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Bolivia Vs Brazil
 🕒 Start: 2025-09-10 02:30 (GMT+3)
@@ -41,7 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/840.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/79.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 21'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Jamaica Vs Trinidad and Tobago
 🕒 Start: 2025-09-10 03:00 (GMT+3)
@@ -50,6 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/110.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/107.png
 ⚽ Score: 2 | 0
+⏳ Elapsed time: 88'
 --------------------------------------------------
 🏟️ Match: Curaçao Vs Bermuda
 🕒 Start: 2025-09-10 03:00 (GMT+3)
@@ -58,6 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1354.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1350.png
 ⚽ Score: 2 | 2
+⏳ Elapsed time: 87'
 --------------------------------------------------
 🏟️ Match: Honduras Vs Nicaragua
 🕒 Start: 2025-09-10 05:00 (GMT+3)
