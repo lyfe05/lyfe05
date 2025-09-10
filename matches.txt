@@ -4,7 +4,7 @@
 📺 Channels: Premier Sports 1, TyC Sports Argentina, Viaplay Sports 1 UK, Sport TV1 Portugal, Match TV Russia, Sportv2 Brazil, Premier Sports 1 Ireland, Arena 2 Premium Serbia, Arena Sport 1 Croatia, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/101.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/55.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 45+11'
 --------------------------------------------------
 🏟️ Match: Chile Vs Uruguay
@@ -22,7 +22,7 @@
 📺 Channels: Movistar Liga de Campeones 4 Spain, Eleven Sports 3 Poland, Arena 3 Premium Serbia, Match Football 2 Russia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/127.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/47.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 26'
 --------------------------------------------------
 🏟️ Match: Venezuela Vs Colombia
@@ -40,7 +40,7 @@
 📺 Channels: SporTV BR, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/840.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/79.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 21'
 --------------------------------------------------
 🏟️ Match: Jamaica Vs Trinidad and Tobago
@@ -49,7 +49,7 @@
 📺 Channels: YouTube, CBS Sports Golazo USA
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/110.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/107.png
-⚽ Score: 0 | 0
+⚽ Score: 2 | 0
 --------------------------------------------------
 🏟️ Match: Curaçao Vs Bermuda
 🕒 Start: 2025-09-10 03:00 (GMT+3)
@@ -57,7 +57,7 @@
 📺 Channels: YouTube
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1354.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1350.png
-⚽ Score: 0 | 0
+⚽ Score: 2 | 2
 --------------------------------------------------
 🏟️ Match: Honduras Vs Nicaragua
 🕒 Start: 2025-09-10 05:00 (GMT+3)
