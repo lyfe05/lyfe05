@@ -50,7 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/110.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/107.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: 88'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Curaçao Vs Bermuda
 🕒 Start: 2025-09-10 03:00 (GMT+3)
@@ -59,7 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1354.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1350.png
 ⚽ Score: 3 | 2
-⏳ Elapsed time: 87'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Honduras Vs Nicaragua
 🕒 Start: 2025-09-10 05:00 (GMT+3)
@@ -68,6 +68,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/91.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1364.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Costa Rica Vs Haiti
 🕒 Start: 2025-09-10 05:00 (GMT+3)
@@ -76,4 +77,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/98.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/134.png
 ⚽ Score: 1 | 0
+⏳ Elapsed time: Half time
 --------------------------------------------------
