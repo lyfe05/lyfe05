@@ -5,6 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/172.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/160.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 6'
 --------------------------------------------------
 🏟️ Match: Darmstadt 98 Vs Eintracht Braunschweig
 🕒 Start: 2025-09-13 14:00 (GMT+3)
@@ -13,6 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/789.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/291.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 7'
 --------------------------------------------------
 🏟️ Match: Schalke 04 Vs Holstein Kiel
 🕒 Start: 2025-09-13 14:00 (GMT+3)
@@ -21,6 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/144.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/339.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 7'
 --------------------------------------------------
 🏟️ Match: Arsenal Vs Nottingham Forest
 🕒 Start: 2025-09-13 14:30 (GMT+3)
