@@ -13,7 +13,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 5, ESPN Select, Eleven Sports 2 Poland, SD-8191837
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/789.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/291.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: Schalke 04 Vs Holstein Kiel
@@ -22,7 +22,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 3, ESPN Select, DAZN Eleven 3 Portugal, Eleven Sports 1 Poland, Digi Sport 3 Romania, Arena 2 Premium Serbia, Diema Sport 3 Bulgaria, Sport Klub 1 Croatia, Nova Sport 5 CZ, Sport 4 Israel, SD-8191839
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/144.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/339.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 7'
 --------------------------------------------------
 🏟️ Match: Arsenal Vs Nottingham Forest
