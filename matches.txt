@@ -85,7 +85,7 @@
 📺 Channels: Sky Sport Bundesliga 3, ESPN Select, beIN Sports MAX 7 France, Arena Sport 3 Serbia, Sportklub 4 Croatia, Canal+ Sport 1 Afrique, SD-8191821
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/159.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/31.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: Mainz 05 Vs RB Leipzig
@@ -94,7 +94,7 @@
 📺 Channels: Sky Sport Bundesliga 4, ESPN Select, See Denmark, beIN Sports MAX 6 France, SONY TEN 2 HD, Arena Sport 4 Serbia, SD-8191822
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/163.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/885.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: VfL Wolfsburg Vs Köln
@@ -121,7 +121,7 @@
 📺 Channels: Sky Sport Bundesliga 1, ESPN Select, Sky Sport Top Event DE, DAZN Eleven 4 Portugal, Eleven Sports 2 Poland, Sky Sport Arena IT, beIN Sports MAX 5 France, beIN Sports 3 Malaysia, Digi Sport 3 Romania, Prima Sport 4 Romania, Nova Sport 3 CZ, Arena 3 Premium Serbia, Nova Sports 3 Greece, ESPN2 Argentina, Diema Sport 3 Bulgaria, Sport 4 Israel, SD-8191827
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/283.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/155.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: AFC Bournemouth Vs Brighton & Hove Albion
@@ -178,7 +178,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/638.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/564.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: Stoke City Vs Birmingham City
 🕒 Start: 2025-09-13 17:00 (GMT+3)
