@@ -373,7 +373,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 2, ESPN Select, Sky Sport Top Event DE, RTL DE, Nova Sport 5 CZ, beIN Sports MAX 5 France, Prima Sport 4 Romania, Arena Sport 1 Serbia, Sport Klub 1 Croatia, Nova Sports Start Greece, Diema Sport 3 Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/153.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/168.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 61'
 --------------------------------------------------
 🏟️ Match: Fiorentina Vs Napoli
@@ -427,7 +427,7 @@
 📺 Channels: Ligue 1 Pass, TV5 Monde Europe, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 3 CZ, Sport TV3 Portugal, Arena 4 Premium Serbia, Arena Sport 2 Croatia, Nova Sport Bulgaria, 5 Live Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/253.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/259.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 45'
 --------------------------------------------------
 🏟️ Match: Famalicão Vs Sporting CP
@@ -436,6 +436,6 @@
 📺 Channels: TrillerTV+, Sport TV1 Portugal, GOLTV USA, Eleven Sports 3 Poland, beIN Sports MAX 6 France, Arena 5 Premium Serbia, Ring bg, Sport Klub 2 Croatia, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2342.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/140.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 18'
 --------------------------------------------------
