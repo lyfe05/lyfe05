@@ -103,7 +103,7 @@
 📺 Channels: Sky Sport Bundesliga 2, ESPN Select, Eleven Sports 3 Poland, SD-8191824
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/32.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/151.png
-⚽ Score: 2 | 1
+⚽ Score: 2 | 2
 ⏳ Elapsed time: 81'
 --------------------------------------------------
 🏟️ Match: Union Berlin Vs Hoffenheim
@@ -229,7 +229,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/617.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/582.png
-⚽ Score: 0 | 2
+⚽ Score: 1 | 3
 ⏳ Elapsed time: 77'
 --------------------------------------------------
 🏟️ Match: Real Sociedad Vs Real Madrid
@@ -238,7 +238,7 @@
 📺 Channels: M+ LALIGA TV, M+ LALIGA 2 TV, LaLiga TV UK, Nova Sport 4 CZ, TSN4, DAZN Eleven 1 Portugal, Eleven Sports 1 Poland, beIN Sports 2 France, Digi Sport 2 Romania, Prima Sport 2 Romania, Ziggo Sport 1 NL, beIN Sports Malaysia, ESPN Deportes, Match! Football 2 Russia, Arena 4 Premium Serbia, Nova Sports 1 Greece, Canal+ Sport 5 Afrique, TV2 Sport X Denmark, MAX Sport 4 Bulgaria, TV4 Sportkanalen, ESPN Argentina, SuperSport Laliga, SuperSport MaXimo 1
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/223.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26.png
-⚽ Score: 0 | 2
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 59'
 --------------------------------------------------
 🏟️ Match: Ajax Vs PEC Zwolle
@@ -256,7 +256,7 @@
 📺 Channels: TVI Portugal
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1186.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1189.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 48'
 --------------------------------------------------
 🏟️ Match: Estoril Vs AVS
@@ -283,7 +283,7 @@
 📺 Channels: TrillerTV+, Dubai Sports 1, Abu Dhabi Sports 1, SD-8509780, Alkass One, Alkass Two, beIN Sports HD 7, Thmanyah, KTV Sport Kuwait, BandSports Brasil, Jordan TV Sport, Fox Soccer Plus, Cosmote Sport 1 Greece, Movistar Liga de Campeones
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2452.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7900.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 11'
 --------------------------------------------------
 🏟️ Match: Al-Okhdood Vs Al-Taawoun
