@@ -365,7 +365,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2328.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5546.png
 ⚽ Score: 2 | 2
-⏳ Elapsed time: 62'
+⏳ Elapsed time: 76'
 --------------------------------------------------
 🏟️ Match: Hannover 96 Vs Hertha BSC
 🕒 Start: 2025-09-13 21:30 (GMT+3)
@@ -374,7 +374,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/153.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/168.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 48'
 --------------------------------------------------
 🏟️ Match: Fiorentina Vs Napoli
 🕒 Start: 2025-09-13 21:45 (GMT+3)
@@ -383,7 +383,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/15.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/191.png
 ⚽ Score: 0 | 2
-⏳ Elapsed time: 33'
+⏳ Elapsed time: 45+2'
 --------------------------------------------------
 🏟️ Match: Brentford Vs Chelsea
 🕒 Start: 2025-09-13 22:00 (GMT+3)
@@ -392,7 +392,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/671.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 22'
+⏳ Elapsed time: 36'
 --------------------------------------------------
 🏟️ Match: Atlético de Madrid Vs Villarreal
 🕒 Start: 2025-09-13 22:00 (GMT+3)
@@ -401,7 +401,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/226.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 21'
+⏳ Elapsed time: 36'
 --------------------------------------------------
 🏟️ Match: FC Twente Vs NAC Breda
 🕒 Start: 2025-09-13 22:00 (GMT+3)
@@ -410,7 +410,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/550.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1177.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 20'
+⏳ Elapsed time: 34'
 --------------------------------------------------
 🏟️ Match: Feyenoord Vs Heerenveen
 🕒 Start: 2025-09-13 22:00 (GMT+3)
@@ -419,7 +419,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/736.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/555.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 21'
+⏳ Elapsed time: 35'
 --------------------------------------------------
 🏟️ Match: Auxerre Vs Monaco
 🕒 Start: 2025-09-13 22:05 (GMT+3)
@@ -428,7 +428,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/253.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/259.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 17'
+⏳ Elapsed time: 31'
 --------------------------------------------------
 🏟️ Match: Famalicão Vs Sporting CP
 🕒 Start: 2025-09-13 22:30 (GMT+3)
@@ -437,4 +437,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2342.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/140.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 5'
 --------------------------------------------------
