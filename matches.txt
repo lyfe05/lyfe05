@@ -293,7 +293,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25673.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2330.png
 ⚽ Score: 2 | 3
-⏳ Elapsed time: 89'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Juventus Vs Inter
 🕒 Start: 2025-09-13 19:00 (GMT+3)
@@ -302,7 +302,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16.png
 ⚽ Score: 3 | 3
-⏳ Elapsed time: 77'
+⏳ Elapsed time: 90+1'
 --------------------------------------------------
 🏟️ Match: West Ham United Vs Tottenham Hotspur
 🕒 Start: 2025-09-13 19:30 (GMT+3)
@@ -320,7 +320,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1254.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 47'
+⏳ Elapsed time: 61'
 --------------------------------------------------
 🏟️ Match: Bayern Munich Vs Hamburg
 🕒 Start: 2025-09-13 19:30 (GMT+3)
@@ -329,7 +329,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/157.png
 ⚽ Score: 4 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 56'
 --------------------------------------------------
 🏟️ Match: Go Ahead Eagles Vs Volendam
 🕒 Start: 2025-09-13 19:45 (GMT+3)
@@ -356,7 +356,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/13.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/556.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 34'
+⏳ Elapsed time: 45+4'
 --------------------------------------------------
 🏟️ Match: Al-Hilal Vs Al-Qadsiah
 🕒 Start: 2025-09-13 21:00 (GMT+3)
