@@ -85,7 +85,7 @@
 📺 Channels: Sky Sport Bundesliga 3, ESPN Select, beIN Sports MAX 7 France, Arena Sport 3 Serbia, Sportklub 4 Croatia, Canal+ Sport 1 Afrique, SD-8191821
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/159.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/31.png
-⚽ Score: 1 | 1
+⚽ Score: 3 | 1
 ⏳ Elapsed time: 90+2'
 --------------------------------------------------
 🏟️ Match: Mainz 05 Vs RB Leipzig
@@ -112,7 +112,7 @@
 📺 Channels: Sky Sport Bundesliga 5, ESPN Select, Nova Sport 5 CZ, beIN Sports MAX 8 France, Sportklub 1 Croatia, SD-8191825
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/174.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/158.png
-⚽ Score: 2 | 3
+⚽ Score: 2 | 4
 ⏳ Elapsed time: 90+1'
 --------------------------------------------------
 🏟️ Match: Heidenheim Vs Borussia Dortmund
@@ -130,7 +130,7 @@
 📺 Channels: Not Televised, Hub Premier, Sky Sport 7 NZ, DAZN4 Spain, Canal+ Live 11 France, Canal+ Extra 5 Poland, Arena Sport 7 Serbia, Nova Sports 6 Greece, SuperSport Action
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/622.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/670.png
-⚽ Score: 1 | 1
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 61'
 --------------------------------------------------
 🏟️ Match: Crystal Palace Vs Sunderland
@@ -202,7 +202,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/276.png
-⚽ Score: 1 | 1
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 61'
 --------------------------------------------------
 🏟️ Match: Watford Vs Blackburn Rovers
