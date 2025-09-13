@@ -68,7 +68,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/216.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1239.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: 67'
+⏳ Elapsed time: 81'
 --------------------------------------------------
 🏟️ Match: Cagliari Vs Parma
 🕒 Start: 2025-09-13 16:00 (GMT+3)
@@ -77,7 +77,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/185.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/193.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 38'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: SC Freiburg Vs VfB Stuttgart
 🕒 Start: 2025-09-13 16:30 (GMT+3)
@@ -86,7 +86,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/159.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/31.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 9'
+⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: Mainz 05 Vs RB Leipzig
 🕒 Start: 2025-09-13 16:30 (GMT+3)
@@ -95,7 +95,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/163.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/885.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 9'
+⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: VfL Wolfsburg Vs Köln
 🕒 Start: 2025-09-13 16:30 (GMT+3)
@@ -104,7 +104,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/32.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/151.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 9'
+⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: Union Berlin Vs Hoffenheim
 🕒 Start: 2025-09-13 16:30 (GMT+3)
@@ -113,7 +113,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/174.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/158.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 9'
+⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: Heidenheim Vs Borussia Dortmund
 🕒 Start: 2025-09-13 16:30 (GMT+3)
@@ -122,7 +122,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/283.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/155.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 9'
+⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: AFC Bournemouth Vs Brighton & Hove Albion
 🕒 Start: 2025-09-13 17:00 (GMT+3)
