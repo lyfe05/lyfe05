@@ -76,7 +76,7 @@
 📺 Channels: DAZN, DAZN Zona IT, DAZN2 DE, Sport TV6 Portugal, Arena 5 Premium Serbia, Match! Football 1 Russia, FOX Deportes, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, TV4 Fotball, MAX Sport 3 Bulgaria, SuperSport Football
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/185.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/193.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: SC Freiburg Vs VfB Stuttgart
@@ -103,7 +103,7 @@
 📺 Channels: Sky Sport Bundesliga 2, ESPN Select, Eleven Sports 3 Poland, SD-8191824
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/32.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/151.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: Union Berlin Vs Hoffenheim
@@ -112,7 +112,7 @@
 📺 Channels: Sky Sport Bundesliga 5, ESPN Select, Nova Sport 5 CZ, beIN Sports MAX 8 France, Sportklub 1 Croatia, SD-8191825
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/174.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/158.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: Heidenheim Vs Borussia Dortmund
@@ -121,7 +121,7 @@
 📺 Channels: Sky Sport Bundesliga 1, ESPN Select, Sky Sport Top Event DE, DAZN Eleven 4 Portugal, Eleven Sports 2 Poland, Sky Sport Arena IT, beIN Sports MAX 5 France, beIN Sports 3 Malaysia, Digi Sport 3 Romania, Prima Sport 4 Romania, Nova Sport 3 CZ, Arena 3 Premium Serbia, Nova Sports 3 Greece, ESPN2 Argentina, Diema Sport 3 Bulgaria, Sport 4 Israel, SD-8191827
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/283.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/155.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: AFC Bournemouth Vs Brighton & Hove Albion
@@ -178,7 +178,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/638.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/564.png
-⚽ Score: 0 | 2
+⚽ Score: 0 | 3
 --------------------------------------------------
 🏟️ Match: Stoke City Vs Birmingham City
 🕒 Start: 2025-09-13 17:00 (GMT+3)
@@ -218,7 +218,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/617.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/582.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: Real Sociedad Vs Real Madrid
 🕒 Start: 2025-09-13 17:15 (GMT+3)
