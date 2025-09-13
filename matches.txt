@@ -85,7 +85,7 @@
 📺 Channels: Sky Sport Bundesliga 3, ESPN Select, beIN Sports MAX 7 France, Arena Sport 3 Serbia, Sportklub 4 Croatia, Canal+ Sport 1 Afrique, SD-8191821
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/159.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/31.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 67'
 --------------------------------------------------
 🏟️ Match: Mainz 05 Vs RB Leipzig
@@ -103,7 +103,7 @@
 📺 Channels: Sky Sport Bundesliga 2, ESPN Select, Eleven Sports 3 Poland, SD-8191824
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/32.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/151.png
-⚽ Score: 1 | 1
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 56'
 --------------------------------------------------
 🏟️ Match: Union Berlin Vs Hoffenheim
@@ -112,7 +112,7 @@
 📺 Channels: Sky Sport Bundesliga 5, ESPN Select, Nova Sport 5 CZ, beIN Sports MAX 8 France, Sportklub 1 Croatia, SD-8191825
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/174.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/158.png
-⚽ Score: 1 | 3
+⚽ Score: 2 | 3
 ⏳ Elapsed time: 66'
 --------------------------------------------------
 🏟️ Match: Heidenheim Vs Borussia Dortmund
@@ -130,7 +130,7 @@
 📺 Channels: Not Televised, Hub Premier, Sky Sport 7 NZ, DAZN4 Spain, Canal+ Live 11 France, Canal+ Extra 5 Poland, Arena Sport 7 Serbia, Nova Sports 6 Greece, SuperSport Action
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/622.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/670.png
-⚽ Score: 1 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Crystal Palace Vs Sunderland
@@ -211,7 +211,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/580.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/210.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: West Bromwich Albion Vs Derby County
@@ -238,7 +238,7 @@
 📺 Channels: M+ LALIGA TV, M+ LALIGA 2 TV, LaLiga TV UK, Nova Sport 4 CZ, TSN4, DAZN Eleven 1 Portugal, Eleven Sports 1 Poland, beIN Sports 2 France, Digi Sport 2 Romania, Prima Sport 2 Romania, Ziggo Sport 1 NL, beIN Sports Malaysia, ESPN Deportes, Match! Football 2 Russia, Arena 4 Premium Serbia, Nova Sports 1 Greece, Canal+ Sport 5 Afrique, TV2 Sport X Denmark, MAX Sport 4 Bulgaria, TV4 Sportkanalen, ESPN Argentina, SuperSport Laliga, SuperSport MaXimo 1
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/223.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 39'
 --------------------------------------------------
 🏟️ Match: Ajax Vs PEC Zwolle
@@ -247,7 +247,7 @@
 📺 Channels: TrillerTV+, ESPN 3 NL, Sportsnet World, Sportdigital FUSSBALL DE, Polsat Sport Premium 2 Poland, Arena Sport 9 Serbia, Ring bg, Sport Klub 3 Croatia, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/341.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1175.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 26'
 --------------------------------------------------
 🏟️ Match: Moreirense Vs Rio Ave
@@ -265,7 +265,7 @@
 📺 Channels: Sport TV1 Portugal, GOLTV USA
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1184.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/46135.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 25'
 --------------------------------------------------
 🏟️ Match: Nice Vs Nantes
