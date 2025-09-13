@@ -112,7 +112,7 @@
 📺 Channels: Sky Sport Bundesliga 5, ESPN Select, Nova Sport 5 CZ, beIN Sports MAX 8 France, Sportklub 1 Croatia, SD-8191825
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/174.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/158.png
-⚽ Score: 1 | 2
+⚽ Score: 1 | 3
 ⏳ Elapsed time: 53'
 --------------------------------------------------
 🏟️ Match: Heidenheim Vs Borussia Dortmund
@@ -202,7 +202,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/276.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 41'
 --------------------------------------------------
 🏟️ Match: Watford Vs Blackburn Rovers
@@ -229,7 +229,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/617.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/582.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 42'
 --------------------------------------------------
 🏟️ Match: Real Sociedad Vs Real Madrid
@@ -247,7 +247,7 @@
 📺 Channels: TrillerTV+, ESPN 3 NL, Sportsnet World, Sportdigital FUSSBALL DE, Polsat Sport Premium 2 Poland, Arena Sport 9 Serbia, Ring bg, Sport Klub 3 Croatia, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/341.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1175.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 12'
 --------------------------------------------------
 🏟️ Match: Moreirense Vs Rio Ave
@@ -265,7 +265,7 @@
 📺 Channels: Sport TV1 Portugal, GOLTV USA
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1184.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/46135.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 12'
 --------------------------------------------------
 🏟️ Match: Nice Vs Nantes
