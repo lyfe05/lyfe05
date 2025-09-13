@@ -167,7 +167,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7535.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/855.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 1'
+⏳ Elapsed time: 14'
 --------------------------------------------------
 🏟️ Match: CF Montréal Vs St. Louis City
 🕒 Start: 2025-09-14 02:30 (GMT+3)
@@ -176,7 +176,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1023.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/24187.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 1'
+⏳ Elapsed time: 14'
 --------------------------------------------------
 🏟️ Match: Charlotte Vs Inter Miami
 🕒 Start: 2025-09-14 02:30 (GMT+3)
@@ -185,7 +185,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/20546.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16911.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 1'
+⏳ Elapsed time: 14'
 --------------------------------------------------
 🏟️ Match: DC United Vs Orlando City
 🕒 Start: 2025-09-14 02:30 (GMT+3)
@@ -194,7 +194,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/845.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4513.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 1'
+⏳ Elapsed time: 13'
 --------------------------------------------------
 🏟️ Match: Cincinnati Vs Nashville
 🕒 Start: 2025-09-14 02:30 (GMT+3)
@@ -203,7 +203,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6580.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16912.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 1'
+⏳ Elapsed time: 14'
 --------------------------------------------------
 🏟️ Match: New England Revolution Vs Toronto
 🕒 Start: 2025-09-14 02:30 (GMT+3)
@@ -212,7 +212,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/854.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/844.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 1'
+⏳ Elapsed time: 14'
 --------------------------------------------------
 🏟️ Match: Chicago Fire Vs NYCFC
 🕒 Start: 2025-09-14 03:30 (GMT+3)
