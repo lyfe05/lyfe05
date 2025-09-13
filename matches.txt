@@ -130,7 +130,7 @@
 📺 Channels: Not Televised, Hub Premier, Sky Sport 7 NZ, DAZN4 Spain, Canal+ Live 11 France, Canal+ Extra 5 Poland, Arena Sport 7 Serbia, Nova Sports 6 Greece, SuperSport Action
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/622.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/670.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
 🏟️ Match: Crystal Palace Vs Sunderland
 🕒 Start: 2025-09-13 17:00 (GMT+3)
@@ -162,7 +162,7 @@
 📺 Channels: Not Televised, Hub Premier, Premier Sports 1 Ireland, DAZN2 Spain, DAZN Eleven 2 Portugal, Sky Sport Select NZ, Canal+ Live 7 France, Astro Premier League 2, Arena 1 Premium Serbia, Nova Sports 2 Greece, Arena Sport 3 Croatia, TV3 Max Denmark, V Sport Premium, ESPN Brazil, SuperSport Variety 3, beIN Sports MENA 7, Sport 3 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/207.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/203.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
 🏟️ Match: Coventry City Vs Norwich City
 🕒 Start: 2025-09-13 17:00 (GMT+3)
@@ -170,7 +170,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/566.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/575.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: Sheffield Wednesday Vs Bristol City
 🕒 Start: 2025-09-13 17:00 (GMT+3)
@@ -178,7 +178,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/638.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/564.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 --------------------------------------------------
 🏟️ Match: Stoke City Vs Birmingham City
 🕒 Start: 2025-09-13 17:00 (GMT+3)
@@ -186,7 +186,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/201.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/205.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
 🏟️ Match: Swansea City Vs Hull City
 🕒 Start: 2025-09-13 17:00 (GMT+3)
@@ -226,7 +226,7 @@
 📺 Channels: M+ LALIGA TV, M+ LALIGA 2 TV, LaLiga TV UK, Nova Sport 4 CZ, TSN4, DAZN Eleven 1 Portugal, Eleven Sports 1 Poland, beIN Sports 2 France, Digi Sport 2 Romania, Prima Sport 2 Romania, Ziggo Sport 1 NL, beIN Sports Malaysia, ESPN Deportes, Match! Football 2 Russia, Arena 4 Premium Serbia, Nova Sports 1 Greece, Canal+ Sport 5 Afrique, TV2 Sport X Denmark, MAX Sport 4 Bulgaria, TV4 Sportkanalen, ESPN Argentina, SuperSport Laliga, SuperSport MaXimo 1
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/223.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: Ajax Vs PEC Zwolle
 🕒 Start: 2025-09-13 17:30 (GMT+3)
