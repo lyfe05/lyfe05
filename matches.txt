@@ -301,7 +301,7 @@
 📺 Channels: DAZN, TNT Sports 1, Discovery+ Premium, TNT Sports 1 UK, DAZN Zona IT, DAZN2 DE, Sport TV6 Portugal, Eleven Sports 2 Poland, Ziggo Sport 2 NL, Astro Football, Digi Sport 1 Romania, Prima Sport 1 Romania, Match! Football 1 Russia, MATCH TV Russia, Arena 1 Premium Serbia, Arena Sport 4 Croatia, TV2 Sport Denmark, MAX Sport 3 Bulgaria, ESPN Brazil, ESPN2 Argentina, TV4 Fotboll, SuperSport Football
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16.png
-⚽ Score: 3 | 3
+⚽ Score: 4 | 3
 ⏳ Elapsed time: 90+1'
 --------------------------------------------------
 🏟️ Match: West Ham United Vs Tottenham Hotspur
@@ -310,7 +310,7 @@
 📺 Channels: Sky Sports Premier League, Sky Sports Main Event, Sky Sports Ultra HDR, NBC USA, NBCNY USA, NBC UNIVERSO USA, Hub Premier 1, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 8 NZ, Canal+ Extra 1 Poland, DAZN2 Spain, Sky Sport Premier League DE, DAZN Eleven 1 Portugal, Sky Sport Uno IT, Canal+ Sport 3 Afrique, Canal+ Foot France, Canal+ Live 6 France, Astro Premier League, Astro Grandstand, Arena 2 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, TV3+ Denmark, V Sport Premium, Diema Sport 2 Bulgaria, ESPN Argentina, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/198.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 47'
 --------------------------------------------------
 🏟️ Match: Athletic Bilbao Vs Alavés
@@ -319,7 +319,7 @@
 📺 Channels: Premier Sports 2, M+ LALIGA TV, LaLiga TV UK, Viaplay Sports 2 UK, Premier Sports 2 Ireland, DAZN Eleven 4 Portugal, Canal+ Sport Poland, beIN Sports MAX 4 France, Ziggo Sport 5 NL, Match! Football 2 Russia, Digi Sport 3 Romania, Prima Sport 3 Romania, Arena Sport 1 Serbia, Nova Sports 1 Greece, beIN Sports Malaysia, Arena Sport 3 Croatia, ESPN Deportes, MAX Sport 4 Bulgaria, TV4 Sport Live 1, SuperSport Laliga
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1254.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 61'
 --------------------------------------------------
 🏟️ Match: Bayern Munich Vs Hamburg
