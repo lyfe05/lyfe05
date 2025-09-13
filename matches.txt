@@ -364,7 +364,7 @@
 📺 Channels: TrillerTV+, Dubai Sports 1, Abu Dhabi Sports 1, SD-8509780, Alkass One, Alkass Two, beIN Sports HD 7, Thmanyah, KTV Sport Kuwait, BandSports Brasil, Jordan TV Sport, Fox Soccer Plus, Cosmote Sport 1 Greece, Movistar Liga de Campeones
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2328.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5546.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 49'
 --------------------------------------------------
 🏟️ Match: Hannover 96 Vs Hertha BSC
@@ -400,7 +400,7 @@
 📺 Channels: Disney+, M+ LALIGA TV, M+ LALIGA 2 TV, LaLiga TV UK, Nova Sport 4 CZ, DAZN Eleven 2 Portugal, Eleven Sports 2 Poland, beIN Sports 2 France, Ziggo Sport 2 NL, Match! Football 2 Russia, Digi Sport 3 Romania, Prima Sport 3 Romania, beIN Sports Malaysia, ESPN Deportes, Arena 3 Premium Serbia, Arena Sport 3 Croatia, TV4 Sport Live 1, MAX Sport 4 Bulgaria, SuperSport Laliga
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/226.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 8'
 --------------------------------------------------
 🏟️ Match: FC Twente Vs NAC Breda
