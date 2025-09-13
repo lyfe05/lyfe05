@@ -31,7 +31,7 @@
 📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium, TNT Sports 1 UK, Hub Premier 1, USA Network, NBC UNIVERSO USA, Sky Sport 8 NZ, DAZN2 Spain, Sky Sport Calcio IT, Canal+ Sport 3 Afrique, Astro Premier League, Astro Grandstand, Canal+ Extra 1 Poland, Sky Sport Premier League DE, DAZN Eleven 1 Portugal, Canal+ France, Canal+ Foot France, Canal+ Live 6 France, Arena 1 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, Diema Sport 2 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport Premier League, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/577.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 39'
 --------------------------------------------------
 🏟️ Match: Charlton Athletic Vs Millwall
@@ -40,7 +40,7 @@
 📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, beIN Sports MAX 9 France, Astro Football, Arena Sport 1 Serbia, Cosmote Sport 1 Greece, Arena Sport 3 Croatia, TV3 Max Denmark, Nova Sport Bulgaria, Sport 2 Israel, SD-8186563
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/597.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/574.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 39'
 --------------------------------------------------
 🏟️ Match: Oxford United Vs Leicester City
@@ -49,7 +49,7 @@
 📺 Channels: Sky Sports+, MLS Season Pass, SD-8186566
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/630.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/572.png
-⚽ Score: 0 | 0
+⚽ Score: 2 | 1
 --------------------------------------------------
 🏟️ Match: Preston North End Vs Middlesbrough
 🕒 Start: 2025-09-13 14:30 (GMT+3)
