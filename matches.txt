@@ -5,7 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/172.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/160.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 47'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Darmstadt 98 Vs Eintracht Braunschweig
 🕒 Start: 2025-09-13 14:00 (GMT+3)
@@ -32,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/577.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 66'
 --------------------------------------------------
 🏟️ Match: Charlton Athletic Vs Millwall
 🕒 Start: 2025-09-13 14:30 (GMT+3)
@@ -67,7 +67,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/216.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1239.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 27'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Cagliari Vs Parma
 🕒 Start: 2025-09-13 16:00 (GMT+3)
