@@ -175,7 +175,7 @@
 📺 Channels: Apple TV, MLS Season Pass
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1023.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/24187.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 1'
 --------------------------------------------------
 🏟️ Match: Charlotte Vs Inter Miami
