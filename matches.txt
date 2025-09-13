@@ -382,7 +382,7 @@
 📺 Channels: DAZN, Sky Sport 251 IT, CBS Sports Golazo USA, Sky Sport Calcio IT, DAZN2 DE, Eleven Sports 1 Poland, Ziggo Sport 1 NL, FOX Deportes, Match! Football 1 Russia, ESPN Mexico, Digi Sport 2 Romania, Prima Sport 2 Romania, MATCH TV Russia, Arena 2 Premium Serbia, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, TV2 Sport X Denmark, TV4 Fotboll, MAX Sport 3 Bulgaria, ESPN2 Argentina, SuperSport Football, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/15.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/191.png
-⚽ Score: 0 | 3
+⚽ Score: 1 | 3
 ⏳ Elapsed time: 80'
 --------------------------------------------------
 🏟️ Match: Brentford Vs Chelsea
@@ -409,7 +409,7 @@
 📺 Channels: ESPN 1 NL, ESPN Select
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/550.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1177.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 67'
 --------------------------------------------------
 🏟️ Match: Feyenoord Vs Heerenveen
