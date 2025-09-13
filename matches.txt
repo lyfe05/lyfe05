@@ -311,7 +311,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/198.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
 ⚽ Score: 0 | 3
-⏳ Elapsed time: 84'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Athletic Bilbao Vs Alavés
 🕒 Start: 2025-09-13 19:30 (GMT+3)
@@ -320,7 +320,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1254.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 84'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Bayern Munich Vs Hamburg
 🕒 Start: 2025-09-13 19:30 (GMT+3)
@@ -329,7 +329,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/157.png
 ⚽ Score: 5 | 0
-⏳ Elapsed time: 79'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Go Ahead Eagles Vs Volendam
 🕒 Start: 2025-09-13 19:45 (GMT+3)
@@ -338,7 +338,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1889.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2012.png
 ⚽ Score: 3 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 64'
 --------------------------------------------------
 🏟️ Match: NEC Nijmegen Vs PSV
 🕒 Start: 2025-09-13 19:45 (GMT+3)
@@ -347,7 +347,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/961.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/137.png
 ⚽ Score: 2 | 4
-⏳ Elapsed time: 64'
+⏳ Elapsed time: 88'
 --------------------------------------------------
 🏟️ Match: Porto Vs Nacional
 🕒 Start: 2025-09-13 20:00 (GMT+3)
@@ -356,7 +356,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/13.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/556.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 51'
+⏳ Elapsed time: 75'
 --------------------------------------------------
 🏟️ Match: Al-Hilal Vs Al-Qadsiah
 🕒 Start: 2025-09-13 21:00 (GMT+3)
@@ -365,7 +365,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2328.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5546.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 13'
+⏳ Elapsed time: 37'
 --------------------------------------------------
 🏟️ Match: Hannover 96 Vs Hertha BSC
 🕒 Start: 2025-09-13 21:30 (GMT+3)
@@ -374,6 +374,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/153.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/168.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 7'
 --------------------------------------------------
 🏟️ Match: Fiorentina Vs Napoli
 🕒 Start: 2025-09-13 21:45 (GMT+3)
