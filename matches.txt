@@ -293,7 +293,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25673.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2330.png
 ⚽ Score: 2 | 3
-⏳ Elapsed time: 75'
+⏳ Elapsed time: 89'
 --------------------------------------------------
 🏟️ Match: Juventus Vs Inter
 🕒 Start: 2025-09-13 19:00 (GMT+3)
@@ -302,7 +302,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16.png
 ⚽ Score: 2 | 2
-⏳ Elapsed time: 63'
+⏳ Elapsed time: 77'
 --------------------------------------------------
 🏟️ Match: West Ham United Vs Tottenham Hotspur
 🕒 Start: 2025-09-13 19:30 (GMT+3)
@@ -311,7 +311,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/198.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 47'
 --------------------------------------------------
 🏟️ Match: Athletic Bilbao Vs Alavés
 🕒 Start: 2025-09-13 19:30 (GMT+3)
@@ -320,7 +320,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1254.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 47'
 --------------------------------------------------
 🏟️ Match: Bayern Munich Vs Hamburg
 🕒 Start: 2025-09-13 19:30 (GMT+3)
@@ -338,7 +338,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1889.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2012.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: 7'
+⏳ Elapsed time: 22'
 --------------------------------------------------
 🏟️ Match: NEC Nijmegen Vs PSV
 🕒 Start: 2025-09-13 19:45 (GMT+3)
@@ -347,7 +347,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/961.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/137.png
 ⚽ Score: 1 | 3
-⏳ Elapsed time: 35'
+⏳ Elapsed time: 45+5'
 --------------------------------------------------
 🏟️ Match: Porto Vs Nacional
 🕒 Start: 2025-09-13 20:00 (GMT+3)
@@ -356,7 +356,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/13.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/556.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 20'
+⏳ Elapsed time: 34'
 --------------------------------------------------
 🏟️ Match: Al-Hilal Vs Al-Qadsiah
 🕒 Start: 2025-09-13 21:00 (GMT+3)
