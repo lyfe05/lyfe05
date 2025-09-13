@@ -5,4 +5,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/20926.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/12920.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 22'
 --------------------------------------------------
