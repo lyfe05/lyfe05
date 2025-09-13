@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/144.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/339.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 48'
+⏳ Elapsed time: 68'
 --------------------------------------------------
 🏟️ Match: Arsenal Vs Nottingham Forest
 🕒 Start: 2025-09-13 14:30 (GMT+3)
@@ -32,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/577.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 39'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Charlton Athletic Vs Millwall
 🕒 Start: 2025-09-13 14:30 (GMT+3)
@@ -41,7 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/597.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/574.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 39'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Oxford United Vs Leicester City
 🕒 Start: 2025-09-13 14:30 (GMT+3)
@@ -58,7 +58,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/578.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/573.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 39'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Getafe Vs Real Oviedo
 🕒 Start: 2025-09-13 15:00 (GMT+3)
@@ -67,7 +67,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/216.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1239.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 8'
+⏳ Elapsed time: 27'
 --------------------------------------------------
 🏟️ Match: Cagliari Vs Parma
 🕒 Start: 2025-09-13 16:00 (GMT+3)
