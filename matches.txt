@@ -103,7 +103,7 @@
 📺 Channels: Sky Sport Bundesliga 2, ESPN Select, Eleven Sports 3 Poland, SD-8191824
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/32.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/151.png
-⚽ Score: 2 | 2
+⚽ Score: 3 | 3
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Union Berlin Vs Hoffenheim
@@ -157,7 +157,7 @@
 📺 Channels: Not Televised, USA Network, Hub Premier, NBC UNIVERSO USA, Sky Sport 9 NZ, DAZN Eleven 3 Portugal, Canal+ Live 10 France, Arena Sport 1 Serbia, Canal+ Extra 6 Poland, Nova Sports Start Greece, Arena Sport 1 Croatia, Viaplay Sport News, Nova Sport Bulgaria, V Sport Football, ESPN2 Brazil, beIN Sports MENA 6
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/211.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/571.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 90+3'
 --------------------------------------------------
 🏟️ Match: Newcastle United Vs Wolverhampton Wanderers
@@ -175,7 +175,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/566.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/575.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Sheffield Wednesday Vs Bristol City
@@ -202,7 +202,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/276.png
-⚽ Score: 2 | 1
+⚽ Score: 2 | 2
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Watford Vs Blackburn Rovers
@@ -220,7 +220,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/196.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/568.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Wrexham Vs Queens Park Rangers
@@ -247,7 +247,7 @@
 📺 Channels: TrillerTV+, ESPN 3 NL, Sportsnet World, Sportdigital FUSSBALL DE, Polsat Sport Premium 2 Poland, Arena Sport 9 Serbia, Ring bg, Sport Klub 3 Croatia, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/341.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1175.png
-⚽ Score: 2 | 0
+⚽ Score: 3 | 1
 ⏳ Elapsed time: 84'
 --------------------------------------------------
 🏟️ Match: Moreirense Vs Rio Ave
@@ -256,7 +256,7 @@
 📺 Channels: TVI Portugal
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1186.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1189.png
-⚽ Score: 1 | 0
+⚽ Score: 3 | 1
 ⏳ Elapsed time: 84'
 --------------------------------------------------
 🏟️ Match: Estoril Vs AVS
@@ -265,7 +265,7 @@
 📺 Channels: Sport TV1 Portugal, GOLTV USA
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1184.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/46135.png
-⚽ Score: 2 | 0
+⚽ Score: 3 | 1
 ⏳ Elapsed time: 80'
 --------------------------------------------------
 🏟️ Match: Nice Vs Nantes
@@ -274,7 +274,7 @@
 📺 Channels: Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Sport TV3 Portugal, Nova Sport 6 CZ, Arena 5 Premium Serbia, Canal+ Sport 2 Afrique, Arena Sport 2 Croatia, Sport 5 Plus Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/262.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/708.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 53'
 --------------------------------------------------
 🏟️ Match: Al-Khaleej Vs Al-Fayha
@@ -292,7 +292,7 @@
 📺 Channels: TrillerTV+, Dubai Sports 1, Abu Dhabi Sports 1, SD-8509780, Alkass One, Alkass Two, beIN Sports HD 7, Thmanyah, KTV Sport Kuwait, BandSports Brasil, Jordan TV Sport, Fox Soccer Plus, Cosmote Sport 1 Greece, Movistar Liga de Campeones
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25673.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2330.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 28'
 --------------------------------------------------
 🏟️ Match: Juventus Vs Inter
@@ -301,7 +301,7 @@
 📺 Channels: DAZN, TNT Sports 1, Discovery+ Premium, TNT Sports 1 UK, DAZN Zona IT, DAZN2 DE, Sport TV6 Portugal, Eleven Sports 2 Poland, Ziggo Sport 2 NL, Astro Football, Digi Sport 1 Romania, Prima Sport 1 Romania, Match! Football 1 Russia, MATCH TV Russia, Arena 1 Premium Serbia, Arena Sport 4 Croatia, TV2 Sport Denmark, MAX Sport 3 Bulgaria, ESPN Brazil, ESPN2 Argentina, TV4 Fotboll, SuperSport Football
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 12'
 --------------------------------------------------
 🏟️ Match: West Ham United Vs Tottenham Hotspur
@@ -326,7 +326,7 @@
 📺 Channels: Sky Sports Football, Sky Sport Bundesliga 1, Sky Sport Top Event DE, Sky Sports Football UK, Nova Sport 3 CZ, See Denmark, DAZN Eleven 2 Portugal, Eleven Sports 1 Poland, beIN Sports 2 France, Sky Sport Calcio IT, beIN Sports 3 Malaysia, SONY TEN 2 HD, Digi Sport 2 Romania, Prima Sport 2 Romania, Arena 3 Premium Serbia, Canal+ Sport 1 Afrique, Nova Sports 3 Greece, Diema Sport 3 Bulgaria, Sport Klub 1 Croatia, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/157.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
 🏟️ Match: Go Ahead Eagles Vs Volendam
 🕒 Start: 2025-09-13 19:45 (GMT+3)
