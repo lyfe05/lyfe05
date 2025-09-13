@@ -140,7 +140,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/567.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/208.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 90'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Everton Vs Aston Villa
 🕒 Start: 2025-09-13 17:00 (GMT+3)
@@ -158,7 +158,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/211.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/571.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 90+3'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Newcastle United Vs Wolverhampton Wanderers
 🕒 Start: 2025-09-13 17:00 (GMT+3)
@@ -185,7 +185,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/638.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/564.png
 ⚽ Score: 0 | 3
-⏳ Elapsed time: 88'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Stoke City Vs Birmingham City
 🕒 Start: 2025-09-13 17:00 (GMT+3)
@@ -194,7 +194,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/201.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/205.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 89'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Swansea City Vs Hull City
 🕒 Start: 2025-09-13 17:00 (GMT+3)
@@ -239,7 +239,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/223.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26.png
 ⚽ Score: 1 | 2
-⏳ Elapsed time: 90+5'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Ajax Vs PEC Zwolle
 🕒 Start: 2025-09-13 17:30 (GMT+3)
@@ -248,7 +248,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/341.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1175.png
 ⚽ Score: 3 | 1
-⏳ Elapsed time: 84'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Moreirense Vs Rio Ave
 🕒 Start: 2025-09-13 17:30 (GMT+3)
@@ -257,7 +257,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1186.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1189.png
 ⚽ Score: 3 | 1
-⏳ Elapsed time: 84'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Estoril Vs AVS
 🕒 Start: 2025-09-13 17:30 (GMT+3)
@@ -266,7 +266,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1184.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/46135.png
 ⚽ Score: 3 | 1
-⏳ Elapsed time: 80'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Nice Vs Nantes
 🕒 Start: 2025-09-13 18:00 (GMT+3)
@@ -275,7 +275,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/262.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/708.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 53'
+⏳ Elapsed time: 87'
 --------------------------------------------------
 🏟️ Match: Al-Khaleej Vs Al-Fayha
 🕒 Start: 2025-09-13 18:25 (GMT+3)
@@ -284,7 +284,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2452.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7900.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 45+2'
+⏳ Elapsed time: 60'
 --------------------------------------------------
 🏟️ Match: Al-Okhdood Vs Al-Taawoun
 🕒 Start: 2025-09-13 18:45 (GMT+3)
@@ -293,7 +293,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25673.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2330.png
 ⚽ Score: 1 | 2
-⏳ Elapsed time: 28'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Juventus Vs Inter
 🕒 Start: 2025-09-13 19:00 (GMT+3)
@@ -302,7 +302,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16.png
 ⚽ Score: 2 | 1
-⏳ Elapsed time: 12'
+⏳ Elapsed time: 45'
 --------------------------------------------------
 🏟️ Match: West Ham United Vs Tottenham Hotspur
 🕒 Start: 2025-09-13 19:30 (GMT+3)
@@ -311,6 +311,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/198.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 16'
 --------------------------------------------------
 🏟️ Match: Athletic Bilbao Vs Alavés
 🕒 Start: 2025-09-13 19:30 (GMT+3)
@@ -319,6 +320,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1254.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 16'
 --------------------------------------------------
 🏟️ Match: Bayern Munich Vs Hamburg
 🕒 Start: 2025-09-13 19:30 (GMT+3)
@@ -327,6 +329,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/157.png
 ⚽ Score: 2 | 0
+⏳ Elapsed time: 16'
 --------------------------------------------------
 🏟️ Match: Go Ahead Eagles Vs Volendam
 🕒 Start: 2025-09-13 19:45 (GMT+3)
@@ -343,6 +346,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/961.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/137.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 0'
 --------------------------------------------------
 🏟️ Match: Porto Vs Nacional
 🕒 Start: 2025-09-13 20:00 (GMT+3)
