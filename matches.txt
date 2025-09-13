@@ -1,9 +1,384 @@
-🏟️ Match: San Diego Wave Vs Gotham FC
-🕒 Start: 2025-09-13 05:00 (GMT+3)
+🏟️ Match: Yokohama F Marinos Vs Kawasaki Frontale
+🕒 Start: 2025-09-13 13:00 (GMT+3)
+📍 Tournament: J1 League
+📺 Channels: YouTube
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1196.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1191.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Karlsruher SC Vs Nürnberg
+🕒 Start: 2025-09-13 14:00 (GMT+3)
+📍 Tournament: 2. Bundesliga
+📺 Channels: Bundesliga YouTube
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/172.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/160.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Darmstadt 98 Vs Eintracht Braunschweig
+🕒 Start: 2025-09-13 14:00 (GMT+3)
+📍 Tournament: 2. Bundesliga
+📺 Channels: Bundesliga YouTube
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/789.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/291.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Schalke 04 Vs Holstein Kiel
+🕒 Start: 2025-09-13 14:00 (GMT+3)
+📍 Tournament: 2. Bundesliga
+📺 Channels: Bundesliga YouTube
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/144.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/339.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Arsenal Vs Nottingham Forest
+🕒 Start: 2025-09-13 14:30 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium, Belarus 5
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/577.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Pickering Town Vs Runcorn Linnets
+🕒 Start: 2025-09-13 14:30 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: BBC iPlayer, BBC Sport Website, BBC Red Button
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/13922.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18457.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Barry Town United Vs Bala Town
+🕒 Start: 2025-09-13 14:30 (GMT+3)
+📍 Tournament: Cymru Premier
+📺 Channels: BBC iPlayer, S4C Online
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6992.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1877.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Charlton Athletic Vs Millwall
+🕒 Start: 2025-09-13 14:30 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/597.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/574.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Oxford United Vs Leicester City
+🕒 Start: 2025-09-13 14:30 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/630.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/572.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Preston North End Vs Middlesbrough
+🕒 Start: 2025-09-13 14:30 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/578.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/573.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Bradford City Vs Huddersfield Town
+🕒 Start: 2025-09-13 14:30 (GMT+3)
+📍 Tournament: EFL League One
+📺 Channels: Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/609.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/673.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Northampton Town Vs Blackpool
+🕒 Start: 2025-09-13 14:30 (GMT+3)
+📍 Tournament: EFL League One
+📺 Channels: Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/654.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/206.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Accrington Stanley Vs Colchester United
+🕒 Start: 2025-09-13 14:30 (GMT+3)
+📍 Tournament: EFL League Two
+📺 Channels: Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/618.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/605.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Crawley Town Vs Cheltenham Town
+🕒 Start: 2025-09-13 14:30 (GMT+3)
+📍 Tournament: EFL League Two
+📺 Channels: Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1190.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/626.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Yeovil Town Vs Woking
+🕒 Start: 2025-09-13 14:30 (GMT+3)
+📍 Tournament: National League
+📺 Channels: DAZN National League
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/652.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/648.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Getafe Vs Real Oviedo
+🕒 Start: 2025-09-13 15:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Premier Sports 1
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/216.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1239.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Cagliari Vs Parma
+🕒 Start: 2025-09-13 16:00 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/185.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/193.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Padova Vs Frosinone
+🕒 Start: 2025-09-13 16:00 (GMT+3)
+📍 Tournament: Serie BKT
+📺 Channels: Destination Calcio
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/20562.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/717.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Al Jazira Vs Al Nasr
+🕒 Start: 2025-09-13 16:40 (GMT+3)
+📍 Tournament: UAE Pro League
+📺 Channels: TrillerTV+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4451.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4472.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Crystal Palace Vs Sunderland
+🕒 Start: 2025-09-13 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Not Televised
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/567.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/208.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Everton Vs Aston Villa
+🕒 Start: 2025-09-13 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Not Televised
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/197.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/199.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Fulham Vs Leeds United
+🕒 Start: 2025-09-13 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Not Televised
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/211.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/571.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Newcastle United Vs Wolverhampton Wanderers
+🕒 Start: 2025-09-13 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Not Televised
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/207.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/203.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Real Sociedad Vs Real Madrid
+🕒 Start: 2025-09-13 17:15 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/223.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Alemannia Aachen Vs SSV Ulm
+🕒 Start: 2025-09-13 17:30 (GMT+3)
+📍 Tournament: 3. Liga
+📺 Channels: German Football YouTube, DFB Play
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/181.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1082.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Ajax Vs PEC Zwolle
+🕒 Start: 2025-09-13 17:30 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: TrillerTV+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/341.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1175.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Nice Vs Nantes
+🕒 Start: 2025-09-13 18:00 (GMT+3)
+📍 Tournament: Ligue 1
+📺 Channels: Ligue 1 Pass
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/262.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/708.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Juventus Vs Inter
+🕒 Start: 2025-09-13 19:00 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, TNT Sports 1, Discovery+ Premium
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Al Wasl Vs Al Ain
+🕒 Start: 2025-09-13 19:15 (GMT+3)
+📍 Tournament: UAE Pro League
+📺 Channels: TrillerTV+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4477.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3561.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: West Ham United Vs Tottenham Hotspur
+🕒 Start: 2025-09-13 19:30 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Sky Sports Premier League, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports MIX UK, ESPN Select, Sky Sports Premier League UK
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/198.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Athletic Bilbao Vs Alavés
+🕒 Start: 2025-09-13 19:30 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Premier Sports 2
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1254.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Bayern Munich Vs Hamburg
+🕒 Start: 2025-09-13 19:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Sky Sports Football
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/157.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: North Carolina Courage Vs Angel City FC
+🕒 Start: 2025-09-13 19:30 (GMT+3)
 📍 Tournament: NWSL
-📺 Channels: NWSL+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/20926.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/12920.png
-⚽ Score: 0 | 2
-⏳ Elapsed time: Full time
+📺 Channels: TNT Sports Extra, Discovery+ Premium
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/13047.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/20923.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Halifax Town Vs Eastleigh
+🕒 Start: 2025-09-13 19:30 (GMT+3)
+📍 Tournament: National League
+📺 Channels: DAZN National League
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1514.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/603.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Cove Rangers Vs Inverness Caledonian Thistle
+🕒 Start: 2025-09-13 19:30 (GMT+3)
+📍 Tournament: Scottish League One
+📺 Channels: BBC iPlayer, BBC Sport Website, BBC Alba
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2088.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1161.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Hibernian Vs Dundee Utd
+🕒 Start: 2025-09-13 19:45 (GMT+3)
+📍 Tournament: Scottish Premiership
+📺 Channels: Premier Sports 1
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/450.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/737.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: NEC Nijmegen Vs PSV
+🕒 Start: 2025-09-13 19:45 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: TrillerTV+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/961.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/137.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Sampdoria Vs Cesena
+🕒 Start: 2025-09-13 20:30 (GMT+3)
+📍 Tournament: Serie BKT
+📺 Channels: Destination Calcio
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/194.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/187.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Hannover 96 Vs Hertha BSC
+🕒 Start: 2025-09-13 21:30 (GMT+3)
+📍 Tournament: 2. Bundesliga
+📺 Channels: Bundesliga YouTube
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/153.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/168.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Fiorentina Vs Napoli
+🕒 Start: 2025-09-13 21:45 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/15.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/191.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Brentford Vs Chelsea
+🕒 Start: 2025-09-13 22:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/671.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Atlético de Madrid Vs Villarreal
+🕒 Start: 2025-09-13 22:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Disney+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/226.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Feyenoord Vs Heerenveen
+🕒 Start: 2025-09-13 22:00 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: Premier Sports 2, TrillerTV+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/736.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/555.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Auxerre Vs Monaco
+🕒 Start: 2025-09-13 22:05 (GMT+3)
+📍 Tournament: Ligue 1
+📺 Channels: Ligue 1 Pass, TV5 Monde Europe
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/253.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/259.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Famalicão Vs Sporting CP
+🕒 Start: 2025-09-13 22:30 (GMT+3)
+📍 Tournament: Liga Portugal
+📺 Channels: TrillerTV+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2342.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/140.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Orlando Pride Vs Bay FC
+🕒 Start: 2025-09-14 00:03 (GMT+3)
+📍 Tournament: NWSL
+📺 Channels: TNT Sports 2, Discovery+ Premium
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/12984.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/52894.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Palmeiras Vs Internacional
+🕒 Start: 2025-09-14 00:30 (GMT+3)
+📍 Tournament: Brasileirão Betano
+📺 Channels: Premier Player
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1693.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1799.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Estudiantes Vs River Plate
+🕒 Start: 2025-09-14 01:00 (GMT+3)
+📍 Tournament: Liga Profesional Argentina Clausura
+📺 Channels: Premier Sports 2
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1820.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1829.png
+⚽ Score: 0 | 0
 --------------------------------------------------
