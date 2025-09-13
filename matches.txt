@@ -283,7 +283,7 @@
 📺 Channels: TrillerTV+, Dubai Sports 1, Abu Dhabi Sports 1, SD-8509780, Alkass One, Alkass Two, beIN Sports HD 7, Thmanyah, KTV Sport Kuwait, BandSports Brasil, Jordan TV Sport, Fox Soccer Plus, Cosmote Sport 1 Greece, Movistar Liga de Campeones
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2452.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7900.png
-⚽ Score: 2 | 0
+⚽ Score: 3 | 0
 ⏳ Elapsed time: 60'
 --------------------------------------------------
 🏟️ Match: Al-Okhdood Vs Al-Taawoun
@@ -292,7 +292,7 @@
 📺 Channels: TrillerTV+, Dubai Sports 1, Abu Dhabi Sports 1, SD-8509780, Alkass One, Alkass Two, beIN Sports HD 7, Thmanyah, KTV Sport Kuwait, BandSports Brasil, Jordan TV Sport, Fox Soccer Plus, Cosmote Sport 1 Greece, Movistar Liga de Campeones
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25673.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2330.png
-⚽ Score: 1 | 2
+⚽ Score: 2 | 3
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Juventus Vs Inter
@@ -328,7 +328,7 @@
 📺 Channels: Sky Sports Football, Sky Sport Bundesliga 1, Sky Sport Top Event DE, Sky Sports Football UK, Nova Sport 3 CZ, See Denmark, DAZN Eleven 2 Portugal, Eleven Sports 1 Poland, beIN Sports 2 France, Sky Sport Calcio IT, beIN Sports 3 Malaysia, SONY TEN 2 HD, Digi Sport 2 Romania, Prima Sport 2 Romania, Arena 3 Premium Serbia, Canal+ Sport 1 Afrique, Nova Sports 3 Greece, Diema Sport 3 Bulgaria, Sport Klub 1 Croatia, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/157.png
-⚽ Score: 3 | 0
+⚽ Score: 4 | 0
 ⏳ Elapsed time: 16'
 --------------------------------------------------
 🏟️ Match: Go Ahead Eagles Vs Volendam
@@ -337,7 +337,7 @@
 📺 Channels: ESPN 1 NL, ESPN Select
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1889.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2012.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
 🏟️ Match: NEC Nijmegen Vs PSV
 🕒 Start: 2025-09-13 19:45 (GMT+3)
@@ -345,7 +345,7 @@
 📺 Channels: TrillerTV+, ESPN 2 NL, Sportsnet World, GOL PLAY ES, DAZN Eleven 3 Portugal, Polsat Sport Premium 4 Poland, ESPN2 Mexico, Arena Sport 5 Serbia, Nova Sports 2 Greece, Ring bg
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/961.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/137.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 0'
 --------------------------------------------------
 🏟️ Match: Porto Vs Nacional
