@@ -346,7 +346,7 @@
 📺 Channels: TrillerTV+, ESPN 2 NL, Sportsnet World, GOL PLAY ES, DAZN Eleven 3 Portugal, Polsat Sport Premium 4 Poland, ESPN2 Mexico, Arena Sport 5 Serbia, Nova Sports 2 Greece, Ring bg
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/961.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/137.png
-⚽ Score: 2 | 4
+⚽ Score: 3 | 5
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Porto Vs Nacional
@@ -382,7 +382,7 @@
 📺 Channels: DAZN, Sky Sport 251 IT, CBS Sports Golazo USA, Sky Sport Calcio IT, DAZN2 DE, Eleven Sports 1 Poland, Ziggo Sport 1 NL, FOX Deportes, Match! Football 1 Russia, ESPN Mexico, Digi Sport 2 Romania, Prima Sport 2 Romania, MATCH TV Russia, Arena 2 Premium Serbia, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, TV2 Sport X Denmark, TV4 Fotboll, MAX Sport 3 Bulgaria, ESPN2 Argentina, SuperSport Football, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/15.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/191.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 1'
 --------------------------------------------------
 🏟️ Match: Brentford Vs Chelsea
@@ -407,7 +407,7 @@
 📺 Channels: ESPN 1 NL, ESPN Select
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/550.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1177.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: Feyenoord Vs Heerenveen
 🕒 Start: 2025-09-13 22:00 (GMT+3)
