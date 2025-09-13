@@ -301,7 +301,7 @@
 📺 Channels: DAZN, TNT Sports 1, Discovery+ Premium, TNT Sports 1 UK, DAZN Zona IT, DAZN2 DE, Sport TV6 Portugal, Eleven Sports 2 Poland, Ziggo Sport 2 NL, Astro Football, Digi Sport 1 Romania, Prima Sport 1 Romania, Match! Football 1 Russia, MATCH TV Russia, Arena 1 Premium Serbia, Arena Sport 4 Croatia, TV2 Sport Denmark, MAX Sport 3 Bulgaria, ESPN Brazil, ESPN2 Argentina, TV4 Fotboll, SuperSport Football
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16.png
-⚽ Score: 2 | 2
+⚽ Score: 3 | 3
 ⏳ Elapsed time: 77'
 --------------------------------------------------
 🏟️ Match: West Ham United Vs Tottenham Hotspur
@@ -310,7 +310,7 @@
 📺 Channels: Sky Sports Premier League, Sky Sports Main Event, Sky Sports Ultra HDR, NBC USA, NBCNY USA, NBC UNIVERSO USA, Hub Premier 1, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 8 NZ, Canal+ Extra 1 Poland, DAZN2 Spain, Sky Sport Premier League DE, DAZN Eleven 1 Portugal, Sky Sport Uno IT, Canal+ Sport 3 Afrique, Canal+ Foot France, Canal+ Live 6 France, Astro Premier League, Astro Grandstand, Arena 2 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, TV3+ Denmark, V Sport Premium, Diema Sport 2 Bulgaria, ESPN Argentina, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/198.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 47'
 --------------------------------------------------
 🏟️ Match: Athletic Bilbao Vs Alavés
@@ -355,7 +355,7 @@
 📺 Channels: TrillerTV+, Sport TV2 Portugal, GOLTV USA, Sportdigital FUSSBALL DE, Eleven Sports 3 Poland, beIN Sports MAX 6 France, Ziggo Sport 3 NL, Arena 4 Premium Serbia, Sport Klub 3 Croatia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/13.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/556.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 34'
 --------------------------------------------------
 🏟️ Match: Al-Hilal Vs Al-Qadsiah
