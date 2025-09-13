@@ -373,7 +373,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 2, ESPN Select, Sky Sport Top Event DE, RTL DE, Nova Sport 5 CZ, beIN Sports MAX 5 France, Prima Sport 4 Romania, Arena Sport 1 Serbia, Sport Klub 1 Croatia, Nova Sports Start Greece, Diema Sport 3 Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/153.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/168.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 48'
 --------------------------------------------------
 🏟️ Match: Fiorentina Vs Napoli
@@ -391,7 +391,7 @@
 📺 Channels: Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR, Hub Premier 1, USA Network, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 8 NZ, DAZN1 Spain, Sky Sport Premier League DE, DAZN Eleven 1 Portugal, Canal+ Foot France, Canal+ Live 6 France, CANAL+ EXTRA 1 Poland, beIN Sports 3 Turkey, Canal+ Sport 3 Afrique, Sky Sport Arena IT, Astro Premier League, Astro Grandstand, Arena 1 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, TV3 Max Denmark, V Sport Premium, Diema Sport 2 Bulgaria, SuperSport Premier League, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/671.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 36'
 --------------------------------------------------
 🏟️ Match: Atlético de Madrid Vs Villarreal
@@ -418,7 +418,7 @@
 📺 Channels: Premier Sports 2, TrillerTV+, ESPN 2 NL, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Sportsnet World, Sportdigital FUSSBALL DE, DAZN Eleven 3 Portugal, Astro Football, Arena Sport 3 Serbia, Nova Sports 2 Greece
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/736.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/555.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 35'
 --------------------------------------------------
 🏟️ Match: Auxerre Vs Monaco
