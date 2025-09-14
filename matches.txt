@@ -139,7 +139,7 @@
 📺 Channels: ESPN 1 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2016.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2020.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 36'
 --------------------------------------------------
 🏟️ Match: PSG Vs Lens
@@ -148,7 +148,7 @@
 📺 Channels: beIN Sports 1 France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 5 CZ, Sport TV3 Portugal, Eleven Sports 4 Poland, Sky Sport Arena IT, Arena Sport 2 Serbia, Nova Sport Bulgaria, beIN Sports 4 Turkey, Canal+ Sport 2 Afrique, Sport 5 Live Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/263.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/256.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 7'
 --------------------------------------------------
 🏟️ Match: Metz Vs Angers
@@ -157,7 +157,7 @@
 📺 Channels: Ligue 1 Pass, DAZN France, Arena Sport 5 Serbia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/710.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/696.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 7'
 --------------------------------------------------
 🏟️ Match: Brest Vs Paris
@@ -166,7 +166,7 @@
 📺 Channels: Ligue 1 Pass, DAZN France, Nova Sport 6 CZ
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/254.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5170.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 7'
 --------------------------------------------------
 🏟️ Match: Strasbourg Vs Le Havre
