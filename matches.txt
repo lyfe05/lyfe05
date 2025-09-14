@@ -221,7 +221,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/183.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 35'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Rennes Vs Lyon
 🕒 Start: 2025-09-14 21:45 (GMT+3)
@@ -230,7 +230,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/264.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 39'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Barcelona Vs Valencia
 🕒 Start: 2025-09-14 22:00 (GMT+3)
@@ -239,5 +239,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/143.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 22'
+⏳ Elapsed time: 36'
 --------------------------------------------------
