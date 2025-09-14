@@ -5,7 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2025.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2019.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 62'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Roma Vs Torino
 🕒 Start: 2025-09-14 13:30 (GMT+3)
@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/145.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/722.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 60'
+⏳ Elapsed time: 90+6'
 --------------------------------------------------
 🏟️ Match: Southampton Vs Portsmouth
 🕒 Start: 2025-09-14 14:00 (GMT+3)
@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/615.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/277.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 45+5'
+⏳ Elapsed time: 63'
 --------------------------------------------------
 🏟️ Match: Elversberg Vs Dynamo Dresden
 🕒 Start: 2025-09-14 14:30 (GMT+3)
@@ -32,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/329.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/294.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 18'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Greuther Fürth Vs Kaiserslautern
 🕒 Start: 2025-09-14 14:30 (GMT+3)
@@ -41,7 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/165.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/161.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 7'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Preussen Münster Vs Fortuna Düsseldorf
 🕒 Start: 2025-09-14 14:30 (GMT+3)
@@ -50,7 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/336.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/180.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 20'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Celta de Vigo Vs Girona
 🕒 Start: 2025-09-14 15:00 (GMT+3)
@@ -59,6 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/680.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/685.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 25'
 --------------------------------------------------
 🏟️ Match: Utrecht Vs Groningen
 🕒 Start: 2025-09-14 15:30 (GMT+3)
