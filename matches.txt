@@ -139,7 +139,7 @@
 📺 Channels: ESPN 1 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2016.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2020.png
-⚽ Score: 1 | 2
+⚽ Score: 1 | 3
 ⏳ Elapsed time: 90'
 --------------------------------------------------
 🏟️ Match: PSG Vs Lens
