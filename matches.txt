@@ -131,7 +131,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/218.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/691.png
 ⚽ Score: 2 | 2
-⏳ Elapsed time: 90+1'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Telstar Vs Fortuna Sittard
 🕒 Start: 2025-09-14 17:45 (GMT+3)
@@ -140,7 +140,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2016.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2020.png
 ⚽ Score: 1 | 2
-⏳ Elapsed time: 70'
+⏳ Elapsed time: 90'
 --------------------------------------------------
 🏟️ Match: PSG Vs Lens
 🕒 Start: 2025-09-14 18:15 (GMT+3)
@@ -149,7 +149,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/263.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/256.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 57'
 --------------------------------------------------
 🏟️ Match: Metz Vs Angers
 🕒 Start: 2025-09-14 18:15 (GMT+3)
@@ -158,7 +158,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/710.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/696.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 57'
 --------------------------------------------------
 🏟️ Match: Brest Vs Paris
 🕒 Start: 2025-09-14 18:15 (GMT+3)
@@ -167,7 +167,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/254.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5170.png
 ⚽ Score: 1 | 2
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 58'
 --------------------------------------------------
 🏟️ Match: Strasbourg Vs Le Havre
 🕒 Start: 2025-09-14 18:15 (GMT+3)
@@ -176,7 +176,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/756.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/701.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 56'
 --------------------------------------------------
 🏟️ Match: Manchester City Vs Manchester United
 🕒 Start: 2025-09-14 18:30 (GMT+3)
@@ -185,7 +185,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/209.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/21.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 40'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Borussia Mönchengladbach Vs Werder Bremen
 🕒 Start: 2025-09-14 18:30 (GMT+3)
@@ -194,7 +194,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/154.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/150.png
 ⚽ Score: 0 | 2
-⏳ Elapsed time: 42'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Sassuolo Vs Lazio
 🕒 Start: 2025-09-14 19:00 (GMT+3)
@@ -203,7 +203,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/724.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/139.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 12'
+⏳ Elapsed time: 33'
 --------------------------------------------------
 🏟️ Match: Osasuna Vs Rayo Vallecano
 🕒 Start: 2025-09-14 19:30 (GMT+3)
@@ -212,6 +212,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/221.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/690.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 1'
 --------------------------------------------------
 🏟️ Match: Milan Vs Bologna
 🕒 Start: 2025-09-14 21:45 (GMT+3)
