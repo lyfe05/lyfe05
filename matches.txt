@@ -221,7 +221,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/183.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 90+6'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Rennes Vs Lyon
 🕒 Start: 2025-09-14 21:45 (GMT+3)
@@ -239,5 +239,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/143.png
 ⚽ Score: 6 | 0
-⏳ Elapsed time: 83'
+⏳ Elapsed time: Full time
 --------------------------------------------------
