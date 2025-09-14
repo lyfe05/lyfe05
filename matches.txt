@@ -256,7 +256,7 @@
 📺 Channels: Apple TV, MLS Season Pass
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/852.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/842.png
-⚽ Score: 1 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 65'
 --------------------------------------------------
 🏟️ Match: Real Salt Lake Vs Sporting KC
@@ -265,7 +265,7 @@
 📺 Channels: Apple TV, MLS Season Pass
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/857.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/856.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 70'
 --------------------------------------------------
 🏟️ Match: Vancouver Whitecaps Vs Philadelphia Union
@@ -274,7 +274,7 @@
 📺 Channels: Apple TV, TSN4
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/859.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/850.png
-⚽ Score: 4 | 0
+⚽ Score: 5 | 0
 ⏳ Elapsed time: 57'
 --------------------------------------------------
 🏟️ Match: Portland Timbers Vs New York RB
@@ -283,7 +283,7 @@
 📺 Channels: Apple TV, MLS Season Pass
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/843.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/847.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 26'
 --------------------------------------------------
 🏟️ Match: San Diego Vs Minnesota United
