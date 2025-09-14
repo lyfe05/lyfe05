@@ -59,7 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/680.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/685.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 90'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Utrecht Vs Groningen
 🕒 Start: 2025-09-14 15:30 (GMT+3)
@@ -68,7 +68,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/445.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1174.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 60'
+⏳ Elapsed time: 81'
 --------------------------------------------------
 🏟️ Match: Heracles Vs AZ
 🕒 Start: 2025-09-14 15:30 (GMT+3)
@@ -77,7 +77,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1176.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 60'
+⏳ Elapsed time: 82'
 --------------------------------------------------
 🏟️ Match: Burnley Vs Liverpool FC
 🕒 Start: 2025-09-14 16:00 (GMT+3)
@@ -86,7 +86,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/275.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 53'
 --------------------------------------------------
 🏟️ Match: Atalanta Vs Lecce
 🕒 Start: 2025-09-14 16:00 (GMT+3)
@@ -95,7 +95,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/248.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/190.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 55'
 --------------------------------------------------
 🏟️ Match: Pisa Vs Udinese
 🕒 Start: 2025-09-14 16:00 (GMT+3)
@@ -104,7 +104,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1209.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/195.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 54'
 --------------------------------------------------
 🏟️ Match: Lille Vs Toulouse
 🕒 Start: 2025-09-14 16:00 (GMT+3)
@@ -113,7 +113,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/257.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/267.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 55'
 --------------------------------------------------
 🏟️ Match: St. Pauli Vs Augsburg
 🕒 Start: 2025-09-14 16:30 (GMT+3)
@@ -122,7 +122,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/152.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/171.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 21'
+⏳ Elapsed time: 43'
 --------------------------------------------------
 🏟️ Match: Levante Vs Real Betis
 🕒 Start: 2025-09-14 17:15 (GMT+3)
