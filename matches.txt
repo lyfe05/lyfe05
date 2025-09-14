@@ -292,6 +292,6 @@
 📺 Channels: Apple TV, MLS Season Pass
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/56523.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7536.png
-⚽ Score: 0 | 2
+⚽ Score: 1 | 3
 ⏳ Elapsed time: Full time
 --------------------------------------------------
