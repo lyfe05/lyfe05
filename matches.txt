@@ -94,7 +94,7 @@
 📺 Channels: DAZN, DAZN Zona IT, CBS Sports Network USA, Sport TV5 Portugal, Eleven Sports 1 Poland, Ziggo Sport 2 NL, ESPN Mexico, Astro Football, Digi Sport 3 Romania, Prima Sport 3 Romania, Match! Football 1 Russia, Polsat Sport Premium 2 Poland, Arena 4 Premium Serbia, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, MAX Sport 3 Bulgaria, TV4 Fotball, SuperSport Football
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/248.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/190.png
-⚽ Score: 4 | 0
+⚽ Score: 4 | 1
 ⏳ Elapsed time: 85'
 --------------------------------------------------
 🏟️ Match: Pisa Vs Udinese
@@ -112,7 +112,7 @@
 📺 Channels: Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Sport TV3 Portugal, Arena Sport 2 Serbia, beIN Sports 4 Turkey, Nova Sport Bulgaria, Nova Sport 5 CZ, Canal+ Sport 2 Afrique, 5 Live Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/257.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/267.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 85'
 --------------------------------------------------
 🏟️ Match: St. Pauli Vs Augsburg
@@ -139,7 +139,7 @@
 📺 Channels: ESPN 1 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2016.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2020.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: PSG Vs Lens
 🕒 Start: 2025-09-14 18:15 (GMT+3)
