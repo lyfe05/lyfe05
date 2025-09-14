@@ -257,7 +257,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/852.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/842.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 65'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Real Salt Lake Vs Sporting KC
 🕒 Start: 2025-09-14 04:30 (GMT+3)
@@ -266,7 +266,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/857.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/856.png
 ⚽ Score: 2 | 1
-⏳ Elapsed time: 70'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Vancouver Whitecaps Vs Philadelphia Union
 🕒 Start: 2025-09-14 04:35 (GMT+3)
@@ -275,7 +275,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/859.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/850.png
 ⚽ Score: 5 | 0
-⏳ Elapsed time: 57'
+⏳ Elapsed time: 90+2'
 --------------------------------------------------
 🏟️ Match: Portland Timbers Vs New York RB
 🕒 Start: 2025-09-14 05:30 (GMT+3)
@@ -284,7 +284,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/843.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/847.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 26'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: San Diego Vs Minnesota United
 🕒 Start: 2025-09-14 05:30 (GMT+3)
@@ -293,5 +293,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/56523.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7536.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 26'
+⏳ Elapsed time: Half time
 --------------------------------------------------
