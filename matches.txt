@@ -184,7 +184,7 @@
 📺 Channels: Sky Sports+, Sky Showcase, Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR, SD-8380135, Sky Showcase UK, Hub Premier 1, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 8 NZ, DAZN 2 ES, Movistar Liga de Campeones ES, Sky Sport Premier League DE, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Sky Sport Uno IT, Canal+ France, Canal+ Foot France, Canal+ Extra 1 Poland, Astro Premier League, Astro Grandstand, Arena 2 Premium Serbia, Arena Sport 1 Croatia, Nova Sports Premier League Greece, See Denmark, V Sport Premium, Diema Sport 2 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport Premier League, beIN Sports 3 Turkey, beIN Sports MENA English 1, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/209.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/21.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 56'
 --------------------------------------------------
 🏟️ Match: Borussia Mönchengladbach Vs Werder Bremen
@@ -211,7 +211,7 @@
 📺 Channels: Premier Sports 1, M+ LALIGA TV, LaLiga TV UK, Viaplay Sports 1 UK, Premier Sports 1 Ireland, DAZN Eleven 2 Portugal, Eleven Sports 3 Poland, beIN Sports MAX 7 France, Match! Football 2 Russia, Ziggo Sport 1 NL, beIN Sports Malaysia, Digi Sport 2 Romania, Prima Sport 2 Romania, ESPN Deportes, Arena 3 Premium Serbia, Nova Sport 4 CZ, Nova Sports 1 Greece, Arena Sport 3 Croatia, MAX Sport 4 Bulgaria, TV4 Sportkanalen, ESPN3 Argentina, SuperSport Laliga
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/221.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/690.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 15'
 --------------------------------------------------
 🏟️ Match: Milan Vs Bologna
