@@ -220,7 +220,7 @@
 📺 Channels: TNT Sports 1, DAZN, Discovery+ Premium, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/183.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 68'
 --------------------------------------------------
 🏟️ Match: Rennes Vs Lyon
@@ -238,6 +238,6 @@
 📺 Channels: Premier Sports 1, M+ LALIGA TV, M+ LALIGA 2 TV, ESPN USA, LaLiga TV UK, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Nova SPORT 4 CZ, DAZN1 DE, DAZN Eleven 1 Portugal, Canal+ Sport Poland, beIN Sports 1 France, Digi Sport 2 Romania, Prima Sport 2 Romania, Ziggo Sport 1 NL, ESPN Deportes, Match TV Russia, Match! Football 2 Russia, Arena 3 Premium Serbia, Nova Sports 1 Greece, Arena Sport 3 Croatia, beIN Sports Malaysia, TV2 Sport X Denmark, TV4 Fotball, ESPN Brazil, Canal+ Sport 4 Afrique, MAX Sport 4 Bulgaria, SuperSport Laliga, SuperSport MaXimo 1
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/143.png
-⚽ Score: 1 | 0
+⚽ Score: 3 | 0
 ⏳ Elapsed time: 55'
 --------------------------------------------------
