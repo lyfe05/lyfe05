@@ -256,7 +256,7 @@
 📺 Channels: Apple TV, MLS Season Pass
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/852.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/842.png
-⚽ Score: 1 | 1
+⚽ Score: 2 | 1
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Real Salt Lake Vs Sporting KC
@@ -274,7 +274,7 @@
 📺 Channels: Apple TV, TSN4
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/859.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/850.png
-⚽ Score: 5 | 0
+⚽ Score: 7 | 0
 ⏳ Elapsed time: 90+2'
 --------------------------------------------------
 🏟️ Match: Portland Timbers Vs New York RB
