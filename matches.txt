@@ -5,7 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2025.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2019.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 48'
 --------------------------------------------------
 🏟️ Match: Roma Vs Torino
 🕒 Start: 2025-09-14 13:30 (GMT+3)
@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/145.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/722.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 38'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Southampton Vs Portsmouth
 🕒 Start: 2025-09-14 14:00 (GMT+3)
@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/615.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/277.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 9'
+⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: Elversberg Vs Dynamo Dresden
 🕒 Start: 2025-09-14 14:30 (GMT+3)
