@@ -202,7 +202,7 @@
 📺 Channels: DAZN, Sky Sport 251 IT, Paramount+, Sky Sport Calcio IT, CBS Sports Golazo USA, Sport TV2 Portugal, Eleven Sports 1 Poland, Digi Sport 3 Romania, Prima Sport 3 Romania, Ziggo Sport 2 NL, Match! Football 1 Russia, FOX Deportes, Arena Sport 4 Serbia, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, TV4 Fotball, MAX Sport 3 Bulgaria, SuperSport Football, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/724.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/139.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 75'
 --------------------------------------------------
 🏟️ Match: Osasuna Vs Rayo Vallecano
