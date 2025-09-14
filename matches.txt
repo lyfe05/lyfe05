@@ -94,7 +94,7 @@
 📺 Channels: DAZN, DAZN Zona IT, CBS Sports Network USA, Sport TV5 Portugal, Eleven Sports 1 Poland, Ziggo Sport 2 NL, ESPN Mexico, Astro Football, Digi Sport 3 Romania, Prima Sport 3 Romania, Match! Football 1 Russia, Polsat Sport Premium 2 Poland, Arena 4 Premium Serbia, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, MAX Sport 3 Bulgaria, TV4 Fotball, SuperSport Football
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/248.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/190.png
-⚽ Score: 2 | 0
+⚽ Score: 4 | 0
 ⏳ Elapsed time: 72'
 --------------------------------------------------
 🏟️ Match: Pisa Vs Udinese
@@ -130,7 +130,7 @@
 📺 Channels: Premier Sports 1, M+ LALIGA TV, M+ LALIGA 2 TV, LaLiga TV UK, Viaplay Sports 1 UK, Premier Sports 1 Ireland, DAZN Eleven 2 Portugal, Canal+ Sport Poland, Ziggo Sport 1 NL, beIN Sports MAX 7 France, ESPN Deportes, Match! Football 2 Russia, beIN Sports Malaysia, Prima Sport 4 Romania, Arena 5 Premium Serbia, Nova Sports 1 Greece, Nova Sport 4 CZ, Arena Sport 3 Croatia, TV4 Sport Live 1, MAX Sport 4 Bulgaria, SuperSport Laliga, beIN Sports MENA 5
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/218.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/691.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 14'
 --------------------------------------------------
 🏟️ Match: Telstar Vs Fortuna Sittard
