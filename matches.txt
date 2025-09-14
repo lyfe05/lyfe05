@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/145.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/722.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 47'
+⏳ Elapsed time: 60'
 --------------------------------------------------
 🏟️ Match: Southampton Vs Portsmouth
 🕒 Start: 2025-09-14 14:00 (GMT+3)
@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/615.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/277.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 37'
+⏳ Elapsed time: 45+5'
 --------------------------------------------------
 🏟️ Match: Elversberg Vs Dynamo Dresden
 🕒 Start: 2025-09-14 14:30 (GMT+3)
@@ -32,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/329.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/294.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 4'
+⏳ Elapsed time: 18'
 --------------------------------------------------
 🏟️ Match: Greuther Fürth Vs Kaiserslautern
 🕒 Start: 2025-09-14 14:30 (GMT+3)
@@ -50,7 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/336.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/180.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 6'
+⏳ Elapsed time: 20'
 --------------------------------------------------
 🏟️ Match: Celta de Vigo Vs Girona
 🕒 Start: 2025-09-14 15:00 (GMT+3)
