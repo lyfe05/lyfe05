@@ -67,7 +67,7 @@
 📺 Channels: ESPN 2 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/445.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1174.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 81'
 --------------------------------------------------
 🏟️ Match: Heracles Vs AZ
@@ -76,7 +76,7 @@
 📺 Channels: TrillerTV+, Premier Player, ESPN 1 NL, Sportdigital FUSSBALL DE, Arena Sport 9 Serbia, Nova Sports 5 Greece
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1176.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4.png
-⚽ Score: 1 | 1
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 82'
 --------------------------------------------------
 🏟️ Match: Burnley Vs Liverpool FC
@@ -94,7 +94,7 @@
 📺 Channels: DAZN, DAZN Zona IT, CBS Sports Network USA, Sport TV5 Portugal, Eleven Sports 1 Poland, Ziggo Sport 2 NL, ESPN Mexico, Astro Football, Digi Sport 3 Romania, Prima Sport 3 Romania, Match! Football 1 Russia, Polsat Sport Premium 2 Poland, Arena 4 Premium Serbia, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, MAX Sport 3 Bulgaria, TV4 Fotball, SuperSport Football
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/248.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/190.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 55'
 --------------------------------------------------
 🏟️ Match: Pisa Vs Udinese
@@ -112,7 +112,7 @@
 📺 Channels: Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Sport TV3 Portugal, Arena Sport 2 Serbia, beIN Sports 4 Turkey, Nova Sport Bulgaria, Nova Sport 5 CZ, Canal+ Sport 2 Afrique, 5 Live Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/257.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/267.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 55'
 --------------------------------------------------
 🏟️ Match: St. Pauli Vs Augsburg
@@ -121,7 +121,7 @@
 📺 Channels: Amazon Prime Video, DAZN2 DE, ESPN Select, DAZN Eleven 3 Portugal, Eleven Sports 3 Poland, beIN Sports MAX 4 France, beIN Sports 3 Malaysia, Arena Sport 1 Serbia, Nova Sports 2 Greece, Nova Sports Prime Greece, TV3 Sport Denmark, Nova Sport 3 CZ, Polsat Sport Premium 1 Poland, Sportklub 2 Croatia, V Sport Football, Diema Sport 3 Bulgaria, ESPN2 Argentina, Sport 3 Israel, SD-8191826
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/152.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/171.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 43'
 --------------------------------------------------
 🏟️ Match: Levante Vs Real Betis
@@ -130,7 +130,7 @@
 📺 Channels: Premier Sports 1, M+ LALIGA TV, M+ LALIGA 2 TV, LaLiga TV UK, Viaplay Sports 1 UK, Premier Sports 1 Ireland, DAZN Eleven 2 Portugal, Canal+ Sport Poland, Ziggo Sport 1 NL, beIN Sports MAX 7 France, ESPN Deportes, Match! Football 2 Russia, beIN Sports Malaysia, Prima Sport 4 Romania, Arena 5 Premium Serbia, Nova Sports 1 Greece, Nova Sport 4 CZ, Arena Sport 3 Croatia, TV4 Sport Live 1, MAX Sport 4 Bulgaria, SuperSport Laliga, beIN Sports MENA 5
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/218.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/691.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
 🏟️ Match: Telstar Vs Fortuna Sittard
 🕒 Start: 2025-09-14 17:45 (GMT+3)
