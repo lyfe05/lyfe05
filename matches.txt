@@ -85,7 +85,7 @@
 📺 Channels: Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR, Hub Premier 1, USA Network, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 8 NZ, DAZN2 Spain, Sky Sport Premier League DE, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Canal+ Foot France, Sky Sport Calcio IT, Telemundo, Astro Premier League 2, Canal+ Extra 1 Poland, Arena 1 Premium Serbia, beIN Sports 3 Turkey, Arena Sport 1 Croatia, Nova Sports Premier League Greece, See Denmark, Diema Sport 2 Bulgaria, ESPN Brazil, ESPN Argentina, Canal+ Sport 3 Afrique, beIN Sports MENA English 1, SuperSport Premier League, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/275.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 90+6'
 --------------------------------------------------
 🏟️ Match: Atalanta Vs Lecce
@@ -112,7 +112,7 @@
 📺 Channels: Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Sport TV3 Portugal, Arena Sport 2 Serbia, beIN Sports 4 Turkey, Nova Sport Bulgaria, Nova Sport 5 CZ, Canal+ Sport 2 Afrique, 5 Live Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/257.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/267.png
-⚽ Score: 1 | 1
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 90+8'
 --------------------------------------------------
 🏟️ Match: St. Pauli Vs Augsburg
