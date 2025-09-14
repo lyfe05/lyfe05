@@ -94,7 +94,7 @@
 📺 Channels: DAZN, DAZN Zona IT, CBS Sports Network USA, Sport TV5 Portugal, Eleven Sports 1 Poland, Ziggo Sport 2 NL, ESPN Mexico, Astro Football, Digi Sport 3 Romania, Prima Sport 3 Romania, Match! Football 1 Russia, Polsat Sport Premium 2 Poland, Arena 4 Premium Serbia, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, MAX Sport 3 Bulgaria, TV4 Fotball, SuperSport Football
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/248.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/190.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 37'
 --------------------------------------------------
 🏟️ Match: Pisa Vs Udinese
@@ -121,7 +121,7 @@
 📺 Channels: Amazon Prime Video, DAZN2 DE, ESPN Select, DAZN Eleven 3 Portugal, Eleven Sports 3 Poland, beIN Sports MAX 4 France, beIN Sports 3 Malaysia, Arena Sport 1 Serbia, Nova Sports 2 Greece, Nova Sports Prime Greece, TV3 Sport Denmark, Nova Sport 3 CZ, Polsat Sport Premium 1 Poland, Sportklub 2 Croatia, V Sport Football, Diema Sport 3 Bulgaria, ESPN2 Argentina, Sport 3 Israel, SD-8191826
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/152.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/171.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 8'
 --------------------------------------------------
 🏟️ Match: Levante Vs Real Betis
