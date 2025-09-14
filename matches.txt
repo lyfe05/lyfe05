@@ -5,7 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2025.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2019.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 48'
+⏳ Elapsed time: 62'
 --------------------------------------------------
 🏟️ Match: Roma Vs Torino
 🕒 Start: 2025-09-14 13:30 (GMT+3)
@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/145.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/722.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 47'
 --------------------------------------------------
 🏟️ Match: Southampton Vs Portsmouth
 🕒 Start: 2025-09-14 14:00 (GMT+3)
@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/615.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/277.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 23'
+⏳ Elapsed time: 37'
 --------------------------------------------------
 🏟️ Match: Elversberg Vs Dynamo Dresden
 🕒 Start: 2025-09-14 14:30 (GMT+3)
@@ -32,6 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/329.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/294.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 4'
 --------------------------------------------------
 🏟️ Match: Greuther Fürth Vs Kaiserslautern
 🕒 Start: 2025-09-14 14:30 (GMT+3)
@@ -40,6 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/165.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/161.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 7'
 --------------------------------------------------
 🏟️ Match: Preussen Münster Vs Fortuna Düsseldorf
 🕒 Start: 2025-09-14 14:30 (GMT+3)
@@ -48,6 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/336.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/180.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 6'
 --------------------------------------------------
 🏟️ Match: Celta de Vigo Vs Girona
 🕒 Start: 2025-09-14 15:00 (GMT+3)
