@@ -13,7 +13,7 @@
 📺 Channels: DAZN, DAZN Zona IT, CBS Sports Golazo USA, DAZN2 DE, Sport TV2 Portugal, Eleven Sports 1 Poland, Match! Football 1 Russia, ESPN Mexico, Astro Football, Ziggo Sport 2 NL, Polsat Sport Premium 1 Poland, Digi Sport 1 Romania, Prima Sport 1 Romania, Arena 1 Premium Serbia, Arena Sport 1 Croatia, MAX Sport 3 Bulgaria, TV4 Fotball, ESPN Argentina, SuperSport Football
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/145.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/722.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 60'
 --------------------------------------------------
 🏟️ Match: Southampton Vs Portsmouth
@@ -31,7 +31,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 4, Sky Sport Top Event DE, beIN Sports 3 Malaysia, Arena Sport 1 Serbia, Sportklub 2 Croatia, Diema Sport 3 Bulgaria, SD-8191832
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/329.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/294.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 18'
 --------------------------------------------------
 🏟️ Match: Greuther Fürth Vs Kaiserslautern
@@ -49,7 +49,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 2, DAZN Eleven 3 Portugal, Eleven Sports 3 Poland, SD-8191840
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/336.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/180.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 20'
 --------------------------------------------------
 🏟️ Match: Celta de Vigo Vs Girona
