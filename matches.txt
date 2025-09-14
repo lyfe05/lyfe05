@@ -229,7 +229,7 @@
 📺 Channels: Amazon Prime Video, Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 3 CZ, Sport TV3 Portugal, Eleven Sports 2 Poland, Eleven Sports 4 Poland, Sky Sport Calcio IT, Arena Sport 1 Serbia, Arena Sport 4 Croatia, beIN Sports 4 Turkey, Diema Sport 2 Bulgaria, ESPN2 Argentina, Canal+ Sport 2 Afrique, 5Plus Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/264.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 6'
 --------------------------------------------------
 🏟️ Match: Barcelona Vs Valencia
