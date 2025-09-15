@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/387.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/189.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 79'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Espanyol Vs Mallorca
 🕒 Start: 2025-09-15 22:00 (GMT+3)
@@ -23,5 +23,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/215.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/220.png
 ⚽ Score: 3 | 2
-⏳ Elapsed time: 64'
+⏳ Elapsed time: 90+3'
 --------------------------------------------------
