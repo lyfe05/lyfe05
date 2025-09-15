@@ -3,7 +3,7 @@ name: Fetch Matches
 on:
   schedule:
     # Run every day at 02:30 GMT+3 (23:30 UTC)
-    - cron: "30 23 * * *"
+    - cron: "00 05 * * *"
   workflow_dispatch:  # allow manual trigger
 
 jobs:
