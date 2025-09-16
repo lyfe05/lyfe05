@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2624.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2315.png
 ⚽ Score: 2 | 1
-⏳ Elapsed time: 90+3'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Machida Zelvia Vs Seoul
 🕒 Start: 2025-09-16 13:00 (GMT+3)
@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6301.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2640.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 90'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Buriram United Vs Johor Darul Ta'zim
 🕒 Start: 2025-09-16 15:15 (GMT+3)
@@ -32,6 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4465.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3833.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 17'
 --------------------------------------------------
 🏟️ Match: Mohun Bagan SG Vs Ahal
 🕒 Start: 2025-09-16 16:45 (GMT+3)
