@@ -121,7 +121,7 @@
 📺 Channels: UEFA.tv, TNT Sports 2, Discovery+ Premium, Sky Sport Calcio IT, Movistar Liga de Campeones 2, DAZN Eleven 1 Portugal, beIN Sports Malaysia, SuperSport Football, SuperSport MáXimo 1, TNT Sports 2 UK, Paramount+, Sky Sport Austria 2, Sky Sport Uno IT, Sky Sport 252 IT, Nova Sport 3 CZ, TRT Spor Turkey, Movistar Liga de Campeones 5, DAZN Eleven 2 Portugal, Ziggo Sport 3 NL, Canal+ Foot France, CANAL + EXTRA 2 Poland, beIN Sports 2 Malaysia, TUDN USA, UniMás, Digi Sport 2 Romania, Prima Sport 2 Romania, Arena Sport 1 Croatia, Arena 1 Premium Serbia, V Sport Premium, MAX Sport 4 Bulgaria, ESPN2 Argentina, SuperSport Action, beIN Sports MENA 4, 5Stars Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/155.png
-⚽ Score: 2 | 4
+⚽ Score: 4 | 4
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Real Madrid Vs Marseille
@@ -166,6 +166,6 @@
 📺 Channels: Sky Sports+, Nova Sport 2 CZ, beIN Sports 3 France, Astro Grandstand, Arena Sport 1 Serbia, Diema Sport 3 Bulgaria, beIN Sports MENA 8, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/567.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/574.png
-⚽ Score: 1 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 90+4'
 --------------------------------------------------
