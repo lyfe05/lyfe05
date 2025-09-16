@@ -59,7 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
 ⚽ Score: 0 | 2
-⏳ Elapsed time: 90'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: PSV Vs Union Saint-Gilloise
 🕒 Start: 2025-09-16 19:45 (GMT+3)
@@ -68,7 +68,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/137.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3586.png
 ⚽ Score: 1 | 3
-⏳ Elapsed time: 90+3'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Blackpool Vs Barrow
 🕒 Start: 2025-09-16 21:00 (GMT+3)
@@ -77,7 +77,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/206.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/641.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: 36'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Exeter City Vs Cardiff City
 🕒 Start: 2025-09-16 21:00 (GMT+3)
@@ -86,7 +86,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/598.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/565.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 36'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Al-Hilal Vs Al Duhail
 🕒 Start: 2025-09-16 21:15 (GMT+3)
@@ -95,7 +95,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2328.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4457.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 21'
+⏳ Elapsed time: 37'
 --------------------------------------------------
 🏟️ Match: Hussein Vs Sepahan
 🕒 Start: 2025-09-16 21:15 (GMT+3)
@@ -104,7 +104,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25672.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6353.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 21'
+⏳ Elapsed time: 37'
 --------------------------------------------------
 🏟️ Match: Sheffield Wednesday Vs Grimsby Town
 🕒 Start: 2025-09-16 21:45 (GMT+3)
@@ -113,6 +113,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/638.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/658.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 7'
 --------------------------------------------------
 🏟️ Match: Juventus Vs Borussia Dortmund
 🕒 Start: 2025-09-16 22:00 (GMT+3)
