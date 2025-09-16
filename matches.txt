@@ -32,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4465.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3833.png
 ⚽ Score: 2 | 1
-⏳ Elapsed time: 76'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Mohun Bagan SG Vs Ahal
 🕒 Start: 2025-09-16 16:45 (GMT+3)
@@ -41,7 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18891.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/14244.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 7'
+⏳ Elapsed time: 33'
 --------------------------------------------------
 🏟️ Match: Shabab Al Ahli Vs Tractor
 🕒 Start: 2025-09-16 19:00 (GMT+3)
