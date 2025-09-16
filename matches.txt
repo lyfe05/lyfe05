@@ -112,7 +112,7 @@
 📺 Channels: Sky Sports+, beIN Sports 4 MAX France, Diema Sport Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/638.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/658.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 48'
 --------------------------------------------------
 🏟️ Match: Juventus Vs Borussia Dortmund
@@ -121,7 +121,7 @@
 📺 Channels: UEFA.tv, TNT Sports 2, Discovery+ Premium, Sky Sport Calcio IT, Movistar Liga de Campeones 2, DAZN Eleven 1 Portugal, beIN Sports Malaysia, SuperSport Football, SuperSport MáXimo 1, TNT Sports 2 UK, Paramount+, Sky Sport Austria 2, Sky Sport Uno IT, Sky Sport 252 IT, Nova Sport 3 CZ, TRT Spor Turkey, Movistar Liga de Campeones 5, DAZN Eleven 2 Portugal, Ziggo Sport 3 NL, Canal+ Foot France, CANAL + EXTRA 2 Poland, beIN Sports 2 Malaysia, TUDN USA, UniMás, Digi Sport 2 Romania, Prima Sport 2 Romania, Arena Sport 1 Croatia, Arena 1 Premium Serbia, V Sport Premium, MAX Sport 4 Bulgaria, ESPN2 Argentina, SuperSport Action, beIN Sports MENA 4, 5Stars Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/155.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Real Madrid Vs Marseille
@@ -139,7 +139,7 @@
 📺 Channels: TNT Sports 3, Discovery+ Premium, BTV 1 Portugal, TNT Sports 3 UK, Ictimai TV, CBS Sports Network USA, Sport TV5 Portugal, Sky Sport Austria 5, CANAL+ EXTRA 3 Poland, Movistar Liga de Campeones 6, Nova Sport 5 CZ, TRT Spor Turkey, Sky Sport 255 IT, Canal+ Live 4 France, Arena 4 Premium Serbia, Ziggo Sport 6 NL, Digi Sport 4 Romania, Prima Sport 4 Romania, TV2 Sport Norway, TV3 MAX Denmark, MAX Sport 1 Bulgaria, ESPN3 Argentina, SuperSport Variety 2, beIN Sports MENA 5
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/147.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/469.png
-⚽ Score: 2 | 1
+⚽ Score: 2 | 2
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Tottenham Hotspur Vs Villarreal
