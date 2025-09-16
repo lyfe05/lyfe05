@@ -94,7 +94,7 @@
 📺 Channels: The AFC Hub, ESPN 1 NL, Astro Arena Bola 2, Sport Klub 1 Croatia, beIN Sports MENA 1, SD-8460979, ESPN 3 NL, SPORT1+ DE, ESPN Mexico, Sport Klub 2 Croatia, SD-8460980, Sportklub HD Croatia, SD-8460982, Thmanyah, Nova Sport Bulgaria, beIN Sports MENA 2, SportKlub 1 Croatia, ESPN4 Brazil, SD-8460984
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2328.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4457.png
-⚽ Score: 1 | 1
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 61'
 --------------------------------------------------
 🏟️ Match: Hussein Vs Sepahan
@@ -157,7 +157,7 @@
 📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, Nova Sport 1 CZ, Sport TV1 Portugal, beIN Sports 2 France, ESPN2 Mexico, Arena 5 Premium Serbia, Arena Sport 4 Croatia, Diema Sport 2 Bulgaria, ESPN Brazil, SuperSport Variety, beIN Sports MENA 7, beIN Sports MENA English 2, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/671.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/199.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 41'
 --------------------------------------------------
 🏟️ Match: Crystal Palace Vs Millwall
