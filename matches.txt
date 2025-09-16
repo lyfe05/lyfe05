@@ -50,7 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/8375.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4464.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 46'
+⏳ Elapsed time: 66'
 --------------------------------------------------
 🏟️ Match: Athletic Bilbao Vs Arsenal
 🕒 Start: 2025-09-16 19:45 (GMT+3)
@@ -59,7 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 25'
+⏳ Elapsed time: 45'
 --------------------------------------------------
 🏟️ Match: PSV Vs Union Saint-Gilloise
 🕒 Start: 2025-09-16 19:45 (GMT+3)
@@ -68,7 +68,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/137.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3586.png
 ⚽ Score: 0 | 2
-⏳ Elapsed time: 26'
+⏳ Elapsed time: 45+1'
 --------------------------------------------------
 🏟️ Match: Blackpool Vs Barrow
 🕒 Start: 2025-09-16 21:00 (GMT+3)
