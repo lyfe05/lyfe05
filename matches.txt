@@ -1,27 +1,152 @@
-🏟️ Match: Hellas Verona Vs Cremonese
-🕒 Start: 2025-09-15 19:30 (GMT+3)
-📍 Tournament: Serie A
-📺 Channels: DAZN, DAZN Zona IT, Paramount+, DAZN2 DE, Sport TV2 Portugal, Eleven Sports 1 Poland, FOX Deportes, MATCH! Futbol 1 Russia, Digi Sport 2 Romania, Prima Sport 2 Romania, Arena 2 Premium Serbia, Arena Sport 2 Croatia, Cosmote Sport 2 Greece, TV4 Sportkanalen, MAX Sport 3 Bulgaria, ESPN3 Brazil, SuperSport Football, SuperSport MáXimo 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/409.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/386.png
+🏟️ Match: Melbourne City Vs Sanfrecce Hiroshima
+🕒 Start: 2025-09-16 10:45 (GMT+3)
+📍 Tournament: AFC Champions League Elite
+📺 Channels: The AFC Hub, Nova Sport Bulgaria, beIN Sports MENA 2, SportKlub 1 Croatia, SD-8460855
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1784.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1208.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Full time
 --------------------------------------------------
-🏟️ Match: Como Vs Genoa
-🕒 Start: 2025-09-15 21:45 (GMT+3)
-📍 Tournament: Serie A
-📺 Channels: DAZN, Sky Sport 251 IT, Paramount+, Sky Sport Calcio IT, DAZN2 DE, Sport TV2 Portugal, Eleven Sports 1 Poland, Digi Sport 2 Romania, Prima Sport 2 Romania, FOX Deportes, MATCH! Futbol 1 Russia, Arena 2 Premium Serbia, Match TV Russia, Arena Sport 2 Croatia, TV4 Fotball, MAX Sport 3 Bulgaria, ESPN2 Argentina, SuperSport Football, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/387.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/189.png
-⚽ Score: 1 | 1
-⏳ Elapsed time: Full time
+🏟️ Match: Gangwon Vs Shanghai Shenhua
+🕒 Start: 2025-09-16 13:00 (GMT+3)
+📍 Tournament: AFC Champions League Elite
+📺 Channels: The AFC Hub, Diema Sport 3 Bulgaria, beIN Sports MENA 2, SportKlub 1 Croatia, SD-8460858
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2624.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2315.png
+⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Espanyol Vs Mallorca
-🕒 Start: 2025-09-15 22:00 (GMT+3)
-📍 Tournament: LaLiga
-📺 Channels: Premier Sports 1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, SD-8210756
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/215.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/220.png
-⚽ Score: 3 | 2
-⏳ Elapsed time: Full time
+🏟️ Match: Machida Zelvia Vs Seoul
+🕒 Start: 2025-09-16 13:00 (GMT+3)
+📍 Tournament: AFC Champions League Elite
+📺 Channels: Astro Arena Bola 2, Sportklub 3 Croatia, Nova Sport Bulgaria, beIN Sports MENA 3, Sport 1 Israel, SD-8460856
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6301.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2640.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Buriram United Vs Johor Darul Ta'zim
+🕒 Start: 2025-09-16 15:15 (GMT+3)
+📍 Tournament: AFC Champions League Elite
+📺 Channels: The AFC Hub, Astro Arena Bola, Diema Sport 3 Bulgaria, beIN Sports MENA 2, SportKlub 1 Croatia, SD-8460857
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4465.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3833.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Mohun Bagan SG Vs Ahal
+🕒 Start: 2025-09-16 16:45 (GMT+3)
+📍 Tournament: AFC Champions League Two
+📺 Channels: The AFC Hub, Sportklub 3 Croatia, Nova Sport Bulgaria, beIN Sports MENA 3, SD-8465950
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18891.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/14244.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Shabab Al Ahli Vs Tractor
+🕒 Start: 2025-09-16 19:00 (GMT+3)
+📍 Tournament: AFC Champions League Elite
+📺 Channels: The AFC Hub, SportKlub 1 Croatia, Nova Sport Bulgaria, beIN Sports MENA 3, Sport 3 Israel, SD-8460983
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/8375.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4464.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Athletic Bilbao Vs Arsenal
+🕒 Start: 2025-09-16 19:45 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports 1, Discovery+ Premium, TNT Sports 1 UK, Movistar Liga de Campeones, MAX Sport 3 Bulgaria, Paramount+, Sky Sport Austria 3, DAZN1 DE, Movistar Liga de Campeones 2, TRT Spor Turkey, CANAL + EXTRA 2 Poland, Nova Sport 4 CZ, DAZN Eleven 1 Portugal, Canal+ Foot France, TUDN USA, UniMás, Digi Sport 1 Romania, Prima Sport 1 Romania, Ziggo Sport 3 NL, beIN Sports Malaysia, Arena 1 Premium Serbia, TV3 Sport Denmark, Fox Sports 1 Argentina, Arena Sport 2 Croatia, TNT Brasil, SuperSport Premier League, SuperSport MaXimo 1, beIN Sports MENA 1, beIN Sports MENA English 1, 5Plus Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: PSV Vs Union Saint-Gilloise
+🕒 Start: 2025-09-16 19:45 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports 2, Discovery+ Premium, TNT Sports 2 UK, CBS Sports Network USA, Club RTL Belgium, Sky Sport Austria 4, Sky Sport Calcio IT, CANAL+ EXTRA 3 Poland, TRT Spor Turkey, Nova Sport 3 CZ, Movistar Liga de Campeones 3, DAZN Eleven 2 Portugal, Canal+ Sport France, Ziggo Sport 1 NL, Digi Sport 2 Romania, Prima Sport 2 Romania, beIN Sports 3 Malaysia, TV3 MAX Denmark, Arena 2 Premium Serbia, Arena Sport 3 Croatia, MAX Sport 4 Bulgaria, Space Brazil, ESPN2 Argentina, SuperSport Variety 3, beIN Sports MENA 4, 5 Live Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/137.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3586.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Blackpool Vs Barrow
+🕒 Start: 2025-09-16 21:00 (GMT+3)
+📍 Tournament: EFL Trophy
+📺 Channels: Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/206.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/641.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Exeter City Vs Cardiff City
+🕒 Start: 2025-09-16 21:00 (GMT+3)
+📍 Tournament: EFL Trophy
+📺 Channels: Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/598.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/565.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Al-Hilal Vs Al Duhail
+🕒 Start: 2025-09-16 21:15 (GMT+3)
+📍 Tournament: AFC Champions League Elite
+📺 Channels: The AFC Hub, ESPN 1 NL, Astro Arena Bola 2, Sport Klub 1 Croatia, beIN Sports MENA 1, SD-8460979, ESPN 3 NL, SPORT1+ DE, ESPN Mexico, Sport Klub 2 Croatia, SD-8460980, Sportklub HD Croatia, SD-8460982, Thmanyah, Nova Sport Bulgaria, beIN Sports MENA 2, SportKlub 1 Croatia, ESPN4 Brazil, SD-8460984
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2328.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4457.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Hussein Vs Sepahan
+🕒 Start: 2025-09-16 21:15 (GMT+3)
+📍 Tournament: AFC Champions League Two
+📺 Channels: The AFC Hub, SportKlub HD Croatia, beIN Sports MENA 6, SD-8459734
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25672.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6353.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Sheffield Wednesday Vs Grimsby Town
+🕒 Start: 2025-09-16 21:45 (GMT+3)
+📍 Tournament: EFL Cup
+📺 Channels: Sky Sports+, beIN Sports 4 MAX France, Diema Sport Bulgaria
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/638.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/658.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Juventus Vs Borussia Dortmund
+🕒 Start: 2025-09-16 22:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: UEFA.tv, TNT Sports 2, Discovery+ Premium, Sky Sport Calcio IT, Movistar Liga de Campeones 2, DAZN Eleven 1 Portugal, beIN Sports Malaysia, SuperSport Football, SuperSport MáXimo 1, TNT Sports 2 UK, Paramount+, Sky Sport Austria 2, Sky Sport Uno IT, Sky Sport 252 IT, Nova Sport 3 CZ, TRT Spor Turkey, Movistar Liga de Campeones 5, DAZN Eleven 2 Portugal, Ziggo Sport 3 NL, Canal+ Foot France, CANAL + EXTRA 2 Poland, beIN Sports 2 Malaysia, TUDN USA, UniMás, Digi Sport 2 Romania, Prima Sport 2 Romania, Arena Sport 1 Croatia, Arena 1 Premium Serbia, V Sport Premium, MAX Sport 4 Bulgaria, ESPN2 Argentina, SuperSport Action, beIN Sports MENA 4, 5Stars Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/155.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Real Madrid Vs Marseille
+🕒 Start: 2025-09-16 22:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: UEFA.tv, TNT Sports 1, Discovery+ Premium, M+ #Vamos ES, DAZN Eleven 1 Portugal, Canal+ Sport 5 Poland, Canal+ Foot France, Ziggo Sport 1 NL, beIN Sports Malaysia, Nova SPORT 4 CZ, SuperSport Football, SuperSport MáXimo 1, beIN Sports MENA 2, TNT Sports 1 UK, Canal+ France, Paramount+, Movistar Liga de Campeones, Sky Sport Austria 3, Nova Sport 6 CZ, TRT Spor Turkey, DAZN 1 DE, Sky Sport 253 IT, CANAL+ EXTRA 1 Poland, Sky Sport Calcio IT, Ziggo Sport 2 NL, Digi Sport 1 Romania, Prima Sport 1 Romania, Kanal A Slovenia, Arena 2 Premium Serbia, Cosmote Sport 2 Greece, TV3+ HD Denmark, Arena Sport 2 Croatia, Viaplay Sport Sweden, MAX Sport 3 Bulgaria, TNT Brasil, ESPN Argentina, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, 5Sport Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/22.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Benfica Vs Qarabağ
+🕒 Start: 2025-09-16 22:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports 3, Discovery+ Premium, BTV 1 Portugal, TNT Sports 3 UK, Ictimai TV, CBS Sports Network USA, Sport TV5 Portugal, Sky Sport Austria 5, CANAL+ EXTRA 3 Poland, Movistar Liga de Campeones 6, Nova Sport 5 CZ, TRT Spor Turkey, Sky Sport 255 IT, Canal+ Live 4 France, Arena 4 Premium Serbia, Ziggo Sport 6 NL, Digi Sport 4 Romania, Prima Sport 4 Romania, TV2 Sport Norway, TV3 MAX Denmark, MAX Sport 1 Bulgaria, ESPN3 Argentina, SuperSport Variety 2, beIN Sports MENA 5
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/147.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/469.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Tottenham Hotspur Vs Villarreal
+🕒 Start: 2025-09-16 22:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: SpursPlay, Amazon Prime Video, Stan Sport, Sky Sport Austria 4, Paramount+, TRT Spor Turkey, Movistar Liga de Campeones 2, Premier Sports 1 Ireland, Nova Sport 4 CZ, DAZN Eleven 3 Portugal, CANAL+ 360 Poland, Sky Sport 254 IT, Sky Sport Max IT, Canal+ Sport France, Ziggo Sport 5 NL, beIN Sports 3 Malaysia, Digi Sport 3 Romania, Prima Sport 3 Romania, Arena 3 Premium Serbia, Arena Sport 3 Croatia, TV3 Sport Denmark, V Sport Football, MAX Sport 2 Bulgaria, Space Brazil, Fox Sports 2 Argentina (CH-788) SuperSport Variety 3, beIN Sports MENA 3, 5Plus Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/202.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/226.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Brentford Vs Aston Villa
+🕒 Start: 2025-09-16 22:00 (GMT+3)
+📍 Tournament: EFL Cup
+📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, Nova Sport 1 CZ, Sport TV1 Portugal, beIN Sports 2 France, ESPN2 Mexico, Arena 5 Premium Serbia, Arena Sport 4 Croatia, Diema Sport 2 Bulgaria, ESPN Brazil, SuperSport Variety, beIN Sports MENA 7, beIN Sports MENA English 2, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/671.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/199.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Crystal Palace Vs Millwall
+🕒 Start: 2025-09-16 22:00 (GMT+3)
+📍 Tournament: EFL Cup
+📺 Channels: Sky Sports+, Nova Sport 2 CZ, beIN Sports 3 France, Astro Grandstand, Arena Sport 1 Serbia, Diema Sport 3 Bulgaria, beIN Sports MENA 8, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/567.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/574.png
+⚽ Score: 0 | 0
 --------------------------------------------------
