@@ -58,7 +58,7 @@
 📺 Channels: TNT Sports 1, Discovery+ Premium, TNT Sports 1 UK, Movistar Liga de Campeones, MAX Sport 3 Bulgaria, Paramount+, Sky Sport Austria 3, DAZN1 DE, Movistar Liga de Campeones 2, TRT Spor Turkey, CANAL + EXTRA 2 Poland, Nova Sport 4 CZ, DAZN Eleven 1 Portugal, Canal+ Foot France, TUDN USA, UniMás, Digi Sport 1 Romania, Prima Sport 1 Romania, Ziggo Sport 3 NL, beIN Sports Malaysia, Arena 1 Premium Serbia, TV3 Sport Denmark, Fox Sports 1 Argentina, Arena Sport 2 Croatia, TNT Brasil, SuperSport Premier League, SuperSport MaXimo 1, beIN Sports MENA 1, beIN Sports MENA English 1, 5Plus Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 52'
 --------------------------------------------------
 🏟️ Match: PSV Vs Union Saint-Gilloise
@@ -76,7 +76,7 @@
 📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/206.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/641.png
-⚽ Score: 0 | 0
+⚽ Score: 2 | 0
 --------------------------------------------------
 🏟️ Match: Exeter City Vs Cardiff City
 🕒 Start: 2025-09-16 21:00 (GMT+3)
