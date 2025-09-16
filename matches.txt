@@ -157,7 +157,7 @@
 📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, Nova Sport 1 CZ, Sport TV1 Portugal, beIN Sports 2 France, ESPN2 Mexico, Arena 5 Premium Serbia, Arena Sport 4 Croatia, Diema Sport 2 Bulgaria, ESPN Brazil, SuperSport Variety, beIN Sports MENA 7, beIN Sports MENA English 2, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/671.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/199.png
-⚽ Score: 1 | 1
+⚽ Score: 1 (4) | 1 (2)
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Crystal Palace Vs Millwall
@@ -166,6 +166,6 @@
 📺 Channels: Sky Sports+, Nova Sport 2 CZ, beIN Sports 3 France, Astro Grandstand, Arena Sport 1 Serbia, Diema Sport 3 Bulgaria, beIN Sports MENA 8, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/567.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/574.png
-⚽ Score: 1 | 1
+⚽ Score: 1 (4) | 1 (2)
 ⏳ Elapsed time: Full time
 --------------------------------------------------
