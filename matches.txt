@@ -76,7 +76,7 @@
 📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/206.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/641.png
-⚽ Score: 3 | 0
+⚽ Score: 5 | 0
 ⏳ Elapsed time: 68'
 --------------------------------------------------
 🏟️ Match: Exeter City Vs Cardiff City
@@ -94,7 +94,7 @@
 📺 Channels: The AFC Hub, ESPN 1 NL, Astro Arena Bola 2, Sport Klub 1 Croatia, beIN Sports MENA 1, SD-8460979, ESPN 3 NL, SPORT1+ DE, ESPN Mexico, Sport Klub 2 Croatia, SD-8460980, Sportklub HD Croatia, SD-8460982, Thmanyah, Nova Sport Bulgaria, beIN Sports MENA 2, SportKlub 1 Croatia, ESPN4 Brazil, SD-8460984
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2328.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4457.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 48'
 --------------------------------------------------
 🏟️ Match: Hussein Vs Sepahan
@@ -130,7 +130,7 @@
 📺 Channels: UEFA.tv, TNT Sports 1, Discovery+ Premium, M+ #Vamos ES, DAZN Eleven 1 Portugal, Canal+ Sport 5 Poland, Canal+ Foot France, Ziggo Sport 1 NL, beIN Sports Malaysia, Nova SPORT 4 CZ, SuperSport Football, SuperSport MáXimo 1, beIN Sports MENA 2, TNT Sports 1 UK, Canal+ France, Paramount+, Movistar Liga de Campeones, Sky Sport Austria 3, Nova Sport 6 CZ, TRT Spor Turkey, DAZN 1 DE, Sky Sport 253 IT, CANAL+ EXTRA 1 Poland, Sky Sport Calcio IT, Ziggo Sport 2 NL, Digi Sport 1 Romania, Prima Sport 1 Romania, Kanal A Slovenia, Arena 2 Premium Serbia, Cosmote Sport 2 Greece, TV3+ HD Denmark, Arena Sport 2 Croatia, Viaplay Sport Sweden, MAX Sport 3 Bulgaria, TNT Brasil, ESPN Argentina, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, 5Sport Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/22.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 25'
 --------------------------------------------------
 🏟️ Match: Benfica Vs Qarabağ
@@ -139,7 +139,7 @@
 📺 Channels: TNT Sports 3, Discovery+ Premium, BTV 1 Portugal, TNT Sports 3 UK, Ictimai TV, CBS Sports Network USA, Sport TV5 Portugal, Sky Sport Austria 5, CANAL+ EXTRA 3 Poland, Movistar Liga de Campeones 6, Nova Sport 5 CZ, TRT Spor Turkey, Sky Sport 255 IT, Canal+ Live 4 France, Arena 4 Premium Serbia, Ziggo Sport 6 NL, Digi Sport 4 Romania, Prima Sport 4 Romania, TV2 Sport Norway, TV3 MAX Denmark, MAX Sport 1 Bulgaria, ESPN3 Argentina, SuperSport Variety 2, beIN Sports MENA 5
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/147.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/469.png
-⚽ Score: 2 | 0
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 28'
 --------------------------------------------------
 🏟️ Match: Tottenham Hotspur Vs Villarreal
