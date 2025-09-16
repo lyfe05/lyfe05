@@ -131,7 +131,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/22.png
 ⚽ Score: 2 | 1
-⏳ Elapsed time: 90+3'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Benfica Vs Qarabağ
 🕒 Start: 2025-09-16 22:00 (GMT+3)
@@ -158,7 +158,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/671.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/199.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: Pens.
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Crystal Palace Vs Millwall
 🕒 Start: 2025-09-16 22:00 (GMT+3)
@@ -167,5 +167,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/567.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/574.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 90+4'
+⏳ Elapsed time: Full time
 --------------------------------------------------
