@@ -58,7 +58,7 @@
 📺 Channels: TNT Sports 1, Discovery+ Premium, TNT Sports 1 UK, Movistar Liga de Campeones, MAX Sport 3 Bulgaria, Paramount+, Sky Sport Austria 3, DAZN1 DE, Movistar Liga de Campeones 2, TRT Spor Turkey, CANAL + EXTRA 2 Poland, Nova Sport 4 CZ, DAZN Eleven 1 Portugal, Canal+ Foot France, TUDN USA, UniMás, Digi Sport 1 Romania, Prima Sport 1 Romania, Ziggo Sport 3 NL, beIN Sports Malaysia, Arena 1 Premium Serbia, TV3 Sport Denmark, Fox Sports 1 Argentina, Arena Sport 2 Croatia, TNT Brasil, SuperSport Premier League, SuperSport MaXimo 1, beIN Sports MENA 1, beIN Sports MENA English 1, 5Plus Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 90'
 --------------------------------------------------
 🏟️ Match: PSV Vs Union Saint-Gilloise
@@ -67,7 +67,7 @@
 📺 Channels: TNT Sports 2, Discovery+ Premium, TNT Sports 2 UK, CBS Sports Network USA, Club RTL Belgium, Sky Sport Austria 4, Sky Sport Calcio IT, CANAL+ EXTRA 3 Poland, TRT Spor Turkey, Nova Sport 3 CZ, Movistar Liga de Campeones 3, DAZN Eleven 2 Portugal, Canal+ Sport France, Ziggo Sport 1 NL, Digi Sport 2 Romania, Prima Sport 2 Romania, beIN Sports 3 Malaysia, TV3 MAX Denmark, Arena 2 Premium Serbia, Arena Sport 3 Croatia, MAX Sport 4 Bulgaria, Space Brazil, ESPN2 Argentina, SuperSport Variety 3, beIN Sports MENA 4, 5 Live Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/137.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3586.png
-⚽ Score: 0 | 2
+⚽ Score: 1 | 3
 ⏳ Elapsed time: 90+3'
 --------------------------------------------------
 🏟️ Match: Blackpool Vs Barrow
@@ -103,7 +103,7 @@
 📺 Channels: The AFC Hub, SportKlub HD Croatia, beIN Sports MENA 6, SD-8459734
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25672.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6353.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 21'
 --------------------------------------------------
 🏟️ Match: Sheffield Wednesday Vs Grimsby Town
