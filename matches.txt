@@ -85,7 +85,7 @@
 📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/598.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/565.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 66'
 --------------------------------------------------
 🏟️ Match: Al-Hilal Vs Al Duhail
@@ -130,7 +130,7 @@
 📺 Channels: UEFA.tv, TNT Sports 1, Discovery+ Premium, M+ #Vamos ES, DAZN Eleven 1 Portugal, Canal+ Sport 5 Poland, Canal+ Foot France, Ziggo Sport 1 NL, beIN Sports Malaysia, Nova SPORT 4 CZ, SuperSport Football, SuperSport MáXimo 1, beIN Sports MENA 2, TNT Sports 1 UK, Canal+ France, Paramount+, Movistar Liga de Campeones, Sky Sport Austria 3, Nova Sport 6 CZ, TRT Spor Turkey, DAZN 1 DE, Sky Sport 253 IT, CANAL+ EXTRA 1 Poland, Sky Sport Calcio IT, Ziggo Sport 2 NL, Digi Sport 1 Romania, Prima Sport 1 Romania, Kanal A Slovenia, Arena 2 Premium Serbia, Cosmote Sport 2 Greece, TV3+ HD Denmark, Arena Sport 2 Croatia, Viaplay Sport Sweden, MAX Sport 3 Bulgaria, TNT Brasil, ESPN Argentina, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, 5Sport Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/22.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 25'
 --------------------------------------------------
 🏟️ Match: Benfica Vs Qarabağ
