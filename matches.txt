@@ -50,6 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/8375.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4464.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 30'
 --------------------------------------------------
 🏟️ Match: Athletic Bilbao Vs Arsenal
 🕒 Start: 2025-09-16 19:45 (GMT+3)
