@@ -94,7 +94,7 @@
 📺 Channels: TrillerTV+, ESPN 1 NL, Sportsnet World, Sportdigital FUSSBALL DE, Polsat Sport 2 Poland, Arena 5 Premium Serbia, Nova Sports Start Greece, ESPN3 Brazil, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/736.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2020.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 68'
 --------------------------------------------------
 🏟️ Match: Al-Nassr Vs Istiklol
@@ -103,7 +103,7 @@
 📺 Channels: The AFC Hub, ESPN 2 NL, Canal 11 Portugal, Astro Arena Bola 2, ESPN2 Mexico, ESPN2 Brazil, Nova Sport Bulgaria, Sportklub 3 Croatia, beIN Sports MENA 2, Sport 3 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2329.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4911.png
-⚽ Score: 2 | 0
+⚽ Score: 3 | 0
 ⏳ Elapsed time: 51'
 --------------------------------------------------
 🏟️ Match: Al-Muharraq SC Vs Wehdat
@@ -130,7 +130,7 @@
 📺 Channels: TNT Sports 2, Discovery+ Premium, Paramount+, TNT Sports 2 UK, DAZN1 DE, Nova Sport 4 CZ, Movistar Liga de Campeones 2, DAZN Eleven 1 Portugal, CANAL + EXTRA 2 Poland, Sky Sport Max IT, Sky Sport 254 IT, Canal+ Sport France, Blue Sport D 2, Digi Sport 3 Romania, SONY TEN 1 HD, Prima Sport 3 Romania, Ziggo Sport 3 NL, beIN Sports 2 Malaysia, Club RTL Belgium, RTS 1 Serbia, Arena 2 Premium Serbia, TV3 Sport Denmark, HRT 2 Croatia, Arena Sport 1 Croatia, V Sport Premium, Ring bg, TNT Brasil, ESPN Argentina, SuperSport Variety 3, beIN Sports MENA 4, 5Stars Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 26'
 --------------------------------------------------
 🏟️ Match: Liverpool FC Vs Atlético de Madrid
@@ -148,7 +148,7 @@
 📺 Channels: Paramount+, TNT Sports 3 UK, Canal+ Live 1 France, Sky Sport Uno IT, Sky Sport Austria 3, Sky Sport 252 IT, CANAL+ EXTRA 3 Poland, Canal+ France, Fox Sports 2 Argentina, TV3 Max Denmark, Movistar Liga de Campeones 3, Nova Sport 5 CZ, DAZN Eleven 2 Portugal, Blue Sport 7 Live, Ziggo Sport 5 NL, Digi Sport 4 Romania, Prima Sport 4 Romania, beIN Sports Malaysia, Arena 3 Premium Serbia, V Sport Football, SuperSport Action, Space Brazil, beIN Sports MENA 1, beIN Sports MENA English 1, 5Gold Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/263.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/248.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 26'
 --------------------------------------------------
 🏟️ Match: Swansea City Vs Nottingham Forest
