@@ -59,7 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3478.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/23533.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 73'
+⏳ Elapsed time: 87'
 --------------------------------------------------
 🏟️ Match: Al Wasl Vs Esteghlal
 🕒 Start: 2025-09-17 19:00 (GMT+3)
@@ -68,7 +68,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4477.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4349.png
 ⚽ Score: 5 | 1
-⏳ Elapsed time: 72'
+⏳ Elapsed time: 85'
 --------------------------------------------------
 🏟️ Match: Olympiacos Vs Pafos
 🕒 Start: 2025-09-17 19:45 (GMT+3)
@@ -77,7 +77,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/24.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/54261.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 44'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Slavia Prague Vs Bodø/Glimt
 🕒 Start: 2025-09-17 19:45 (GMT+3)
@@ -86,7 +86,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/141.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2394.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 45+1'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Feyenoord Vs Fortuna Sittard
 🕒 Start: 2025-09-17 21:00 (GMT+3)
