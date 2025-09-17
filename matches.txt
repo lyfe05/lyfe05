@@ -121,7 +121,7 @@
 📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 5 UK, CBS Sports Network USA, Ziggo Sport 1 NL, Sky Sport Austria 4, TRT 1 Turkey, SRF zwei, Nova Sport 3 CZ, Movistar Liga de Campeones 5, DAZN Eleven 4 Portugal, CANAL+ 360 Poland, Canal+ Live 4 France, Digi Sport 1 Romania, Prima Sport 1 Romania, TV2 Sport Norway, Arena 4 Premium Serbia, Arena Sport 4 Croatia, ESPN2 Argentina, SuperSport Variety 2, beIN Sports MENA 5, Sport 5 Plus Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/341.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 27'
 --------------------------------------------------
 🏟️ Match: Bayern Munich Vs Chelsea
@@ -139,7 +139,7 @@
 📺 Channels: LFCTV, TNT Sports 3, LFC All Red, Discovery+ Premium, UEFA.tv, TNT Sports 1, TNT Sports Ultimate, TNT Sports 3 UK, LFC Tv, Sky Sport Austria 1, Movistar Liga de Campeones, Canal+ Sport 5 Poland, DAZN Eleven 1 Portugal, Canal+ Foot France, TV3 Sport Denmark, Ziggo Sport 2 NL, Prima Sport 3 Romania, Digi Sport 3 Romania, beIN Sports Malaysia, SuperSport Football, SuperSport MáXimo 1, Paramount+, TNT Sports 1 UK, RTE 2 Ireland, Premier Sports 1 Ireland, TV8 IT, CANAL + EXTRA 1 Poland, SONY TEN 2 HD, Sky Sport Austria 2, DAZN Eleven 3 Portugal, Sky Sport 253 IT, Sky Sport Calcio IT, Canal+ Sport 2 Afrique, TUDN USA, UniMás, Digi Sport 2 Romania, Prima Sport 2 Romania, beIN Sports 3 Malaysia, TV3+ HD Denmark, Arena 1 Premium Serbia, Arena Sport 3 Croatia, bTV Action Bulgaria, SuperSport Premier League, SuperSport MaXimo 1, beIN Sports MENA 3, 5Sport Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3.png
-⚽ Score: 2 | 0
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 26'
 --------------------------------------------------
 🏟️ Match: PSG Vs Atalanta
@@ -157,6 +157,6 @@
 📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, Nova Sport 2 CZ, Sport TV2 Portugal, beIN Sports 1 France, Arena Sport 1 Serbia, Diema Sport 2 Bulgaria, beIN Sports MENA 7, beIN Sports MENA English 2, ESPN4 Brazil, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/577.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 27'
 --------------------------------------------------
