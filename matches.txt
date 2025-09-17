@@ -130,7 +130,7 @@
 📺 Channels: TNT Sports 2, Discovery+ Premium, Paramount+, TNT Sports 2 UK, DAZN1 DE, Nova Sport 4 CZ, Movistar Liga de Campeones 2, DAZN Eleven 1 Portugal, CANAL + EXTRA 2 Poland, Sky Sport Max IT, Sky Sport 254 IT, Canal+ Sport France, Blue Sport D 2, Digi Sport 3 Romania, SONY TEN 1 HD, Prima Sport 3 Romania, Ziggo Sport 3 NL, beIN Sports 2 Malaysia, Club RTL Belgium, RTS 1 Serbia, Arena 2 Premium Serbia, TV3 Sport Denmark, HRT 2 Croatia, Arena Sport 1 Croatia, V Sport Premium, Ring bg, TNT Brasil, ESPN Argentina, SuperSport Variety 3, beIN Sports MENA 4, 5Stars Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
-⚽ Score: 2 | 1
+⚽ Score: 3 | 1
 ⏳ Elapsed time: 64'
 --------------------------------------------------
 🏟️ Match: Liverpool FC Vs Atlético de Madrid
@@ -157,6 +157,6 @@
 📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, Nova Sport 2 CZ, Sport TV2 Portugal, beIN Sports 1 France, Arena Sport 1 Serbia, Diema Sport 2 Bulgaria, beIN Sports MENA 7, beIN Sports MENA English 2, ESPN4 Brazil, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/577.png
-⚽ Score: 0 | 2
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 66'
 --------------------------------------------------
