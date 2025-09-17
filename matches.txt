@@ -5,7 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2646.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6661.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 67'
+⏳ Elapsed time: 81'
 --------------------------------------------------
 🏟️ Match: Gamba Osaka Vs Eastern
 🕒 Start: 2025-09-17 13:00 (GMT+3)
@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1207.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7708.png
 ⚽ Score: 3 | 1
-⏳ Elapsed time: 68'
+⏳ Elapsed time: 81'
 --------------------------------------------------
 🏟️ Match: Shanghai Port Vs Vissel Kobe
 🕒 Start: 2025-09-17 15:15 (GMT+3)
