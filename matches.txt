@@ -139,7 +139,7 @@
 📺 Channels: LFCTV, TNT Sports 3, LFC All Red, Discovery+ Premium, UEFA.tv, TNT Sports 1, TNT Sports Ultimate, TNT Sports 3 UK, LFC Tv, Sky Sport Austria 1, Movistar Liga de Campeones, Canal+ Sport 5 Poland, DAZN Eleven 1 Portugal, Canal+ Foot France, TV3 Sport Denmark, Ziggo Sport 2 NL, Prima Sport 3 Romania, Digi Sport 3 Romania, beIN Sports Malaysia, SuperSport Football, SuperSport MáXimo 1, Paramount+, TNT Sports 1 UK, RTE 2 Ireland, Premier Sports 1 Ireland, TV8 IT, CANAL + EXTRA 1 Poland, SONY TEN 2 HD, Sky Sport Austria 2, DAZN Eleven 3 Portugal, Sky Sport 253 IT, Sky Sport Calcio IT, Canal+ Sport 2 Afrique, TUDN USA, UniMás, Digi Sport 2 Romania, Prima Sport 2 Romania, beIN Sports 3 Malaysia, TV3+ HD Denmark, Arena 1 Premium Serbia, Arena Sport 3 Croatia, bTV Action Bulgaria, SuperSport Premier League, SuperSport MaXimo 1, beIN Sports MENA 3, 5Sport Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3.png
-⚽ Score: 2 | 2
+⚽ Score: 3 | 2
 ⏳ Elapsed time: 90+3'
 --------------------------------------------------
 🏟️ Match: PSG Vs Atalanta
@@ -148,7 +148,7 @@
 📺 Channels: Paramount+, TNT Sports 3 UK, Canal+ Live 1 France, Sky Sport Uno IT, Sky Sport Austria 3, Sky Sport 252 IT, CANAL+ EXTRA 3 Poland, Canal+ France, Fox Sports 2 Argentina, TV3 Max Denmark, Movistar Liga de Campeones 3, Nova Sport 5 CZ, DAZN Eleven 2 Portugal, Blue Sport 7 Live, Ziggo Sport 5 NL, Digi Sport 4 Romania, Prima Sport 4 Romania, beIN Sports Malaysia, Arena 3 Premium Serbia, V Sport Football, SuperSport Action, Space Brazil, beIN Sports MENA 1, beIN Sports MENA English 1, 5Gold Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/263.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/248.png
-⚽ Score: 3 | 0
+⚽ Score: 4 | 0
 ⏳ Elapsed time: 82'
 --------------------------------------------------
 🏟️ Match: Swansea City Vs Nottingham Forest
@@ -157,6 +157,6 @@
 📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, Nova Sport 2 CZ, Sport TV2 Portugal, beIN Sports 1 France, Arena Sport 1 Serbia, Diema Sport 2 Bulgaria, beIN Sports MENA 7, beIN Sports MENA English 2, ESPN4 Brazil, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/577.png
-⚽ Score: 1 | 2
+⚽ Score: 3 | 2
 ⏳ Elapsed time: 90+6'
 --------------------------------------------------
