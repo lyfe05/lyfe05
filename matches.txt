@@ -5,7 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2646.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6661.png
 ⚽ Score: 2 | 1
-⏳ Elapsed time: 90+4'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Gamba Osaka Vs Eastern
 🕒 Start: 2025-09-17 13:00 (GMT+3)
@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1207.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7708.png
 ⚽ Score: 3 | 1
-⏳ Elapsed time: 90+4'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Shanghai Port Vs Vissel Kobe
 🕒 Start: 2025-09-17 15:15 (GMT+3)
@@ -23,6 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2312.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1195.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 32'
 --------------------------------------------------
 🏟️ Match: Nam Định Vs Ratchaburi
 🕒 Start: 2025-09-17 15:15 (GMT+3)
@@ -31,6 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/14565.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/14562.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 32'
 --------------------------------------------------
 🏟️ Match: Arkadag Vs Andijan
 🕒 Start: 2025-09-17 16:45 (GMT+3)
