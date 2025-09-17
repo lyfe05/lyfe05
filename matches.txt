@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2312.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1195.png
 ⚽ Score: 0 | 3
-⏳ Elapsed time: 45'
+⏳ Elapsed time: 67'
 --------------------------------------------------
 🏟️ Match: Nam Định Vs Ratchaburi
 🕒 Start: 2025-09-17 15:15 (GMT+3)
@@ -32,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/14565.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/14562.png
 ⚽ Score: 3 | 1
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 67'
 --------------------------------------------------
 🏟️ Match: Arkadag Vs Andijan
 🕒 Start: 2025-09-17 16:45 (GMT+3)
