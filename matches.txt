@@ -67,7 +67,7 @@
 📺 Channels: The AFC Hub, Canal 11 Portugal, beIN Sports MENA 5, Sportklub 3 Croatia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4477.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4349.png
-⚽ Score: 3 | 1
+⚽ Score: 4 | 1
 ⏳ Elapsed time: 52'
 --------------------------------------------------
 🏟️ Match: Olympiacos Vs Pafos
@@ -85,7 +85,7 @@
 📺 Channels: TNT Sports Extra, Discovery+, Paramount+, TNT Sports 9 UK, TV2 Direkte Norway, Sky Sport Austria 3, Nova Sport 3 CZ, Movistar Liga de Campeones 3, CANAL + EXTRA 2 Poland, Sky Sport 254 IT, DAZN1 DE, DAZN Eleven 2 Portugal, Canal+ Sport France, Sky Sport Arena IT, TUDN USA, UniMás, Digi Sport 2 Romania, Prima Sport 2 Romania, beIN Sports 3 Malaysia, Ziggo Sport 3 NL, TV3 Sport Denmark, Arena 2 Premium Serbia, Arena Sport 3 Croatia, V Sport Premium, Ring bg, Space Brazil, ESPN3 Argentina, SuperSport Variety 3, beIN Sports MENA 4, 5Stars Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/141.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2394.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 26'
 --------------------------------------------------
 🏟️ Match: Feyenoord Vs Fortuna Sittard
