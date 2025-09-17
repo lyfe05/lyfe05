@@ -86,7 +86,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/141.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2394.png
 ⚽ Score: 2 | 2
-⏳ Elapsed time: 89'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Feyenoord Vs Fortuna Sittard
 🕒 Start: 2025-09-17 21:00 (GMT+3)
@@ -95,7 +95,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/736.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2020.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 55'
 --------------------------------------------------
 🏟️ Match: Al-Nassr Vs Istiklol
 🕒 Start: 2025-09-17 21:15 (GMT+3)
@@ -104,7 +104,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2329.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4911.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: 36'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Al-Muharraq SC Vs Wehdat
 🕒 Start: 2025-09-17 21:15 (GMT+3)
@@ -113,7 +113,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19467.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3040.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: 37'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Ajax Vs Inter
 🕒 Start: 2025-09-17 22:00 (GMT+3)
@@ -122,6 +122,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/341.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 14'
 --------------------------------------------------
 🏟️ Match: Bayern Munich Vs Chelsea
 🕒 Start: 2025-09-17 22:00 (GMT+3)
@@ -130,6 +131,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 13'
 --------------------------------------------------
 🏟️ Match: Liverpool FC Vs Atlético de Madrid
 🕒 Start: 2025-09-17 22:00 (GMT+3)
@@ -138,6 +140,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 13'
 --------------------------------------------------
 🏟️ Match: PSG Vs Atalanta
 🕒 Start: 2025-09-17 22:00 (GMT+3)
@@ -146,6 +149,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/263.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/248.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 13'
 --------------------------------------------------
 🏟️ Match: Swansea City Vs Nottingham Forest
 🕒 Start: 2025-09-17 22:00 (GMT+3)
@@ -154,4 +158,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/577.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 14'
 --------------------------------------------------
