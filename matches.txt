@@ -77,7 +77,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/24.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/54261.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 52'
+⏳ Elapsed time: 90'
 --------------------------------------------------
 🏟️ Match: Slavia Prague Vs Bodø/Glimt
 🕒 Start: 2025-09-17 19:45 (GMT+3)
@@ -86,7 +86,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/141.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2394.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 51'
+⏳ Elapsed time: 89'
 --------------------------------------------------
 🏟️ Match: Feyenoord Vs Fortuna Sittard
 🕒 Start: 2025-09-17 21:00 (GMT+3)
@@ -95,6 +95,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/736.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2020.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 35'
 --------------------------------------------------
 🏟️ Match: Al-Nassr Vs Istiklol
 🕒 Start: 2025-09-17 21:15 (GMT+3)
@@ -103,6 +104,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2329.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4911.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 21'
 --------------------------------------------------
 🏟️ Match: Al-Muharraq SC Vs Wehdat
 🕒 Start: 2025-09-17 21:15 (GMT+3)
@@ -111,6 +113,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19467.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3040.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 21'
 --------------------------------------------------
 🏟️ Match: Ajax Vs Inter
 🕒 Start: 2025-09-17 22:00 (GMT+3)
