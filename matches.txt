@@ -41,7 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/53091.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/20977.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 52'
 --------------------------------------------------
 🏟️ Match: FC Goa Vs Zawra'a
 🕒 Start: 2025-09-17 16:45 (GMT+3)
@@ -50,7 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3985.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/12468.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 52'
 --------------------------------------------------
 🏟️ Match: Al Ahli Doha Vs Khaldiya
 🕒 Start: 2025-09-17 19:00 (GMT+3)
