@@ -1,96 +1,144 @@
-🏟️ Match: Melbourne City Vs Sanfrecce Hiroshima
-🕒 Start: 2025-09-16 10:45 (GMT+3)
+🏟️ Match: Ulsan Vs Chengdu Rongcheng
+🕒 Start: 2025-09-17 13:00 (GMT+3)
 📍 Tournament: AFC Champions League Elite
-📺 Channels: Nova Sport Bulgaria, beIN Sports MENA 2, SportKlub 1 Croatia, SD-8460855
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1784.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1208.png
-⚽ Score: 0 | 2
+📺 Channels: The AFC Hub, Astro Arena Bola, Sportklub 1 Croatia, Diema Sport 3 Bulgaria, beIN Sports MENA 5, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2646.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6661.png
+⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Gangwon Vs Shanghai Shenhua
-🕒 Start: 2025-09-16 13:00 (GMT+3)
+🏟️ Match: Gamba Osaka Vs Eastern
+🕒 Start: 2025-09-17 13:00 (GMT+3)
+📍 Tournament: AFC Champions League Two
+📺 Channels: The AFC Hub, Nova Sport Bulgaria, beIN Sports MENA 1, Sport Klub 3 Croatia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1207.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7708.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Shanghai Port Vs Vissel Kobe
+🕒 Start: 2025-09-17 15:15 (GMT+3)
 📍 Tournament: AFC Champions League Elite
-📺 Channels: Diema Sport 3 Bulgaria, beIN Sports MENA 2, SportKlub 1 Croatia, SD-8460858
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2624.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2315.png
-⚽ Score: 2 | 1
+📺 Channels: The AFC Hub, SPORT1+ DE, Astro Arena Bola, Diema Sport 3 Bulgaria, beIN Sports MENA 5, Sportklub 1 Croatia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2312.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1195.png
+⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Machida Zelvia Vs Seoul
-🕒 Start: 2025-09-16 13:00 (GMT+3)
-📍 Tournament: AFC Champions League Elite
-📺 Channels: Astro Arena Bola 2, Sportklub 3 Croatia, Nova Sport Bulgaria, beIN Sports MENA 3, Sport 1 Israel, SD-8460856
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6301.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2640.png
-⚽ Score: 1 | 1
+🏟️ Match: Nam Định Vs Ratchaburi
+🕒 Start: 2025-09-17 15:15 (GMT+3)
+📍 Tournament: AFC Champions League Two
+📺 Channels: The AFC Hub, ESPN 1 NL, Astro Arena 2, beIN Sports MENA 1
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/14565.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/14562.png
+⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Buriram United Vs Johor Darul Ta'zim
-🕒 Start: 2025-09-16 15:15 (GMT+3)
-📍 Tournament: AFC Champions League Elite
-📺 Channels: Astro Arena Bola, Diema Sport 3 Bulgaria, beIN Sports MENA 2, SportKlub 1 Croatia, SD-8460857
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4465.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3833.png
-⚽ Score: 2 | 1
+🏟️ Match: Arkadag Vs Andijan
+🕒 Start: 2025-09-17 16:45 (GMT+3)
+📍 Tournament: AFC Champions League Two
+📺 Channels: The AFC Hub, Nova Sport Bulgaria, beIN Sports MENA 4
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/53091.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/20977.png
+⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Shabab Al Ahli Vs Tractor
-🕒 Start: 2025-09-16 19:00 (GMT+3)
-📍 Tournament: AFC Champions League Elite
-📺 Channels: SportKlub 1 Croatia, Nova Sport Bulgaria, beIN Sports MENA 3, Sport 3 Israel, SD-8460983
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/8375.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4464.png
-⚽ Score: 1 | 1
+🏟️ Match: FC Goa Vs Zawra'a
+🕒 Start: 2025-09-17 16:45 (GMT+3)
+📍 Tournament: AFC Champions League Two
+📺 Channels: The AFC Hub, Astro Arena Bola 2, beIN Sports MENA 3, Sport Klub 4 Croatia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3985.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/12468.png
+⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Athletic Bilbao Vs Arsenal
-🕒 Start: 2025-09-16 19:45 (GMT+3)
+🏟️ Match: Al Ahli Doha Vs Khaldiya
+🕒 Start: 2025-09-17 19:00 (GMT+3)
+📍 Tournament: AFC Champions League Two
+📺 Channels: The AFC Hub, ESPN 2 NL, Nova Sport Bulgaria, beIN Sports MENA 2
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3478.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/23533.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Al Wasl Vs Esteghlal
+🕒 Start: 2025-09-17 19:00 (GMT+3)
+📍 Tournament: AFC Champions League Two
+📺 Channels: The AFC Hub, Canal 11 Portugal, beIN Sports MENA 5, Sportklub 3 Croatia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4477.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4349.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Olympiacos Vs Pafos
+🕒 Start: 2025-09-17 19:45 (GMT+3)
 📍 Tournament: UEFA Champions League
-📺 Channels: TNT Sports 1 UK, Movistar Liga de Campeones, MAX Sport 3 Bulgaria, Paramount+, Sky Sport Austria 3, DAZN1 DE, Movistar Liga de Campeones 2, TRT Spor Turkey, CANAL + EXTRA 2 Poland, Nova Sport 4 CZ, DAZN Eleven 1 Portugal, Canal+ Foot France, TUDN USA, UniMás, Digi Sport 1 Romania, Prima Sport 1 Romania, Ziggo Sport 3 NL, beIN Sports Malaysia, Arena 1 Premium Serbia, TV3 Sport Denmark, Fox Sports 1 Argentina, Arena Sport 2 Croatia, TNT Brasil, SuperSport Premier League, SuperSport MaXimo 1, beIN Sports MENA 1, beIN Sports MENA English 1, 5Plus Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
-⚽ Score: 0 | 2
+📺 Channels: TNT Sports 3, Discovery+ Premium, Cosmote Sport 2 Greece
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/24.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/54261.png
+⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: PSV Vs Union Saint-Gilloise
-🕒 Start: 2025-09-16 19:45 (GMT+3)
+🏟️ Match: Slavia Prague Vs Bodø/Glimt
+🕒 Start: 2025-09-17 19:45 (GMT+3)
 📍 Tournament: UEFA Champions League
-📺 Channels: TNT Sports 2 UK, CBS Sports Network USA, Club RTL Belgium, Sky Sport Austria 4, Sky Sport Calcio IT, CANAL+ EXTRA 3 Poland, TRT Spor Turkey, Nova Sport 3 CZ, Movistar Liga de Campeones 3, DAZN Eleven 2 Portugal, Canal+ Sport France, Ziggo Sport 1 NL, Digi Sport 2 Romania, Prima Sport 2 Romania, beIN Sports 3 Malaysia, TV3 MAX Denmark, Arena 2 Premium Serbia, Arena Sport 3 Croatia, MAX Sport 4 Bulgaria, Space Brazil, ESPN2 Argentina, SuperSport Variety 3, beIN Sports MENA 4, 5 Live Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/137.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3586.png
-⚽ Score: 1 | 3
+📺 Channels: TNT Sports Extra, Discovery+, Paramount+, TNT Sports 9 UK, TV2 Direkte Norway, Sky Sport Austria 3, Nova Sport 3 CZ, Movistar Liga de Campeones 3, CANAL + EXTRA 2 Poland, Sky Sport 254 IT, DAZN1 DE, DAZN Eleven 2 Portugal, Canal+ Sport France, Sky Sport Arena IT, TUDN USA, UniMás, Digi Sport 2 Romania, Prima Sport 2 Romania, beIN Sports 3 Malaysia, Ziggo Sport 3 NL, TV3 Sport Denmark, Arena 2 Premium Serbia, Arena Sport 3 Croatia, V Sport Premium, Ring bg, Space Brazil, ESPN3 Argentina, SuperSport Variety 3, beIN Sports MENA 4, 5Stars Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/141.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2394.png
+⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Al-Hilal Vs Al Duhail
-🕒 Start: 2025-09-16 21:15 (GMT+3)
-📍 Tournament: AFC Champions League Elite
-📺 Channels: The AFC Hub, Thmanyah, Nova Sport Bulgaria, beIN Sports MENA 2, SportKlub 1 Croatia, ESPN4 Brazil, SD-8460984, KTV Sport Kuwait
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2328.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4457.png
-⚽ Score: 2 | 1
+🏟️ Match: Feyenoord Vs Fortuna Sittard
+🕒 Start: 2025-09-17 21:00 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: TrillerTV+, ESPN 1 NL, Sportsnet World, Sportdigital FUSSBALL DE, Polsat Sport 2 Poland, Arena 5 Premium Serbia, Nova Sports Start Greece, ESPN3 Brazil, Sport 4 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/736.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2020.png
+⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Juventus Vs Borussia Dortmund
-🕒 Start: 2025-09-16 22:00 (GMT+3)
+🏟️ Match: Al-Nassr Vs Istiklol
+🕒 Start: 2025-09-17 21:15 (GMT+3)
+📍 Tournament: AFC Champions League Two
+📺 Channels: The AFC Hub, ESPN 2 NL, Canal 11 Portugal, Astro Arena Bola 2, ESPN2 Mexico, ESPN2 Brazil, Nova Sport Bulgaria, Sportklub 3 Croatia, beIN Sports MENA 2, Sport 3 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2329.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4911.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Al-Muharraq SC Vs Wehdat
+🕒 Start: 2025-09-17 21:15 (GMT+3)
+📍 Tournament: AFC Champions League Two
+📺 Channels: The AFC Hub, beIN Sports MENA 6
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19467.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3040.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Ajax Vs Inter
+🕒 Start: 2025-09-17 22:00 (GMT+3)
 📍 Tournament: UEFA Champions League
-📺 Channels: Sky Sport Calcio IT, Movistar Liga de Campeones 2, DAZN Eleven 1 Portugal, beIN Sports Malaysia, SuperSport Football, SuperSport MáXimo 1, TNT Sports 2 UK, Paramount+, Sky Sport Austria 2, Sky Sport Uno IT, Sky Sport 252 IT, Nova Sport 3 CZ, TRT Spor Turkey, Movistar Liga de Campeones 5, DAZN Eleven 2 Portugal, Ziggo Sport 3 NL, Canal+ Foot France, CANAL + EXTRA 2 Poland, beIN Sports 2 Malaysia, TUDN USA, UniMás, Digi Sport 2 Romania, Prima Sport 2 Romania, Arena Sport 1 Croatia, Arena 1 Premium Serbia, V Sport Premium, MAX Sport 4 Bulgaria, ESPN2 Argentina, SuperSport Action, beIN Sports MENA 4, 5Stars Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/155.png
-⚽ Score: 4 | 4
+📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 5 UK, CBS Sports Network USA, Ziggo Sport 1 NL, Sky Sport Austria 4, TRT 1 Turkey, SRF zwei, Nova Sport 3 CZ, Movistar Liga de Campeones 5, DAZN Eleven 4 Portugal, CANAL+ 360 Poland, Canal+ Live 4 France, Digi Sport 1 Romania, Prima Sport 1 Romania, TV2 Sport Norway, Arena 4 Premium Serbia, Arena Sport 4 Croatia, ESPN2 Argentina, SuperSport Variety 2, beIN Sports MENA 5, Sport 5 Plus Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/341.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16.png
+⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Real Madrid Vs Marseille
-🕒 Start: 2025-09-16 22:00 (GMT+3)
+🏟️ Match: Bayern Munich Vs Chelsea
+🕒 Start: 2025-09-17 22:00 (GMT+3)
 📍 Tournament: UEFA Champions League
-📺 Channels: M+ #Vamos ES, DAZN Eleven 1 Portugal, Canal+ Sport 5 Poland, Canal+ Foot France, Ziggo Sport 1 NL, beIN Sports Malaysia, Nova SPORT 4 CZ, SuperSport Football, SuperSport MáXimo 1, beIN Sports MENA 2, TNT Sports 1 UK, Canal+ France, Paramount+, Movistar Liga de Campeones, Sky Sport Austria 3, Nova Sport 6 CZ, TRT Spor Turkey, DAZN 1 DE, Sky Sport 253 IT, CANAL+ EXTRA 1 Poland, Sky Sport Calcio IT, Ziggo Sport 2 NL, Digi Sport 1 Romania, Prima Sport 1 Romania, Kanal A Slovenia, Arena 2 Premium Serbia, Cosmote Sport 2 Greece, TV3+ HD Denmark, Arena Sport 2 Croatia, Viaplay Sport Sweden, MAX Sport 3 Bulgaria, TNT Brasil, ESPN Argentina, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, 5Sport Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/22.png
-⚽ Score: 2 | 1
+📺 Channels: TNT Sports 2, Discovery+ Premium, Paramount+, TNT Sports 2 UK, DAZN1 DE, Nova Sport 4 CZ, Movistar Liga de Campeones 2, DAZN Eleven 1 Portugal, CANAL + EXTRA 2 Poland, Sky Sport Max IT, Sky Sport 254 IT, Canal+ Sport France, Blue Sport D 2, Digi Sport 3 Romania, SONY TEN 1 HD, Prima Sport 3 Romania, Ziggo Sport 3 NL, beIN Sports 2 Malaysia, Club RTL Belgium, RTS 1 Serbia, Arena 2 Premium Serbia, TV3 Sport Denmark, HRT 2 Croatia, Arena Sport 1 Croatia, V Sport Premium, Ring bg, TNT Brasil, ESPN Argentina, SuperSport Variety 3, beIN Sports MENA 4, 5Stars Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
+⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Benfica Vs Qarabağ
-🕒 Start: 2025-09-16 22:00 (GMT+3)
+🏟️ Match: Liverpool FC Vs Atlético de Madrid
+🕒 Start: 2025-09-17 22:00 (GMT+3)
 📍 Tournament: UEFA Champions League
-📺 Channels: BTV 1 Portugal, TNT Sports 3 UK, Ictimai TV, CBS Sports Network USA, Sport TV5 Portugal, Sky Sport Austria 5, CANAL+ EXTRA 3 Poland, Movistar Liga de Campeones 6, Nova Sport 5 CZ, TRT Spor Turkey, Sky Sport 255 IT, Canal+ Live 4 France, Arena 4 Premium Serbia, Ziggo Sport 6 NL, Digi Sport 4 Romania, Prima Sport 4 Romania, TV2 Sport Norway, TV3 MAX Denmark, MAX Sport 1 Bulgaria, ESPN3 Argentina, SuperSport Variety 2, beIN Sports MENA 5
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/147.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/469.png
-⚽ Score: 2 | 3
+📺 Channels: LFCTV, TNT Sports 3, LFC All Red, Discovery+ Premium, UEFA.tv, TNT Sports 1, TNT Sports Ultimate, TNT Sports 3 UK, LFC Tv, Sky Sport Austria 1, Movistar Liga de Campeones, Canal+ Sport 5 Poland, DAZN Eleven 1 Portugal, Canal+ Foot France, TV3 Sport Denmark, Ziggo Sport 2 NL, Prima Sport 3 Romania, Digi Sport 3 Romania, beIN Sports Malaysia, SuperSport Football, SuperSport MáXimo 1, Paramount+, TNT Sports 1 UK, RTE 2 Ireland, Premier Sports 1 Ireland, TV8 IT, CANAL + EXTRA 1 Poland, SONY TEN 2 HD, Sky Sport Austria 2, DAZN Eleven 3 Portugal, Sky Sport 253 IT, Sky Sport Calcio IT, Canal+ Sport 2 Afrique, TUDN USA, UniMás, Digi Sport 2 Romania, Prima Sport 2 Romania, beIN Sports 3 Malaysia, TV3+ HD Denmark, Arena 1 Premium Serbia, Arena Sport 3 Croatia, bTV Action Bulgaria, SuperSport Premier League, SuperSport MaXimo 1, beIN Sports MENA 3, 5Sport Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3.png
+⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Tottenham Hotspur Vs Villarreal
-🕒 Start: 2025-09-16 22:00 (GMT+3)
+🏟️ Match: PSG Vs Atalanta
+🕒 Start: 2025-09-17 22:00 (GMT+3)
 📍 Tournament: UEFA Champions League
-📺 Channels: Stan Sport, Sky Sport Austria 4, Paramount+, TRT Spor Turkey, Movistar Liga de Campeones 2, Premier Sports 1 Ireland, Nova Sport 4 CZ, DAZN Eleven 3 Portugal, CANAL+ 360 Poland, Sky Sport 254 IT, Sky Sport Max IT, Canal+ Sport France, Ziggo Sport 5 NL, beIN Sports 3 Malaysia, Digi Sport 3 Romania, Prima Sport 3 Romania, Arena 3 Premium Serbia, Arena Sport 3 Croatia, TV3 Sport Denmark, V Sport Football, MAX Sport 2 Bulgaria, Space Brazil, Fox Sports 2 Argentina, SuperSport Variety 3, beIN Sports MENA 3, 5Plus Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/202.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/226.png
-⚽ Score: 1 | 0
+📺 Channels: Paramount+, TNT Sports 3 UK, Canal+ Live 1 France, Sky Sport Uno IT, Sky Sport Austria 3, Sky Sport 252 IT, CANAL+ EXTRA 3 Poland, Canal+ France, Fox Sports 2 Argentina, TV3 Max Denmark, Movistar Liga de Campeones 3, Nova Sport 5 CZ, DAZN Eleven 2 Portugal, Blue Sport 7 Live, Ziggo Sport 5 NL, Digi Sport 4 Romania, Prima Sport 4 Romania, beIN Sports Malaysia, Arena 3 Premium Serbia, V Sport Football, SuperSport Action, Space Brazil, beIN Sports MENA 1, beIN Sports MENA English 1, 5Gold Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/263.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/248.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Swansea City Vs Nottingham Forest
+🕒 Start: 2025-09-17 22:00 (GMT+3)
+📍 Tournament: EFL Cup
+📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, Nova Sport 2 CZ, Sport TV2 Portugal, beIN Sports 1 France, Arena Sport 1 Serbia, Diema Sport 2 Bulgaria, beIN Sports MENA 7, beIN Sports MENA English 2, ESPN4 Brazil, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/577.png
+⚽ Score: 0 | 0
 --------------------------------------------------
