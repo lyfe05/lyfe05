@@ -59,6 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3478.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/23533.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 32'
 --------------------------------------------------
 🏟️ Match: Al Wasl Vs Esteghlal
 🕒 Start: 2025-09-17 19:00 (GMT+3)
@@ -67,6 +68,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4477.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4349.png
 ⚽ Score: 2 | 0
+⏳ Elapsed time: 32'
 --------------------------------------------------
 🏟️ Match: Olympiacos Vs Pafos
 🕒 Start: 2025-09-17 19:45 (GMT+3)
