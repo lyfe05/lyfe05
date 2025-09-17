@@ -131,7 +131,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
 ⚽ Score: 3 | 1
-⏳ Elapsed time: 81'
+⏳ Elapsed time: 90+4'
 --------------------------------------------------
 🏟️ Match: Liverpool FC Vs Atlético de Madrid
 🕒 Start: 2025-09-17 22:00 (GMT+3)
@@ -140,7 +140,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3.png
 ⚽ Score: 2 | 2
-⏳ Elapsed time: 80'
+⏳ Elapsed time: 90+3'
 --------------------------------------------------
 🏟️ Match: PSG Vs Atalanta
 🕒 Start: 2025-09-17 22:00 (GMT+3)
@@ -158,5 +158,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/577.png
 ⚽ Score: 1 | 2
-⏳ Elapsed time: 83'
+⏳ Elapsed time: 90+6'
 --------------------------------------------------
