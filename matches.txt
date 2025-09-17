@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2312.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1195.png
 ⚽ Score: 0 | 3
-⏳ Elapsed time: 67'
+⏳ Elapsed time: 81'
 --------------------------------------------------
 🏟️ Match: Nam Định Vs Ratchaburi
 🕒 Start: 2025-09-17 15:15 (GMT+3)
@@ -32,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/14565.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/14562.png
 ⚽ Score: 3 | 1
-⏳ Elapsed time: 67'
+⏳ Elapsed time: 80'
 --------------------------------------------------
 🏟️ Match: Arkadag Vs Andijan
 🕒 Start: 2025-09-17 16:45 (GMT+3)
@@ -41,6 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/53091.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/20977.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 9'
 --------------------------------------------------
 🏟️ Match: FC Goa Vs Zawra'a
 🕒 Start: 2025-09-17 16:45 (GMT+3)
@@ -49,6 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3985.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/12468.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 9'
 --------------------------------------------------
 🏟️ Match: Al Ahli Doha Vs Khaldiya
 🕒 Start: 2025-09-17 19:00 (GMT+3)
