@@ -85,7 +85,7 @@
 📺 Channels: TNT Sports Extra, Discovery+, Paramount+, TNT Sports 9 UK, TV2 Direkte Norway, Sky Sport Austria 3, Nova Sport 3 CZ, Movistar Liga de Campeones 3, CANAL + EXTRA 2 Poland, Sky Sport 254 IT, DAZN1 DE, DAZN Eleven 2 Portugal, Canal+ Sport France, Sky Sport Arena IT, TUDN USA, UniMás, Digi Sport 2 Romania, Prima Sport 2 Romania, beIN Sports 3 Malaysia, Ziggo Sport 3 NL, TV3 Sport Denmark, Arena 2 Premium Serbia, Arena Sport 3 Croatia, V Sport Premium, Ring bg, Space Brazil, ESPN3 Argentina, SuperSport Variety 3, beIN Sports MENA 4, 5Stars Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/141.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2394.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 2
 ⏳ Elapsed time: 89'
 --------------------------------------------------
 🏟️ Match: Feyenoord Vs Fortuna Sittard
@@ -94,7 +94,7 @@
 📺 Channels: TrillerTV+, ESPN 1 NL, Sportsnet World, Sportdigital FUSSBALL DE, Polsat Sport 2 Poland, Arena 5 Premium Serbia, Nova Sports Start Greece, ESPN3 Brazil, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/736.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2020.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 35'
 --------------------------------------------------
 🏟️ Match: Al-Nassr Vs Istiklol
@@ -103,7 +103,7 @@
 📺 Channels: The AFC Hub, ESPN 2 NL, Canal 11 Portugal, Astro Arena Bola 2, ESPN2 Mexico, ESPN2 Brazil, Nova Sport Bulgaria, Sportklub 3 Croatia, beIN Sports MENA 2, Sport 3 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2329.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4911.png
-⚽ Score: 0 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 21'
 --------------------------------------------------
 🏟️ Match: Al-Muharraq SC Vs Wehdat
@@ -112,7 +112,7 @@
 📺 Channels: The AFC Hub, beIN Sports MENA 6
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19467.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3040.png
-⚽ Score: 0 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 21'
 --------------------------------------------------
 🏟️ Match: Ajax Vs Inter
