@@ -76,7 +76,7 @@
 📺 Channels: TNT Sports Extra, Discovery+, Sporting TV Portugal, Canal 11 Portugal, DAZN Eleven 1 Portugal, Paramount+, TNT Sports 6 UK, Sport TV5 Portugal, Sky Sport Austria 5, Nova Sport 5 CZ, Movistar Liga de Campeones 5, CANAL+ EXTRA 3 Poland, TRT Spor Turkey, Sky Sport 255 IT, Canal+ Live 4 France, Blue Sport 6 Live, Prima Sport 4 Romania, Ziggo Sport 5 NL, Arena 4 Premium Serbia, MAX Sport 4 Bulgaria, Space Brazil, ESPN3 Argentina, SuperSport Variety 2, beIN Sports MENA 4, Sport 5 Stars Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/140.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2431.png
-⚽ Score: 4 | 0
+⚽ Score: 4 | 1
 ⏳ Elapsed time: 84'
 --------------------------------------------------
 🏟️ Match: Eintracht Frankfurt Vs Galatasaray
@@ -103,6 +103,6 @@
 📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium, Canal+ Live 1 France, 5 PLUS Israel, Paramount+, TNT Sports 1 UK, RTE 2 Ireland, Movistar Liga de Campeones, Sky Sport Austria 3, Nova Sport 4 CZ, CANAL+ EXTRA 1 Poland, TRT Spor Turkey, Canal+ Sport 2 Afrique, DAZN Eleven 2 Portugal, Canal+ Foot France, Blue Sport 4 Live, TUDN USA, UniMás, Ziggo Sport 1 NL, SONY TEN 2 HD, SONY TEN 3 HD, beIN Sports Malaysia, Sky Sport 253 IT, Sky Sport Calcio IT, Digi Sport 1 Romania, Prima Sport 1 Romania, Kanal A Slovenia, Arena 2 Premium Serbia, TV3+ HD Denmark, Arena Sport 3 Croatia, bTV Action Bulgaria, TNT Brasil, Fox Sports Argentina, SuperSport Variety 3, beIN Sports MENA 1, beIN Sports MENA English 1, 5 SPORT Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/207.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5.png
-⚽ Score: 0 | 2
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 83'
 --------------------------------------------------
