@@ -76,7 +76,7 @@
 📺 Channels: TNT Sports Extra, Discovery+, Sporting TV Portugal, Canal 11 Portugal, DAZN Eleven 1 Portugal, Paramount+, TNT Sports 6 UK, Sport TV5 Portugal, Sky Sport Austria 5, Nova Sport 5 CZ, Movistar Liga de Campeones 5, CANAL+ EXTRA 3 Poland, TRT Spor Turkey, Sky Sport 255 IT, Canal+ Live 4 France, Blue Sport 6 Live, Prima Sport 4 Romania, Ziggo Sport 5 NL, Arena 4 Premium Serbia, MAX Sport 4 Bulgaria, Space Brazil, ESPN3 Argentina, SuperSport Variety 2, beIN Sports MENA 4, Sport 5 Stars Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/140.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2431.png
-⚽ Score: 1 | 0
+⚽ Score: 4 | 0
 ⏳ Elapsed time: 68'
 --------------------------------------------------
 🏟️ Match: Eintracht Frankfurt Vs Galatasaray
@@ -85,7 +85,7 @@
 📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 5 UK, CBS Sports Network USA, TRT 1 Turkey, DAZN 1 DE, Sky Sport Austria 4, Nova Sport 3 CZ, Movistar Liga de Campeones 3, DAZN Eleven 3 Portugal, Canal+ 360 Poland, Sky Sport 254 IT, Canal+ Live 3 France, Blue Sport 5 Live, Ziggo Sport 3 NL, beIN Sports 2 Malaysia, Digi Sport 3 Romania, Prima Sport 3 Romania, See Denmark, Arena 3 Premium Serbia, Arena Sport 4 Croatia, Ring bg, V Sport Football, ESPN2 Argentina, SuperSport Action, beIN Sports MENA 3
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/156.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/228.png
-⚽ Score: 3 | 1
+⚽ Score: 5 | 1
 ⏳ Elapsed time: 65'
 --------------------------------------------------
 🏟️ Match: Manchester City Vs Napoli
@@ -94,7 +94,7 @@
 📺 Channels: TNT Sports 3, CITY+, Discovery+ Premium, UEFA.tv, TNT Sports 2, TNT Sports 3 UK, Movistar Liga de Campeones, DAZN Eleven 1 Portugal, CANAL + EXTRA 1 Poland, Canal+ Sport 5 Poland, Ziggo Sport 1 NL, beIN Sports Malaysia, SuperSport Football, SuperSport MáXimo 1, beIN Sports MENA 3, beIN Sports MENA English 2, Sport 5 Stars Israel, Paramount+, TNT Sports 2 UK, Sky Sport 252 IT, Sky Sport Uno IT, Sky Sport Austria 2, Nova Sport 6 CZ, Movistar Liga de Campeones 2, CANAL + EXTRA 2 Poland, TRT Spor Turkey, Canal+ Live 2 France, Blue Sport D 2, SONY TEN 1 HD, Ziggo Sport 2 NL, beIN Sports 3 Malaysia, Digi Sport 2 Romania, Prima Sport 2 Romania, Cosmote Sport 2 Greece, V Sport Premium, Arena 1 Premium Serbia, TV3 Sport Denmark, HRT 2 Croatia, Arena Sport 1 Croatia, MAX Sport 3 Bulgaria, ESPN Argentina, SuperSport Premier League, SuperSport MaXimo 1, beIN Sports MENA 2, 5 PLUS Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/209.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/191.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Newcastle United Vs Barcelona
@@ -103,6 +103,6 @@
 📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium, Canal+ Live 1 France, 5 PLUS Israel, Paramount+, TNT Sports 1 UK, RTE 2 Ireland, Movistar Liga de Campeones, Sky Sport Austria 3, Nova Sport 4 CZ, CANAL+ EXTRA 1 Poland, TRT Spor Turkey, Canal+ Sport 2 Afrique, DAZN Eleven 2 Portugal, Canal+ Foot France, Blue Sport 4 Live, TUDN USA, UniMás, Ziggo Sport 1 NL, SONY TEN 2 HD, SONY TEN 3 HD, beIN Sports Malaysia, Sky Sport 253 IT, Sky Sport Calcio IT, Digi Sport 1 Romania, Prima Sport 1 Romania, Kanal A Slovenia, Arena 2 Premium Serbia, TV3+ HD Denmark, Arena Sport 3 Croatia, bTV Action Bulgaria, TNT Brasil, Fox Sports Argentina, SuperSport Variety 3, beIN Sports MENA 1, beIN Sports MENA English 1, 5 SPORT Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/207.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 67'
 --------------------------------------------------
