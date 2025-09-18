@@ -58,7 +58,7 @@
 📺 Channels: TNT Sports 3, Discovery+ Premium, Paramount+, TNT Sports 3 UK, Club RTL Belgium, Canal+ Foot France, Canal+ Live 1 France, Sky Sport Austria 3, Nova Sport 3 CZ, TRT 1 Turkey, Movistar Liga de Campeones 3, DAZN Eleven 2 Portugal, Blue Sport 2 Live, CANAL + EXTRA 2 Poland, Digi Sport 2 Romania, Prima Sport 2 Romania, Sky Sport 254 IT, Sky Sport Arena IT, Ziggo Sport 3 NL, beIN Sports 3 Malaysia, TV3 Sport Denmark, Arena 1 Premium Serbia, Arena Sport 3 Croatia, bTV Action Bulgaria, Space Brazil, ESPN2 Argentina, SuperSport Premier League, SuperSport MaXimo 1, beIN Sports MENA 2, 5Sport Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/554.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/259.png
-⚽ Score: 4 | 0
+⚽ Score: 4 | 1
 ⏳ Elapsed time: 90+1'
 --------------------------------------------------
 🏟️ Match: FC Copenhagen Vs Bayer Leverkusen
@@ -67,7 +67,7 @@
 📺 Channels: TNT Sports Extra, Discovery+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/351.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/162.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 2
 ⏳ Elapsed time: 90+4'
 --------------------------------------------------
 🏟️ Match: Sporting CP Vs Kairat
