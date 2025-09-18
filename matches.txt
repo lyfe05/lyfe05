@@ -77,6 +77,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/140.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2431.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 15'
 --------------------------------------------------
 🏟️ Match: Eintracht Frankfurt Vs Galatasaray
 🕒 Start: 2025-09-18 22:00 (GMT+3)
@@ -93,6 +94,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/209.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/191.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 16'
 --------------------------------------------------
 🏟️ Match: Newcastle United Vs Barcelona
 🕒 Start: 2025-09-18 22:00 (GMT+3)
@@ -101,4 +103,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/207.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 16'
 --------------------------------------------------
