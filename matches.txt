@@ -86,7 +86,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/156.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/228.png
 ⚽ Score: 5 | 1
-⏳ Elapsed time: 90+4'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Manchester City Vs Napoli
 🕒 Start: 2025-09-18 22:00 (GMT+3)
@@ -104,5 +104,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/207.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5.png
 ⚽ Score: 1 | 2
-⏳ Elapsed time: 90+6'
+⏳ Elapsed time: Full time
 --------------------------------------------------
