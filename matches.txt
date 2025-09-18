@@ -32,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2319.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/30390.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 34'
+⏳ Elapsed time: 48'
 --------------------------------------------------
 🏟️ Match: Persib Bandung Vs Lion City
 🕒 Start: 2025-09-18 15:15 (GMT+3)
@@ -41,7 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3864.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6383.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 34'
+⏳ Elapsed time: 47'
 --------------------------------------------------
 🏟️ Match: BG Pathum United Vs Pohang Steelers
 🕒 Start: 2025-09-18 15:15 (GMT+3)
@@ -50,7 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4815.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2649.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 33'
+⏳ Elapsed time: 49'
 --------------------------------------------------
 🏟️ Match: Club Brugge Vs Monaco
 🕒 Start: 2025-09-18 19:45 (GMT+3)
