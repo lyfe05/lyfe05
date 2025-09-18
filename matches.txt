@@ -5,7 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17003.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18950.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 36'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Selangor Vs Bangkok United
 🕒 Start: 2025-09-18 13:00 (GMT+3)
@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3831.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4577.png
 ⚽ Score: 1 | 3
-⏳ Elapsed time: 36'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Kaya Vs Tampines
 🕒 Start: 2025-09-18 13:00 (GMT+3)
@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19112.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6336.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 37'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Beijing Guoan Vs Cong An Ha Noi
 🕒 Start: 2025-09-18 15:15 (GMT+3)
