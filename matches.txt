@@ -59,7 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/554.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/259.png
 ⚽ Score: 4 | 1
-⏳ Elapsed time: 90+1'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: FC Copenhagen Vs Bayer Leverkusen
 🕒 Start: 2025-09-18 19:45 (GMT+3)
@@ -68,7 +68,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/351.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/162.png
 ⚽ Score: 2 | 2
-⏳ Elapsed time: 90+4'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Sporting CP Vs Kairat
 🕒 Start: 2025-09-18 22:00 (GMT+3)
