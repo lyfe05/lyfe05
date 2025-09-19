@@ -22,7 +22,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 3, ESPN Select, Eleven Sports 3 Poland, beIN Sports 3 Malaysia, Arena 2 Premium Serbia, Diema Sport 3 Bulgaria, Nova Sport 4 CZ, Sportklub 2 Croatia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/161.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/336.png
-⚽ Score: 3 | 0
+⚽ Score: 3 | 1
 ⏳ Elapsed time: 52'
 --------------------------------------------------
 🏟️ Match: Arminia Bielefeld Vs Greuther Fürth
@@ -31,7 +31,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 4, ESPN Select, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Eleven Sports 2 Poland, Digi Sport 4 Romania, Arena 3 Premium Serbia, Prima Sport 2 Romania, Nova Sports Prime Greece, Nova Sport Bulgaria, Nova Sport 5 CZ, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/164.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/165.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 51'
 --------------------------------------------------
 🏟️ Match: Sparta Rotterdam Vs FC Twente
