@@ -22,7 +22,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 3, ESPN Select, Eleven Sports 3 Poland, beIN Sports 3 Malaysia, Arena 2 Premium Serbia, Diema Sport 3 Bulgaria, Nova Sport 4 CZ, Sportklub 2 Croatia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/161.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/336.png
-⚽ Score: 3 | 1
+⚽ Score: 4 | 1
 ⏳ Elapsed time: 65'
 --------------------------------------------------
 🏟️ Match: Arminia Bielefeld Vs Greuther Fürth
@@ -48,7 +48,7 @@
 📺 Channels: TrillerTV+, Thmanyah, KTV Sport, Dubai Sports 1, Abu Dhabi Sports 1, Jordan TV Sport, BandSports Brasil, Fox Soccer Plus, Movistar Liga de Campeones, Sport TV4 Portugal, FOX Deportes, MAX Sport 2 Bulgaria, Sportklub 3 Croatia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2339.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2328.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: VfB Stuttgart Vs St. Pauli
 🕒 Start: 2025-09-19 21:30 (GMT+3)
