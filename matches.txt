@@ -40,7 +40,7 @@
 📺 Channels: TrillerTV+, ESPN 2 NL, Arena Sport 2 Serbia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2019.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/550.png
-⚽ Score: 1 | 4
+⚽ Score: 1 | 5
 ⏳ Elapsed time: 79'
 --------------------------------------------------
 🏟️ Match: Al-Ahli Vs Al-Hilal
@@ -49,7 +49,7 @@
 📺 Channels: TrillerTV+, Thmanyah, KTV Sport, Dubai Sports 1, Abu Dhabi Sports 1, Jordan TV Sport, BandSports Brasil, Fox Soccer Plus, Movistar Liga de Campeones, Sport TV4 Portugal, FOX Deportes, MAX Sport 2 Bulgaria, Sportklub 3 Croatia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2339.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2328.png
-⚽ Score: 0 | 3
+⚽ Score: 1 | 3
 ⏳ Elapsed time: 72'
 --------------------------------------------------
 🏟️ Match: VfB Stuttgart Vs St. Pauli
@@ -58,7 +58,7 @@
 📺 Channels: Bundesliga YouTube, The Overlap YouTube, That's Football YouTube, BBC iPlayer, BBC Sport Website, Sky Sport Bundesliga 1, ESPN Select, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Polsat Sport 1 Poland, Eleven Sports 1 Poland, beIN Sports 2 France, Sky Sport Calcio IT, beIN Sports 3 Malaysia, Digi Sport 4 Romania, TV3 MAX Denmark, Arena 2 Premium Serbia, SONY TEN 2 HD, Prima Sport 4 Romania, Sportklub 2 Croatia, Nova Sports 3 Greece, Diema Sport 3 Bulgaria, SporTV BR, ESPN3 Argentina, Nova Sport 3 CZ, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/31.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/152.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 49'
 --------------------------------------------------
 🏟️ Match: Deportivo La Coruña Vs Huesca
@@ -103,7 +103,7 @@
 📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, CBS Sports Golazo USA, Sky Sports Football UK, Sky Sports Main Event UK, Sport TV6 Portugal, Astro Football, V Sport Premium, ESPN3 Mexico, Diema Sport 2 Bulgaria, SuperSport Variety 3, beIN Sports MENA 2, beIN Sports MENA English 1, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/573.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/196.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 39'
 --------------------------------------------------
 🏟️ Match: Rio Ave Vs Porto
@@ -112,6 +112,6 @@
 📺 Channels: TrillerTV+, Sport TV1 Portugal, GOLTV USA, Sportdigital FUSSBALL DE, Eleven Sports 2 Poland, beIN Sports 10 MAX France, Ziggo Sport 5 NL, ESPN4 Brazil, Arena 5 Premium Serbia, Sportklub 1 Croatia, Ring bg
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1189.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/13.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 23'
 --------------------------------------------------
