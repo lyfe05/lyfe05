@@ -22,3 +22,6 @@ K-League 2
 Major League Soccer
 K League 1
 MLS Next Pro
+Scottish League Cup
+Scottish Championship
+Premier Division
