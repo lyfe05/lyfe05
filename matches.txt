@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/161.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/336.png
 ⚽ Score: 4 | 1
-⏳ Elapsed time: 65'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Arminia Bielefeld Vs Greuther Fürth
 🕒 Start: 2025-09-19 19:30 (GMT+3)
@@ -32,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/164.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/165.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 64'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Sparta Rotterdam Vs FC Twente
 🕒 Start: 2025-09-19 21:00 (GMT+3)
@@ -41,6 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2019.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/550.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 35'
 --------------------------------------------------
 🏟️ Match: Al-Ahli Vs Al-Hilal
 🕒 Start: 2025-09-19 21:00 (GMT+3)
@@ -49,6 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2339.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2328.png
 ⚽ Score: 0 | 1
+⏳ Elapsed time: 34'
 --------------------------------------------------
 🏟️ Match: VfB Stuttgart Vs St. Pauli
 🕒 Start: 2025-09-19 21:30 (GMT+3)
@@ -57,6 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/31.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/152.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 5'
 --------------------------------------------------
 🏟️ Match: Deportivo La Coruña Vs Huesca
 🕒 Start: 2025-09-19 21:30 (GMT+3)
@@ -65,6 +68,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/214.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/694.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 4'
 --------------------------------------------------
 🏟️ Match: Lecce Vs Cagliari
 🕒 Start: 2025-09-19 21:45 (GMT+3)
