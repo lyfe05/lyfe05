@@ -31,7 +31,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 4, ESPN Select, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Eleven Sports 2 Poland, Digi Sport 4 Romania, Arena 3 Premium Serbia, Prima Sport 2 Romania, Nova Sports Prime Greece, Nova Sport Bulgaria, Nova Sport 5 CZ, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/164.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/165.png
-⚽ Score: 1 | 1
+⚽ Score: 1 | 3
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Sparta Rotterdam Vs FC Twente
@@ -40,7 +40,7 @@
 📺 Channels: TrillerTV+, ESPN 2 NL, Arena Sport 2 Serbia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2019.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/550.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 35'
 --------------------------------------------------
 🏟️ Match: Al-Ahli Vs Al-Hilal
@@ -49,7 +49,7 @@
 📺 Channels: TrillerTV+, Thmanyah, KTV Sport, Dubai Sports 1, Abu Dhabi Sports 1, Jordan TV Sport, BandSports Brasil, Fox Soccer Plus, Movistar Liga de Campeones, Sport TV4 Portugal, FOX Deportes, MAX Sport 2 Bulgaria, Sportklub 3 Croatia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2339.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2328.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 3
 ⏳ Elapsed time: 34'
 --------------------------------------------------
 🏟️ Match: VfB Stuttgart Vs St. Pauli
@@ -67,7 +67,7 @@
 📺 Channels: Premier Sports 2, LaLiga Hypermotion, GOL PLAY ES, Viaplay Sports 2 UK, Nova Sports Start Greece
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/214.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/694.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 4'
 --------------------------------------------------
 🏟️ Match: Lecce Vs Cagliari
