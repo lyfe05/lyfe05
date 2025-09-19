@@ -5,7 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5546.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2452.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 44'
+⏳ Elapsed time: 59'
 --------------------------------------------------
 🏟️ Match: Al-Fayha Vs Al-Shabab
 🕒 Start: 2025-09-19 18:35 (GMT+3)
@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7900.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2336.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 24'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Kaiserslautern Vs Preussen Münster
 🕒 Start: 2025-09-19 19:30 (GMT+3)
@@ -23,6 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/161.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/336.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 2'
 --------------------------------------------------
 🏟️ Match: Arminia Bielefeld Vs Greuther Fürth
 🕒 Start: 2025-09-19 19:30 (GMT+3)
@@ -31,6 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/164.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/165.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 2'
 --------------------------------------------------
 🏟️ Match: Sparta Rotterdam Vs FC Twente
 🕒 Start: 2025-09-19 21:00 (GMT+3)
