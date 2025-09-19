@@ -5,6 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5546.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2452.png
 ⚽ Score: 1 | 0
+⏳ Elapsed time: 31'
 --------------------------------------------------
 🏟️ Match: Al-Fayha Vs Al-Shabab
 🕒 Start: 2025-09-19 18:35 (GMT+3)
@@ -13,6 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7900.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2336.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 11'
 --------------------------------------------------
 🏟️ Match: Kaiserslautern Vs Preussen Münster
 🕒 Start: 2025-09-19 19:30 (GMT+3)
