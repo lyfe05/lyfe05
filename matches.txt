@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/161.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/336.png
 ⚽ Score: 3 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 52'
 --------------------------------------------------
 🏟️ Match: Arminia Bielefeld Vs Greuther Fürth
 🕒 Start: 2025-09-19 19:30 (GMT+3)
@@ -32,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/164.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/165.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 51'
 --------------------------------------------------
 🏟️ Match: Sparta Rotterdam Vs FC Twente
 🕒 Start: 2025-09-19 21:00 (GMT+3)
