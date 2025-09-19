@@ -95,7 +95,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/691.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/223.png
 ⚽ Score: 3 | 1
-⏳ Elapsed time: 85'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Middlesbrough Vs West Bromwich Albion
 🕒 Start: 2025-09-19 22:00 (GMT+3)
@@ -104,7 +104,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/573.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/196.png
 ⚽ Score: 2 | 1
-⏳ Elapsed time: 90+3'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Rio Ave Vs Porto
 🕒 Start: 2025-09-19 22:15 (GMT+3)
@@ -113,5 +113,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1189.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/13.png
 ⚽ Score: 0 | 3
-⏳ Elapsed time: 76'
+⏳ Elapsed time: Full time
 --------------------------------------------------
