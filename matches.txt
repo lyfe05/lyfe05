@@ -40,7 +40,7 @@
 📺 Channels: TrillerTV+, ESPN 2 NL, Arena Sport 2 Serbia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2019.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/550.png
-⚽ Score: 1 | 1
+⚽ Score: 1 | 4
 ⏳ Elapsed time: 53'
 --------------------------------------------------
 🏟️ Match: Al-Ahli Vs Al-Hilal
@@ -58,7 +58,7 @@
 📺 Channels: Bundesliga YouTube, The Overlap YouTube, That's Football YouTube, BBC iPlayer, BBC Sport Website, Sky Sport Bundesliga 1, ESPN Select, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Polsat Sport 1 Poland, Eleven Sports 1 Poland, beIN Sports 2 France, Sky Sport Calcio IT, beIN Sports 3 Malaysia, Digi Sport 4 Romania, TV3 MAX Denmark, Arena 2 Premium Serbia, SONY TEN 2 HD, Prima Sport 4 Romania, Sportklub 2 Croatia, Nova Sports 3 Greece, Diema Sport 3 Bulgaria, SporTV BR, ESPN3 Argentina, Nova Sport 3 CZ, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/31.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/152.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 43'
 --------------------------------------------------
 🏟️ Match: Deportivo La Coruña Vs Huesca
@@ -67,7 +67,7 @@
 📺 Channels: Premier Sports 2, LaLiga Hypermotion, GOL PLAY ES, Viaplay Sports 2 UK, Nova Sports Start Greece
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/214.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/694.png
-⚽ Score: 1 | 0
+⚽ Score: 3 | 0
 ⏳ Elapsed time: 42'
 --------------------------------------------------
 🏟️ Match: Lecce Vs Cagliari
@@ -76,7 +76,7 @@
 📺 Channels: DAZN, DAZN Zona IT, Paramount+, Sport TV2 Portugal, Eleven Sports 4 Poland, Digi Sport 3 Romania, Match! Football 1 Russia, Astro Grandstand, Arena 3 Premium Serbia, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, MAX Sport 3 Bulgaria, Prima Sport 3 Romania, SuperSport Football, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/190.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/185.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: Lyon Vs Angers
@@ -94,7 +94,7 @@
 📺 Channels: Premier Sports 1, DAZN LaLiga, Viaplay Sports 1 UK, ESPN Select, Premier Sports 1 Ireland, Nova Sport 5 CZ, DAZN1 DE, DAZN Eleven 2 Portugal, Eleven Sports 3 Poland, Ziggo Sport 2 NL, Digi Sport 2 Romania, Match TV Russia, Match! Football 2 Russia, ESPN Deportes, Arena Sport 1 Croatia, TV2 Sport X Denmark, Arena 1 Premium Serbia, Nova Sports Prime Greece, TV4 Fotball, MAX Sport 4 Bulgaria, ESPN Brazil, SuperSport Laliga, SuperSport MaXimo 1, beIN Sports MENA 3
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/691.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/223.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 9'
 --------------------------------------------------
 🏟️ Match: Middlesbrough Vs West Bromwich Albion
@@ -112,5 +112,5 @@
 📺 Channels: TrillerTV+, Sport TV1 Portugal, GOLTV USA, Sportdigital FUSSBALL DE, Eleven Sports 2 Poland, beIN Sports 10 MAX France, Ziggo Sport 5 NL, ESPN4 Brazil, Arena 5 Premium Serbia, Sportklub 1 Croatia, Ring bg
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1189.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/13.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
