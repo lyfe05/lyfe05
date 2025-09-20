@@ -5,7 +5,6 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/792.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/144.png
 ⚽ Score: 0 | 2
-⏳ Elapsed time: 78'
 --------------------------------------------------
 🏟️ Match: Hertha BSC Vs Paderborn
 🕒 Start: 2025-09-20 14:00 (GMT+3)
@@ -14,7 +13,6 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/168.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/169.png
 ⚽ Score: 0 | 2
-⏳ Elapsed time: 72'
 --------------------------------------------------
 🏟️ Match: Eintracht Braunschweig Vs Elversberg
 🕒 Start: 2025-09-20 14:00 (GMT+3)
@@ -23,7 +21,6 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/291.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/329.png
 ⚽ Score: 1 | 2
-⏳ Elapsed time: 74'
 --------------------------------------------------
 🏟️ Match: Liverpool FC Vs Everton
 🕒 Start: 2025-09-20 14:30 (GMT+3)
@@ -32,7 +29,6 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/197.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: 49'
 --------------------------------------------------
 🏟️ Match: Birmingham City Vs Swansea City
 🕒 Start: 2025-09-20 14:30 (GMT+3)
@@ -41,7 +37,6 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/205.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/576.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Leicester City Vs Coventry City
 🕒 Start: 2025-09-20 14:30 (GMT+3)
@@ -50,7 +45,6 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/572.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/566.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 50'
 --------------------------------------------------
 🏟️ Match: Queens Park Rangers Vs Stoke City
 🕒 Start: 2025-09-20 14:30 (GMT+3)
@@ -59,7 +53,6 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/582.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/201.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 46'
 --------------------------------------------------
 🏟️ Match: Girona Vs Levante
 🕒 Start: 2025-09-20 15:00 (GMT+3)
@@ -68,79 +61,6 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/685.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/218.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 35'
---------------------------------------------------
-🏟️ Match: Kickers Offenbach Vs SGV Freiberg
-🕒 Start: 2025-09-20 15:00 (GMT+3)
-📍 Tournament: Regionalliga Südwest
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/279.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5186.png
-⚽ Score: 1 | 0
-⏳ Elapsed time: 34'
---------------------------------------------------
-🏟️ Match: Freiburg II Vs Barockstadt Fulda-Lehnerz
-🕒 Start: 2025-09-20 15:00 (GMT+3)
-📍 Tournament: Regionalliga Südwest
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/978.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/15076.png
-⚽ Score: 1 | 0
-⏳ Elapsed time: 35'
---------------------------------------------------
-🏟️ Match: Hessen Kassel Vs Stuttgarter Kickers
-🕒 Start: 2025-09-20 15:00 (GMT+3)
-📍 Tournament: Regionalliga Südwest
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/884.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/816.png
-⚽ Score: 1 | 0
-⏳ Elapsed time: 36'
---------------------------------------------------
-🏟️ Match: Astoria Walldorf Vs TSV Schott Mainz
-🕒 Start: 2025-09-20 15:00 (GMT+3)
-📍 Tournament: Regionalliga Südwest
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2418.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6806.png
-⚽ Score: 1 | 0
-⏳ Elapsed time: 37'
---------------------------------------------------
-🏟️ Match: Mainz 05 II Vs Homburg
-🕒 Start: 2025-09-20 15:00 (GMT+3)
-📍 Tournament: Regionalliga Südwest
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/799.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/784.png
-⚽ Score: 0 | 0
-⏳ Elapsed time: 34'
---------------------------------------------------
-🏟️ Match: Eintracht Trier Vs SV Sandhausen
-🕒 Start: 2025-09-20 15:00 (GMT+3)
-📍 Tournament: Regionalliga Südwest
-📺 Channels: Bundesliga YouTube
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/320.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/287.png
-⚽ Score: 0 | 0
-⏳ Elapsed time: 36'
---------------------------------------------------
-🏟️ Match: Bahlinger SC Vs FSV Frankfurt
-🕒 Start: 2025-09-20 15:00 (GMT+3)
-📍 Tournament: Regionalliga Südwest
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1896.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/176.png
-⚽ Score: 0 | 0
-⏳ Elapsed time: 35'
---------------------------------------------------
-🏟️ Match: TSG Balingen Vs Bayern Alzenau
-🕒 Start: 2025-09-20 15:00 (GMT+3)
-📍 Tournament: Regionalliga Südwest
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5189.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/979.png
-⚽ Score: 0 | 0
-⏳ Elapsed time: 34'
 --------------------------------------------------
 🏟️ Match: Bologna Vs Genoa
 🕒 Start: 2025-09-20 16:00 (GMT+3)
@@ -497,7 +417,7 @@
 🏟️ Match: Al-Hazem Vs Al-Fateh
 🕒 Start: 2025-09-20 18:40 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Dubai Sports 1, Abu Dhabi Sports 1, Jordan TV Sport, Thmanyah, KTV Sport, BandSports Brasil, Fox Soccer Plus, Movistar Liga de Campeones, Sport TV4 Portugal, FOX Deportes, MAX Sport 2 Bulgaria, Sportklub 3 Croatia, Alkass Two, Alkass One, beIN Sports HD 7, Alkass Four, Sports Arabia 9 HD, Sportdigital FUSSBALL DE, #Vamos ES, Polsat Sport 2 Poland, Sportv Brazil, Sportklub 2 Croatia
+📺 Channels: TrillerTV+, Jordan TV Sport, Alkass Two, Alkass One, beIN Sports HD 7, Thmanyah, BandSports Brasil, Alkass Four, Sports Arabia 9 HD, Fox Soccer Plus, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, #Vamos ES, Sport TV4 Portugal, Polsat Sport 2 Poland, Sportv Brazil, Sportklub 2 Croatia, MAX Sport 2 Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10025.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2331.png
 ⚽ Score: 0 | 0
@@ -505,7 +425,7 @@
 🏟️ Match: Al-Najma Vs Al-Ittihad
 🕒 Start: 2025-09-20 18:40 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Dubai Sports 1, Abu Dhabi Sports 1, Jordan TV Sport, Thmanyah, KTV Sport, BandSports Brasil, Fox Soccer Plus, Movistar Liga de Campeones, Sport TV4 Portugal, FOX Deportes, MAX Sport 2 Bulgaria, Sportklub 3 Croatia, Alkass Two, Alkass One, beIN Sports HD 7, Alkass Four, Sports Arabia 9 HD, Sportdigital FUSSBALL DE, #Vamos ES, Polsat Sport 2 Poland, Sportv Brazil, Sportklub 2 Croatia
+📺 Channels: TrillerTV+, Jordan TV Sport, Alkass Two, Alkass One, beIN Sports HD 7, Thmanyah, BandSports Brasil, Alkass Four, Sports Arabia 9 HD, Fox Soccer Plus, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, #Vamos ES, Sport TV4 Portugal, Polsat Sport 2 Poland, Sportv Brazil, Sportklub 2 Croatia, MAX Sport 2 Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26213.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2335.png
 ⚽ Score: 0 | 0
@@ -585,7 +505,7 @@
 🏟️ Match: Al-Nassr Vs Al-Riyadh
 🕒 Start: 2025-09-20 21:00 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Dubai Sports 1, Abu Dhabi Sports 1, Jordan TV Sport, Thmanyah, KTV Sport, BandSports Brasil, Fox Soccer Plus, Movistar Liga de Campeones, Sport TV4 Portugal, FOX Deportes, MAX Sport 2 Bulgaria, Sportklub 3 Croatia, Alkass Two, Alkass One, beIN Sports HD 7, Alkass Four, Sports Arabia 9 HD, Sportdigital FUSSBALL DE, #Vamos ES, Polsat Sport 2 Poland, Sportv Brazil, Sportklub 2 Croatia
+📺 Channels: TrillerTV+, Jordan TV Sport, Alkass Two, Alkass One, beIN Sports HD 7, Thmanyah, BandSports Brasil, Alkass Four, Sports Arabia 9 HD, Fox Soccer Plus, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, #Vamos ES, Sport TV4 Portugal, Polsat Sport 2 Poland, Sportv Brazil, Sportklub 2 Croatia, MAX Sport 2 Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2329.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/29027.png
 ⚽ Score: 0 | 0
