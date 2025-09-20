@@ -103,7 +103,7 @@
 📺 Channels: Sky Sport Bundesliga 1, ESPN Select, Nova Sport 3 CZ, DAZN Eleven 3 Portugal, Eleven Sports 1 Poland, beIN Sports 6 MAX France, Digi Sport 1 Romania, Prima Sport 1 Romania, beIN Sports 3 Malaysia, Arena Sport 2 Serbia, Nova Sports 3 Greece, Sportklub 1 Croatia, Sportv Brazil, See Denmark, ESPN2 Argentina, Diema Sport 3 Bulgaria, Sport 3 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/158.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 4
 ⏳ Elapsed time: 90+8'
 --------------------------------------------------
 🏟️ Match: Hamburg Vs Heidenheim
@@ -139,7 +139,7 @@
 📺 Channels: Not Televised, Hub Premier, USA Network, NBC Universo USA, Sky Sport 6 NZ, DAZN2 ES, Sky Sport Mix DE, Sky Sport Calcio IT, DAZN2 Spain, Canal+ Live 9 France, Arena Sport 1 Serbia, Nova Sports 5 Greece, Arena Sport 4 Croatia, V Sport Football, SuperSport Variety 3, SuperSport MaXimo 1, beIN Sports MENA 6, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/198.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/567.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 72'
 --------------------------------------------------
 🏟️ Match: Wolverhampton Wanderers Vs Leeds United
@@ -175,7 +175,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/276.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/615.png
-⚽ Score: 1 | 0
+⚽ Score: 3 | 0
 ⏳ Elapsed time: 69'
 --------------------------------------------------
 🏟️ Match: Norwich City Vs Wrexham
@@ -184,7 +184,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/575.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/617.png
-⚽ Score: 1 | 3
+⚽ Score: 2 | 3
 ⏳ Elapsed time: 68'
 --------------------------------------------------
 🏟️ Match: Portsmouth Vs Sheffield Wednesday
@@ -202,7 +202,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/583.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/597.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 71'
 --------------------------------------------------
 🏟️ Match: Real Madrid Vs Espanyol
@@ -211,7 +211,7 @@
 📺 Channels: Premier Sports 1, M+ LALIGA TV, M+ LALIGA TV 2, LaLiga TV UK, Premier Sports 1 Ireland, Nova Sport 4 CZ, DAZN 2 DE, DAZN Eleven 2 Portugal, Canal+ Sport Poland, beIN Sports 2 France, Digi Sport 2 Romania, Prima Sport 2 Romania, beIN Sports Malaysia, Match TV Russia, Match! Football 2 Russia, Ziggo Sport 1 NL, Arena 2 Premium Serbia, Nova Sports 1 Greece, Arena Sport 3 Croatia, TV2 Sport X Denmark, MAX Sport 4 Bulgaria, Canal+ Sport 5 Afrique, ESPN Deportes, beIN Sports MENA 1, ESPN Brazil, TV4 Sport Live 1, SuperSport Laliga
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/215.png
-⚽ Score: 0 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 53'
 --------------------------------------------------
 🏟️ Match: Volendam Vs Excelsior
