@@ -13,7 +13,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 4, ESPN Select, DAZN Eleven 4 Portugal, Eleven Sports 2 Poland, Prima Sport 2 Romania, Arena Sport 1 Serbia, Sportklub 3 Croatia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/168.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/169.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 37'
 --------------------------------------------------
 🏟️ Match: Eintracht Braunschweig Vs Elversberg
@@ -22,7 +22,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 5, ESPN Select, Sky Sport Top Event DE, beIN Sports 3 Malaysia, Diema Sport Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/291.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/329.png
-⚽ Score: 1 | 1
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 39'
 --------------------------------------------------
 🏟️ Match: Liverpool FC Vs Everton
@@ -31,7 +31,7 @@
 📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium, TNT Sports 1 UK, Hub Premier 1, USA Network, NBC UNIVERSO USA, Sky Sport 8 NZ, beIN Sports 3 Turkey, DAZN1 Spain, Sky Sport Premier League DE, DAZN Eleven 1 Portugal, Sky Sport Calcio IT, Canal+ France, Canal+ Foot France, Astro Premier League, Astro Grandstand, Arena 1 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, ESPN Brazil, Diema Sport 2 Bulgaria, ESPN Argentina, SuperSport Premier League, beIN Sports MENA English 1, beIN Sports MENA 1, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/197.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 8'
 --------------------------------------------------
 🏟️ Match: Birmingham City Vs Swansea City
