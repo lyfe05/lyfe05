@@ -41,7 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/205.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/576.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 90+7'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Leicester City Vs Coventry City
 🕒 Start: 2025-09-20 14:30 (GMT+3)
@@ -68,7 +68,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/685.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/218.png
 ⚽ Score: 0 | 3
-⏳ Elapsed time: 64'
+⏳ Elapsed time: 90+1'
 --------------------------------------------------
 🏟️ Match: Bologna Vs Genoa
 🕒 Start: 2025-09-20 16:00 (GMT+3)
@@ -77,7 +77,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/183.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/189.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 25'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Werder Bremen Vs SC Freiburg
 🕒 Start: 2025-09-20 16:30 (GMT+3)
@@ -86,6 +86,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/150.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/159.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 25'
 --------------------------------------------------
 🏟️ Match: Augsburg Vs Mainz 05
 🕒 Start: 2025-09-20 16:30 (GMT+3)
@@ -94,6 +95,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/171.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/163.png
 ⚽ Score: 0 | 1
+⏳ Elapsed time: 25'
 --------------------------------------------------
 🏟️ Match: Hoffenheim Vs Bayern Munich
 🕒 Start: 2025-09-20 16:30 (GMT+3)
@@ -102,6 +104,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/158.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 26'
 --------------------------------------------------
 🏟️ Match: Hamburg Vs Heidenheim
 🕒 Start: 2025-09-20 16:30 (GMT+3)
@@ -110,6 +113,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/157.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/283.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 24'
 --------------------------------------------------
 🏟️ Match: Brighton & Hove Albion Vs Tottenham Hotspur
 🕒 Start: 2025-09-20 17:00 (GMT+3)
