@@ -5,6 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/792.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/144.png
 ⚽ Score: 0 | 2
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Hertha BSC Vs Paderborn
 🕒 Start: 2025-09-20 14:00 (GMT+3)
@@ -13,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/168.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/169.png
 ⚽ Score: 0 | 2
-⏳ Elapsed time: 90+9'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Eintracht Braunschweig Vs Elversberg
 🕒 Start: 2025-09-20 14:00 (GMT+3)
@@ -31,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/197.png
 ⚽ Score: 2 | 1
-⏳ Elapsed time: 76'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Birmingham City Vs Swansea City
 🕒 Start: 2025-09-20 14:30 (GMT+3)
@@ -40,7 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/205.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/576.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 72'
+⏳ Elapsed time: 90+7'
 --------------------------------------------------
 🏟️ Match: Leicester City Vs Coventry City
 🕒 Start: 2025-09-20 14:30 (GMT+3)
@@ -49,7 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/572.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/566.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 77'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Queens Park Rangers Vs Stoke City
 🕒 Start: 2025-09-20 14:30 (GMT+3)
@@ -58,7 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/582.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/201.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 73'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Girona Vs Levante
 🕒 Start: 2025-09-20 15:00 (GMT+3)
@@ -67,7 +68,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/685.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/218.png
 ⚽ Score: 0 | 2
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 64'
 --------------------------------------------------
 🏟️ Match: Bologna Vs Genoa
 🕒 Start: 2025-09-20 16:00 (GMT+3)
@@ -76,7 +77,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/183.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/189.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 0'
+⏳ Elapsed time: 25'
 --------------------------------------------------
 🏟️ Match: Werder Bremen Vs SC Freiburg
 🕒 Start: 2025-09-20 16:30 (GMT+3)
