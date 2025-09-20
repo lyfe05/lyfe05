@@ -20,7 +20,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 5, ESPN Select, Sky Sport Top Event DE, beIN Sports 3 Malaysia, Diema Sport Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/291.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/329.png
-⚽ Score: 1 | 2
+⚽ Score: 1 | 4
 --------------------------------------------------
 🏟️ Match: Liverpool FC Vs Everton
 🕒 Start: 2025-09-20 14:30 (GMT+3)
@@ -28,7 +28,7 @@
 📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium, TNT Sports 1 UK, Hub Premier 1, USA Network, NBC UNIVERSO USA, Sky Sport 8 NZ, beIN Sports 3 Turkey, DAZN1 Spain, Sky Sport Premier League DE, DAZN Eleven 1 Portugal, Sky Sport Calcio IT, Canal+ France, Canal+ Foot France, Astro Premier League, Astro Grandstand, Arena 1 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, ESPN Brazil, Diema Sport 2 Bulgaria, ESPN Argentina, SuperSport Premier League, beIN Sports MENA English 1, beIN Sports MENA 1, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/197.png
-⚽ Score: 2 | 0
+⚽ Score: 2 | 1
 --------------------------------------------------
 🏟️ Match: Birmingham City Vs Swansea City
 🕒 Start: 2025-09-20 14:30 (GMT+3)
@@ -60,7 +60,7 @@
 📺 Channels: Premier Sports 1, DAZN LaLiga, LaLiga TV UK, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Nova Sport 4 CZ, DAZN Eleven 2 Portugal, Ziggo Sport 1 NL, Match! Football 2 Russia, Digi Sport 2 Romania, Arena 2 Premium Serbia, Nova Sports 1 Greece, Arena Sport 3 Croatia, ESPN Deportes, ESPN3 Argentina, TV4 Sport Live 1, MAX Sport 4 Bulgaria, SuperSport Laliga
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/685.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/218.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: Bologna Vs Genoa
 🕒 Start: 2025-09-20 16:00 (GMT+3)
@@ -180,198 +180,6 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/583.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/597.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: AFC Fylde Vs Leamington
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1458.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4423.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Alfreton Town Vs Telford Utd
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1440.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/613.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Bedford Town Vs Spennymoor Town
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6849.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1567.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Chorley Vs Macclesfield
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1492.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19681.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Curzon Ashton Vs South Shields
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1498.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18859.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Darlington Vs Chester
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4429.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2296.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Hereford Vs Worksop Town
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/644.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/51629.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Kidderminster Harriers Vs Buxton
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1449.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1484.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Marine Vs King's Lynn Town
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1549.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18496.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Merthyr Town Vs Radcliffe
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/28603.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5782.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Scarborough Athletic Vs Oxford City
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/51779.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/602.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Southport Vs Peterborough Sports
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1566.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9995.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Bath City Vs Chelmsford City
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Sky Sports+, Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, CBS Sports Network USA, CBS Sports Golazo USA, Sport TV2 Portugal, beIN Sports 10 MAX France, Astro Football, Arena 3 Premium Serbia, Cosmote Sport 1 Greece, TV3 MAX Denmark, Arena Sport 4 Croatia, V Sport Football, Nova Sport Bulgaria, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/645.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1489.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Dorking Wanderers Vs Dagenham & Redbridge
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/21680.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/604.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Dover Athletic Vs Hampton & Richmond Borough
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1503.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1526.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Eastbourne Borough Vs Salisbury
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1508.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/14601.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Enfield Town Vs Chippenham Town
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1511.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1491.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Hemel Hempstead Town Vs Farnborough
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3058.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/34987.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Horsham Vs AFC Totton
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1535.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1460.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Maidstone United Vs Maidenhead United
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1546.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1545.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Slough Town Vs Hornchurch
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1563.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1459.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Torquay United Vs Ebbsfleet United
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/660.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1441.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Weston-super-Mare Vs Chesham United
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1589.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6287.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Worthing Vs Tonbridge Angels
-🕒 Start: 2025-09-20 17:00 (GMT+3)
-📍 Tournament: National League North / South
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/51627.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18858.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Real Madrid Vs Espanyol
