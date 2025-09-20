@@ -364,7 +364,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 2, ESPN Select, Sky Sport Top Event DE, RTL DE, Nova Sport 6 CZ, Digi Sport 4 Romania, Prima Sport 4 Romania, Eleven Sports 4 Poland, beIN Sports 5 MAX France, Arena Sport 1 Serbia, Nova Sports 4 Greece, Diema Sport 3 Bulgaria, Sport Klub 3 Croatia, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/160.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/177.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 90+4'
 --------------------------------------------------
 🏟️ Match: Udinese Vs Milan
@@ -400,7 +400,7 @@
 📺 Channels: ESPN 2 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1177.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1176.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 62'
 --------------------------------------------------
 🏟️ Match: Lens Vs Lille
@@ -409,7 +409,7 @@
 📺 Channels: Amazon Prime Video, Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 3 CZ, Sport TV3 Portugal, beIN Sports 4 Turkey, Canal+ Sport 2 Afrique, Eleven Sports 2 Poland, Arena 5 Premium Serbia, Arena Sport 3 Croatia, Nova Sport Bulgaria, 5Stars Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/256.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/257.png
-⚽ Score: 2 | 0
+⚽ Score: 3 | 0
 ⏳ Elapsed time: 55'
 --------------------------------------------------
 🏟️ Match: Vitória S.C. Vs Braga
