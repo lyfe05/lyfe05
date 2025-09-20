@@ -355,7 +355,7 @@
 📺 Channels: TrillerTV+, Jordan TV Sport, Alkass Two, Alkass One, beIN Sports HD 7, Thmanyah, BandSports Brasil, Alkass Four, Sports Arabia 9 HD, Fox Soccer Plus, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, #Vamos ES, Sport TV4 Portugal, Polsat Sport 2 Poland, Sportv Brazil, Sportklub 2 Croatia, MAX Sport 2 Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2329.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/29027.png
-⚽ Score: 3 | 0
+⚽ Score: 4 | 1
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Nürnberg Vs VfL Bochum
@@ -398,7 +398,7 @@
 📺 Channels: ESPN 2 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1177.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1176.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: Lens Vs Lille
 🕒 Start: 2025-09-20 22:05 (GMT+3)
