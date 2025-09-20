@@ -39,7 +39,7 @@
 📺 Channels: Sky Sports+, Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, CBS Sports Network USA, CBS Sports Golazo USA, Sport TV2 Portugal, beIN Sports 10 MAX France, Astro Football, Arena 3 Premium Serbia, Cosmote Sport 1 Greece, TV3 MAX Denmark, Arena Sport 4 Croatia, V Sport Football, Nova Sport Bulgaria, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/205.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/576.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 72'
 --------------------------------------------------
 🏟️ Match: Leicester City Vs Coventry City
@@ -57,7 +57,7 @@
 📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/582.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/201.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 73'
 --------------------------------------------------
 🏟️ Match: Girona Vs Levante
@@ -66,7 +66,7 @@
 📺 Channels: Premier Sports 1, DAZN LaLiga, LaLiga TV UK, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Nova Sport 4 CZ, DAZN Eleven 2 Portugal, Ziggo Sport 1 NL, Match! Football 2 Russia, Digi Sport 2 Romania, Arena 2 Premium Serbia, Nova Sports 1 Greece, Arena Sport 3 Croatia, ESPN Deportes, ESPN3 Argentina, TV4 Sport Live 1, MAX Sport 4 Bulgaria, SuperSport Laliga
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/685.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/218.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Bologna Vs Genoa
