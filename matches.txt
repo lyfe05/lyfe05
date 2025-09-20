@@ -247,7 +247,7 @@
 📺 Channels: Ligue 1 Pass, beIN Sports 1 France, beIN SPORTS USA, beIN SPORTS en Español, Sport TV3 Portugal, Eleven Sports 3 Poland, beIN Sports 4 Turkey, Canal+ Sport 2 Afrique, Arena Sport 2 Croatia, 5Plus Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/708.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/264.png
-⚽ Score: 1 | 2
+⚽ Score: 2 | 2
 ⏳ Elapsed time: 90+6'
 --------------------------------------------------
 🏟️ Match: Al-Hazem Vs Al-Fateh
@@ -310,7 +310,7 @@
 📺 Channels: Sky Sport Bundesliga 1, Sky Sport Top Event DE, Sky Sports Football UK, Nova Sport 3 CZ, DAZN Eleven 2 Portugal, Polsat Sport 3 Poland, Eleven Sports 1 Poland, Sky Sport Calcio IT, beIN Sports 2 France, SONY TEN 2 HD, beIN Sports 3 Malaysia, Arena Sport 5 Serbia, Prima Sport 4 Romania, Nova Sports 3 Greece, See Denmark, Diema Sport 3 Bulgaria, ESPN2 Argentina, Canal+ Sport 1 Afrique, Sportklub 1 Croatia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/885.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/151.png
-⚽ Score: 1 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 27'
 --------------------------------------------------
 🏟️ Match: Groningen Vs Telstar
@@ -328,7 +328,7 @@
 📺 Channels: Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Sport TV3 Portugal, Eleven Sports 3 Poland, beIN Sports 4 Turkey, V Sport Football, Nova Sport Bulgaria, Sky Sport Mix IT, Canal+ Sport 2 Afrique, beIN Sports MENA 8, 5 Sport Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/254.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/262.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
 🏟️ Match: AVS Vs Benfica
 🕒 Start: 2025-09-20 20:00 (GMT+3)
