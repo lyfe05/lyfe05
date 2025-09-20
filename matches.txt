@@ -283,7 +283,7 @@
 📺 Channels: Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR, Hub Premier 1, USA Network, NBC UNIVERSO USA, Sky Sports Main Event UK, Sky Sports Premier League UK UK, Sky Sport 8 NZ, DAZN1 Spain, Sky Sport Premier League DE, DAZN Eleven 1 Portugal, Sky Sport Uno IT, Canal+ Foot France, Astro Premier League, Astro Grandstand, Telemundo, Arena 2 Premium Serbia, Nova Sports Premier League Greece, TV3+ HD Denmark, Arena Sport 1 Croatia, V Sport Premium, Diema Sport 2 Bulgaria, ESPN Argentina, SuperSport Premier League, SuperSport MaXimo 1, Supersport Grandstand, Canal+ Sport 3 Afrique, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/21.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
-⚽ Score: 2 | 0
+⚽ Score: 2 | 1
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Alavés Vs Sevilla
@@ -292,7 +292,7 @@
 📺 Channels: Premier Sports 2, DAZN LaLiga, LaLiga TV UK, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Nova Sport 4 CZ, DAZN2 DE, DAZN Eleven 4 Portugal, Eleven Sports 4 Poland, beIN Sports Malaysia, Prima Sport 2 Romania, Digi Sport 4 Romania, Arena 5 Premium Serbia, ESPN4 Brazil, Nova Sports 1 Greece, TV4 Sportkanalen, MAX Sport 1 Bulgaria, SuperSport Laliga, beIN Sports MENA 5
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1254.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/28.png
-⚽ Score: 1 | 1
+⚽ Score: 1 | 2
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Villarreal Vs Osasuna
@@ -301,7 +301,7 @@
 📺 Channels: Premier Player, M+ LALIGA TV, LaLiga TV UK, Nova Sport 5 CZ, TSN4, DAZN Eleven 3 Portugal, Canal+ Sport 2 Poland, Ziggo Sport 1 NL, Match! Football 2 Russia, Arena 4 Premium Serbia, Nova Sports Start Greece, TV4 Sport Live 1, SuperSport Variety 4, ESPN Deportes, MAX Sport 4 Bulgaria, beIN Sports MENA English 2
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/226.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/221.png
-⚽ Score: 0 | 1
+⚽ Score: 2 | 1
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: RB Leipzig Vs Köln
@@ -319,7 +319,7 @@
 📺 Channels: ESPN 3 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1174.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2016.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Brest Vs Nice
@@ -328,7 +328,7 @@
 📺 Channels: Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Sport TV3 Portugal, Eleven Sports 3 Poland, beIN Sports 4 Turkey, V Sport Football, Nova Sport Bulgaria, Sky Sport Mix IT, Canal+ Sport 2 Afrique, beIN Sports MENA 8, 5 Sport Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/254.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/262.png
-⚽ Score: 2 | 1
+⚽ Score: 4 | 1
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: AVS Vs Benfica
@@ -337,7 +337,7 @@
 📺 Channels: TrillerTV+, Sport TV1 Portugal, GOLTV USA, beIN Sports 4 MAX France, Arena Sport 4 Serbia, Ring bg, ESPN Brazil
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/46135.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/147.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 3
 ⏳ Elapsed time: 86'
 --------------------------------------------------
 🏟️ Match: Fortuna Sittard Vs Utrecht
@@ -346,7 +346,7 @@
 📺 Channels: TrillerTV+, ESPN 1 NL, GOL PLAY ES, Sportsnet World, Polsat Sport Premium 1 Poland, Arena Sport 3 Serbia, Nova Sports 2 Greece
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2020.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/445.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Al-Nassr Vs Al-Riyadh
@@ -355,7 +355,7 @@
 📺 Channels: TrillerTV+, Jordan TV Sport, Alkass Two, Alkass One, beIN Sports HD 7, Thmanyah, BandSports Brasil, Alkass Four, Sports Arabia 9 HD, Fox Soccer Plus, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, #Vamos ES, Sport TV4 Portugal, Polsat Sport 2 Poland, Sportv Brazil, Sportklub 2 Croatia, MAX Sport 2 Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2329.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/29027.png
-⚽ Score: 0 | 0
+⚽ Score: 3 | 0
 ⏳ Elapsed time: 35'
 --------------------------------------------------
 🏟️ Match: Nürnberg Vs VfL Bochum
