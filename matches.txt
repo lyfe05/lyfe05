@@ -4,7 +4,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 3, ESPN Select, Nova Sport 3 CZ, Eleven Sports 3 Poland, Digi Sport 3 Romania, Arena 4 Premium Serbia, Sportklub 4 Croatia, Sport 3 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/792.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/144.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 39'
 --------------------------------------------------
 🏟️ Match: Hertha BSC Vs Paderborn
@@ -13,7 +13,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 4, ESPN Select, DAZN Eleven 4 Portugal, Eleven Sports 2 Poland, Prima Sport 2 Romania, Arena Sport 1 Serbia, Sportklub 3 Croatia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/168.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/169.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 37'
 --------------------------------------------------
 🏟️ Match: Eintracht Braunschweig Vs Elversberg
@@ -31,7 +31,7 @@
 📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium, TNT Sports 1 UK, Hub Premier 1, USA Network, NBC UNIVERSO USA, Sky Sport 8 NZ, beIN Sports 3 Turkey, DAZN1 Spain, Sky Sport Premier League DE, DAZN Eleven 1 Portugal, Sky Sport Calcio IT, Canal+ France, Canal+ Foot France, Astro Premier League, Astro Grandstand, Arena 1 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, ESPN Brazil, Diema Sport 2 Bulgaria, ESPN Argentina, SuperSport Premier League, beIN Sports MENA English 1, beIN Sports MENA 1, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/197.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 8'
 --------------------------------------------------
 🏟️ Match: Birmingham City Vs Swansea City
@@ -75,7 +75,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/279.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5186.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
 🏟️ Match: Freiburg II Vs Barockstadt Fulda-Lehnerz
 🕒 Start: 2025-09-20 15:00 (GMT+3)
@@ -83,7 +83,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/978.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/15076.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
 🏟️ Match: Hessen Kassel Vs Stuttgarter Kickers
 🕒 Start: 2025-09-20 15:00 (GMT+3)
@@ -91,7 +91,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/884.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/816.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
 🏟️ Match: Astoria Walldorf Vs TSV Schott Mainz
 🕒 Start: 2025-09-20 15:00 (GMT+3)
@@ -99,7 +99,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2418.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6806.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
 🏟️ Match: Mainz 05 II Vs Homburg
 🕒 Start: 2025-09-20 15:00 (GMT+3)
