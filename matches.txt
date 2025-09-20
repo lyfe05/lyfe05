@@ -284,7 +284,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/21.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: 63'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Alavés Vs Sevilla
 🕒 Start: 2025-09-20 19:30 (GMT+3)
@@ -320,7 +320,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1174.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2016.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 90+2'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Brest Vs Nice
 🕒 Start: 2025-09-20 20:00 (GMT+3)
@@ -338,7 +338,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/46135.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/147.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 86'
 --------------------------------------------------
 🏟️ Match: Fortuna Sittard Vs Utrecht
 🕒 Start: 2025-09-20 21:00 (GMT+3)
@@ -347,6 +347,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2020.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/445.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Al-Nassr Vs Al-Riyadh
 🕒 Start: 2025-09-20 21:00 (GMT+3)
@@ -364,6 +365,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/160.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/177.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 20'
 --------------------------------------------------
 🏟️ Match: Udinese Vs Milan
 🕒 Start: 2025-09-20 21:45 (GMT+3)
@@ -372,6 +374,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/195.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/23.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 2'
 --------------------------------------------------
 🏟️ Match: Fulham Vs Brentford
 🕒 Start: 2025-09-20 22:00 (GMT+3)
