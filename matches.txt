@@ -382,7 +382,7 @@
 📺 Channels: Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR, Hub Premier 1, USA Network, NBC UNIVERSO USA, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 8 NZ, DAZN1 Spain, Sky Sport Premier League DE, DAZN Eleven 1 Portugal, Canal+ Foot France, Sky Sport Arena IT, Astro Premier League 2, Arena 3 Premium Serbia, Nova Sports Premier League Greece, TV3 MAX Denmark, Arena Sport 4 Croatia, Canal+ Sport 3 Afrique, Diema Sport 2 Bulgaria, beIN Sports 3 Turkey, ESPN Argentina, V Sport Premium, SuperSport Premier League, SuperSport MaXimo 1, beIN Sports MENA English 1, Sport 3 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/211.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/671.png
-⚽ Score: 1 | 1
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 44'
 --------------------------------------------------
 🏟️ Match: Valencia Vs Athletic Bilbao
@@ -409,7 +409,7 @@
 📺 Channels: Amazon Prime Video, Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 3 CZ, Sport TV3 Portugal, beIN Sports 4 Turkey, Canal+ Sport 2 Afrique, Eleven Sports 2 Poland, Arena 5 Premium Serbia, Arena Sport 3 Croatia, Nova Sport Bulgaria, 5Stars Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/256.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/257.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 40'
 --------------------------------------------------
 🏟️ Match: Vitória S.C. Vs Braga
