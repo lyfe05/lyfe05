@@ -293,7 +293,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1254.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/28.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 71'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Villarreal Vs Osasuna
 🕒 Start: 2025-09-20 19:30 (GMT+3)
@@ -302,7 +302,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/226.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/221.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 56'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: RB Leipzig Vs Köln
 🕒 Start: 2025-09-20 19:30 (GMT+3)
@@ -311,7 +311,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/885.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/151.png
 ⚽ Score: 3 | 1
-⏳ Elapsed time: Half time
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Groningen Vs Telstar
 🕒 Start: 2025-09-20 19:45 (GMT+3)
@@ -320,7 +320,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1174.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2016.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 45'
+⏳ Elapsed time: 90+2'
 --------------------------------------------------
 🏟️ Match: Brest Vs Nice
 🕒 Start: 2025-09-20 20:00 (GMT+3)
@@ -355,7 +355,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2329.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/29027.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 1'
+⏳ Elapsed time: 35'
 --------------------------------------------------
 🏟️ Match: Nürnberg Vs VfL Bochum
 🕒 Start: 2025-09-20 21:30 (GMT+3)
