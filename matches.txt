@@ -5,7 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/792.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/144.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 8'
+⏳ Elapsed time: 24'
 --------------------------------------------------
 🏟️ Match: Hertha BSC Vs Paderborn
 🕒 Start: 2025-09-20 14:00 (GMT+3)
@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/168.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/169.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 7'
+⏳ Elapsed time: 22'
 --------------------------------------------------
 🏟️ Match: Eintracht Braunschweig Vs Elversberg
 🕒 Start: 2025-09-20 14:00 (GMT+3)
@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/291.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/329.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 8'
+⏳ Elapsed time: 24'
 --------------------------------------------------
 🏟️ Match: Liverpool FC Vs Everton
 🕒 Start: 2025-09-20 14:30 (GMT+3)
