@@ -5,7 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/792.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/144.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 24'
+⏳ Elapsed time: 39'
 --------------------------------------------------
 🏟️ Match: Hertha BSC Vs Paderborn
 🕒 Start: 2025-09-20 14:00 (GMT+3)
@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/168.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/169.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 22'
+⏳ Elapsed time: 37'
 --------------------------------------------------
 🏟️ Match: Eintracht Braunschweig Vs Elversberg
 🕒 Start: 2025-09-20 14:00 (GMT+3)
@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/291.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/329.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 24'
+⏳ Elapsed time: 39'
 --------------------------------------------------
 🏟️ Match: Liverpool FC Vs Everton
 🕒 Start: 2025-09-20 14:30 (GMT+3)
@@ -32,6 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/197.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 8'
 --------------------------------------------------
 🏟️ Match: Birmingham City Vs Swansea City
 🕒 Start: 2025-09-20 14:30 (GMT+3)
@@ -40,6 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/205.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/576.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 7'
 --------------------------------------------------
 🏟️ Match: Leicester City Vs Coventry City
 🕒 Start: 2025-09-20 14:30 (GMT+3)
@@ -48,6 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/572.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/566.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 9'
 --------------------------------------------------
 🏟️ Match: Queens Park Rangers Vs Stoke City
 🕒 Start: 2025-09-20 14:30 (GMT+3)
@@ -56,6 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/582.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/201.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 9'
 --------------------------------------------------
 🏟️ Match: Girona Vs Levante
 🕒 Start: 2025-09-20 15:00 (GMT+3)
