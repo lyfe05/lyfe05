@@ -93,7 +93,7 @@
 📺 Channels: Sky Sport Bundesliga 4, ESPN Select, Arena Sport 7 Serbia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/171.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/163.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: Hoffenheim Vs Bayern Munich
 🕒 Start: 2025-09-20 16:30 (GMT+3)
