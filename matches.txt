@@ -373,7 +373,7 @@
 📺 Channels: DAZN, Sky Sport 251 IT, Paramount+, Sky Sport Calcio IT, Sky Sport Uno IT, DAZN2 DE, Sport TV6 Portugal, Eleven Sports 1 Poland, Digi Sport 3 Romania, Prima Sport 2 Romania, Ziggo Sport 2 NL, Arena 2 Premium Serbia, Match TV Russia, Match! Football 1 Russia, ESPN Mexico, TV2 Sport X Denmark, Arena Sport 1 Croatia, MAX Sport 3 Bulgaria, TV4 Sportkanalen, ESPN4 Brazil, FOX Deportes, ESPN2 Argentina, SuperSport Football
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/195.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/23.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 30'
 --------------------------------------------------
 🏟️ Match: Fulham Vs Brentford
@@ -382,7 +382,7 @@
 📺 Channels: Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR, Hub Premier 1, USA Network, NBC UNIVERSO USA, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 8 NZ, DAZN1 Spain, Sky Sport Premier League DE, DAZN Eleven 1 Portugal, Canal+ Foot France, Sky Sport Arena IT, Astro Premier League 2, Arena 3 Premium Serbia, Nova Sports Premier League Greece, TV3 MAX Denmark, Arena Sport 4 Croatia, Canal+ Sport 3 Afrique, Diema Sport 2 Bulgaria, beIN Sports 3 Turkey, ESPN Argentina, V Sport Premium, SuperSport Premier League, SuperSport MaXimo 1, beIN Sports MENA English 1, Sport 3 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/211.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/671.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 17'
 --------------------------------------------------
 🏟️ Match: Valencia Vs Athletic Bilbao
