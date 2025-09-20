@@ -220,7 +220,7 @@
 📺 Channels: ESPN 1 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2012.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2025.png
-⚽ Score: 1 | 1
+⚽ Score: 1 | 2
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Santa Clara Vs Alverca
@@ -229,7 +229,7 @@
 📺 Channels: Sport TV2 Portugal, GOLTV USA
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3747.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19430.png
-⚽ Score: 1 | 1
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 90+5'
 --------------------------------------------------
 🏟️ Match: Nacional Vs Arouca
@@ -247,7 +247,7 @@
 📺 Channels: Ligue 1 Pass, beIN Sports 1 France, beIN SPORTS USA, beIN SPORTS en Español, Sport TV3 Portugal, Eleven Sports 3 Poland, beIN Sports 4 Turkey, Canal+ Sport 2 Afrique, Arena Sport 2 Croatia, 5Plus Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/708.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/264.png
-⚽ Score: 0 | 2
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 67'
 --------------------------------------------------
 🏟️ Match: Al-Hazem Vs Al-Fateh
@@ -274,7 +274,7 @@
 📺 Channels: DAZN, Paramount+, DAZN Zona IT, CBS Sports Golazo USA, Sport TV6 Portugal, Eleven Sports 2 Poland, Match! Football 1 Russia, Ziggo Sport 2 NL, Digi Sport 3 Romania, Prima Sport 3 Romania, Arena 3 Premium Serbia, TV2 Sport X Denmark, Arena Sport 4 Croatia, ESPN Mexico, ESPN3 Argentina, MAX Sport 3 Bulgaria, TV4 Fotball, SuperSport Football
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/409.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/17.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 25'
 --------------------------------------------------
 🏟️ Match: Manchester United Vs Chelsea
