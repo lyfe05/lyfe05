@@ -175,7 +175,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/276.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/615.png
-⚽ Score: 3 | 0
+⚽ Score: 3 | 1
 ⏳ Elapsed time: 90+6'
 --------------------------------------------------
 🏟️ Match: Norwich City Vs Wrexham
@@ -238,7 +238,7 @@
 📺 Channels: Sport TV4 Portugal
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/556.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1724.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 67'
 --------------------------------------------------
 🏟️ Match: Nantes Vs Rennes
