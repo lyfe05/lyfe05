@@ -76,7 +76,7 @@
 📺 Channels: DAZN, Paramount+, DAZN Zona IT, Sport TV1 Portugal, Eleven Sports 3 Poland, Match! Football 1 Russia, Ziggo Sport 2 NL, Digi Sport 3 Romania, Prima Sport 3 Romania, ESPN Mexico, Arena Sport 2 Croatia, TV4 Fotball, Diema Sport 2 Bulgaria, MAX Sport 3 Bulgaria, SuperSport Football
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/183.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/189.png
-⚽ Score: 0 | 1
+⚽ Score: 2 | 1
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Werder Bremen Vs SC Freiburg
@@ -85,7 +85,7 @@
 📺 Channels: Sky Sport Bundesliga 2, ESPN Select, Nova Sport 5 CZ, Eleven Sports 2 Poland, beIN Sports 7 MAX France, Arena Sport 3 Serbia, Nova Sports 6 Greece
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/150.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/159.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 3
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Augsburg Vs Mainz 05
@@ -94,7 +94,7 @@
 📺 Channels: Sky Sport Bundesliga 4, ESPN Select, Arena Sport 7 Serbia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/171.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/163.png
-⚽ Score: 0 | 2
+⚽ Score: 1 | 4
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Hoffenheim Vs Bayern Munich
@@ -112,7 +112,7 @@
 📺 Channels: Sky Sport Bundesliga 3, ESPN Select, beIN Sports 8 MAX France, Arena Sport 8 Serbia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/157.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/283.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 90+9'
 --------------------------------------------------
 🏟️ Match: Brighton & Hove Albion Vs Tottenham Hotspur
@@ -121,7 +121,7 @@
 📺 Channels: Not Televised, Hub Premier, NBC UNIVERSO USA, Sky Sport 2 NZ, DAZN1 Spain, DAZN 1 DE, DAZN Eleven 1 Portugal, Sky Sport Uno IT, Astro Premier League, Astro Grandstand, Arena 5 Premium Serbia, Nova Sports Premier League Greece, Canal+ Live 8 France, beIN Sports 3 Turkey, TV3 MAX Denmark, Arena Sport 1 Croatia, V Sport Premium, Diema Sport 2 Bulgaria, SuperSport Premier League, ESPN4 Brazil, beIN Sports MENA English 1, beIN Sports MENA 5, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/670.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
-⚽ Score: 2 | 0
+⚽ Score: 2 | 2
 ⏳ Elapsed time: 70'
 --------------------------------------------------
 🏟️ Match: Burnley Vs Nottingham Forest
@@ -148,7 +148,7 @@
 📺 Channels: Not Televised, Hub Premier, DAZN4 Spain, Sky Sport Select NZ, DAZN Eleven 4 Portugal, Canal+ Live 11 France, Astro Premier League 2, Arena Sport 5 Serbia, Nova Sports Start Greece, Nova Sport Bulgaria, SuperSport Variety 2, ESPN Argentina, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/203.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/571.png
-⚽ Score: 1 | 1
+⚽ Score: 1 | 3
 ⏳ Elapsed time: 69'
 --------------------------------------------------
 🏟️ Match: Blackburn Rovers Vs Ipswich Town
@@ -157,7 +157,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/210.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/570.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 71'
 --------------------------------------------------
 🏟️ Match: Derby County Vs Preston North End
@@ -184,7 +184,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/575.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/617.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 3
 ⏳ Elapsed time: 68'
 --------------------------------------------------
 🏟️ Match: Portsmouth Vs Sheffield Wednesday
@@ -193,7 +193,7 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/277.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/638.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 73'
 --------------------------------------------------
 🏟️ Match: Sheffield United Vs Charlton Athletic
@@ -220,7 +220,7 @@
 📺 Channels: ESPN 1 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2012.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2025.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Santa Clara Vs Alverca
@@ -229,7 +229,7 @@
 📺 Channels: Sport TV2 Portugal, GOLTV USA
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3747.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19430.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Nacional Vs Arouca
@@ -247,7 +247,7 @@
 📺 Channels: Ligue 1 Pass, beIN Sports 1 France, beIN SPORTS USA, beIN SPORTS en Español, Sport TV3 Portugal, Eleven Sports 3 Poland, beIN Sports 4 Turkey, Canal+ Sport 2 Afrique, Arena Sport 2 Croatia, 5Plus Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/708.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/264.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 29'
 --------------------------------------------------
 🏟️ Match: Al-Hazem Vs Al-Fateh
