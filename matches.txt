@@ -347,7 +347,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2020.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/445.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 56'
+⏳ Elapsed time: 70'
 --------------------------------------------------
 🏟️ Match: Al-Nassr Vs Al-Riyadh
 🕒 Start: 2025-09-20 21:00 (GMT+3)
@@ -356,7 +356,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2329.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/29027.png
 ⚽ Score: 4 | 1
-⏳ Elapsed time: 57'
+⏳ Elapsed time: 71'
 --------------------------------------------------
 🏟️ Match: Nürnberg Vs VfL Bochum
 🕒 Start: 2025-09-20 21:30 (GMT+3)
@@ -365,7 +365,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/160.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/177.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 45+3'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Udinese Vs Milan
 🕒 Start: 2025-09-20 21:45 (GMT+3)
@@ -374,7 +374,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/195.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/23.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 30'
+⏳ Elapsed time: 43'
 --------------------------------------------------
 🏟️ Match: Fulham Vs Brentford
 🕒 Start: 2025-09-20 22:00 (GMT+3)
@@ -383,7 +383,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/211.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/671.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 17'
+⏳ Elapsed time: 31'
 --------------------------------------------------
 🏟️ Match: Valencia Vs Athletic Bilbao
 🕒 Start: 2025-09-20 22:00 (GMT+3)
@@ -392,7 +392,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/143.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/213.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 16'
+⏳ Elapsed time: 30'
 --------------------------------------------------
 🏟️ Match: NAC Breda Vs Heracles
 🕒 Start: 2025-09-20 22:00 (GMT+3)
@@ -401,7 +401,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1177.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1176.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 16'
+⏳ Elapsed time: 30'
 --------------------------------------------------
 🏟️ Match: Lens Vs Lille
 🕒 Start: 2025-09-20 22:05 (GMT+3)
@@ -410,7 +410,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/256.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/257.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 13'
+⏳ Elapsed time: 26'
 --------------------------------------------------
 🏟️ Match: Vitória S.C. Vs Braga
 🕒 Start: 2025-09-20 22:30 (GMT+3)
