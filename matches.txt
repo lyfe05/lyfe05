@@ -230,7 +230,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3747.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19430.png
 ⚽ Score: 2 | 1
-⏳ Elapsed time: 90+5'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Nacional Vs Arouca
 🕒 Start: 2025-09-20 17:30 (GMT+3)
@@ -239,7 +239,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/556.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1724.png
 ⚽ Score: 1 | 2
-⏳ Elapsed time: 90+9'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Nantes Vs Rennes
 🕒 Start: 2025-09-20 18:00 (GMT+3)
@@ -248,7 +248,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/708.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/264.png
 ⚽ Score: 1 | 2
-⏳ Elapsed time: 67'
+⏳ Elapsed time: 83'
 --------------------------------------------------
 🏟️ Match: Al-Hazem Vs Al-Fateh
 🕒 Start: 2025-09-20 18:40 (GMT+3)
@@ -257,7 +257,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10025.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2331.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 45+1'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Al-Najma Vs Al-Ittihad
 🕒 Start: 2025-09-20 18:40 (GMT+3)
@@ -266,7 +266,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26213.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2335.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 45+3'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Hellas Verona Vs Juventus
 🕒 Start: 2025-09-20 19:00 (GMT+3)
@@ -275,7 +275,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/409.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/17.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 25'
+⏳ Elapsed time: 41'
 --------------------------------------------------
 🏟️ Match: Manchester United Vs Chelsea
 🕒 Start: 2025-09-20 19:30 (GMT+3)
@@ -284,6 +284,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/21.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 14'
 --------------------------------------------------
 🏟️ Match: Alavés Vs Sevilla
 🕒 Start: 2025-09-20 19:30 (GMT+3)
@@ -292,6 +293,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1254.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/28.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 14'
 --------------------------------------------------
 🏟️ Match: Villarreal Vs Osasuna
 🕒 Start: 2025-09-20 19:30 (GMT+3)
@@ -300,6 +302,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/226.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/221.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 13'
 --------------------------------------------------
 🏟️ Match: RB Leipzig Vs Köln
 🕒 Start: 2025-09-20 19:30 (GMT+3)
@@ -308,6 +311,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/885.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/151.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 14'
 --------------------------------------------------
 🏟️ Match: Groningen Vs Telstar
 🕒 Start: 2025-09-20 19:45 (GMT+3)
