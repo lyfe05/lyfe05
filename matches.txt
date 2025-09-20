@@ -265,7 +265,7 @@
 📺 Channels: TrillerTV+, Jordan TV Sport, Alkass Two, Alkass One, beIN Sports HD 7, Thmanyah, BandSports Brasil, Alkass Four, Sports Arabia 9 HD, Fox Soccer Plus, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, #Vamos ES, Sport TV4 Portugal, Polsat Sport 2 Poland, Sportv Brazil, Sportklub 2 Croatia, MAX Sport 2 Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26213.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2335.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 90+2'
 --------------------------------------------------
 🏟️ Match: Hellas Verona Vs Juventus
@@ -328,7 +328,7 @@
 📺 Channels: Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Sport TV3 Portugal, Eleven Sports 3 Poland, beIN Sports 4 Turkey, V Sport Football, Nova Sport Bulgaria, Sky Sport Mix IT, Canal+ Sport 2 Afrique, beIN Sports MENA 8, 5 Sport Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/254.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/262.png
-⚽ Score: 2 | 0
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 33'
 --------------------------------------------------
 🏟️ Match: AVS Vs Benfica
