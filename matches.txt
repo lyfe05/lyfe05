@@ -77,7 +77,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/183.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/189.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 55'
+⏳ Elapsed time: 70'
 --------------------------------------------------
 🏟️ Match: Werder Bremen Vs SC Freiburg
 🕒 Start: 2025-09-20 16:30 (GMT+3)
@@ -86,7 +86,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/150.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/159.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 47'
 --------------------------------------------------
 🏟️ Match: Augsburg Vs Mainz 05
 🕒 Start: 2025-09-20 16:30 (GMT+3)
@@ -95,7 +95,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/171.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/163.png
 ⚽ Score: 0 | 2
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 46'
 --------------------------------------------------
 🏟️ Match: Hoffenheim Vs Bayern Munich
 🕒 Start: 2025-09-20 16:30 (GMT+3)
@@ -104,7 +104,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/158.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 26'
+⏳ Elapsed time: 46'
 --------------------------------------------------
 🏟️ Match: Hamburg Vs Heidenheim
 🕒 Start: 2025-09-20 16:30 (GMT+3)
@@ -122,7 +122,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/670.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: 23'
+⏳ Elapsed time: 38'
 --------------------------------------------------
 🏟️ Match: Burnley Vs Nottingham Forest
 🕒 Start: 2025-09-20 17:00 (GMT+3)
@@ -131,7 +131,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/275.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/577.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 22'
+⏳ Elapsed time: 37'
 --------------------------------------------------
 🏟️ Match: West Ham United Vs Crystal Palace
 🕒 Start: 2025-09-20 17:00 (GMT+3)
@@ -140,7 +140,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/198.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/567.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 23'
+⏳ Elapsed time: 38'
 --------------------------------------------------
 🏟️ Match: Wolverhampton Wanderers Vs Leeds United
 🕒 Start: 2025-09-20 17:00 (GMT+3)
@@ -176,7 +176,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/276.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/615.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 24'
+⏳ Elapsed time: 39'
 --------------------------------------------------
 🏟️ Match: Norwich City Vs Wrexham
 🕒 Start: 2025-09-20 17:00 (GMT+3)
@@ -194,7 +194,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/277.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/638.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 24'
+⏳ Elapsed time: 39'
 --------------------------------------------------
 🏟️ Match: Sheffield United Vs Charlton Athletic
 🕒 Start: 2025-09-20 17:00 (GMT+3)
@@ -203,7 +203,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/583.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/597.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 23'
+⏳ Elapsed time: 38'
 --------------------------------------------------
 🏟️ Match: Real Madrid Vs Espanyol
 🕒 Start: 2025-09-20 17:15 (GMT+3)
@@ -212,7 +212,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/215.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 6'
+⏳ Elapsed time: 21'
 --------------------------------------------------
 🏟️ Match: Volendam Vs Excelsior
 🕒 Start: 2025-09-20 17:30 (GMT+3)
@@ -221,6 +221,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2012.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2025.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 9'
 --------------------------------------------------
 🏟️ Match: Santa Clara Vs Alverca
 🕒 Start: 2025-09-20 17:30 (GMT+3)
@@ -229,6 +230,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3747.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19430.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 8'
 --------------------------------------------------
 🏟️ Match: Nacional Vs Arouca
 🕒 Start: 2025-09-20 17:30 (GMT+3)
@@ -237,6 +239,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/556.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1724.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 9'
 --------------------------------------------------
 🏟️ Match: Nantes Vs Rennes
 🕒 Start: 2025-09-20 18:00 (GMT+3)
