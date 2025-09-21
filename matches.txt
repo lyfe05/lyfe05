@@ -149,7 +149,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/736.png
 ⚽ Score: 2 | 3
-⏳ Elapsed time: 84'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Auxerre Vs Toulouse
 🕒 Start: 2025-09-21 18:15 (GMT+3)
@@ -158,7 +158,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/253.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/267.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 54'
+⏳ Elapsed time: 71'
 --------------------------------------------------
 🏟️ Match: Le Havre Vs Lorient
 🕒 Start: 2025-09-21 18:15 (GMT+3)
@@ -167,7 +167,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/701.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/258.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 47'
+⏳ Elapsed time: 64'
 --------------------------------------------------
 🏟️ Match: Monaco Vs Metz
 🕒 Start: 2025-09-21 18:15 (GMT+3)
@@ -176,7 +176,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/259.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/710.png
 ⚽ Score: 2 | 1
-⏳ Elapsed time: 52'
+⏳ Elapsed time: 68'
 --------------------------------------------------
 🏟️ Match: Arsenal Vs Manchester City
 🕒 Start: 2025-09-21 18:30 (GMT+3)
@@ -185,7 +185,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/209.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 52'
 --------------------------------------------------
 🏟️ Match: Bayer Leverkusen Vs Borussia Mönchengladbach
 🕒 Start: 2025-09-21 18:30 (GMT+3)
@@ -194,7 +194,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/162.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/154.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 56'
 --------------------------------------------------
 🏟️ Match: Fiorentina Vs Como
 🕒 Start: 2025-09-21 19:00 (GMT+3)
@@ -203,7 +203,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/15.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/387.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 25'
+⏳ Elapsed time: 42'
 --------------------------------------------------
 🏟️ Match: Elche Vs Real Oviedo
 🕒 Start: 2025-09-21 19:30 (GMT+3)
@@ -212,6 +212,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/682.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1239.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 13'
 --------------------------------------------------
 🏟️ Match: Borussia Dortmund Vs VfL Wolfsburg
 🕒 Start: 2025-09-21 20:30 (GMT+3)
