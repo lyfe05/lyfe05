@@ -67,7 +67,7 @@
 📺 Channels: ESPN 3 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/555.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/961.png
-⚽ Score: 2 | 0
+⚽ Score: 3 | 1
 ⏳ Elapsed time: 68'
 --------------------------------------------------
 🏟️ Match: AFC Bournemouth Vs Newcastle United
@@ -121,7 +121,7 @@
 📺 Channels: Amazon Prime Video, DAZN2 DE, ESPN+ USA, Nova Sport 3 CZ, DAZN Eleven 3 Portugal, Eleven Sports 4 Poland, beIN Sports 6 MAX France, Prima Sport 4 Romania, beIN Sports 3 Malaysia, SONY TEN 2 HD, Arena 4 Premium Serbia, Nova Sports 2 Greece, Sportklub 1 Croatia, Diema Sport 3 Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/156.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/174.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 27'
 --------------------------------------------------
 🏟️ Match: Bristol City Vs Oxford United
