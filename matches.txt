@@ -5,6 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1175.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1889.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 7'
 --------------------------------------------------
 🏟️ Match: Lazio Vs Roma
 🕒 Start: 2025-09-21 13:30 (GMT+3)
