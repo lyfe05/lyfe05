@@ -5,7 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1175.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1889.png
 ⚽ Score: 0 | 2
-⏳ Elapsed time: 76'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Lazio Vs Roma
 🕒 Start: 2025-09-21 13:30 (GMT+3)
@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/139.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/145.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 62'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Holstein Kiel Vs Karlsruher SC
 🕒 Start: 2025-09-21 14:30 (GMT+3)
@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/339.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/172.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: 24'
+⏳ Elapsed time: 51'
 --------------------------------------------------
 🏟️ Match: Fortuna Düsseldorf Vs Darmstadt 98
 🕒 Start: 2025-09-21 14:30 (GMT+3)
@@ -32,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/180.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/789.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 23'
+⏳ Elapsed time: 51'
 --------------------------------------------------
 🏟️ Match: Dynamo Dresden Vs Hannover 96
 🕒 Start: 2025-09-21 14:30 (GMT+3)
@@ -41,7 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/294.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/153.png
 ⚽ Score: 2 | 2
-⏳ Elapsed time: 24'
+⏳ Elapsed time: 47'
 --------------------------------------------------
 🏟️ Match: Rayo Vallecano Vs Celta de Vigo
 🕒 Start: 2025-09-21 15:00 (GMT+3)
@@ -50,6 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/690.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/680.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 41'
 --------------------------------------------------
 🏟️ Match: PSV Vs Ajax
 🕒 Start: 2025-09-21 15:30 (GMT+3)
@@ -58,6 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/137.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/341.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 4'
 --------------------------------------------------
 🏟️ Match: Heerenveen Vs NEC Nijmegen
 🕒 Start: 2025-09-21 15:30 (GMT+3)
@@ -66,6 +68,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/555.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/961.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 11'
 --------------------------------------------------
 🏟️ Match: AFC Bournemouth Vs Newcastle United
 🕒 Start: 2025-09-21 16:00 (GMT+3)
