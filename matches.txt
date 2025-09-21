@@ -22,7 +22,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 4, ESPN+ USA, Arena Sport 9 Serbia, Nova Sports 3 Greece
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/339.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/172.png
-⚽ Score: 2 | 0
+⚽ Score: 3 | 0
 ⏳ Elapsed time: 79'
 --------------------------------------------------
 🏟️ Match: Fortuna Düsseldorf Vs Darmstadt 98
@@ -49,7 +49,7 @@
 📺 Channels: Premier Sports 1, M+ LALIGA TV, LaLiga TV UK, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Nova Sport 4 CZ, DAZN Eleven 4 Portugal, Canal+ Sport Poland, beIN Sports 5 MAX France, Digi Sport 2 Romania, Prima Sport 2 Romania, ESPN Deportes, Match! Football 2 Russia, Arena 2 Premium Serbia, Nova Sports 1 Greece, Arena Sport 2 Croatia, TV4 Sport Live 1, MAX Sport 4 Bulgaria, SuperSport Laliga
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/690.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/680.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 49'
 --------------------------------------------------
 🏟️ Match: PSV Vs Ajax
@@ -58,7 +58,7 @@
 📺 Channels: Premier Sports 2, TrillerTV+, ESPN 1 NL, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Sportsnet World, GOL PLAY ES, Sportdigital FUSSBALL DE, DAZN Eleven 2 Portugal, Polsat Sport 2 Poland, ESPN2 Mexico, Astro Football, Arena 1 Premium Serbia, Nova Sports 4 Greece, Ring bg, ESPN3 Brazil, ESPN3 Argentina, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/137.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/341.png
-⚽ Score: 1 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 32'
 --------------------------------------------------
 🏟️ Match: Heerenveen Vs NEC Nijmegen
@@ -112,7 +112,7 @@
 📺 Channels: Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 2 CZ, Sport TV3 Portugal, Arena Sport 6 Serbia, Nova Sport Bulgaria, Canal+ Sport 2 Afrique, beIN Sports MENA 4, 5Plus Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5170.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/756.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 10'
 --------------------------------------------------
 🏟️ Match: Eintracht Frankfurt Vs Union Berlin
