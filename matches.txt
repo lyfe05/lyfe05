@@ -221,7 +221,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/155.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/32.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 52'
+⏳ Elapsed time: 65'
 --------------------------------------------------
 🏟️ Match: Inter Vs Sassuolo
 🕒 Start: 2025-09-21 21:45 (GMT+3)
@@ -230,6 +230,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/16.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/724.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 8'
 --------------------------------------------------
 🏟️ Match: Marseille Vs PSG
 🕒 Start: 2025-09-21 21:45 (GMT+3)
