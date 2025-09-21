@@ -67,7 +67,7 @@
 📺 Channels: ESPN 3 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/555.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/961.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: AFC Bournemouth Vs Newcastle United
@@ -103,7 +103,7 @@
 📺 Channels: DAZN, Paramount+, DAZN Zona IT, CBS Sports Golazo USA, Sport TV2 Portugal, Polsat Sport Premium 2 Poland, Eleven Sports 2 Poland, Ziggo Sport 1 NL, Digi Sport 3 Romania, Prima Sport 3 Romania, Match! Football 1 Russia, ESPN Mexico, Arena Sport 4 Croatia, Cosmote Sport 2 Greece, TV4 Fotball, MAX Sport 3 Bulgaria, SuperSport Football
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/722.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/248.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 28'
 --------------------------------------------------
 🏟️ Match: Paris Vs Strasbourg
@@ -121,7 +121,7 @@
 📺 Channels: Amazon Prime Video, DAZN2 DE, ESPN+ USA, Nova Sport 3 CZ, DAZN Eleven 3 Portugal, Eleven Sports 4 Poland, beIN Sports 6 MAX France, Prima Sport 4 Romania, beIN Sports 3 Malaysia, SONY TEN 2 HD, Arena 4 Premium Serbia, Nova Sports 2 Greece, Sportklub 1 Croatia, Diema Sport 3 Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/156.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/174.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 1'
 --------------------------------------------------
 🏟️ Match: Bristol City Vs Oxford United
