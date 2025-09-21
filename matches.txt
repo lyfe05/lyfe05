@@ -148,7 +148,7 @@
 📺 Channels: Premier Sports 2, TrillerTV+, ESPN 2 NL, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Sportsnet World, Sportdigital FUSSBALL DE, GOL PLAY ES, DAZN Eleven 2 Portugal, Polsat Sport 2 Poland, ESPN2 Mexico, Astro Football, Arena Sport 3 Serbia, Nova Sports 4 Greece, Ring bg, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/736.png
-⚽ Score: 2 | 3
+⚽ Score: 3 | 3
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Auxerre Vs Toulouse
@@ -175,7 +175,7 @@
 📺 Channels: Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 2 CZ, Sport TV3 Portugal, Arena Sport 1 Serbia, Nova Sport Bulgaria, Canal+ Sport 2 Afrique, beIN Sports MENA 4
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/259.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/710.png
-⚽ Score: 2 | 1
+⚽ Score: 2 | 2
 ⏳ Elapsed time: 68'
 --------------------------------------------------
 🏟️ Match: Arsenal Vs Manchester City
@@ -211,7 +211,7 @@
 📺 Channels: Premier Player, M+ LALIGA TV, LaLiga TV UK, Nova Sport 4 CZ, DAZN Eleven 4 Portugal, Canal+ Sport 2 Poland, Digi Sport 2 Romania, Prima Sport 2 Romania, beIN Sports 6 MAX France, beIN Sports Malaysia, Match! Football 2 Russia, ESPN Deportes, Arena 2 Premium Serbia, Nova Sports 1 Greece, MAX Sport 4 Bulgaria, ESPN2 Argentina, TV4 Sport Live 1, SuperSport Laliga, beIN Sports MENA English 2
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/682.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1239.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 13'
 --------------------------------------------------
 🏟️ Match: Borussia Dortmund Vs VfL Wolfsburg
