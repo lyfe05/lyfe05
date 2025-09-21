@@ -5,7 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1175.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1889.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 63'
+⏳ Elapsed time: 76'
 --------------------------------------------------
 🏟️ Match: Lazio Vs Roma
 🕒 Start: 2025-09-21 13:30 (GMT+3)
@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/139.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/145.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 48'
+⏳ Elapsed time: 62'
 --------------------------------------------------
 🏟️ Match: Holstein Kiel Vs Karlsruher SC
 🕒 Start: 2025-09-21 14:30 (GMT+3)
@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/339.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/172.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 11'
+⏳ Elapsed time: 24'
 --------------------------------------------------
 🏟️ Match: Fortuna Düsseldorf Vs Darmstadt 98
 🕒 Start: 2025-09-21 14:30 (GMT+3)
@@ -32,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/180.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/789.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 11'
+⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: Dynamo Dresden Vs Hannover 96
 🕒 Start: 2025-09-21 14:30 (GMT+3)
@@ -41,7 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/294.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/153.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 11'
+⏳ Elapsed time: 24'
 --------------------------------------------------
 🏟️ Match: Rayo Vallecano Vs Celta de Vigo
 🕒 Start: 2025-09-21 15:00 (GMT+3)
