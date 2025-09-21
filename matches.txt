@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/339.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/172.png
 ⚽ Score: 3 | 0
-⏳ Elapsed time: 79'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Fortuna Düsseldorf Vs Darmstadt 98
 🕒 Start: 2025-09-21 14:30 (GMT+3)
@@ -32,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/180.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/789.png
 ⚽ Score: 0 | 3
-⏳ Elapsed time: 79'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Dynamo Dresden Vs Hannover 96
 🕒 Start: 2025-09-21 14:30 (GMT+3)
@@ -41,7 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/294.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/153.png
 ⚽ Score: 2 | 2
-⏳ Elapsed time: 75'
+⏳ Elapsed time: 90+6'
 --------------------------------------------------
 🏟️ Match: Rayo Vallecano Vs Celta de Vigo
 🕒 Start: 2025-09-21 15:00 (GMT+3)
@@ -50,7 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/690.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/680.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 49'
+⏳ Elapsed time: 70'
 --------------------------------------------------
 🏟️ Match: PSV Vs Ajax
 🕒 Start: 2025-09-21 15:30 (GMT+3)
@@ -59,7 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/137.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/341.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 32'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Heerenveen Vs NEC Nijmegen
 🕒 Start: 2025-09-21 15:30 (GMT+3)
@@ -68,7 +68,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/555.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/961.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 40'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: AFC Bournemouth Vs Newcastle United
 🕒 Start: 2025-09-21 16:00 (GMT+3)
@@ -77,7 +77,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/622.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/207.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 10'
+⏳ Elapsed time: 31'
 --------------------------------------------------
 🏟️ Match: Sunderland Vs Aston Villa
 🕒 Start: 2025-09-21 16:00 (GMT+3)
@@ -86,7 +86,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/208.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/199.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 10'
+⏳ Elapsed time: 31'
 --------------------------------------------------
 🏟️ Match: Cremonese Vs Parma
 🕒 Start: 2025-09-21 16:00 (GMT+3)
@@ -95,7 +95,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/386.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/193.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 9'
+⏳ Elapsed time: 30'
 --------------------------------------------------
 🏟️ Match: Torino Vs Atalanta
 🕒 Start: 2025-09-21 16:00 (GMT+3)
@@ -104,7 +104,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/722.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/248.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 7'
+⏳ Elapsed time: 28'
 --------------------------------------------------
 🏟️ Match: Paris Vs Strasbourg
 🕒 Start: 2025-09-21 16:00 (GMT+3)
@@ -113,7 +113,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5170.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/756.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 10'
+⏳ Elapsed time: 31'
 --------------------------------------------------
 🏟️ Match: Eintracht Frankfurt Vs Union Berlin
 🕒 Start: 2025-09-21 16:30 (GMT+3)
@@ -122,6 +122,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/156.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/174.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 1'
 --------------------------------------------------
 🏟️ Match: Bristol City Vs Oxford United
 🕒 Start: 2025-09-21 17:00 (GMT+3)
