@@ -59,7 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/137.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/341.png
 ⚽ Score: 2 | 1
-⏳ Elapsed time: 81'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Heerenveen Vs NEC Nijmegen
 🕒 Start: 2025-09-21 15:30 (GMT+3)
@@ -68,7 +68,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/555.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/961.png
 ⚽ Score: 3 | 2
-⏳ Elapsed time: 90+3'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: AFC Bournemouth Vs Newcastle United
 🕒 Start: 2025-09-21 16:00 (GMT+3)
@@ -77,7 +77,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/622.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/207.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 63'
+⏳ Elapsed time: 78'
 --------------------------------------------------
 🏟️ Match: Sunderland Vs Aston Villa
 🕒 Start: 2025-09-21 16:00 (GMT+3)
@@ -86,7 +86,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/208.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/199.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 63'
+⏳ Elapsed time: 78'
 --------------------------------------------------
 🏟️ Match: Cremonese Vs Parma
 🕒 Start: 2025-09-21 16:00 (GMT+3)
@@ -95,7 +95,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/386.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/193.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 60'
+⏳ Elapsed time: 75'
 --------------------------------------------------
 🏟️ Match: Torino Vs Atalanta
 🕒 Start: 2025-09-21 16:00 (GMT+3)
@@ -104,7 +104,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/722.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/248.png
 ⚽ Score: 0 | 3
-⏳ Elapsed time: 62'
+⏳ Elapsed time: 76'
 --------------------------------------------------
 🏟️ Match: Paris Vs Strasbourg
 🕒 Start: 2025-09-21 16:00 (GMT+3)
@@ -113,7 +113,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5170.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/756.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 62'
+⏳ Elapsed time: 77'
 --------------------------------------------------
 🏟️ Match: Eintracht Frankfurt Vs Union Berlin
 🕒 Start: 2025-09-21 16:30 (GMT+3)
@@ -122,7 +122,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/156.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/174.png
 ⚽ Score: 1 | 2
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 46'
 --------------------------------------------------
 🏟️ Match: Bristol City Vs Oxford United
 🕒 Start: 2025-09-21 17:00 (GMT+3)
@@ -131,7 +131,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/564.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/630.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 23'
+⏳ Elapsed time: 38'
 --------------------------------------------------
 🏟️ Match: Mallorca Vs Atlético de Madrid
 🕒 Start: 2025-09-21 17:15 (GMT+3)
@@ -140,7 +140,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/220.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 8'
+⏳ Elapsed time: 22'
 --------------------------------------------------
 🏟️ Match: AZ Vs Feyenoord
 🕒 Start: 2025-09-21 17:45 (GMT+3)
