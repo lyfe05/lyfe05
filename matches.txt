@@ -4,7 +4,7 @@
 📺 Channels: ESPN 2 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1175.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1889.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 76'
 --------------------------------------------------
 🏟️ Match: Lazio Vs Roma
@@ -22,7 +22,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 4, ESPN+ USA, Arena Sport 9 Serbia, Nova Sports 3 Greece
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/339.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/172.png
-⚽ Score: 0 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 24'
 --------------------------------------------------
 🏟️ Match: Fortuna Düsseldorf Vs Darmstadt 98
@@ -40,7 +40,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 2, ESPN+ USA, Nova Sport 3 CZ, beIN Sports 4 MAX France, Arena Sport 8 Serbia, Sky Sport 257 IT
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/294.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/153.png
-⚽ Score: 0 | 0
+⚽ Score: 2 | 2
 ⏳ Elapsed time: 24'
 --------------------------------------------------
 🏟️ Match: Rayo Vallecano Vs Celta de Vigo
