@@ -58,7 +58,7 @@
 📺 Channels: Premier Sports 2, TrillerTV+, ESPN 1 NL, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Sportsnet World, GOL PLAY ES, Sportdigital FUSSBALL DE, DAZN Eleven 2 Portugal, Polsat Sport 2 Poland, ESPN2 Mexico, Astro Football, Arena 1 Premium Serbia, Nova Sports 4 Greece, Ring bg, ESPN3 Brazil, ESPN3 Argentina, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/137.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/341.png
-⚽ Score: 2 | 1
+⚽ Score: 2 | 2
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Heerenveen Vs NEC Nijmegen
@@ -85,7 +85,7 @@
 📺 Channels: Sky Sports Main Event, Sky Sports Ultra HDR, Hub Premier, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 2 NZ, DAZN1 Spain, Sky Sport Uno IT, Astro Premier League 2, Canal+ Sport360 France, Arena Sport 1 Serbia, Nova Sports Premier League Greece, Sky Sport 5 DE, beIN Sports Türkiye 3, Canal+ Sport 3 Afrique, TV3 MAX Denmark, V Sport Football, Diema Sport 2 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport MaXimo 1, SuperSport Variety 2, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/208.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/199.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 78'
 --------------------------------------------------
 🏟️ Match: Cremonese Vs Parma
@@ -112,7 +112,7 @@
 📺 Channels: Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 2 CZ, Sport TV3 Portugal, Arena Sport 6 Serbia, Nova Sport Bulgaria, Canal+ Sport 2 Afrique, beIN Sports MENA 4, 5Plus Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5170.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/756.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 77'
 --------------------------------------------------
 🏟️ Match: Eintracht Frankfurt Vs Union Berlin
