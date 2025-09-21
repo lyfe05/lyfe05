@@ -184,7 +184,7 @@
 📺 Channels: Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR, Hub Premier 1, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 8 NZ, Sportsnet One, DAZN1 Spain, Movistar Liga de Campeones, Sky Sport Premier League DE, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Canal+ France, Canal+ Foot France, Sky Sport Uno IT, Astro Premier League, Astro Grandstand, Arena 1 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, See Denmark, Diema Sport 2 Bulgaria, ESPN Brazil, V Sport Premium, ESPN Argentina, beIN Sports Türkiye 3, SuperSport Premier League, SuperSport MaXimo 1, Supersport Grandstand, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/209.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 89'
 --------------------------------------------------
 🏟️ Match: Bayer Leverkusen Vs Borussia Mönchengladbach
@@ -193,7 +193,7 @@
 📺 Channels: Amazon Prime Video, DAZN1 DE, ESPN+ USA, Nova Sport 6 CZ, DAZN Eleven 3 Portugal, Eleven Sports 2 Poland, beIN Sports MAX 5 France, SONY TEN 2 HD, Sky Sport Arena IT, Digi Sport 4 Romania, Prima Sport 4 Romania, beIN Sports 3 Malaysia, Arena 3 Premium Serbia, Nova Sports 3 Greece, TV3 MAX Denmark, Canal+ Sport 1 Afrique, Sportklub 1 Croatia, Diema Sport 3 Bulgaria, ESPN3 Argentina, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/162.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/154.png
-⚽ Score: 1 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 90+4'
 --------------------------------------------------
 🏟️ Match: Fiorentina Vs Como
