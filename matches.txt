@@ -5,7 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1175.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1889.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 7'
+⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: Lazio Vs Roma
 🕒 Start: 2025-09-21 13:30 (GMT+3)
@@ -14,6 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/139.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/145.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: 8'
 --------------------------------------------------
 🏟️ Match: Holstein Kiel Vs Karlsruher SC
 🕒 Start: 2025-09-21 14:30 (GMT+3)
