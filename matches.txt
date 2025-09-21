@@ -175,7 +175,7 @@
 📺 Channels: Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 2 CZ, Sport TV3 Portugal, Arena Sport 1 Serbia, Nova Sport Bulgaria, Canal+ Sport 2 Afrique, beIN Sports MENA 4
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/259.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/710.png
-⚽ Score: 2 | 2
+⚽ Score: 5 | 2
 ⏳ Elapsed time: 82'
 --------------------------------------------------
 🏟️ Match: Arsenal Vs Manchester City
@@ -193,7 +193,7 @@
 📺 Channels: Amazon Prime Video, DAZN1 DE, ESPN+ USA, Nova Sport 6 CZ, DAZN Eleven 3 Portugal, Eleven Sports 2 Poland, beIN Sports MAX 5 France, SONY TEN 2 HD, Sky Sport Arena IT, Digi Sport 4 Romania, Prima Sport 4 Romania, beIN Sports 3 Malaysia, Arena 3 Premium Serbia, Nova Sports 3 Greece, TV3 MAX Denmark, Canal+ Sport 1 Afrique, Sportklub 1 Croatia, Diema Sport 3 Bulgaria, ESPN3 Argentina, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/162.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/154.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 70'
 --------------------------------------------------
 🏟️ Match: Fiorentina Vs Como
