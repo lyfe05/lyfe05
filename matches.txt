@@ -112,7 +112,7 @@
 📺 Channels: Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 2 CZ, Sport TV3 Portugal, Arena Sport 6 Serbia, Nova Sport Bulgaria, Canal+ Sport 2 Afrique, beIN Sports MENA 4, 5Plus Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5170.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/756.png
-⚽ Score: 1 | 3
+⚽ Score: 2 | 3
 ⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Eintracht Frankfurt Vs Union Berlin
@@ -121,7 +121,7 @@
 📺 Channels: Amazon Prime Video, DAZN2 DE, ESPN+ USA, Nova Sport 3 CZ, DAZN Eleven 3 Portugal, Eleven Sports 4 Poland, beIN Sports 6 MAX France, Prima Sport 4 Romania, beIN Sports 3 Malaysia, SONY TEN 2 HD, Arena 4 Premium Serbia, Nova Sports 2 Greece, Sportklub 1 Croatia, Diema Sport 3 Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/156.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/174.png
-⚽ Score: 1 | 4
+⚽ Score: 2 | 4
 ⏳ Elapsed time: 83'
 --------------------------------------------------
 🏟️ Match: Bristol City Vs Oxford United
@@ -130,7 +130,7 @@
 📺 Channels: WSL2 YouTube, Sky Sports+, SuperSport PSL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/564.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/630.png
-⚽ Score: 0 | 2
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 56'
 --------------------------------------------------
 🏟️ Match: Mallorca Vs Atlético de Madrid
@@ -148,7 +148,7 @@
 📺 Channels: Premier Sports 2, TrillerTV+, ESPN 2 NL, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Sportsnet World, Sportdigital FUSSBALL DE, GOL PLAY ES, DAZN Eleven 2 Portugal, Polsat Sport 2 Poland, ESPN2 Mexico, Astro Football, Arena Sport 3 Serbia, Nova Sports 4 Greece, Ring bg, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/736.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 28'
 --------------------------------------------------
 🏟️ Match: Auxerre Vs Toulouse
