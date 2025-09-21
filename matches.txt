@@ -31,7 +31,7 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 3, ESPN+ USA, DAZN Eleven 3 Portugal, Eleven Sports 3 Poland, Arena Sport 7 Serbia, Sport 3 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/180.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/789.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 3
 ⏳ Elapsed time: 51'
 --------------------------------------------------
 🏟️ Match: Dynamo Dresden Vs Hannover 96
@@ -58,7 +58,7 @@
 📺 Channels: Premier Sports 2, TrillerTV+, ESPN 1 NL, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Sportsnet World, GOL PLAY ES, Sportdigital FUSSBALL DE, DAZN Eleven 2 Portugal, Polsat Sport 2 Poland, ESPN2 Mexico, Astro Football, Arena 1 Premium Serbia, Nova Sports 4 Greece, Ring bg, ESPN3 Brazil, ESPN3 Argentina, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/137.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/341.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 4'
 --------------------------------------------------
 🏟️ Match: Heerenveen Vs NEC Nijmegen
@@ -67,7 +67,7 @@
 📺 Channels: ESPN 3 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/555.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/961.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 11'
 --------------------------------------------------
 🏟️ Match: AFC Bournemouth Vs Newcastle United
