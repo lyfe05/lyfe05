@@ -139,7 +139,7 @@
 📺 Channels: Premier Player, DAZN LaLiga, DAZN LaLiga 2, LaLiga TV UK, Nova Sport 4 CZ, DAZN Eleven 4 Portugal, Eleven Sports 3 Poland, beIN Sports 1 France, Match! Football 2 Russia, Digi Sport 2 Romania, Prima Sport 2 Romania, Ziggo Sport 2 NL, beIN Sports Malaysia, ESPN Deportes, Arena 2 Premium Serbia, Nova Sports 1 Greece, Arena Sport 3 Croatia, TV4 Sport Live 1, ESPN4 Brazil, ESPN2 Argentina, Canal+ Sport 4 Afrique, MAX Sport 4 Bulgaria, SuperSport Laliga
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/220.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 80'
 --------------------------------------------------
 🏟️ Match: AZ Vs Feyenoord
@@ -148,7 +148,7 @@
 📺 Channels: Premier Sports 2, TrillerTV+, ESPN 2 NL, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Sportsnet World, Sportdigital FUSSBALL DE, GOL PLAY ES, DAZN Eleven 2 Portugal, Polsat Sport 2 Poland, ESPN2 Mexico, Astro Football, Arena Sport 3 Serbia, Nova Sports 4 Greece, Ring bg, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/736.png
-⚽ Score: 1 | 1
+⚽ Score: 2 | 2
 ⏳ Elapsed time: 52'
 --------------------------------------------------
 🏟️ Match: Auxerre Vs Toulouse
@@ -157,7 +157,7 @@
 📺 Channels: Ligue 1 Pass, DAZN France, Nova Sport 5 CZ, Arena Sport 2 Serbia, V Sport Football, beIN Sports MENA 2
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/253.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/267.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 41'
 --------------------------------------------------
 🏟️ Match: Le Havre Vs Lorient
@@ -193,7 +193,7 @@
 📺 Channels: Amazon Prime Video, DAZN1 DE, ESPN+ USA, Nova Sport 6 CZ, DAZN Eleven 3 Portugal, Eleven Sports 2 Poland, beIN Sports MAX 5 France, SONY TEN 2 HD, Sky Sport Arena IT, Digi Sport 4 Romania, Prima Sport 4 Romania, beIN Sports 3 Malaysia, Arena 3 Premium Serbia, Nova Sports 3 Greece, TV3 MAX Denmark, Canal+ Sport 1 Afrique, Sportklub 1 Croatia, Diema Sport 3 Bulgaria, ESPN3 Argentina, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/162.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/154.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 0
 ⏳ Elapsed time: 26'
 --------------------------------------------------
 🏟️ Match: Fiorentina Vs Como
@@ -202,7 +202,7 @@
 📺 Channels: DAZN, Paramount+, Sky Sport 251 IT, Sky Sport Calcio IT, CBS Sports Golazo USA, Sport TV2 Portugal, Eleven Sports 4 Poland, Match! Football 1 Russia, Ziggo Sport 1 NL, Digi Sport 3 Romania, Prima Sport 3 Romania, Astro Football, Arena 4 Premium Serbia, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, FOX Deportes, TV4 Fotball, MAX Sport 3 Bulgaria, SuperSport Football, Sport 3 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/15.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/387.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 --------------------------------------------------
 🏟️ Match: Elche Vs Real Oviedo
 🕒 Start: 2025-09-21 19:30 (GMT+3)
