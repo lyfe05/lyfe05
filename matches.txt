@@ -230,7 +230,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/16.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/724.png
 ⚽ Score: 2 | 1
-⏳ Elapsed time: 90+4'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Marseille Vs PSG
 🕒 Start: 2025-09-21 21:45 (GMT+3)
@@ -247,5 +247,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/216.png
 ⚽ Score: 3 | 0
-⏳ Elapsed time: 79'
+⏳ Elapsed time: 90+3'
 --------------------------------------------------
