@@ -58,7 +58,7 @@
 📺 Channels: Premier Sports 2, TrillerTV+, ESPN 1 NL, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Sportsnet World, GOL PLAY ES, Sportdigital FUSSBALL DE, DAZN Eleven 2 Portugal, Polsat Sport 2 Poland, ESPN2 Mexico, Astro Football, Arena 1 Premium Serbia, Nova Sports 4 Greece, Ring bg, ESPN3 Brazil, ESPN3 Argentina, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/137.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/341.png
-⚽ Score: 1 | 1
+⚽ Score: 2 | 1
 ⏳ Elapsed time: 81'
 --------------------------------------------------
 🏟️ Match: Heerenveen Vs NEC Nijmegen
@@ -67,7 +67,7 @@
 📺 Channels: ESPN 3 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/555.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/961.png
-⚽ Score: 3 | 1
+⚽ Score: 3 | 2
 ⏳ Elapsed time: 90+3'
 --------------------------------------------------
 🏟️ Match: AFC Bournemouth Vs Newcastle United
@@ -85,7 +85,7 @@
 📺 Channels: Sky Sports Main Event, Sky Sports Ultra HDR, Hub Premier, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 2 NZ, DAZN1 Spain, Sky Sport Uno IT, Astro Premier League 2, Canal+ Sport360 France, Arena Sport 1 Serbia, Nova Sports Premier League Greece, Sky Sport 5 DE, beIN Sports Türkiye 3, Canal+ Sport 3 Afrique, TV3 MAX Denmark, V Sport Football, Diema Sport 2 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport MaXimo 1, SuperSport Variety 2, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/208.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/199.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 63'
 --------------------------------------------------
 🏟️ Match: Cremonese Vs Parma
@@ -121,7 +121,7 @@
 📺 Channels: Amazon Prime Video, DAZN2 DE, ESPN+ USA, Nova Sport 3 CZ, DAZN Eleven 3 Portugal, Eleven Sports 4 Poland, beIN Sports 6 MAX France, Prima Sport 4 Romania, beIN Sports 3 Malaysia, SONY TEN 2 HD, Arena 4 Premium Serbia, Nova Sports 2 Greece, Sportklub 1 Croatia, Diema Sport 3 Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/156.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/174.png
-⚽ Score: 0 | 2
+⚽ Score: 1 | 2
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Bristol City Vs Oxford United
@@ -130,7 +130,7 @@
 📺 Channels: WSL2 YouTube, Sky Sports+, SuperSport PSL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/564.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/630.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 23'
 --------------------------------------------------
 🏟️ Match: Mallorca Vs Atlético de Madrid
