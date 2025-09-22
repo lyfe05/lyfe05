@@ -5,7 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/22.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/263.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 61'
+⏳ Elapsed time: 76'
 --------------------------------------------------
 🏟️ Match: Napoli Vs Pisa
 🕒 Start: 2025-09-22 21:45 (GMT+3)
@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/191.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1209.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 33'
+⏳ Elapsed time: 45+3'
 --------------------------------------------------
 🏟️ Match: Millwall Vs Watford
 🕒 Start: 2025-09-22 22:00 (GMT+3)
@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/574.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/580.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 21'
+⏳ Elapsed time: 36'
 --------------------------------------------------
 🏟️ Match: Sporting CP Vs Moreirense
 🕒 Start: 2025-09-22 22:15 (GMT+3)
@@ -32,5 +32,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/140.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1186.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 2'
+⏳ Elapsed time: 18'
 --------------------------------------------------
