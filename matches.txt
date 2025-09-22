@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/574.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/580.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 88'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Sporting CP Vs Moreirense
 🕒 Start: 2025-09-22 22:15 (GMT+3)
@@ -32,5 +32,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/140.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1186.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 70'
+⏳ Elapsed time: 90+1'
 --------------------------------------------------
