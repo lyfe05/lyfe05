@@ -13,7 +13,7 @@
 📺 Channels: Premier Player, Italia 1 IT, Paramount+, DAZN1 ES, Sport TV1 Portugal, Polsat Sport 2 Poland, Match! Football 1 Russia, Arena 3 Premium Serbia, Arena Sport 3 Croatia, Sport 3 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/195.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/192.png
-⚽ Score: 0 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 20'
 --------------------------------------------------
 🏟️ Match: Athletic Bilbao Vs Girona
@@ -30,7 +30,7 @@
 📺 Channels: Premier Sports 2, M+ LALIGA TV, ESPN+ USA, Viaplay Sports 2 UK, Nova Sport 4 CZ, Premier Sports 2 Ireland, DAZN Eleven 2 Portugal, Canal+ Sport Poland, Ziggo Sport 2 NL, Match! Football 3 Russia, Digi Sport 4 Romania, Prima Sport 2 Romania, Arena 2 Premium Serbia, Nova Sports Start Greece, Arena Sport 2 Croatia, MAX Sport 2 Bulgaria, TV4 Fotball, beIN Sports MENA 3, ESPN2 Argentina, SuperSport Variety 4
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/215.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/143.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 --------------------------------------------------
 🏟️ Match: Wrexham Vs Reading
 🕒 Start: 2025-09-23 21:45 (GMT+3)
