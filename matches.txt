@@ -49,7 +49,7 @@
 📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/275.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/565.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 2
 ⏳ Elapsed time: 42'
 --------------------------------------------------
 🏟️ Match: Wigan Athletic Vs Wycombe Wanderers
@@ -85,7 +85,7 @@
 📺 Channels: Sky Sports Football, Sky Sports Football UK, Nova Sport 5 CZ, Sport TV3 Portugal, Astro Grandstand, Digi Sport 3 Romania, V Sport Premium, Diema Sport Bulgaria, ESPN2 Brazil, SuperSport MaXimo 1, SuperSport Variety 3, Arena Sport 1 Serbia, beIN Sports MENA 4, beIN Sports MENA English 2, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/655.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 44'
 --------------------------------------------------
 🏟️ Match: Wolverhampton Wanderers Vs Everton
@@ -112,7 +112,7 @@
 📺 Channels: Premier Player, Italia 1 IT, Paramount+, DAZN2 DE, DAZN1 ES, Sport TV6 Portugal, Polsat Sport 2 Poland, Match! Football 1 Russia, Arena 3 Premium Serbia, Ziggo Sport 3 NL, Nova Sports 2 Greece, Nova Sports 2 CZ, Arena Sport 1 Croatia, MAX Sport 3 Bulgaria, Sport 3 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/190.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 27'
 --------------------------------------------------
 🏟️ Match: Benfica Vs Rio Ave
