@@ -49,7 +49,7 @@
 📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/275.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/565.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 29'
 --------------------------------------------------
 🏟️ Match: Wigan Athletic Vs Wycombe Wanderers
@@ -58,7 +58,7 @@
 📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/204.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/656.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 31'
 --------------------------------------------------
 🏟️ Match: Barnsley Vs Brighton & Hove Albion
@@ -67,7 +67,7 @@
 📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/563.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/670.png
-⚽ Score: 0 | 1
+⚽ Score: 0 | 3
 ⏳ Elapsed time: 30'
 --------------------------------------------------
 🏟️ Match: Fulham Vs Cambridge United
@@ -94,7 +94,7 @@
 📺 Channels: Sky Sports+, 0, 1, 2, 3, 4, 5, 6, 8, 9
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/203.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/197.png
-⚽ Score: 0 | 0
+⚽ Score: 1 | 0
 ⏳ Elapsed time: 31'
 --------------------------------------------------
 🏟️ Match: Liverpool FC Vs Southampton
