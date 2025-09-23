@@ -14,7 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/195.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/192.png
 ⚽ Score: 2 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 54'
 --------------------------------------------------
 🏟️ Match: Athletic Bilbao Vs Girona
 🕒 Start: 2025-09-23 20:00 (GMT+3)
@@ -23,7 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/685.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 27'
+⏳ Elapsed time: 40'
 --------------------------------------------------
 🏟️ Match: Espanyol Vs Valencia
 🕒 Start: 2025-09-23 20:00 (GMT+3)
@@ -32,7 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/215.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/143.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: 29'
+⏳ Elapsed time: 42'
 --------------------------------------------------
 🏟️ Match: Wrexham Vs Reading
 🕒 Start: 2025-09-23 21:45 (GMT+3)
