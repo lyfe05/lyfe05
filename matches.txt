@@ -67,7 +67,7 @@
 📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/563.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/670.png
-⚽ Score: 0 | 4
+⚽ Score: 0 | 6
 ⏳ Elapsed time: 53'
 --------------------------------------------------
 🏟️ Match: Fulham Vs Cambridge United
@@ -94,7 +94,7 @@
 📺 Channels: Sky Sports+, 0, 1, 2, 3, 4, 5, 6, 8, 9
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/203.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/197.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 0
 ⏳ Elapsed time: 54'
 --------------------------------------------------
 🏟️ Match: Liverpool FC Vs Southampton
@@ -103,7 +103,7 @@
 📺 Channels: ITV1, Sky Sports Main Event, Sky Sports Ultra HDR, ITVX, STV, STV Player, ITV 1 UK, Sky Sport Premier League DE, Sky Sport Top Event DE, Nova Sport 2 CZ, Sport TV1 Portugal, Astro Football, Digi Sport 2 Romania, ESPN3 Mexico, TV3+ HD Denmark, Arena Sport 3 Croatia, Arena 1 Premium Serbia, Diema Sport 2 Bulgaria, ESPN Brazil, SuperSport Premier League, Supersport Grandstand, beIN Sports MENA 2, beIN Sports MENA English 1, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/615.png
-⚽ Score: 1 | 0
+⚽ Score: 2 | 1
 ⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Milan Vs Lecce
@@ -139,6 +139,6 @@
 📺 Channels: Premier Player, DAZN LaLiga, DAZN LaLiga 2, ESPN+ USA, DAZN Eleven 2 Portugal, Canal+ Sport Poland, Ziggo Sport 2 NL, Match! Football 3 Russia, Digi Sport 4 Romania, Prima Sport 2 Romania, Nova Sport 3 CZ, TV4 Sport Live 1, Nova Sports 1 Greece, MAX Sport 2 Bulgaria, SuperSport Variety 4
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/28.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/226.png
-⚽ Score: 0 | 1
+⚽ Score: 1 | 1
 ⏳ Elapsed time: 26'
 --------------------------------------------------
