@@ -85,7 +85,7 @@
 📺 Channels: Sky Sports Football, Sky Sports Football UK, Nova Sport 5 CZ, Sport TV3 Portugal, Astro Grandstand, Digi Sport 3 Romania, V Sport Premium, Diema Sport Bulgaria, ESPN2 Brazil, SuperSport MaXimo 1, SuperSport Variety 3, Arena Sport 1 Serbia, beIN Sports MENA 4, beIN Sports MENA English 2, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/655.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
-⚽ Score: 1 | 0
+⚽ Score: 1 | 2
 ⏳ Elapsed time: 52'
 --------------------------------------------------
 🏟️ Match: Wolverhampton Wanderers Vs Everton
@@ -139,6 +139,6 @@
 📺 Channels: Premier Player, DAZN LaLiga, DAZN LaLiga 2, ESPN+ USA, DAZN Eleven 2 Portugal, Canal+ Sport Poland, Ziggo Sport 2 NL, Match! Football 3 Russia, Digi Sport 4 Romania, Prima Sport 2 Romania, Nova Sport 3 CZ, TV4 Sport Live 1, Nova Sports 1 Greece, MAX Sport 2 Bulgaria, SuperSport Variety 4
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/28.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/226.png
-⚽ Score: 0 | 0
+⚽ Score: 0 | 1
 ⏳ Elapsed time: 26'
 --------------------------------------------------
