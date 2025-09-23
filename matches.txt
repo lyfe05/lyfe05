@@ -122,7 +122,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/147.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1189.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 80'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Levante Vs Real Madrid
 🕒 Start: 2025-09-23 22:30 (GMT+3)
@@ -131,7 +131,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/218.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26.png
 ⚽ Score: 1 | 4
-⏳ Elapsed time: 67'
+⏳ Elapsed time: 90+3'
 --------------------------------------------------
 🏟️ Match: Sevilla Vs Villarreal
 🕒 Start: 2025-09-23 22:30 (GMT+3)
@@ -140,5 +140,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/28.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/226.png
 ⚽ Score: 1 | 2
-⏳ Elapsed time: 66'
+⏳ Elapsed time: 90+2'
 --------------------------------------------------
