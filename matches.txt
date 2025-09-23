@@ -41,7 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/617.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/581.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 52'
 --------------------------------------------------
 🏟️ Match: Burnley Vs Cardiff City
 🕒 Start: 2025-09-23 21:45 (GMT+3)
@@ -50,7 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/275.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/565.png
 ⚽ Score: 0 | 2
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 50'
 --------------------------------------------------
 🏟️ Match: Wigan Athletic Vs Wycombe Wanderers
 🕒 Start: 2025-09-23 21:45 (GMT+3)
@@ -59,7 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/204.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/656.png
 ⚽ Score: 0 | 1
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 47'
 --------------------------------------------------
 🏟️ Match: Barnsley Vs Brighton & Hove Albion
 🕒 Start: 2025-09-23 21:45 (GMT+3)
@@ -68,7 +68,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/563.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/670.png
 ⚽ Score: 0 | 3
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 53'
 --------------------------------------------------
 🏟️ Match: Fulham Vs Cambridge United
 🕒 Start: 2025-09-23 21:45 (GMT+3)
@@ -77,7 +77,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/211.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/635.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 52'
 --------------------------------------------------
 🏟️ Match: Lincoln City Vs Chelsea
 🕒 Start: 2025-09-23 21:45 (GMT+3)
@@ -86,7 +86,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/655.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 52'
 --------------------------------------------------
 🏟️ Match: Wolverhampton Wanderers Vs Everton
 🕒 Start: 2025-09-23 21:45 (GMT+3)
@@ -95,7 +95,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/203.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/197.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: Half time
+⏳ Elapsed time: 54'
 --------------------------------------------------
 🏟️ Match: Liverpool FC Vs Southampton
 🕒 Start: 2025-09-23 22:00 (GMT+3)
@@ -104,7 +104,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/615.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 42'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Milan Vs Lecce
 🕒 Start: 2025-09-23 22:00 (GMT+3)
@@ -113,7 +113,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/190.png
 ⚽ Score: 1 | 0
-⏳ Elapsed time: 40'
+⏳ Elapsed time: Half time
 --------------------------------------------------
 🏟️ Match: Benfica Vs Rio Ave
 🕒 Start: 2025-09-23 22:15 (GMT+3)
@@ -122,7 +122,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/147.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1189.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 25'
+⏳ Elapsed time: 39'
 --------------------------------------------------
 🏟️ Match: Levante Vs Real Madrid
 🕒 Start: 2025-09-23 22:30 (GMT+3)
@@ -131,7 +131,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/218.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 11'
+⏳ Elapsed time: 24'
 --------------------------------------------------
 🏟️ Match: Sevilla Vs Villarreal
 🕒 Start: 2025-09-23 22:30 (GMT+3)
@@ -140,5 +140,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/28.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/226.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 12'
+⏳ Elapsed time: 26'
 --------------------------------------------------
