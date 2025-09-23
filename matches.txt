@@ -59,7 +59,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/204.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/656.png
 ⚽ Score: 0 | 2
-⏳ Elapsed time: 90+4'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Barnsley Vs Brighton & Hove Albion
 🕒 Start: 2025-09-23 21:45 (GMT+3)
@@ -104,7 +104,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/615.png
 ⚽ Score: 2 | 1
-⏳ Elapsed time: 86'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Milan Vs Lecce
 🕒 Start: 2025-09-23 22:00 (GMT+3)
@@ -113,7 +113,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/190.png
 ⚽ Score: 3 | 0
-⏳ Elapsed time: 80'
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Benfica Vs Rio Ave
 🕒 Start: 2025-09-23 22:15 (GMT+3)
@@ -122,7 +122,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/147.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1189.png
 ⚽ Score: 0 | 0
-⏳ Elapsed time: 67'
+⏳ Elapsed time: 80'
 --------------------------------------------------
 🏟️ Match: Levante Vs Real Madrid
 🕒 Start: 2025-09-23 22:30 (GMT+3)
@@ -131,7 +131,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/218.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26.png
 ⚽ Score: 1 | 3
-⏳ Elapsed time: 54'
+⏳ Elapsed time: 67'
 --------------------------------------------------
 🏟️ Match: Sevilla Vs Villarreal
 🕒 Start: 2025-09-23 22:30 (GMT+3)
@@ -140,5 +140,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/28.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/226.png
 ⚽ Score: 1 | 1
-⏳ Elapsed time: 53'
+⏳ Elapsed time: 66'
 --------------------------------------------------
