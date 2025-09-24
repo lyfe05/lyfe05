@@ -25,20 +25,16 @@ def is_banned_match(home: str, away: str, competition: str) -> bool:
         competition = ""
     lname = competition.strip().lower()
 
-    # exact banned competitions
     if lname in BANNED_TOURNAMENTS_LOWER:
         return True
 
-    # forbidden terms in competition
     if "women" in lname or "nwsl" in lname:
         return True
 
-    # youth/reserve patterns
     youth_patterns = ["u18", "u19", "u21", "u23", "youth", "reserve", "reserves", "academy"]
     if any(p in lname for p in youth_patterns):
         return True
 
-    # team name checks
     if "women" in home.lower() or "women" in away.lower():
         return True
     if any(p in home.lower() for p in youth_patterns) or any(p in away.lower() for p in youth_patterns):
@@ -97,8 +93,8 @@ def fetch_onefootball_matches():
                         competition = m.get("trackingEvents", [None])[0].get("typedServerParameter", {}).get("competition", {}).get("value", "Unknown Tournament")
                     except Exception:
                         competition = "Unknown Tournament"
-                    
-                    # ✅ Extract match_id (try both ways)
+
+                    # ✅ Extract match ID (try two sources)
                     match_id = m.get("matchId") or m.get("trackingEvents", [{}])[0].get("typedServerParameter", {}).get("match_id", {}).get("value", "")
 
                     home_team = m.get("homeTeam", {}).get("name", "Unknown")
@@ -110,7 +106,6 @@ def fetch_onefootball_matches():
                     kickoff_utc = datetime.strptime(m["kickoff"], "%Y-%m-%dT%H:%M:%SZ")
                     kickoff_gmt3 = kickoff_utc + timedelta(hours=3)
                     kickoff_str = kickoff_gmt3.strftime("%Y-%m-%d %H:%M")
-                    
                     matches.append({
                         "match_id": match_id,
                         "home": home_team,
@@ -126,7 +121,150 @@ def fetch_onefootball_matches():
         print(f"⚠️ Error fetching OneFootball: {e}")
     return matches
 
-# (other fetch_... functions remain unchanged)
+# ---------- WHERESTHEMATCH ----------
+def fetch_wheresthematch_matches():
+    url = "https://www.wheresthematch.com/football-today/"
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    matches = []
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+    except requests.RequestException as e:
+        print(f"⚠️ Error fetching WherestheMatch: {e}")
+        return matches
+    soup = BeautifulSoup(response.text, 'html.parser')
+    for row in soup.find_all('tr'):
+        fixture_cell = row.find('td', class_='fixture-details')
+        time_cell = row.find('td', class_='start-details')
+        channels_cell = row.find('td', class_='channel-details')
+        if not fixture_cell or not time_cell:
+            continue
+        team_links = fixture_cell.find_all('a')
+        if len(team_links) >= 2:
+            home_team = team_links[0].get_text(strip=True)
+            away_team = team_links[1].get_text(strip=True)
+        else:
+            continue
+        comp_span = fixture_cell.find('span', class_='fixture-comp')
+        competition = comp_span.get_text(" ", strip=True) if comp_span else "Unknown competition"
+        time_span = time_cell.find('span', class_='time')
+        kickoff_str = "Unknown"
+        if time_span:
+            try:
+                bst = pytz.timezone('Europe/London')
+                eat = pytz.timezone('Africa/Nairobi')
+                bst_time = bst.localize(datetime.strptime(f"{datetime.today().date()} {time_span.get_text(strip=True)}", "%Y-%m-%d %H:%M"))
+                kickoff_str = bst_time.astimezone(eat).strftime("%Y-%m-%d %H:%M")
+            except Exception:
+                kickoff_str = "Unknown"
+        channels = []
+        if channels_cell:
+            channels = [img.get('title', 'Unknown Channel') for img in channels_cell.find_all('img', class_='channel')]
+        if not channels:
+            channels = ["Not specified"]
+        matches.append({
+            "home": home_team,
+            "away": away_team,
+            "competition": competition,
+            "kickoff": kickoff_str,
+            "channels": channels
+        })
+    return matches
+
+# ---------- DADDYLIVE ----------
+def fetch_daddylive_matches():
+    url = "https://daddylivestream.com/schedule/schedule-generated.php"
+    headers = {"User-Agent": "Mozilla/5.0","Referer": "https://daddylivestream.com/","Origin": "https://daddylivestream.com"}
+    matches = []
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+        schedule = response.json()
+        for _, categories in schedule.items():
+            for key, events in categories.items():
+                if "soccer" not in key.lower():
+                    continue
+                for event in events:
+                    event_name = event.get("event", "")
+                    if " : " not in event_name or "vs" not in event_name.lower():
+                        continue
+                    try:
+                        comp, fixture = event_name.split(":", 1)
+                        comp = comp.strip()
+                    except ValueError:
+                        comp, fixture = "Unknown Competition", event_name
+                    parts = re.split(r"\s+vs\.?\s+", fixture, flags=re.IGNORECASE)
+                    if len(parts) != 2:
+                        continue
+                    home, away = [p.strip() for p in parts]
+
+                    def extract_channels(ch_list):
+                        result = []
+                        for c in ch_list:
+                            if isinstance(c, dict):
+                                result.append(c.get("channel_name", "Unknown"))
+                            elif isinstance(c, str):
+                                result.append(c)
+                        return result
+
+                    ch1 = extract_channels(event.get("channels", []))
+                    ch2 = extract_channels(event.get("channels2", []))
+                    matches.append({
+                        "home": home,
+                        "away": away,
+                        "competition": comp,
+                        "channels": ch1 + ch2 if (ch1 or ch2) else []
+                    })
+    except Exception as e:
+        print(f"⚠️ Error fetching DaddyLive: {e}")
+    return matches
+
+# ---------- ALLFOOTBALL ----------
+def fetch_allfootball_matches():
+    url = "https://m.allfootballapp.com/matchs"
+    headers = {"User-Agent": "Mozilla/5.0"}
+    matches = []
+    scraper = cloudscraper.create_scraper()
+    try:
+        resp = scraper.get(url, headers=headers, timeout=15)
+        resp.raise_for_status()
+        text = resp.text
+        idx = text.find('"matchListStore":')
+        if idx == -1:
+            return matches
+        snippet = text[idx:]
+        end_idx = snippet.find('}</script>')
+        if end_idx != -1:
+            snippet = snippet[:end_idx+1]
+        snippet = "{" + snippet
+        data = json.loads(snippet)
+        raw_matches = data.get("matchListStore", {}).get("currentListData", [])
+        local_tz = pytz.timezone("Africa/Nairobi")
+        today_local = datetime.now(local_tz).date()
+        for m in raw_matches:
+            try:
+                dt_str = f"{m.get('date_utc','')} {m.get('time_utc','00:00:00')}"
+                match_utc = datetime.strptime(dt_str, "%Y-%m-%d %H:%M:%S")
+                match_utc = pytz.utc.localize(match_utc)
+                match_local = match_utc.astimezone(local_tz)
+                if match_local.date() != today_local:
+                    continue
+                kickoff_str = match_local.strftime("%Y-%m-%d %H:%M")
+                matches.append({
+                    "home": m.get("team_A_name", "Unknown"),
+                    "away": m.get("team_B_name", "Unknown"),
+                    "competition": m.get("competition_name", "Unknown Tournament"),
+                    "kickoff": kickoff_str,
+                    "home_logo": m.get("team_A_logo", "No logo"),
+                    "away_logo": m.get("team_B_logo", "No logo"),
+                    "home_score": str(m.get("fs_A", "0")),
+                    "away_score": str(m.get("fs_B", "0"))
+                })
+            except Exception:
+                continue
+    except Exception as e:
+        print(f"⚠️ Error fetching AllFootball: {e}")
+    return matches
 
 # ---------- MERGE ----------
 def merge_matches():
@@ -136,15 +274,19 @@ def merge_matches():
     allfootball = fetch_allfootball_matches()
     merged = []
 
+    # ---------- FIRST PASS: build allowed tournaments ----------
     allowed_tournaments = set()
     for om in onefootball:
         if is_banned_match(om.get("home",""), om.get("away",""), om.get("competition","")):
             continue
+
         wtm_matches = [wm for wm in wtm if teams_match(om["home"], om["away"], wm["home"], wm["away"])]
         af_matches = [am for am in allfootball if teams_match(om["home"], om["away"], am["home"], am["away"])]
+
         if wtm_matches or af_matches:
             allowed_tournaments.add(om["competition"].lower())
 
+    # ---------- SECOND PASS: build final matches ----------
     for om in onefootball:
         if is_banned_match(om.get("home",""), om.get("away",""), om.get("competition","")):
             continue
@@ -159,10 +301,12 @@ def merge_matches():
             for dm in daddylive:
                 if teams_match(om["home"], om["away"], dm["home"], dm["away"]):
                     channels.extend(dm.get("channels", []))
+
         elif af_matches:
             for dm in daddylive:
                 if teams_match(om["home"], om["away"], dm["home"], dm["away"]):
                     channels.extend(dm.get("channels", []))
+
         elif om["competition"].lower() in allowed_tournaments:
             for dm in daddylive:
                 if teams_match(om["home"], om["away"], dm["home"], dm["away"]):
@@ -186,7 +330,6 @@ def merge_matches():
             return datetime.max
     merged.sort(key=kickoff_key)
 
-    # ✅ Now we also print match_id
     for m in merged:
         print(f"🏟️ Match: {m['home']} Vs {m['away']}")
         print(f"🆔 Match ID: {m.get('match_id', 'N/A')}")
