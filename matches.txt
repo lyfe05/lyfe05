@@ -5,6 +5,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4456.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4468.png
 ⚽ Score: 0 | 0
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Zulfi Vs Al-Fayha
 🕒 Start: 2025-09-23 18:35 (GMT+3)
@@ -13,6 +14,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/22580.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7900.png
 ⚽ Score: 0 (4) | 0 (3)
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Al-Najma Vs Damac
 🕒 Start: 2025-09-23 18:35 (GMT+3)
@@ -21,6 +23,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26213.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/14863.png
 ⚽ Score: 2 | 1
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Al-Hazem Vs NEOM
 🕒 Start: 2025-09-23 18:35 (GMT+3)
@@ -29,6 +32,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10025.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26702.png
 ⚽ Score: 2 | 1
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Al-Rayyan Vs Al-Wakrah
 🕒 Start: 2025-09-23 20:00 (GMT+3)
@@ -37,6 +41,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4452.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4458.png
 ⚽ Score: 4 | 3
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Al-Wehda Vs Al-Ittihad
 🕒 Start: 2025-09-23 21:30 (GMT+3)
@@ -45,6 +50,7 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7110.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2335.png
 ⚽ Score: 0 | 1
+⏳ Elapsed time: Full time
 --------------------------------------------------
 🏟️ Match: Jeddah Vs Al-Nassr
 🕒 Start: 2025-09-23 21:30 (GMT+3)
@@ -53,4 +59,5 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23845.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2329.png
 ⚽ Score: 0 | 4
+⏳ Elapsed time: Full time
 --------------------------------------------------
