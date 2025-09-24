@@ -6,22 +6,6 @@
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/400.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Jubail Vs Al-Riyadh
-🕒 Start: 2025-09-24 18:10 (GMT+3)
-📍 Tournament: King's Cup
-📺 Channels: Thmanyah
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/51893.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/29027.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Al-Jabalain Vs Al-Fateh
-🕒 Start: 2025-09-24 18:45 (GMT+3)
-📍 Tournament: King's Cup
-📺 Channels: TrillerTV+, Thmanyah, Dubai Sports 1, Abu Dhabi Sports 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/22388.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2331.png
-⚽ Score: 0 | 0
---------------------------------------------------
 🏟️ Match: Hellas Verona Vs Venezia
 🕒 Start: 2025-09-24 19:30 (GMT+3)
 📍 Tournament: Coppa Italia
@@ -60,14 +44,6 @@
 📺 Channels: TrillerTV+, ESPN 1 NL, Sportsnet World, Sportklub 1 Croatia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1175.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Al-Orobah Vs Al-Qadsiah
-🕒 Start: 2025-09-24 21:00 (GMT+3)
-📍 Tournament: King's Cup
-📺 Channels: TrillerTV+, Thmanyah, Dubai Sports 1, Abu Dhabi Sports 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2337.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5546.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Huddersfield Town Vs Manchester City
