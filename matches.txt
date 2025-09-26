@@ -43,24 +43,6 @@
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/22.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Auchinleck Vs Cumnock
-🆔 Match ID: 2637396
-🕒 Start: 2025-09-26 21:45 (GMT+3)
-📍 Tournament: Scottish Cup
-📺 Channels: BBC Scotland, BBC iPlayer, BBC Sport Website
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2099.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/20259.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Cumbernauld C. Vs Glasgow Uni
-🆔 Match ID: 2637420
-🕒 Start: 2025-09-26 21:45 (GMT+3)
-📍 Tournament: Scottish Cup
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6128.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2124.png
-⚽ Score: 0 | 0
---------------------------------------------------
 🏟️ Match: Girona Vs Espanyol
 🆔 Match ID: 2605179
 🕒 Start: 2025-09-26 22:00 (GMT+3)
