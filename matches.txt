@@ -1,144 +1,90 @@
-🏟️ Match: Al-Khaleej Vs Al-Taawoun
-🆔 Match ID: 2632871
-🕒 Start: 2025-09-25 18:10 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Thmanyah, Dubai Sports 1, Abu Dhabi Sports 1, beIN Sports MENA 4, beIN Sports HD Qatar, Jordan TV Sport, Fox Soccer Plus, #Vamos ES, Sportdigital FUSSBALL DE, Sport TV2 Portugal, FOX Deportes, Sportklub 2 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2452.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2330.png
+🏟️ Match: Darmstadt 98 Vs Dynamo Dresden
+🆔 Match ID: 2603918
+🕒 Start: 2025-09-26 19:30 (GMT+3)
+📍 Tournament: 2. Bundesliga
+📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 4, Nova Sport 5 CZ, Eleven Sports 2 Poland, Arena 3 Premium Serbia, Nova Sport Bulgaria
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/789.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/294.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Al-Shabab Vs Al Kholood
-🆔 Match ID: 2632870
-🕒 Start: 2025-09-25 18:25 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Thmanyah, Dubai Sports 1, Abu Dhabi Sports 1, beIN Sports MENA 4, beIN Sports HD Qatar, Jordan TV Sport, Fox Soccer Plus, #Vamos ES, Sportdigital FUSSBALL DE, Sport TV2 Portugal, FOX Deportes, Sportklub 2 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2336.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26921.png
+🏟️ Match: Schalke 04 Vs Greuther Fürth
+🆔 Match ID: 2603919
+🕒 Start: 2025-09-26 19:30 (GMT+3)
+📍 Tournament: 2. Bundesliga
+📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 3, Sky Sport Top Event DE, Nova Sport 4 CZ, DAZN Eleven 2 Portugal, Eleven Sports 3 Poland, Sky Sport Calcio IT, Digi Sport 2 Romania, Arena 2 Premium Serbia, Nova Sports Prime Greece, Diema Sport 2 Bulgaria, Sport Klub 1 Croatia, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/144.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/165.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Genoa Vs Empoli
-🆔 Match ID: 2632483
-🕒 Start: 2025-09-25 19:30 (GMT+3)
-📍 Tournament: Coppa Italia
-📺 Channels: Premier Sports 1, Italia 1 IT, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Sport TV1 Portugal, Ziggo Sport 5 NL, Arena 5 Premium Serbia, Match! Football 1 Russia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/189.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/726.png
+🏟️ Match: Bayern Munich Vs Werder Bremen
+🆔 Match ID: 2603436
+🕒 Start: 2025-09-26 21:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Bundesliga YouTube, The Overlap YouTube, That's Football YouTube, BBC iPlayer, BBC Sport Website, Sky Sport Bundesliga 1, Sky Sport Top Event DE, ESPN2 USA, Nova Sport 3 CZ, DAZN Eleven 1 Portugal, Eleven Sports 1 Poland, Sky Sport Uno IT, Sony Sports Ten 2, beIN Sports 2 France, Digi Sport 2 Romania, ESPN Deportes, Sportv Brazil, Arena 1 Premium Serbia, Nova Sports 3 Greece, TV3 MAX Denmark, V Sport Premium, Diema Sport 3 Bulgaria, Sport Klub 1 Croatia, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/150.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Go Ahead Eagles Vs FCSB
-🆔 Match ID: 2636687
-🕒 Start: 2025-09-25 19:45 (GMT+3)
-📍 Tournament: UEFA Europa League
-📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 5 UK, Ziggo Sport 1 NL, Digi Sport 1 Romania, Prima Sport 1 Romania, Sky Sport Austria 4, Movistar Liga de Campeones 3, DAZN Eleven 2 Portugal, Sky Sport 252 IT, Sky Sport Arena IT, Canal+ Foot France, Arena 2 Premium Serbia, Polsat Sport Premium 2 Poland, beIN Sports 3 Malaysia, MAX Sport 3 Bulgaria, ESPN3 Argentina, beIN Sports MENA Xtra 1, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1889.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/149.png
+🏟️ Match: Mirandés Vs Real Zaragoza
+🆔 Match ID: 2605808
+🕒 Start: 2025-09-26 21:30 (GMT+3)
+📍 Tournament: La Liga 2
+📺 Channels: Premier Player, LALIGA TV Hypermotion, GOL PLAY ES, Match! Football 1 Russia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1141.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/224.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Lille Vs Brann
-🆔 Match ID: 2636688
-🕒 Start: 2025-09-25 19:45 (GMT+3)
-📍 Tournament: UEFA Europa League
-📺 Channels: TNT Sports 4, Discovery+ Premium, TNT Sports 4 UK, CBS Sports Network USA, Sky Sport Austria 3, Movistar Liga de Campeones 2, DAZN Eleven 1 Portugal, Polsat Sport Premium 1 Poland, Sky Sport 251 IT, Sky Sport Uno IT, Canal+ France, TUDN USA, Ziggo Sport 3 NL, ESPN2 Mexico, Sony Sports Ten 2, Blue Sport 8 Live, beIN Sports Malaysia, Arena 1 Premium Serbia, Arena Sport 4 Croatia, ESPN2 Argentina, bTV Action Bulgaria, SuperSport Premier League, Supersport Grandstand, beIN Sports MENA 3, beIN Sports MENA English 1, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/257.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/964.png
+🏟️ Match: Strasbourg Vs Marseille
+🆔 Match ID: 2602833
+🕒 Start: 2025-09-26 21:45 (GMT+3)
+📍 Tournament: Ligue 1
+📺 Channels: Amazon Prime Video, Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 4 CZ, DAZN1 DE, Sport TV2 Portugal, Eleven Sports 2 Poland, Sky Sport Calcio IT, Arena 2 Premium Serbia, Arena Sport 2 Croatia, V Sport Football, Nova Sport Bulgaria, ESPN3 Argentina, beIN Sports MENA 4, 5Sport Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/756.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/22.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Osasuna Vs Elche
-🆔 Match ID: 2605169
-🕒 Start: 2025-09-25 20:30 (GMT+3)
+🏟️ Match: Auchinleck Vs Cumnock
+🆔 Match ID: 2637396
+🕒 Start: 2025-09-26 21:45 (GMT+3)
+📍 Tournament: Scottish Cup
+📺 Channels: BBC Scotland, BBC iPlayer, BBC Sport Website
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2099.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/20259.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Cumbernauld C. Vs Glasgow Uni
+🆔 Match ID: 2637420
+🕒 Start: 2025-09-26 21:45 (GMT+3)
+📍 Tournament: Scottish Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6128.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2124.png
+⚽ Score: 0 | 0
+--------------------------------------------------
+🏟️ Match: Girona Vs Espanyol
+🆔 Match ID: 2605179
+🕒 Start: 2025-09-26 22:00 (GMT+3)
 📍 Tournament: LaLiga
-📺 Channels: Premier Player, M+ LALIGA TV, Nova Sport 3 CZ, DAZN Eleven 4 Portugal, Canal+ Sport 3 Poland, beIN Sports 1 France, Now Sports 2 HK, Match! Football 2 Russia, ESPN Deportes, Prima Sport 2 Romania, Arena 4 Premium Serbia, Nova Sports 1 Greece, Arena Sport 3 Croatia, MAX Sport 4 Bulgaria, SuperSport Laliga, beIN Sports MENA 4
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/221.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/682.png
+📺 Channels: Premier Player, M+ LALIGA TV, Now Sports 2 HK, Nova Sport 5 CZ, DAZN Eleven 2 Portugal, Eleven Sports 4 Poland, Match! Football 2 Russia, Ziggo Sport 2 NL, Digi Sport 4 Romania, Arena 4 Premium Serbia, beIN Sports Malaysia, TV4 Fotball, Nova Sports Prime Greece, TV2 Sport X Denmark, Arena Sport 1 Croatia, MAX Sport 4 Bulgaria, ESPN2 Brazil, SuperSport Laliga, SuperSport MaXimo 1, beIN Sports MENA 3
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/685.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/215.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Al-Hilal Vs Al-Okhdood
-🆔 Match ID: 2632872
-🕒 Start: 2025-09-25 21:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Thmanyah, Dubai Sports 1, Abu Dhabi Sports 1, beIN Sports MENA 4, beIN Sports HD Qatar, Jordan TV Sport, Fox Soccer Plus, #Vamos ES, Sportdigital FUSSBALL DE, Sport TV2 Portugal, FOX Deportes, Sportklub 2 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2328.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/25673.png
+🏟️ Match: West Bromwich Albion Vs Leicester City
+🆔 Match ID: 2600872
+🕒 Start: 2025-09-26 22:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports Football, Sky Sports Ultra HDR, Sky Sports Football UK, Sport TV6 Portugal, Astro Football, ESPN3 Mexico, Arena 5 Premium Serbia, Arena Sport 3 Croatia, Diema Sport 2 Bulgaria, FOX Sports Argentina, SuperSport Premier League, ESPN4 Brazil, beIN Sports MENA 5, beIN Sports MENA English 1, Sport 4 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/196.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/572.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: VfB Stuttgart Vs Celta de Vigo
-🆔 Match ID: 2636686
-🕒 Start: 2025-09-25 22:00 (GMT+3)
-📍 Tournament: UEFA Europa League
-📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 5 UK, RTL DE, Movistar Liga de Campeones, Sky Sport Austria 3, DAZN Eleven 2 Portugal, Sky Sport 254 IT, Canal+ Live 4 France, Blue Sport 2 Live, beIN Sports 2 Malaysia, TUDN USA, UniMás, Digi Sport 4 Romania, Prima Sport 4 Romania, Polsat Sport Extra 2 Poland, Arena Sport 2 Croatia, Arena 1 Premium Serbia, MAX Sport 3 Bulgaria, ESPN3 Argentina, SuperSport Action, beIN Sports MENA 3
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/31.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/680.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Rangers Vs KRC Genk
-🆔 Match ID: 2636694
-🕒 Start: 2025-09-25 22:00 (GMT+3)
-📍 Tournament: UEFA Europa League
-📺 Channels: TNT Sports 2, Discovery+ Premium, TNT Sports 2 UK, Sky Sport Austria 4, Movistar Liga de Campeones 5, Canal+ Live 5 France, Blue Sport 7 Live, Polsat Sport Extra 1 Poland, Polsat Sport 2 Poland, SuperSport Variety 3, Arena Sport 4 Serbia, beIN Sports MENA 5
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/501.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Ferencváros Vs Plzeň
-🆔 Match ID: 2636693
-🕒 Start: 2025-09-25 22:00 (GMT+3)
-📍 Tournament: UEFA Europa League
-📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 9 UK, M4 Sports Hungary, Nova Sport 5 CZ, Sky Sport Austria 7, Movistar Liga de Campeones 8, Canal+ Live 6 France, Blue Sport 6 Live, Arena Sport 3 Serbia, beIN Sports MENA Xtra 1, Sport 4 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/932.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/440.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Utrecht Vs Lyon
-🆔 Match ID: 2636692
-🕒 Start: 2025-09-25 22:00 (GMT+3)
-📍 Tournament: UEFA Europa League
-📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 7 UK, Canal+ France, Ziggo Sport 2 NL, Ziggo Sport 1 NL, Sky Sport Austria 5, Movistar Liga de Campeones 6, Polsat Sport Extra 3 Poland, TRT Spor Turkey, SONY TEN 3 HD, DAZN Eleven 3 Portugal, Sky Sport 255 IT, Blue Sport 4 Live, Arena Sport 1 Serbia, Ring bg, ESPN2 Argentina, beIN Sports MENA 9
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/445.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: RB Salzburg Vs Porto
-🆔 Match ID: 2636691
-🕒 Start: 2025-09-25 22:00 (GMT+3)
-📍 Tournament: UEFA Europa League
-📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 6 UK, Sport TV5 Portugal, Movistar Liga de Campeones 4, Blue Sport 5 Live, TV8 IT, Sky Sport 253 IT, Polsat Sport Premium 2 Poland, Canal+ Live 3 France, Ziggo Sport 5 NL, Arena Sport 4 Croatia, Arena 5 Premium Serbia, MAX Sport 2 Bulgaria, SuperSport Football, SuperSport MaXimo 1, beIN Sports MENA 7, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/379.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/13.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: BSC Young Boys Vs Panathinaikos
-🆔 Match ID: 2636690
-🕒 Start: 2025-09-25 22:00 (GMT+3)
-📍 Tournament: UEFA Europa League
-📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 8 UK, Blue Sport D 2, ANT 1 Greece, Cosmote Sport 2 Greece, Sky Sport Austria 6, Movistar Liga de Campeones 7, Polsat Sport Extra 4 Poland, Ziggo Sport 6 NL, Arena Sport 2 Serbia, beIN Sports MENA 6
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/347.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/551.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Aston Villa Vs Bologna
-🆔 Match ID: 2636689
-🕒 Start: 2025-09-25 22:00 (GMT+3)
-📍 Tournament: UEFA Europa League
-📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium, TNT Sports 1 UK, CBS Sports Network USA, Sky Sport 252 IT, Sky Sport Uno IT, Sky Sport Austria 2, SRF zwei, Movistar Liga de Campeones 2, Sky Sport Top Event DE, Sky Sport Mix DE, DAZN Eleven 1 Portugal, Polsat Sport Premium 1 Poland, Canal+ Foot France, beIN Sports Malaysia, Ziggo Sport 3 NL, Prima Sport 3 Romania, Arena Sport 1 Croatia, Digi Sport 3 Romania, Sony Sports Ten 2, Arena 2 Premium Serbia, bTV Action Bulgaria, ESPN Argentina, SuperSport Premier League, Supersport Grandstand, beIN Sports MENA 2, beIN Sports MENA English 1, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/199.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/183.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Torino Vs Pisa
-🆔 Match ID: 2599554
-🕒 Start: 2025-09-25 22:00 (GMT+3)
-📍 Tournament: Coppa Italia
-📺 Channels: Premier Player, Italia 1 IT, Match! Football 1 Russia, Arena Sport 5 Serbia, Nova Sports 2 Greece
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/722.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1209.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Real Oviedo Vs Barcelona
-🆔 Match ID: 2605167
-🕒 Start: 2025-09-25 22:30 (GMT+3)
-📍 Tournament: LaLiga
-📺 Channels: Premier Sports 1, DAZN LaLiga, DAZN LaLiga 2, Viaplay Sports 1 UK, Now Sports 2 HK, TSN3, Nova Sport 4 CZ, DAZN Zona IT, DAZN1 DE, DAZN Eleven 4 Portugal, Canal+ Sport Poland, beIN Sports 1 France, Canal+ Sport 3 Afrique, Match TV Russia, Match! Football 2 Russia, Digi Sport 1 Romania, Prima Sport 2 Romania, ESPN Deportes, Arena 4 Premium Serbia, Nova Sports Prime Greece, Arena Sport 3 Croatia, TV2 Sport X Denmark, TV4 Fotball, ESPN Brazil, MAX Sport 4 Bulgaria, SuperSport Laliga, beIN Sports MENA 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1239.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5.png
+🏟️ Match: Benfica Vs Gil Vicente
+🆔 Match ID: 2608929
+🕒 Start: 2025-09-26 22:15 (GMT+3)
+📍 Tournament: Liga Portugal
+📺 Channels: TrillerTV+, Benfica TV Portugal, Sportdigital FUSSBALL DE, GOLTV USA, Eleven Sports 3 Poland, beIN Sports 9 MAX France, Arena 3 Premium Serbia, Ring bg, Sportklub HD Croatia, ESPN Brazil, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/147.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1185.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
