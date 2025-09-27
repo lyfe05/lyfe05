@@ -1,12 +1,3 @@
-🏟️ Match: Cesena Under 20 Vs SSC Napoli Under 20
-🆔 Match ID: 2632932
-🕒 Start: 2025-09-27 12:00 (GMT+3)
-📍 Tournament: Campionato Primavera 1 TIMvision
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/55344.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/58452.png
-⚽ Score: 0 | 0
---------------------------------------------------
 🏟️ Match: Elversberg Vs Holstein Kiel
 🆔 Match ID: 2603913
 🕒 Start: 2025-09-27 14:00 (GMT+3)
@@ -32,15 +23,6 @@
 📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 3, ESPN+ USA, Nova Sport 5 CZ, Eleven Sports 4 Poland, Arena Sport 3 Serbia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/172.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/792.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: US Cremonese Under 20 Vs AC Milan U20
-🆔 Match ID: 2600538
-🕒 Start: 2025-09-27 14:00 (GMT+3)
-📍 Tournament: Campionato Primavera 1 TIMvision
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/55285.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/55271.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Brentford Vs Manchester United
@@ -95,15 +77,6 @@
 📺 Channels: DAZN, DAZN Zona IT, Paramount+, Sport TV2 Portugal, Match! Football 1 Russia, Arena Sport 2 Serbia, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, TV4 Sportkanalen, Prima Sport 4 Romania, MAX Sport 2 Bulgaria, SuperSport Football
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/387.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/386.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: AC Monza U20 Vs ACF Fiorentina U20
-🆔 Match ID: 2600541
-🕒 Start: 2025-09-27 16:00 (GMT+3)
-📍 Tournament: Campionato Primavera 1 TIMvision
-📺 Channels: CITY+, ChelseaFC.com, Chelsea Official App, SpursPlay, FIFA+, MUTV UK, Fox Soccer Plus, Telemundo, beIN Sports MENA 1, beIN Sports HD Qatar, TSN5, Magenta Sport 318, beIN Sports MENA 6, Fox Sports 2 USA, NBC UNIVERSO USA, RDS 2 CA, Teledeporte Spain (TDP), TVP Sport Poland, Match TV Russia, Match! Football 1 Russia, TSN4, beIN Sports MENA English 2, beIN Sports MENA 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/55260.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/31593.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Mainz 05 Vs Borussia Dortmund
@@ -455,113 +428,5 @@
 📺 Channels: TrillerTV+, Sport TV1 Portugal, GOLTV USA, Sportdigital FUSSBALL DE, beIN Sports MAX 4 France, Ziggo Sport 5 NL, Arena Sport 2 Serbia, Ring bg, ESPN2 Brazil, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1184.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/140.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Japan U20 Vs Egypt U20
-🆔 Match ID: 2589966
-🕒 Start: 2025-09-27 23:00 (GMT+3)
-📍 Tournament: FIFA U20 World Cup
-📺 Channels: CITY+, ChelseaFC.com, Chelsea Official App, SpursPlay, FIFA+, MUTV UK, Fox Soccer Plus, Telemundo, beIN Sports MENA 1, beIN Sports HD Qatar, TSN5, Magenta Sport 318, beIN Sports MENA 6, Fox Sports 2 USA, NBC UNIVERSO USA, RDS 2 CA, Teledeporte Spain (TDP), TVP Sport Poland, Match TV Russia, Match! Football 1 Russia, TSN4, beIN Sports MENA English 2, beIN Sports MENA 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7809.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/28546.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Korea Republic U20 Vs Ukraine U20
-🆔 Match ID: 2589967
-🕒 Start: 2025-09-27 23:00 (GMT+3)
-📍 Tournament: FIFA U20 World Cup
-📺 Channels: CITY+, ChelseaFC.com, Chelsea Official App, SpursPlay, FIFA+, MUTV UK, Fox Soccer Plus, Telemundo, beIN Sports MENA 1, beIN Sports HD Qatar, TSN5, Magenta Sport 318, beIN Sports MENA 6, Fox Sports 2 USA, NBC UNIVERSO USA, RDS 2 CA, Teledeporte Spain (TDP), TVP Sport Poland, Match TV Russia, Match! Football 1 Russia, TSN4, beIN Sports MENA English 2, beIN Sports MENA 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7812.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5115.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Chile U20 Vs New Zealand U20
-🆔 Match ID: 2589968
-🕒 Start: 2025-09-28 02:00 (GMT+3)
-📍 Tournament: FIFA U20 World Cup
-📺 Channels: CITY+, ChelseaFC.com, Chelsea Official App, SpursPlay, FIFA+, MUTV UK, Fox Soccer Plus, Telemundo, beIN Sports MENA 1, beIN Sports HD Qatar, TSN5, Magenta Sport 318, beIN Sports MENA 6, Fox Sports 2 USA, NBC UNIVERSO USA, RDS 2 CA, Teledeporte Spain (TDP), TVP Sport Poland, Match TV Russia, Match! Football 1 Russia, TSN4, beIN Sports MENA English 2, beIN Sports MENA 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23788.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5112.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Paraguay U20 Vs Panama U20
-🆔 Match ID: 2589969
-🕒 Start: 2025-09-28 02:00 (GMT+3)
-📍 Tournament: FIFA U20 World Cup
-📺 Channels: CITY+, ChelseaFC.com, Chelsea Official App, SpursPlay, FIFA+, MUTV UK, Fox Soccer Plus, Telemundo, beIN Sports MENA 1, beIN Sports HD Qatar, TSN5, Magenta Sport 318, beIN Sports MENA 6, Fox Sports 2 USA, NBC UNIVERSO USA, RDS 2 CA, Teledeporte Spain (TDP), TVP Sport Poland, Match TV Russia, Match! Football 1 Russia, TSN4, beIN Sports MENA English 2, beIN Sports MENA 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/22963.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5118.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Detroit City Vs Louisville City
-🆔 Match ID: 2562916
-🕒 Start: 2025-09-28 02:00 (GMT+3)
-📍 Tournament: USL Championship
-📺 Channels: Sky Sports Football, Sky Sports Ultra HDR, Sky Sports Football UK, CBS Sports Golazo USA, Sport TV1 Portugal, Sport TV4 Portugal, Astro Football, beIN Sports MAX 9 France, Arena 2 Premium Serbia, TV3 MAX Denmark, Arena Sport 3 Croatia, Nova Sport Bulgaria, SuperSport Action, beIN Sports MENA 5, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9941.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5024.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Indy Eleven Vs Tulsa
-🆔 Match ID: 2562918
-🕒 Start: 2025-09-28 02:00 (GMT+3)
-📍 Tournament: USL Championship
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3777.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5025.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Pittsburgh Riverhounds SC Vs Las Vegas Lights
-🆔 Match ID: 2562922
-🕒 Start: 2025-09-28 02:00 (GMT+3)
-📍 Tournament: USL Championship
-📺 Channels: CBS Sports Golazo USA
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3884.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9759.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Colorado Springs Switchbacks Vs Hartford Athletic
-🆔 Match ID: 2562915
-🕒 Start: 2025-09-28 03:00 (GMT+3)
-📍 Tournament: USL Championship
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5022.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/13250.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: San Antonio Vs Birmingham Legion
-🆔 Match ID: 2562923
-🕒 Start: 2025-09-28 03:30 (GMT+3)
-📍 Tournament: USL Championship
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7842.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/13258.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Monterey Bay Vs Sacramento Republic
-🆔 Match ID: 2562919
-🕒 Start: 2025-09-28 05:00 (GMT+3)
-📍 Tournament: USL Championship
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/20758.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3237.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Orange County Vs Charleston Battery
-🆔 Match ID: 2562920
-🕒 Start: 2025-09-28 05:00 (GMT+3)
-📍 Tournament: USL Championship
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7840.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3902.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Phoenix Rising Vs Oakland Roots SC
-🆔 Match ID: 2562921
-🕒 Start: 2025-09-28 05:00 (GMT+3)
-📍 Tournament: USL Championship
-📺 Channels: CBS Sports Golazo USA
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3888.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/17410.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
