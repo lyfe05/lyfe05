@@ -1,21 +1,3 @@
-🏟️ Match: Ahal Vs Hussein
-🆔 Match ID: 2633544
-🕒 Start: 2025-09-30 16:45 (GMT+3)
-📍 Tournament: AFC Champions League Two
-📺 Channels: The AFC Hub, Sport Kliub 4 Croatia, beIN Sports MENA 9
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/14244.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/25672.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Sepahan Vs Mohun Bagan SG
-🆔 Match ID: 2633543
-🕒 Start: 2025-09-30 19:00 (GMT+3)
-📍 Tournament: AFC Champions League Two
-📺 Channels: The AFC Hub, Nova Sport Bulgaria, beIN Sports MENA 5
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6353.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18891.png
-⚽ Score: 0 | 0
---------------------------------------------------
 🏟️ Match: Atalanta Vs Club Brugge
 🆔 Match ID: 2636463
 🕒 Start: 2025-09-30 19:45 (GMT+3)
