@@ -1,39 +1,3 @@
-🏟️ Match: Seoul Vs Buriram United
-🆔 Match ID: 2633654
-🕒 Start: 2025-09-30 13:00 (GMT+3)
-📍 Tournament: AFC Champions League Elite
-📺 Channels: The AFC Hub, Nova Sport Bulgaria, Sport Kliub 4 Croatia, beIN Sports MENA 6
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2640.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4465.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Sanfrecce Hiroshima Vs Shanghai Port
-🆔 Match ID: 2633655
-🕒 Start: 2025-09-30 13:00 (GMT+3)
-📍 Tournament: AFC Champions League Elite
-📺 Channels: The AFC Hub, Astro Arena Bola 2, Diema Sport 3 Bulgaria, beIN Sports MENA 5, Sport Kliub 1 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1208.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2312.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Chengdu Rongcheng Vs Gangwon
-🆔 Match ID: 2633651
-🕒 Start: 2025-09-30 15:15 (GMT+3)
-📍 Tournament: AFC Champions League Elite
-📺 Channels: The AFC Hub, Astro Arena Bola 2, Diema Sport 3 Bulgaria, beIN Sports MENA 5, Sport Kliub 1 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6661.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2624.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Johor Darul Ta'zim Vs Machida Zelvia
-🆔 Match ID: 2633652
-🕒 Start: 2025-09-30 15:15 (GMT+3)
-📍 Tournament: AFC Champions League Elite
-📺 Channels: The AFC Hub, Astro Arena Bola, Nova Sport Bulgaria, Sport Klub HD Croatia, beIN Sports MENA 6, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3833.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6301.png
-⚽ Score: 0 | 0
---------------------------------------------------
 🏟️ Match: Ahal Vs Hussein
 🆔 Match ID: 2633544
 🕒 Start: 2025-09-30 16:45 (GMT+3)
@@ -41,15 +5,6 @@
 📺 Channels: The AFC Hub, Sport Kliub 4 Croatia, beIN Sports MENA 9
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/14244.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/25672.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Al Sadd SC Vs Sharjah
-🆔 Match ID: 2633653
-🕒 Start: 2025-09-30 19:00 (GMT+3)
-📍 Tournament: AFC Champions League Elite
-📺 Channels: The AFC Hub, Astro Grandstand, Diema Sport 3 Bulgaria, Sport Klub HD Croatia, beIN Sports MENA 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4469.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4473.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Sepahan Vs Mohun Bagan SG
@@ -86,24 +41,6 @@
 📺 Channels: Premier Sports 2, DAZN LaLiga, LaLiga TV UK, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Nova Sport 4 CZ, DAZN1 DE, Canal+ Sport Poland, DAZN Eleven 2 Portugal, Ziggo Sport 2 NL, ESPN Deportes, Digi Sport 4 Romania, Prima Sport 3 Romania, MATCH! Futbol 2 Russia, beIN Sports MAX 4 France, beIN Sports 1 Malaysia, beIN SPORTS Australia 2, beIN Sports Malaysia, Arena 2 Premium Serbia, Nova Sports 1 Greece, Arena Sport 3 Croatia, MAX Sport 4 Bulgaria, TV4 Sport Live 1, ESPN3 Argentina, SuperSport Laliga, beIN Sports MENA 3
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/143.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1239.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Notts County Vs Barnsley
-🆔 Match ID: 2628397
-🕒 Start: 2025-09-30 21:00 (GMT+3)
-📍 Tournament: EFL Trophy
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/657.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/563.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Al-Ittihad Vs Shabab Al Ahli
-🆔 Match ID: 2633650
-🕒 Start: 2025-09-30 21:15 (GMT+3)
-📍 Tournament: AFC Champions League Elite
-📺 Channels: The AFC Hub, Nova Sport Bulgaria, Sport Klub 1 Croatia, beIN Sports MENA 1, beIN Sports MENA English 1, beIN Sports MENA English 2, Astro Grandstand, Diema Sport 3 Bulgaria, Sport Klub HD Croatia, beIN Sports MENA 2, Astro Arena Bola, ESPN4 Brazil, Sport 4 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2335.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/8375.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Birmingham City Vs Sheffield Wednesday
@@ -167,15 +104,6 @@
 📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/583.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/615.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Harrogate Town Vs Huddersfield Town
-🆔 Match ID: 2628394
-🕒 Start: 2025-09-30 21:45 (GMT+3)
-📍 Tournament: EFL Trophy
-📺 Channels: DAZN National League, Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1528.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/673.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
 🏟️ Match: Marseille Vs Ajax
