@@ -205,33 +205,6 @@
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/630.png
 ⚽ Score: 0 | 0
 --------------------------------------------------
-🏟️ Match: Olympique Béja Vs AS Marsa
-🆔 Match ID: 2624323
-🕒 Start: 2025-10-04 17:00 (GMT+3)
-📍 Tournament: Ligue 1 Tunisia
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/11373.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/31011.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: Stade Tunisien Vs ESZ
-🆔 Match ID: 2624325
-🕒 Start: 2025-10-04 17:00 (GMT+3)
-📍 Tournament: Ligue 1 Tunisia
-📺 Channels: Ligue 1 Pass
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9796.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9800.png
-⚽ Score: 0 | 0
---------------------------------------------------
-🏟️ Match: AS Soliman Vs Bizertin
-🆔 Match ID: 2624328
-🕒 Start: 2025-10-04 17:00 (GMT+3)
-📍 Tournament: Ligue 1 Tunisia
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/15301.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9799.png
-⚽ Score: 0 | 0
---------------------------------------------------
 🏟️ Match: Girona Vs Valencia
 🆔 Match ID: 2605182
 🕒 Start: 2025-10-04 17:15 (GMT+3)
