@@ -15,6 +15,7 @@ def load_banned_tournaments(filepath="banned.txt"):
             tournaments = {line.strip().lower() for line in f if line.strip()}
         return tournaments
     except FileNotFoundError:
+        print(f"⚠️ banned.txt not found, continuing with empty ban list")
         return set()
 
 BANNED_TOURNAMENTS_LOWER = load_banned_tournaments()
@@ -84,7 +85,6 @@ def fetch_onefootball_matches():
             return matches
         json_data = json.loads(match.group(1))
         containers = json_data.get("props", {}).get("pageProps", {}).get("containers", [])
-        
         for container in containers:
             comp = container.get("type", {}).get("fullWidth", {}).get("component", {})
             if comp.get("contentType", {}).get("$case") == "matchCardsList":
@@ -94,6 +94,7 @@ def fetch_onefootball_matches():
                     except Exception:
                         competition = "Unknown Tournament"
 
+                    # ✅ Extract match ID (try two sources)
                     match_id = m.get("matchId") or m.get("trackingEvents", [{}])[0].get("typedServerParameter", {}).get("match_id", {}).get("value", "")
 
                     home_team = m.get("homeTeam", {}).get("name", "Unknown")
@@ -113,7 +114,7 @@ def fetch_onefootball_matches():
                         "away_logo": away_logo
                     })
     except Exception as e:
-        pass
+        print(f"⚠️ Error fetching OneFootball: {e}")
     return matches
 
 # ---------- WHERESTHEMATCH ----------
@@ -125,6 +126,7 @@ def fetch_wheresthematch_matches():
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
     except requests.RequestException as e:
+        print(f"⚠️ Error fetching WherestheMatch: {e}")
         return matches
     soup = BeautifulSoup(response.text, 'html.parser')
     for row in soup.find_all('tr'):
@@ -210,7 +212,7 @@ def fetch_daddylive_matches():
                         "channels": ch1 + ch2 if (ch1 or ch2) else []
                     })
     except Exception as e:
-        pass
+        print(f"⚠️ Error fetching DaddyLive: {e}")
     return matches
 
 # ---------- ALLFOOTBALL ----------
@@ -255,7 +257,7 @@ def fetch_allfootball_matches():
             except Exception:
                 continue
     except Exception as e:
-        pass
+        print(f"⚠️ Error fetching AllFootball: {e}")
     return matches
 
 # ---------- MERGE ----------
@@ -322,7 +324,6 @@ def merge_matches():
             return datetime.max
     merged.sort(key=kickoff_key)
 
-    # Output only the match data (no logs)
     for m in merged:
         print(f"🏟️ Match: {m['home']} Vs {m['away']}")
         print(f"🆔 Match ID: {m.get('match_id', 'N/A')}")
