@@ -1,0 +1,48 @@
+✅ Loaded 44 banned tournaments
+
+🚀 Running merge process...
+
+[1️⃣] Fetching OneFootball matches...
+   ✅ Status: 200, Length: 400763
+   ✅ Parsed OneFootball matches: 95
+
+[2️⃣] Fetching WherestheMatch matches...
+   ✅ Status: 200, Length: 111754
+   ✅ Parsed WherestheMatch matches: 26
+
+[3️⃣] Fetching DaddyLive matches...
+   ⚠️ Error fetching DaddyLive: 'str' object has no attribute 'get'
+
+[4️⃣] Fetching AllFootball matches...
+   ✅ Parsed AllFootball matches: 13
+
+🔍 Building allowed tournaments list...
+   ✅ Allowed tournaments: 2
+
+📊 Merging matches...
+
+✅ Final merged matches: 12
+🏟️ Ethiopia vs Guinea-Bissau | 🕒 2025-10-08 16:00 (GMT+3) | 📺 ESPN+ USA, Sport TV4 Portugal, SportKlub 6 Slovenia, SuperSport Laliga | 📍 CAF World Cup Qualifying
+------------------------------------------------------------
+🏟️ Eswatini vs Angola | 🕒 2025-10-08 16:00 (GMT+3) | 📺 ESPN+ USA, Sport TV3 Portugal, SportKlub 5 Slovenia, SuperSport PSL, SuperSport MaXimo 1, Sport Klub 4 Crotaia | 📍 CAF World Cup Qualifying
+------------------------------------------------------------
+🏟️ Libya vs Cabo Verde | 🕒 2025-10-08 16:00 (GMT+3) | 📺 ESPN+ USA, Sport TV1 Portugal, ESPN 1 NL, Sport Klub HD Crotaia | 📍 CAF World Cup Qualifying
+------------------------------------------------------------
+🏟️ Mauritius vs Cameroon | 🕒 2025-10-08 16:00 (GMT+3) | 📺 ESPN+ USA, Arena 2 Premium Serbia, Sportdigital FUSSBALL DE, Sport Klub 2 Crotaia | 📍 CAF World Cup Qualifying
+------------------------------------------------------------
+🏟️ Oman vs Qatar | 🕒 2025-10-08 18:00 (GMT+3) | 📺 ESPN+ USA, ESPN 2 NL, SportKlub 4 Slovenia, Sportdigital FUSSBALL DE, Astro Arena Bola, Nova Sport Bulgaria, ESPN4 Brazil, beIN Sports MENA 1, Sport 5 Live Israel | 📍 AFC Asian Qualifiers – Road to 26
+------------------------------------------------------------
+🏟️ Djibouti vs Egypt | 🕒 2025-10-08 19:00 (GMT+3) | 📺 ESPN+ USA, ON Time Sports Egypt, ESPN 3 NL, Sportklub HD Croatia | 📍 CAF World Cup Qualifying
+------------------------------------------------------------
+🏟️ Sierra Leone vs Burkina Faso | 🕒 2025-10-08 19:00 (GMT+3) | 📺 ESPN+ USA, SportKlub 2 Slovenia | 📍 CAF World Cup Qualifying
+------------------------------------------------------------
+🏟️ Chad vs Mali | 🕒 2025-10-08 19:00 (GMT+3) | 📺 ESPN+ USA, Sport Klub 4 Crotaia | 📍 CAF World Cup Qualifying
+------------------------------------------------------------
+🏟️ Comoros vs Madagascar | 🕒 2025-10-08 19:00 (GMT+3) | 📺 ESPN+ USA, Arena 2 Premium Serbia | 📍 CAF World Cup Qualifying
+------------------------------------------------------------
+🏟️ Indonesia vs Saudi Arabia | 🕒 2025-10-08 20:15 (GMT+3) | 📺 ESPN+ USA, ESPN 1 NL, Sportdigital FUSSBALL DE, SportKlub 4 Slovenia, ESPN2 Mexico, Nova Sport Bulgaria, ESPN4 Brazil, beIN Sports MENA 2, Sport 5 Live Israel | 📍 AFC Asian Qualifiers – Road to 26
+------------------------------------------------------------
+🏟️ Niger vs Congo | 🕒 2025-10-08 22:00 (GMT+3) | 📺 ESPN+ USA, Sportklub HD Croatia | 📍 CAF World Cup Qualifying
+------------------------------------------------------------
+🏟️ Tanzania vs Zambia | 🕒 2025-10-08 22:00 (GMT+3) | 📺 ESPN+ USA, SportKlub 2 Slovenia, Arena Sport 5 Serbia, SuperSport PSL, SuperSport MaXimo 1, Supersport Grandstand, Sport 4 Israel | 📍 CAF World Cup Qualifying
+------------------------------------------------------------
