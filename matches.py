@@ -94,6 +94,9 @@ def fetch_onefootball_matches():
                     away_team = m.get("awayTeam", {}).get("name", "Unknown")
                     home_logo = m.get("homeTeam", {}).get("imageObject", {}).get("path", "No logo")
                     away_logo = m.get("awayTeam", {}).get("imageObject", {}).get("path", "No logo")
+                    # keep scores if present
+                    home_score = str(m.get("homeTeam", {}).get("score") or "0")
+                    away_score = str(m.get("awayTeam", {}).get("score") or "0")
 
                     kickoff_utc = datetime.strptime(m["kickoff"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=pytz.utc)
                     kickoff_local = kickoff_utc.astimezone(LOCAL_TZ)
@@ -106,7 +109,9 @@ def fetch_onefootball_matches():
                         "competition": competition,
                         "kickoff": kickoff_str,
                         "home_logo": home_logo,
-                        "away_logo": away_logo
+                        "away_logo": away_logo,
+                        "home_score": home_score,
+                        "away_score": away_score
                     })
         print(f"   ✅ Parsed OneFootball matches: {len(matches)}")
     except Exception as e:
@@ -190,8 +195,25 @@ def fetch_daddylive_matches():
                     if len(parts) != 2:
                         continue
                     home, away = [p.strip() for p in parts]
-                    ch1 = [c.get("channel_name", c) for c in event.get("channels", []) if c]
-                    ch2 = [c.get("channel_name", c) for c in event.get("channels2", []) if c]
+                    # preserve original behavior: try to extract channel_name from dicts, otherwise keep string
+                    ch1 = []
+                    for c in event.get("channels", []) if event.get("channels") else []:
+                        try:
+                            if isinstance(c, dict):
+                                ch1.append(c.get("channel_name", str(c)))
+                            else:
+                                ch1.append(str(c))
+                        except Exception:
+                            ch1.append(str(c))
+                    ch2 = []
+                    for c in event.get("channels2", []) if event.get("channels2") else []:
+                        try:
+                            if isinstance(c, dict):
+                                ch2.append(c.get("channel_name", str(c)))
+                            else:
+                                ch2.append(str(c))
+                        except Exception:
+                            ch2.append(str(c))
                     matches.append({
                         "home": home,
                         "away": away,
@@ -278,7 +300,7 @@ def merge_matches():
            om["competition"].lower() in allowed_tournaments:
             for dm in daddylive:
                 if teams_match(om["home"], om["away"], dm["home"], dm["away"]):
-                    channels.extend(dm["channels"])
+                    channels.extend(dm.get("channels", []))
         if not channels:
             continue
         seen, clean_channels = set(), []
@@ -292,9 +314,34 @@ def merge_matches():
     merged.sort(key=lambda m: datetime.strptime(m["kickoff"], "%Y-%m-%d %H:%M") if m["kickoff"] != "Unknown" else datetime.max)
 
     print(f"\n✅ Final merged matches: {len(merged)}")
+
+    # Print to console (workflow logs) using your requested multi-line format,
+    # and also build a clean text representation to write to matches.txt
+    lines_for_file = []
     for m in merged:
-        print(f"🏟️ {m['home']} vs {m['away']} | 🕒 {m['kickoff']} (GMT+3) | 📺 {', '.join(m['channels']) or 'Not specified'} | 📍 {m['competition']}")
-        print("-" * 60)
+        # Multi-line console output (exact format you wanted)
+        print(f"🏟️ Match: {m['home']} Vs {m['away']}")
+        print(f"🆔 Match ID: {m.get('match_id', 'N/A')}")
+        print(f"🕒 Start: {m['kickoff']} (GMT+3)")
+        print(f"📍 Tournament: {m['competition']}")
+        print(f"📺 Channels: {', '.join(m['channels']) if m['channels'] else 'Not specified'}")
+        print(f"🖼️ Home Logo: {m.get('home_logo', 'N/A')}")
+        print(f"🖼️ Away Logo: {m.get('away_logo', 'N/A')}")
+        print("-" * 50)
+
+        # Clean single-line for matches.txt
+        channels_str = ', '.join(m['channels']) if m['channels'] else 'Not specified'
+        file_line = f"{m['home']} vs {m['away']} - {m['kickoff']} (GMT+3) - {m['competition']} - Channels: {channels_str}"
+        lines_for_file.append(file_line)
+
+    # Write matches.txt (clean lines)
+    try:
+        with open("matches.txt", "w", encoding="utf-8") as f:
+            for ln in lines_for_file:
+                f.write(ln + "\n")
+        print("\n📁 matches.txt written successfully.")
+    except Exception as e:
+        print(f"\n⚠️ Error writing matches.txt: {e}")
 
 if __name__ == "__main__":
     merge_matches()
