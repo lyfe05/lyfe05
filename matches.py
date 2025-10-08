@@ -15,7 +15,6 @@ def load_banned_tournaments(filepath="banned.txt"):
             tournaments = {line.strip().lower() for line in f if line.strip()}
         return tournaments
     except FileNotFoundError:
-        print(f"⚠️ banned.txt not found, continuing with empty ban list")
         return set()
 
 BANNED_TOURNAMENTS_LOWER = load_banned_tournaments()
@@ -73,7 +72,6 @@ def teams_match(h1, a1, h2, a2):
 
 # ---------- ONEFOOTBALL ----------
 def fetch_onefootball_matches():
-    print("🔍 Fetching matches from OneFootball...")
     url = "https://onefootball.com/en/matches"
     headers = {'User-Agent': 'Mozilla/5.0'}
     matches = []
@@ -83,25 +81,19 @@ def fetch_onefootball_matches():
         json_pattern = r'<script id="__NEXT_DATA__" type="application/json">({.*?})</script>'
         match = re.search(json_pattern, response.text, re.DOTALL)
         if not match:
-            print("❌ No JSON data found in OneFootball response")
             return matches
         json_data = json.loads(match.group(1))
         containers = json_data.get("props", {}).get("pageProps", {}).get("containers", [])
-        print(f"📊 Found {len(containers)} containers in OneFootball")
         
-        match_count = 0
         for container in containers:
             comp = container.get("type", {}).get("fullWidth", {}).get("component", {})
             if comp.get("contentType", {}).get("$case") == "matchCardsList":
-                match_cards = comp["contentType"]["matchCardsList"]["matchCards"]
-                match_count += len(match_cards)
-                for m in match_cards:
+                for m in comp["contentType"]["matchCardsList"]["matchCards"]:
                     try:
                         competition = m.get("trackingEvents", [None])[0].get("typedServerParameter", {}).get("competition", {}).get("value", "Unknown Tournament")
                     except Exception:
                         competition = "Unknown Tournament"
 
-                    # ✅ Extract match ID (try two sources)
                     match_id = m.get("matchId") or m.get("trackingEvents", [{}])[0].get("typedServerParameter", {}).get("match_id", {}).get("value", "")
 
                     home_team = m.get("homeTeam", {}).get("name", "Unknown")
@@ -120,14 +112,12 @@ def fetch_onefootball_matches():
                         "home_logo": home_logo,
                         "away_logo": away_logo
                     })
-        print(f"✅ OneFootball: Found {len(matches)} matches")
     except Exception as e:
-        print(f"❌ Error fetching OneFootball: {e}")
+        pass
     return matches
 
 # ---------- WHERESTHEMATCH ----------
 def fetch_wheresthematch_matches():
-    print("🔍 Fetching matches from WherestheMatch...")
     url = "https://www.wheresthematch.com/football-today/"
     headers = {'User-Agent': 'Mozilla/5.0'}
     matches = []
@@ -135,14 +125,9 @@ def fetch_wheresthematch_matches():
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
     except requests.RequestException as e:
-        print(f"❌ Error fetching WherestheMatch: {e}")
         return matches
     soup = BeautifulSoup(response.text, 'html.parser')
-    rows = soup.find_all('tr')
-    print(f"📊 Found {len(rows)} rows in WherestheMatch")
-    
-    match_count = 0
-    for row in rows:
+    for row in soup.find_all('tr'):
         fixture_cell = row.find('td', class_='fixture-details')
         time_cell = row.find('td', class_='start-details')
         channels_cell = row.find('td', class_='channel-details')
@@ -178,14 +163,10 @@ def fetch_wheresthematch_matches():
             "kickoff": kickoff_str,
             "channels": channels
         })
-        match_count += 1
-    
-    print(f"✅ WherestheMatch: Found {len(matches)} matches")
     return matches
 
 # ---------- DADDYLIVE ----------
 def fetch_daddylive_matches():
-    print("🔍 Fetching matches from DaddyLive...")
     url = "https://daddylivestream.com/schedule/schedule-generated.php"
     headers = {"User-Agent": "Mozilla/5.0","Referer": "https://daddylivestream.com/","Origin": "https://daddylivestream.com"}
     matches = []
@@ -193,14 +174,10 @@ def fetch_daddylive_matches():
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
         schedule = response.json()
-        print(f"📊 DaddyLive: Processing {len(schedule)} categories")
-        
-        match_count = 0
         for _, categories in schedule.items():
             for key, events in categories.items():
                 if "soccer" not in key.lower():
                     continue
-                print(f"📋 Processing soccer category: {key} with {len(events)} events")
                 for event in events:
                     event_name = event.get("event", "")
                     if " : " not in event_name or "vs" not in event_name.lower():
@@ -232,15 +209,12 @@ def fetch_daddylive_matches():
                         "competition": comp,
                         "channels": ch1 + ch2 if (ch1 or ch2) else []
                     })
-                    match_count += 1
-        print(f"✅ DaddyLive: Found {len(matches)} matches")
     except Exception as e:
-        print(f"❌ Error fetching DaddyLive: {e}")
+        pass
     return matches
 
 # ---------- ALLFOOTBALL ----------
 def fetch_allfootball_matches():
-    print("🔍 Fetching matches from AllFootball...")
     url = "https://m.allfootballapp.com/matchs"
     headers = {"User-Agent": "Mozilla/5.0"}
     matches = []
@@ -251,7 +225,6 @@ def fetch_allfootball_matches():
         text = resp.text
         idx = text.find('"matchListStore":')
         if idx == -1:
-            print("❌ No matchListStore found in AllFootball response")
             return matches
         snippet = text[idx:]
         end_idx = snippet.find('}</script>')
@@ -260,11 +233,8 @@ def fetch_allfootball_matches():
         snippet = "{" + snippet
         data = json.loads(snippet)
         raw_matches = data.get("matchListStore", {}).get("currentListData", [])
-        print(f"📊 AllFootball: Found {len(raw_matches)} raw matches")
-        
         local_tz = pytz.timezone("Africa/Nairobi")
         today_local = datetime.now(local_tz).date()
-        match_count = 0
         for m in raw_matches:
             try:
                 dt_str = f"{m.get('date_utc','')} {m.get('time_utc','00:00:00')}"
@@ -282,42 +252,24 @@ def fetch_allfootball_matches():
                     "home_logo": m.get("team_A_logo", "No logo"),
                     "away_logo": m.get("team_B_logo", "No logo")
                 })
-                match_count += 1
             except Exception:
                 continue
-        print(f"✅ AllFootball: Found {len(matches)} matches for today")
     except Exception as e:
-        print(f"❌ Error fetching AllFootball: {e}")
+        pass
     return matches
 
 # ---------- MERGE ----------
 def merge_matches():
-    print("🚀 Starting match aggregation process...")
-    print("=" * 50)
-    
     onefootball = fetch_onefootball_matches()
-    print("-" * 30)
-    
     wtm = fetch_wheresthematch_matches()
-    print("-" * 30)
-    
     daddylive = fetch_daddylive_matches()
-    print("-" * 30)
-    
     allfootball = fetch_allfootball_matches()
-    print("-" * 30)
-    
-    print("🔄 Merging matches from all sources...")
     merged = []
 
     # ---------- FIRST PASS: build allowed tournaments ----------
-    print("📋 Building allowed tournaments list...")
     allowed_tournaments = set()
-    banned_count = 0
-    
     for om in onefootball:
         if is_banned_match(om.get("home",""), om.get("away",""), om.get("competition","")):
-            banned_count += 1
             continue
 
         wtm_matches = [wm for wm in wtm if teams_match(om["home"], om["away"], wm["home"], wm["away"])]
@@ -326,13 +278,7 @@ def merge_matches():
         if wtm_matches or af_matches:
             allowed_tournaments.add(om["competition"].lower())
 
-    print(f"✅ Allowed tournaments: {len(allowed_tournaments)}")
-    print(f"❌ Banned matches filtered: {banned_count}")
-
     # ---------- SECOND PASS: build final matches ----------
-    print("🎯 Building final match list...")
-    merged_count = 0
-    
     for om in onefootball:
         if is_banned_match(om.get("home",""), om.get("away",""), om.get("competition","")):
             continue
@@ -368,7 +314,6 @@ def merge_matches():
                 clean_channels.append(ch)
 
         merged.append({**om, "channels": clean_channels})
-        merged_count += 1
 
     def kickoff_key(match):
         try:
@@ -377,10 +322,7 @@ def merge_matches():
             return datetime.max
     merged.sort(key=kickoff_key)
 
-    print("=" * 50)
-    print(f"🎉 FINAL RESULTS: {len(merged)} matches found")
-    print("=" * 50)
-
+    # Output only the match data (no logs)
     for m in merged:
         print(f"🏟️ Match: {m['home']} Vs {m['away']}")
         print(f"🆔 Match ID: {m.get('match_id', 'N/A')}")
@@ -390,8 +332,6 @@ def merge_matches():
         print(f"🖼️ Home Logo: {m.get('home_logo', 'N/A')}")
         print(f"🖼️ Away Logo: {m.get('away_logo', 'N/A')}")
         print("-" * 50)
-
-    print(f"✅ Process completed! Total matches: {len(merged)}")
 
 if __name__ == "__main__":
     merge_matches()
