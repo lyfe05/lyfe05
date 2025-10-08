@@ -10,10 +10,10 @@ jobs:
   run-script:
     runs-on: ubuntu-latest
     env:
-      TZ: Africa/Nairobi  # Set timezone for logs and Python datetime
+      TZ: Africa/Nairobi  # Set the timezone to GMT+3
 
     steps:
-      - name: 📦 Checkout repository
+      - name: 📥 Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -35,21 +35,21 @@ jobs:
           sudo ln -fs /usr/share/zoneinfo/Africa/Nairobi /etc/localtime
           sudo dpkg-reconfigure --frontend noninteractive tzdata
 
-      - name: 🚀 Run script with logs
+      - name: 🚀 Run matches script
         run: |
           echo "🚀 Starting matches.py at $(date)"
-          python matches.py | tee matches.txt
+          python matches.py
           echo "✅ Script finished at $(date)"
           echo "----------------------------------------"
-          echo "📊 Preview of matches.txt:"
-          head -n 50 matches.txt || echo "⚠️ No output"
+          echo "📊 Preview of matches.txt (first 50 lines):"
+          head -n 50 matches.txt || echo "⚠️ matches.txt not found or empty"
 
       - name: 📤 Commit and push results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add matches.txt
-          git commit -m "Update matches.txt [skip ci]" || echo "⚠️ No changes to commit"
+          git commit -m "Update matches.txt [skip ci]" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
