@@ -1,44 +1,45 @@
-Serie BKT
-Scottish League one
-Scottish Premiership
-NWSL
-J1 League
-Cymru Premier
-NIFL Premiership
-SWPL
-J2 League
-China League One
-FA Cup
-EFL League One
-EFL League Two
-Pro League
-Qatar Stars League
-National League
-UAE Pro League
-3. Liga
-Brasileirão Betano
-Liga Profesional Argentina Clausura
-K-League 2
-Major League Soccer
-K League 1
-MLS Next Pro
-Scottish League Cup
-Scottish Championship
-Premier Division
-Regionalliga Südwest
-National League North / South
-Thai FA Cup
-Thai League Cup
-King's Cup
-Scottish Cup
-Campionato Primavera 1 TIMvision
+3. Liga  
+2. Liga  
+AFC Champions League Elite  
+AFC Champions League Two  
+Brasileirão Betano  
+Campionato Primavera 1 TIMvision  
+China League One  
+Cymru Premier  
+EFL League One  
+EFL League Two  
+EFL Trophy  
+EFL Trophy  
+FA Cup  
+FIFA U20 World Cup  
+J1 League  
+J2 League  
+J.League Cup  
+K League 1  
+K-League 2  
+King's Cup  
+Liga FPD  
+Liga Profesional Argentina Clausura  
+Ligue 1 Tunisia  
+Major League Soccer  
+MLS Next Pro  
+National League  
+National League North / South  
+NIFL Premiership  
+NWSL  
+Premier Division  
+Pro League  
+Qatar Stars League  
+Regionalliga Südwest  
+Scottish Championship  
+Scottish Cup  
+Scottish League Cup  
+Scottish League one  
+Scottish Premiership  
+Serie BKT  
+SWPL  
+Thai FA Cup  
+Thai League 1  
+Thai League Cup  
+UAE Pro League  
 USL Championship
-FIFA U20 World Cup
-Liga FPD
-AFC Champions League Elite
-EFL Trophy
-EFL Trophy
-AFC Champions League Two
-Ligue 1 Tunisia
-Thai League 1
-2. Liga
