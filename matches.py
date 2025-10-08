@@ -331,8 +331,18 @@ def merge_matches():
 
         # Clean single-line for matches.txt
         channels_str = ', '.join(m['channels']) if m['channels'] else 'Not specified'
-        file_line = f"{m['home']} vs {m['away']} - {m['kickoff']} (GMT+3) - {m['competition']} - Channels: {channels_str}"
-        lines_for_file.append(file_line)
+file_block = (
+    f"🏟️ Match: {m['home']} Vs {m['away']}\n"
+    f"🆔 Match ID: {m.get('match_id', 'N/A')}\n"
+    f"🕒 Start: {m['kickoff']} (GMT+3)\n"
+    f"📍 Tournament: {m['competition']}\n"
+    f"📺 Channels: {channels_str}\n"
+    f"🖼️ Home Logo: {m.get('home_logo', 'N/A')}\n"
+    f"🖼️ Away Logo: {m.get('away_logo', 'N/A')}\n"
+    f"{'-' * 50}\n"
+)
+lines_for_file.append(file_block)
+
 
     # Write matches.txt (clean lines)
     try:
