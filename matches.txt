@@ -1,35 +1,3 @@
-🏟️ Match: Csikszereda Vs Câmpulung
-🆔 Match ID: 2642106
-🕒 Start: 2025-10-10 11:00 (GMT+3)
-📍 Tournament: Club Friendly Games
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10609.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/34379.png
---------------------------------------------------
-🏟️ Match: CSA Steaua Vs Concordia
-🆔 Match ID: 2642077
-🕒 Start: 2025-10-10 12:00 (GMT+3)
-📍 Tournament: Club Friendly Games
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/33553.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1311.png
---------------------------------------------------
-🏟️ Match: MFK Ružomberok Vs Podbeskidzie
-🆔 Match ID: 2642027
-🕒 Start: 2025-10-10 13:00 (GMT+3)
-📍 Tournament: Club Friendly Games
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3698.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1299.png
---------------------------------------------------
-🏟️ Match: Aluminij Vs Slaven Belupo
-🆔 Match ID: 2642107
-🕒 Start: 2025-10-10 13:00 (GMT+3)
-📍 Tournament: Club Friendly Games
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4314.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2942.png
---------------------------------------------------
 🏟️ Match: Japan Vs Paraguay
 🆔 Match ID: 2593762
 🕒 Start: 2025-10-10 13:20 (GMT+3)
@@ -45,30 +13,6 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/70.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/79.png
---------------------------------------------------
-🏟️ Match: Borussia Mönchengladbach Vs Preussen Münster
-🆔 Match ID: 2642019
-🕒 Start: 2025-10-10 14:00 (GMT+3)
-📍 Tournament: Club Friendly Games
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/154.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/336.png
---------------------------------------------------
-🏟️ Match: SCR Altach Vs Wil
-🆔 Match ID: 2642020
-🕒 Start: 2025-10-10 15:00 (GMT+3)
-📍 Tournament: Club Friendly Games
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1938.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1614.png
---------------------------------------------------
-🏟️ Match: BW Linz Vs First Vienna
-🆔 Match ID: 2642021
-🕒 Start: 2025-10-10 15:00 (GMT+3)
-📍 Tournament: Club Friendly Games
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/759.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1944.png
 --------------------------------------------------
 🏟️ Match: Uruguay Vs Dominican Republic
 🆔 Match ID: 2638831
@@ -165,22 +109,6 @@
 📺 Channels: FIFA+, Sport TV2 Portugal, Sportklub HD Croatia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1367.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/112.png
---------------------------------------------------
-🏟️ Match: Anorthosis Vs Spartakos
-🆔 Match ID: 2642026
-🕒 Start: 2025-10-10 19:00 (GMT+3)
-📍 Tournament: Club Friendly Games
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/512.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/46566.png
---------------------------------------------------
-🏟️ Match: Atlético de Madrid Vs Inter
-🆔 Match ID: 2641785
-🕒 Start: 2025-10-10 19:00 (GMT+3)
-📍 Tournament: Club Friendly Games
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16.png
 --------------------------------------------------
 🏟️ Match: Russia Vs Iran
 🆔 Match ID: 2584403
@@ -317,20 +245,4 @@
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/126.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1022.png
---------------------------------------------------
-🏟️ Match: Roasso Kumamoto Vs Brew Saga
-🆔 Match ID: 2641783
-🕒 Start: 2025-10-11 05:00 (GMT+3)
-📍 Tournament: Club Friendly Games
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3740.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/57609.png
---------------------------------------------------
-🏟️ Match: Cruz Azul Vs Pumas UNAM
-🆔 Match ID: 2642223
-🕒 Start: 2025-10-11 05:00 (GMT+3)
-📍 Tournament: Club Friendly Games
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1843.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1846.png
 --------------------------------------------------
