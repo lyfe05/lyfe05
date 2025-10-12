@@ -1,80 +1,16 @@
-🏟️ Match: Latvia Vs Andorra
-🆔 Match ID: 2560211
-🕒 Start: 2025-10-11 16:00 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Fox Sports 2 USA, Sky Sport 4 NZ, Sport TV6 Portugal, Polsat Sport 3 Poland, Sky Sport 256 IT, DAZN1 DE, Sport 1 Czech, Ziggo Sport 2 NL, Ziggo Sport 1 NL, Sportklub 4 Slovenia, Digi Sport 2 Romania, Prima Sport 2 Romania, TV2 Sport Norway, Nova Sports Start Greece, Sportklub 4 Croatia, Diema Sport 3 Bulgaria, SporTV BR, ESPN2 Argentina, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/313.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/318.png
+🏟️ Match: Grenada Vs Cuba
+🆔 Match ID: 2640035
+🕒 Start: 2025-10-12 02:30 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1343.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1344.png
 --------------------------------------------------
-🏟️ Match: Hungary Vs Armenia
-🆔 Match ID: 2560210
-🕒 Start: 2025-10-11 19:00 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: M4 Sports Hungary, Sky Sport 5 NZ, Polsat Sport 3 Poland, Sky Sport 256 IT, SONY TEN 2 HD, Sky Sport Arena IT, Digi Sport 2 Romania, Prima Sport 1 Romania, Arena Sport 2 Serbia, Nova Sports Start Greece, Diema Sport 2 Bulgaria, SporTV BR, SuperSport Football, SuperSport MaXimo 1, beIN Sports MENA 2, beIN Sports MENA English 1, Sportklub 2 Croatia, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/125.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/315.png
---------------------------------------------------
-🏟️ Match: Norway Vs Israel
-🆔 Match ID: 2560212
-🕒 Start: 2025-10-11 19:00 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Fox Soccer Plus, Sky Sport 4 NZ, TV2 Direkte Norway, Sport TV3 Portugal, Polsat Sport Premium 1 Poland, L'Equipe France, Sky Sport Calcio IT, Ziggo Sport 1 NL, Digi Sport 1 Romania, Prima Sport 2 Romania, Arena 2 Premium Serbia, DAZN1 DE, Nova Sports Prime Greece, TV2 Sport X Denmark, Diema Sport 3 Bulgaria, ESPN Brazil, ESPN2 Argentina, V Sport Premium, SuperSport Premier League, Sportklub 1 Croatia, beIN Sports MENA English 2, 5Sport Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/115.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/308.png
---------------------------------------------------
-🏟️ Match: United Arab Emirates Vs Oman
-🆔 Match ID: 2619315
-🕒 Start: 2025-10-11 20:15 (GMT+3)
-📍 Tournament: AFC Asian Qualifiers – Road to 26
-📺 Channels: OneFootball, ESPN 2 NL, Astro Arena Bola, Sportdigital FUSSBALL DE, beIN Sports MENA 1, 5Plus Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/594.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/714.png
---------------------------------------------------
-🏟️ Match: Serbia Vs Albania
-🆔 Match ID: 2560213
-🕒 Start: 2025-10-11 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Fox Soccer Plus, SuperSport 2 Digitalb, RTS 1 Serbia, Arena 1 Premium Serbia, SONY TEN 1 HD, DAZN1 DE, Sky Sport 6 NZ, TVP Sport Poland, Polsat Sport Premium 3 Poland, Nova Sports Start Greece, Nova Sport Bulgaria, Digi Sport 1 Romania, Sportklub 1 Croatia, beIN Sports MENA 6, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/88.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/304.png
---------------------------------------------------
-🏟️ Match: Portugal Vs Ireland
-🆔 Match ID: 2560214
-🕒 Start: 2025-10-11 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Amazon Prime Video, RTE 2, RTE Player, RTE 2 Ireland, Sky Sport 3 NZ, Sport TV1 Portugal, RTP 1 Portugal, SRF zwei, SONY TEN 2 HD, Polsat Sport 2 Poland, TMC France, Digi Sport 2 Romania, Prima Sport 2 Romania, Arena 5 Premium Serbia, Nova Sports 2 Greece, TV2 Sport Denmark, Diema Sport Bulgaria, ESPN Brazil, SuperSport Football, SuperSport MaXimo 1, Sportklub 3 Croatia, beIN Sports MENA 5, beIN Sports MENA English 1, Sport 3 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/43.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/122.png
---------------------------------------------------
-🏟️ Match: Estonia Vs Italy
-🆔 Match ID: 2560209
-🕒 Start: 2025-10-11 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Amazon Prime Video, RAI 1 IT, ETV2 Estonia, Sky Sport Select NZ, Sport TV3 Portugal, SONY TEN 3 HD, Polsat Sport Premium 2 Poland, Ziggo Sport 4 NL, Digi Sport 3 Romania, Prima Sport 4 Romania, Arena 2 Premium Serbia, TV2 Sport Norway, Nova Sports 3 Greece, Diema Sport 2 Bulgaria, Sportklub 4 Croatia, SuperSport Laliga, beIN Sports MENA 4, Sport 4 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/302.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/37.png
---------------------------------------------------
-🏟️ Match: Bulgaria Vs Türkiye
-🆔 Match ID: 2560208
-🕒 Start: 2025-10-11 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: TV8 Turkey, BNT 1 Bulgaria, BNT 3 Bulgaria, Sky Sport 5 NZ, Sport TV6 Portugal, Polsat Sport Premium 1 Poland, Digi Sport 4 Romania, Arena Sport 4 Serbia, Nova Sports 4 Greece, SuperSport Variety 2, Sportklub 2 Croatia, beIN Sports MENA 8, beIN Sports MENA 7
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/114.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/123.png
---------------------------------------------------
-🏟️ Match: Spain Vs Georgia
-🆔 Match ID: 2560215
-🕒 Start: 2025-10-11 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Amazon Prime Video, Fox Sports 2 USA, 1TV Georgia, TVE La 1 Spain, Sky Sport 4 NZ, Sport TV2 Portugal, Polsat Sport 3 Poland, Sky Sport Uno IT, Ziggo Sport 2 NL, Prima Sport 1 Romania, Arena 4 Premium Serbia, Nova Sports 1 Greece, TV2 Sport X Denmark, V Sport Premium, SporTV BR, Diema Sport 3 Bulgaria, ESPN2 Argentina, SuperSport Premier League, beIN Sports MENA 3, beIN Sports MENA English 2, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/34.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/298.png
---------------------------------------------------
-🏟️ Match: Iraq Vs Indonesia
-🆔 Match ID: 2619316
-🕒 Start: 2025-10-11 22:30 (GMT+3)
-📍 Tournament: AFC Asian Qualifiers – Road to 26
-📺 Channels: OneFootball, Sportdigital FUSSBALL DE, Astro Arena 2, ESPN 2 NL, ESPN2 Mexico, beIN Sports MENA 2, 5Sport Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/133.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1410.png
+🏟️ Match: Mexico Vs Colombia
+🆔 Match ID: 2612974
+🕒 Start: 2025-10-12 04:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Azteca 7 MX, Caracol TV Colombia, TUDN MX, TUDN USA, Univision, FOX Deportes
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/69.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/118.png
 --------------------------------------------------
