@@ -1,152 +1,280 @@
-🏟️ Match: Uzbekistan Vs Uruguay
-🆔 Match ID: 2638960
-🕒 Start: 2025-10-13 15:45 (GMT+3)
+🏟️ Match: Japan Vs Brazil
+🆔 Match ID: 2635647
+🕒 Start: 2025-10-14 13:30 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Astro Grandstand, SporTV BR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/52.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/79.png
+--------------------------------------------------
+🏟️ Match: Korea Republic Vs Paraguay
+🆔 Match ID: 2593763
+🕒 Start: 2025-10-14 14:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: TV Chosun
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/70.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/47.png
+--------------------------------------------------
+🏟️ Match: Seychelles Vs Gambia
+🆔 Match ID: 2445760
+🕒 Start: 2025-10-14 16:00 (GMT+3)
+📍 Tournament: CAF World Cup Qualifying
+📺 Channels: FIFA+, ESPN+ USA, Sportklub 1 Croatia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1374.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/588.png
+--------------------------------------------------
+🏟️ Match: Iran Vs Tanzania
+🆔 Match ID: 2641387
+🕒 Start: 2025-10-14 18:00 (GMT+3)
 📍 Tournament: International Friendlies
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/592.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/56.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/102.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/585.png
 --------------------------------------------------
-🏟️ Match: South Sudan Vs Togo
-🆔 Match ID: 2445763
-🕒 Start: 2025-10-13 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN+ USA, TVT Togo, Sportklub 3 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5836.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/106.png
---------------------------------------------------
-🏟️ Match: Equatorial Guinea Vs Liberia
-🆔 Match ID: 2445749
-🕒 Start: 2025-10-13 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN+ USA, Sportklub 4 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1011.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1382.png
---------------------------------------------------
-🏟️ Match: São Tomé Vs Malawi
-🆔 Match ID: 2445764
-🕒 Start: 2025-10-13 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN+ USA, Sport TV1 Portugal, SuperSport Laliga, SuperSport MaXimo 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1367.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1379.png
---------------------------------------------------
-🏟️ Match: Tunisia Vs Namibia
-🆔 Match ID: 2445765
-🕒 Start: 2025-10-13 16:00 (GMT+3)
-📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN+ USA, Sportdigital FUSSBALL DE, Arena 2 Premium Serbia, SuperSport PSL, Sportklub 1 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/112.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1377.png
---------------------------------------------------
-🏟️ Match: Montenegro Vs Liechtenstein
-🆔 Match ID: 2572497
-🕒 Start: 2025-10-13 19:00 (GMT+3)
+🏟️ Match: Norway Vs New Zealand
+🆔 Match ID: 2590581
+🕒 Start: 2025-10-14 19:00 (GMT+3)
 📍 Tournament: International Friendlies
-📺 Channels: Sportv2 Brazil, Fox Sports 2 USA, Sky Sport 2 NZ, DAZN2 DE, Digi Sport 3 Romania, Prima Sport 1 Romania, Arena 1 Premium Serbia, Nova Sport Bulgaria, beIN SPORTS MENA English 2, beIN SPORTS MENA 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/316.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/310.png
+📺 Channels: Fox Soccer Plus, TV2 Direkte Norway, DAZN1 DE, Digi Sport 1 Romania, Diema Sport 2 Bulgaria
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/115.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/54.png
 --------------------------------------------------
-🏟️ Match: Lesotho Vs Zimbabwe
-🆔 Match ID: 2445754
-🕒 Start: 2025-10-13 19:00 (GMT+3)
+🏟️ Match: Estonia Vs Moldova
+🆔 Match ID: 2560233
+🕒 Start: 2025-10-14 19:00 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
+📺 Channels: Fox Sports 2 USA, ETV 2 Estonia, ESPN+ USA, Sky Sport 2 NZ, Sport TV2 Portugal, Polsat Sport 2 Poland, Ziggo Sport 2 NL, Sky Sport Calcio IT, Digi Sport 3 Romania, Prima Sport 1 Romania, TV2 Sport X Denmark, Nova Sports 1 Greece, Diema Sport 3 Bulgaria, ESPN2 Argentina, SuperSport Premier League, SuperSport MaXimo 1, Sportklub HD Croatia, beIN SPORTS MENA English 1, beIN SPORTS MENA 3, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/302.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/301.png
+--------------------------------------------------
+🏟️ Match: Nigeria Vs Benin
+🆔 Match ID: 2445758
+🕒 Start: 2025-10-14 19:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN+ USA, SuperSport PSL
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/894.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/587.png
+📺 Channels: FIFA+, ESPN+ USA, Sportdigital FUSSBALL DE, Arena Sport 4 Serbia, SuperSport Laliga
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/85.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1385.png
 --------------------------------------------------
-🏟️ Match: Cameroon Vs Angola
-🆔 Match ID: 2445743
-🕒 Start: 2025-10-13 19:00 (GMT+3)
+🏟️ Match: South Africa Vs Rwanda
+🆔 Match ID: 2445762
+🕒 Start: 2025-10-14 19:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN+ USA, ESPN 2 NL, Sportdigital FUSSBALL DE, Sport TV2 Portugal, Arena 2 Premium Serbia, SuperSport Football, SuperSport MaXimo 1, Sportklub 1 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/87.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/97.png
+📺 Channels: FIFA+, ESPN 2 NL, ESPN+ USA, SuperSport Variety 4, SuperSport PSL, Supersport Grandstand, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/39.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1366.png
 --------------------------------------------------
-🏟️ Match: Mauritius Vs Libya
-🆔 Match ID: 2445756
-🕒 Start: 2025-10-13 19:00 (GMT+3)
+🏟️ Match: Algeria Vs Uganda
+🆔 Match ID: 2445740
+🕒 Start: 2025-10-14 19:00 (GMT+3)
+📍 Tournament: CAF World Cup Qualifying
+📺 Channels: FIFA+, ESPN+ USA, TV 6 Algeria, Arena Sport 3 Serbia, SuperSport Variety 3, Sportklub 3 Croatia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/59.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/898.png
+--------------------------------------------------
+🏟️ Match: Guinea Vs Botswana
+🆔 Match ID: 2445753
+🕒 Start: 2025-10-14 19:00 (GMT+3)
+📍 Tournament: CAF World Cup Qualifying
+📺 Channels: FIFA+, ESPN+ USA, SuperSport Football
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1010.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/839.png
+--------------------------------------------------
+🏟️ Match: Somalia Vs Mozambique
+🆔 Match ID: 2445761
+🕒 Start: 2025-10-14 19:00 (GMT+3)
+📍 Tournament: CAF World Cup Qualifying
+📺 Channels: FIFA+, ESPN+ USA, Sport TV1 Portugal, SuperSport Variety
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1378.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/595.png
+--------------------------------------------------
+🏟️ Match: Russia Vs Bolivia
+🆔 Match ID: 2629557
+🕒 Start: 2025-10-14 20:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Match TV Russia, Match Premier Russia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/124.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/840.png
+--------------------------------------------------
+🏟️ Match: Albania Vs Jordan
+🆔 Match ID: 2639251
+🕒 Start: 2025-10-14 20:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Jordan TV Sport, SuperSport 2 Digitalb
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/304.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/777.png
+--------------------------------------------------
+🏟️ Match: Qatar Vs United Arab Emirates
+🆔 Match ID: 2619318
+🕒 Start: 2025-10-14 20:00 (GMT+3)
+📍 Tournament: AFC Asian Qualifiers – Road to 26
+📺 Channels: OneFootball, Astro Arena Bola 2, ESPN3 Brazil, beIN Sports MENA 1, Sport 5 Stars Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/586.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/594.png
+--------------------------------------------------
+🏟️ Match: Italy Vs Israel
+🆔 Match ID: 2560237
+🕒 Start: 2025-10-14 21:45 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
+📺 Channels: Amazon Prime Video, RAI 1 IT, Sky Sport 4 NZ, SRF zwei, Sport TV3 Portugal, Polsat Sport 3 Poland, Ziggo Sport 3 NL, Digi Sport 3 Romania, Arena 5 Premium Serbia, Diema Sport 2 Bulgaria, SuperSport Variety 3, ESPN Argentina, Sportklub 3 Croatia, beIN SPORTS MENA English 2, 5Sport Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/37.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/308.png
+--------------------------------------------------
+🏟️ Match: Spain Vs Bulgaria
+🆔 Match ID: 2560236
+🕒 Start: 2025-10-14 21:45 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
+📺 Channels: Amazon Prime Video, Fox Soccer Plus, TVE La 1 ES, BNT 1 Bulgaria, BNT 3 Bulgaria, Sky Sport 3 NZ, DAZN1 DE, Sport TV2 Portugal, Polsat Sport 2 Poland, Ziggo Sport 2 NL, Digi Sport 2 Romania, Arena Sport 1 Serbia, Nova Sports 1 Greece, ESPN Brazil, SuperSport Laliga, beIN SPORTS MENA 3, Sport 4 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/34.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/114.png
+--------------------------------------------------
+🏟️ Match: Türkiye Vs Georgia
+🆔 Match ID: 2560239
+🕒 Start: 2025-10-14 21:45 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
+📺 Channels: TV8 Turkey, Sky Sport 5 NZ, 1TV Georgia, Sport TV6 Portugal, Polsat Sport Premium 1 Poland, ESPN4 Brazil, Nova Sport Bulgaria, SuperSport Variety, beIN SPORTS MENA 6
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/123.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/298.png
+--------------------------------------------------
+🏟️ Match: Ireland Vs Armenia
+🆔 Match ID: 2560235
+🕒 Start: 2025-10-14 21:45 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
+📺 Channels: Amazon Prime Video, RTE 2, RTE Player, RTE 2 Ireland, Sky Sport 6 NZ, Sport TV5 Portugal, SuperSport Variety 2, beIN SPORTS MENA 7
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/122.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/315.png
+--------------------------------------------------
+🏟️ Match: Portugal Vs Hungary
+🆔 Match ID: 2560238
+🕒 Start: 2025-10-14 21:45 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
+📺 Channels: Amazon Prime Video, M4 Sports Hungary, Sport TV1 Portugal, RTP 1 Portugal, Sky Sport 2 NZ, DAZN2 DE, Polsat Sport 1 Poland, Sky Sport Arena IT, Digi Sport 1 Romania, Arena Sport 4 Serbia, Diema Sport 3 Bulgaria, V Sport Premium, SporTV BR, SuperSport Football, SuperSport MaXimo 1, Sportklub 1 Croatia, beIN SPORTS MENA 5, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/43.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/125.png
+--------------------------------------------------
+🏟️ Match: Andorra Vs Serbia
+🆔 Match ID: 2560232
+🕒 Start: 2025-10-14 21:45 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
+📺 Channels: RTS 1 Serbia, Arena 2 Premium Serbia, Sky Sport Select NZ, Polsat Sport Premium 3 Poland, Nova Sports News Greece, Sportklub HD Croatia, beIN SPORTS MENA 8
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/318.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/88.png
+--------------------------------------------------
+🏟️ Match: Latvia Vs England
+🆔 Match ID: 2560234
+🕒 Start: 2025-10-14 21:45 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
+📺 Channels: ITV1, ITVX, STV, STV Player, Fox Sports 2 USA, ITV 1 UK, LTV7 Latvia, Sky Sport 1 NZ, Sport TV4 Portugal, Polsat Sport Premium 2 Poland, Arena 4 Premium Serbia, Nova Sports Premier League Greece, TV2 Sport X Denmark, Diema Sport Bulgaria, ESPN2 Argentina, SuperSport Premier League, Supersport Grandstand, beIN SPORTS MENA English 1, beIN SPORTS MENA 4, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/313.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/61.png
+--------------------------------------------------
+🏟️ Match: Saudi Arabia Vs Iraq
+🆔 Match ID: 2619317
+🕒 Start: 2025-10-14 21:45 (GMT+3)
+📍 Tournament: AFC Asian Qualifiers – Road to 26
+📺 Channels: OneFootball, ESPN 3 NL, ESPN3 Mexico, Astro Football, ESPN2 Brazil, beIN Sports MENA 2
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/104.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/133.png
+--------------------------------------------------
+🏟️ Match: Côte d'Ivoire Vs Kenya
+🆔 Match ID: 2445746
+🕒 Start: 2025-10-14 22:00 (GMT+3)
+📍 Tournament: CAF World Cup Qualifying
+📺 Channels: ESPN+ USA, Sportdigital FUSSBALL DE, ESPN 1 NL, Arena Sport 6 Serbia, SuperSport PSL
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/41.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1372.png
+--------------------------------------------------
+🏟️ Match: Gabon Vs Burundi
+🆔 Match ID: 2445751
+🕒 Start: 2025-10-14 22:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
 📺 Channels: FIFA+, ESPN+ USA
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/893.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/892.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1016.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1383.png
 --------------------------------------------------
-🏟️ Match: Cabo Verde Vs Eswatini
-🆔 Match ID: 2445742
-🕒 Start: 2025-10-13 19:00 (GMT+3)
+🏟️ Match: DR Congo Vs Sudan
+🆔 Match ID: 2445745
+🕒 Start: 2025-10-14 22:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+, ESPN+ USA, Sport TV1 Portugal, Sportdigital FUSSBALL DE, Sportklub 4 Croatia, SuperSport Variety 4
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/589.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1371.png
+📺 Channels: FIFA+, ESPN+ USA
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/895.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1017.png
 --------------------------------------------------
-🏟️ Match: Northern Ireland Vs Germany
-🆔 Match ID: 2560226
-🕒 Start: 2025-10-13 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: BBC2, BBC iPlayer, BBC Sport Website, Fox Sports 2 USA, BBC Two UK, RTL DE, Sky Sport 2 NZ, Sport TV2 Portugal, Polsat Sport Premium 1 Poland, Ziggo Sport 3 NL, Digi Sport 2 Romania, Arena 3 Premium Serbia, Nova Sports 3 Greece, TV2 Sport X Denmark, Diema Sport 3 Bulgaria, Sportklub 1 Croatia, ESPN Brazil, SuperSport Premier League, SuperSport MaXimo 1, beIN SPORTS MENA 1, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/131.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/96.png
+🏟️ Match: Senegal Vs Mauritania
+🆔 Match ID: 2445759
+🕒 Start: 2025-10-14 22:00 (GMT+3)
+📍 Tournament: CAF World Cup Qualifying
+📺 Channels: FIFA+, ESPN+ USA, ESPN 4 NL, Arena Sport 6 Serbia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/121.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2070.png
 --------------------------------------------------
-🏟️ Match: Slovakia Vs Luxembourg
-🆔 Match ID: 2560227
-🕒 Start: 2025-10-13 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: RTVS Sport Slovakia, Sky Sport 6 NZ, Match 4 Hungary, Sport 1 Czech, Nova Sports 6 Greece, Polsat Sport Extra 3 Poland, beIN SPORTS MENA 5
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/66.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/306.png
+🏟️ Match: Morocco Vs Congo
+🆔 Match ID: 2445757
+🕒 Start: 2025-10-14 22:00 (GMT+3)
+📍 Tournament: CAF World Cup Qualifying
+📺 Channels: FIFA+, ESPN+ USA, Arryadia HD 3, ESPN 2 NL, Sportklub 4 Croatia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/108.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1384.png
 --------------------------------------------------
-🏟️ Match: Slovenia Vs Switzerland
-🆔 Match ID: 2560228
-🕒 Start: 2025-10-13 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Fox Soccer Plus, ŠTV 1 Slovenia, SRF zwei, Sky Sport 4 NZ, Polsat Sport Premium 2 Poland, Arena 4 Premium Serbia, Nova Sports 2 Greece, Nova Sport Bulgaria, V Sport Premium, SuperSport Variety 2, beIN SPORTS MENA 6, ESPN4 Brazil, Sportklub 4 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/67.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/93.png
+🏟️ Match: Curaçao Vs Trinidad and Tobago
+🆔 Match ID: 2620603
+🕒 Start: 2025-10-15 02:00 (GMT+3)
+📍 Tournament: CONCACAF World Cup Qualifying
+📺 Channels: YouTube, ESPN 1 NL
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1354.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/107.png
 --------------------------------------------------
-🏟️ Match: Sweden Vs Kosovo
-🆔 Match ID: 2560229
-🕒 Start: 2025-10-13 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Viaplay Sweden, RTK1 Kosovo, Sky Sport 5 NZ, Sport TV6 Portugal, Nova Sports 5 Greece, TV2 Sport Premium Norway, Polsat Sport Extra 1 Poland, SuperSport Variety 3, Polsat Sport Premium 3 Poland, beIN SPORTS MENA 8
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/105.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6677.png
---------------------------------------------------
-🏟️ Match: Iceland Vs France
-🆔 Match ID: 2560224
-🕒 Start: 2025-10-13 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Amazon Prime Video, TF1 France, Sky Sport 3 NZ, DAZN1 DE, Sport TV1 Portugal, Polsat Sport 3 Poland, Digi Sport 1 Romania, Arena 1 Premium Serbia, Nova Sports 1 Greece, TV2 Sport Denmark, TV2 Sport 1 Norway, Diema Sport 2 Bulgaria, Sportv Brazil, Polsat Sport 1 Poland, ESPN Argentina, beIN SPORTS MENA English 2, beIN SPORTS MENA 2, SuperSport Football, Supersport Grandstand, Sportklub 2 Croatia, Sport 4 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/296.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/45.png
---------------------------------------------------
-🏟️ Match: Ukraine Vs Azerbaijan
-🆔 Match ID: 2560230
-🕒 Start: 2025-10-13 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: CBC Sport Azerbaijan, Sky Sport 7 NZ, Sport TV4 Portugal, Nova Sports 4 Greece, Polsat Sport Extra 2 Poland, beIN SPORTS MENA 4
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/119.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/309.png
---------------------------------------------------
-🏟️ Match: North Macedonia Vs Kazakhstan
-🆔 Match ID: 2560225
-🕒 Start: 2025-10-13 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: MRT1 Macedonia, QazSport, Sky Sport 9 NZ, Arena 5 Premium Serbia, Nova Sports Start Greece, Sportklub HD Croatia, beIN SPORTS MENA 7
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/307.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/311.png
---------------------------------------------------
-🏟️ Match: Wales Vs Belgium
-🆔 Match ID: 2560231
-🕒 Start: 2025-10-13 21:45 (GMT+3)
-📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: BBC Wales, BBC iPlayer, BBC Sport Website, S4C, BBC3, S4C Online, S4C UK, Sky Sport 1 NZ, BBC3 UK, L'Équipe France, DAZN2 DE, Sport TV3 Portugal, TVP Sport Poland, Polsat Sport 1 Poland, Ziggo Sport 5 NL, Digi Sport 3 Romania, Arena 2 Premium Serbia, Nova Sports Premier League Greece, Polsat Sport 2 Poland, Sportv2 Brazil, Diema Sport Bulgaria, ESPN2 Argentina, Sportklub 3 Croatia, beIN SPORTS MENA English 1, SuperSport Laliga, beIN SPORTS MENA 3, Sport 3 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/312.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/116.png
---------------------------------------------------
-🏟️ Match: Venezuela Vs Belize
-🆔 Match ID: 2640993
-🕒 Start: 2025-10-14 04:00 (GMT+3)
+🏟️ Match: Colombia Vs Canada
+🆔 Match ID: 2602735
+🕒 Start: 2025-10-15 03:00 (GMT+3)
 📍 Tournament: International Friendlies
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/591.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1349.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/118.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/132.png
+--------------------------------------------------
+🏟️ Match: Puerto Rico Vs Argentina
+🆔 Match ID: 2638626
+🕒 Start: 2025-10-15 03:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Telefe Argentina, TYC Sports Argentina, beIN SPORTS USA, beIN SPORTS en Español
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1138.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/55.png
+--------------------------------------------------
+🏟️ Match: Jamaica Vs Bermuda
+🆔 Match ID: 2620605
+🕒 Start: 2025-10-15 03:00 (GMT+3)
+📍 Tournament: CONCACAF World Cup Qualifying
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/110.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1350.png
+--------------------------------------------------
+🏟️ Match: USA Vs Australia
+🆔 Match ID: 2618102
+🕒 Start: 2025-10-15 04:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: NBC UNIVERSO USA, TNT USA
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/81.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/74.png
+--------------------------------------------------
+🏟️ Match: Panama Vs Suriname
+🆔 Match ID: 2620606
+🕒 Start: 2025-10-15 04:00 (GMT+3)
+📍 Tournament: CONCACAF World Cup Qualifying
+📺 Channels: RPC Panama, ESPN 3 NL
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1022.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1351.png
+--------------------------------------------------
+🏟️ Match: El Salvador Vs Guatemala
+🆔 Match ID: 2620604
+🕒 Start: 2025-10-15 05:00 (GMT+3)
+📍 Tournament: CONCACAF World Cup Qualifying
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/126.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/593.png
+--------------------------------------------------
+🏟️ Match: Mexico Vs Ecuador
+🆔 Match ID: 2632901
+🕒 Start: 2025-10-15 05:30 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Azteca 7 MX, TUDN USA, FOX Deportes, Univision
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/69.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/101.png
 --------------------------------------------------
