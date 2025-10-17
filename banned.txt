@@ -1,10 +1,13 @@
 3. Liga  
-2. Liga  
+2. Liga
+2. Frauen-Bundesliga
+A-League Men
 AFC Champions League Elite  
 AFC Champions League Two  
 Brasileirão Betano  
 Campionato Primavera 1 TIMvision  
-China League One  
+China League One
+Club Friendly Games
 Cymru Premier  
 EFL League One  
 EFL League Two  
@@ -29,8 +32,10 @@ NIFL Premiership
 NWSL  
 Premier Division  
 Pro League  
-Qatar Stars League  
-Regionalliga Südwest  
+Qatar Stars League
+Qatari Stars Cup
+Regionalliga Südwest
+Scottish Challenge Cup
 Scottish Championship  
 Scottish Cup  
 Scottish League Cup  
@@ -43,6 +48,3 @@ Thai League 1
 Thai League Cup  
 UAE Pro League  
 USL Championship
-Club Friendly Games
-Scottish Challenge Cup
-2. Frauen-Bundesliga
