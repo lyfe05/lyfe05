@@ -1,104 +1,312 @@
-🏟️ Match: Athletic Bilbao Vs Qarabağ
-🆔 Match ID: 2636484
-🕒 Start: 2025-10-22 19:45 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: TNT Sports 4, Discovery+ Premium
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/469.png
+🏟️ Match: Feyenoord Vs Panathinaikos
+🆔 Match ID: 2636717
+🕒 Start: 2025-10-23 17:30 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/736.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/551.png
 --------------------------------------------------
-🏟️ Match: Galatasaray Vs Bodø/Glimt
-🆔 Match ID: 2636485
-🕒 Start: 2025-10-22 19:45 (GMT+3)
-📍 Tournament: UEFA Champions League
+🏟️ Match: Al-Riyadh Vs Al Kholood
+🆔 Match ID: 2632888
+🕒 Start: 2025-10-23 17:55 (GMT+3)
+📍 Tournament: Saudi Pro League
+📺 Channels: Saudi Pro League YouTube
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/29027.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26921.png
+--------------------------------------------------
+🏟️ Match: Al-Fayha Vs Al-Taawoun
+🆔 Match ID: 2632889
+🕒 Start: 2025-10-23 18:00 (GMT+3)
+📍 Tournament: Saudi Pro League
+📺 Channels: Saudi Pro League YouTube
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7900.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2330.png
+--------------------------------------------------
+🏟️ Match: Fenerbahçe Vs VfB Stuttgart
+🆔 Match ID: 2636716
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Europa League
 📺 Channels: TNT Sports Extra, Discovery+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/228.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2394.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/148.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/31.png
 --------------------------------------------------
-🏟️ Match: Swansea City Vs Queens Park Rangers
-🆔 Match ID: 2600919
-🕒 Start: 2025-10-22 21:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/582.png
---------------------------------------------------
-🏟️ Match: Watford Vs West Bromwich Albion
-🆔 Match ID: 2600920
-🕒 Start: 2025-10-22 21:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/580.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/196.png
---------------------------------------------------
-🏟️ Match: Wrexham Vs Oxford United
-🆔 Match ID: 2600921
-🕒 Start: 2025-10-22 21:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/617.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/630.png
---------------------------------------------------
-🏟️ Match: Monaco Vs Tottenham Hotspur
-🆔 Match ID: 2636486
-🕒 Start: 2025-10-22 22:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: TNT Sports 3, Discovery+ Premium, UEFA.tv
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/259.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
---------------------------------------------------
-🏟️ Match: Atalanta Vs Slavia Prague
-🆔 Match ID: 2636487
-🕒 Start: 2025-10-22 22:00 (GMT+3)
-📍 Tournament: UEFA Champions League
+🏟️ Match: Lyon Vs FC Basel
+🆔 Match ID: 2636730
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Europa League
 📺 Channels: TNT Sports Extra, Discovery+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/248.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/141.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/343.png
 --------------------------------------------------
-🏟️ Match: Chelsea Vs Ajax
-🆔 Match ID: 2636488
-🕒 Start: 2025-10-22 22:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: ChelseaFC.com, Chelsea Official App, TNT Sports 2, Discovery+ Premium
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/341.png
+🏟️ Match: RB Salzburg Vs Ferencváros
+🆔 Match ID: 2636715
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/379.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/932.png
 --------------------------------------------------
-🏟️ Match: Eintracht Frankfurt Vs Liverpool FC
-🆔 Match ID: 2636489
-🕒 Start: 2025-10-22 22:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: LFCTV, LFC All Red, TNT Sports 1, Discovery+ Premium
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/156.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18.png
+🏟️ Match: Brann Vs Rangers
+🆔 Match ID: 2636721
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: TNT Sports 2, Discovery+ Premium
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/964.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/25.png
 --------------------------------------------------
-🏟️ Match: Bayern Munich Vs Club Brugge
-🆔 Match ID: 2636490
-🕒 Start: 2025-10-22 22:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: UEFA.tv, TNT Sports Extra, Discovery+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/554.png
---------------------------------------------------
-🏟️ Match: Real Madrid Vs Juventus
-🆔 Match ID: 2636491
-🕒 Start: 2025-10-22 22:00 (GMT+3)
-📍 Tournament: UEFA Champions League
+🏟️ Match: KRC Genk Vs Real Betis
+🆔 Match ID: 2636722
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Europa League
 📺 Channels: TNT Sports Extra, Discovery+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/17.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/501.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/691.png
 --------------------------------------------------
-🏟️ Match: Sporting CP Vs Marseille
-🆔 Match ID: 2636492
-🕒 Start: 2025-10-22 22:00 (GMT+3)
-📍 Tournament: UEFA Champions League
+🏟️ Match: Braga Vs Red Star Belgrade
+🆔 Match ID: 2636720
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/382.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2850.png
+--------------------------------------------------
+🏟️ Match: Go Ahead Eagles Vs Aston Villa
+🆔 Match ID: 2636719
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: TNT Sports 1, Discovery+ Premium
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1889.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/199.png
+--------------------------------------------------
+🏟️ Match: FCSB Vs Bologna
+🆔 Match ID: 2636718
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Europa League
 📺 Channels: TNT Sports Extra, Discovery+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/140.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/22.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/149.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/183.png
 --------------------------------------------------
-🏟️ Match: Sheffield Wednesday Vs Middlesbrough
-🆔 Match ID: 2600918
-🕒 Start: 2025-10-22 22:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/638.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/573.png
+🏟️ Match: AEK Athens Vs Aberdeen
+🆔 Match ID: 2636936
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: TNT Sports 3, Discovery+ Premium
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/553.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1159.png
+--------------------------------------------------
+🏟️ Match: Rapid Vienna Vs Fiorentina
+🆔 Match ID: 2636944
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: TNT Sports Extra, Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/476.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/15.png
+--------------------------------------------------
+🏟️ Match: Strasbourg Vs Jagiellonia
+🆔 Match ID: 2636943
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/756.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/504.png
+--------------------------------------------------
+🏟️ Match: Shkëndija Vs Shelbourne
+🆔 Match ID: 2636942
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: TNT Sports Extra, Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/953.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4167.png
+--------------------------------------------------
+🏟️ Match: Rijeka Vs Sparta Prague
+🆔 Match ID: 2636941
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1908.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/370.png
+--------------------------------------------------
+🏟️ Match: Drita Vs Omonia
+🆔 Match ID: 2636940
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10043.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/380.png
+--------------------------------------------------
+🏟️ Match: Shakhtar Donetsk Vs Legia
+🆔 Match ID: 2636939
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/138.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/937.png
+--------------------------------------------------
+🏟️ Match: Breiðablik Vs KuPS
+🆔 Match ID: 2636938
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/532.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/924.png
+--------------------------------------------------
+🏟️ Match: Häcken Vs Rayo Vallecano
+🆔 Match ID: 2636937
+🕒 Start: 2025-10-23 19:45 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/903.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/690.png
+--------------------------------------------------
+🏟️ Match: Al-Najma Vs Al-Ahli
+🆔 Match ID: 2632890
+🕒 Start: 2025-10-23 21:00 (GMT+3)
+📍 Tournament: Saudi Pro League
+📺 Channels: Saudi Pro League YouTube
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26213.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2339.png
+--------------------------------------------------
+🏟️ Match: BSC Young Boys Vs Ludogorets
+🆔 Match ID: 2636723
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/347.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1037.png
+--------------------------------------------------
+🏟️ Match: Celtic Vs Sturm Graz
+🆔 Match ID: 2636724
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: TNT Sports 2, Discovery+ Premium
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/142.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/449.png
+--------------------------------------------------
+🏟️ Match: Lille Vs PAOK
+🆔 Match ID: 2636725
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/257.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/367.png
+--------------------------------------------------
+🏟️ Match: Maccabi Tel Aviv Vs Midtjylland
+🆔 Match ID: 2636726
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/431.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/929.png
+--------------------------------------------------
+🏟️ Match: SC Freiburg Vs Utrecht
+🆔 Match ID: 2636714
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: TNT Sports Extra, Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/159.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/445.png
+--------------------------------------------------
+🏟️ Match: Roma Vs Plzeň
+🆔 Match ID: 2636713
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: TNT Sports Extra, Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/145.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/440.png
+--------------------------------------------------
+🏟️ Match: Malmö Vs Dinamo Zagreb
+🆔 Match ID: 2636727
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/956.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/349.png
+--------------------------------------------------
+🏟️ Match: Nottingham Forest Vs Porto
+🆔 Match ID: 2636728
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/577.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/13.png
+--------------------------------------------------
+🏟️ Match: Celta de Vigo Vs Nice
+🆔 Match ID: 2636729
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: TNT Sports Extra, Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/680.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/262.png
+--------------------------------------------------
+🏟️ Match: Hamrun Spartans Vs Lausanne-Sport
+🆔 Match ID: 2636948
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/45571.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/524.png
+--------------------------------------------------
+🏟️ Match: Sigma Olomouc Vs Raków
+🆔 Match ID: 2636952
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4235.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4324.png
+--------------------------------------------------
+🏟️ Match: Shamrock Rovers Vs Celje
+🆔 Match ID: 2636951
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: TNT Sports Extra, Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/433.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1052.png
+--------------------------------------------------
+🏟️ Match: Samsunspor Vs Dynamo Kyiv
+🆔 Match ID: 2636950
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2617.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/12.png
+--------------------------------------------------
+🏟️ Match: Lincoln Red Imps Vs Lech
+🆔 Match ID: 2636949
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2426.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/362.png
+--------------------------------------------------
+🏟️ Match: Crystal Palace Vs AEK Larnaca
+🆔 Match ID: 2636947
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: TNT Sports 3, Discovery+ Premium
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/567.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/900.png
+--------------------------------------------------
+🏟️ Match: AZ Vs Slovan Bratislava
+🆔 Match ID: 2636946
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/453.png
+--------------------------------------------------
+🏟️ Match: Mainz 05 Vs Zrinjski Mostar
+🆔 Match ID: 2636945
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/163.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/420.png
+--------------------------------------------------
+🏟️ Match: Universitatea Craiova Vs Noah
+🆔 Match ID: 2636935
+🕒 Start: 2025-10-23 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Discovery+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2253.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18236.png
 --------------------------------------------------
