@@ -48,5 +48,6 @@ SWPL
 Thai FA Cup  
 Thai League 1  
 Thai League Cup  
-UAE Pro League  
+UAE Pro League 
+UAE President's Cup
 USL Championship
