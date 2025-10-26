@@ -14,30 +14,6 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/722.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/189.png
 --------------------------------------------------
-🏟️ Match: Magdeburg Vs Preussen Münster
-🆔 Match ID: 2603940
-🕒 Start: 2025-10-26 15:30 (GMT+3)
-📍 Tournament: 2. Bundesliga
-📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 4, beIN Sports 3 Malaysia, Arena Sport 8 Serbia, Sky Sport Bundesliga 4 (DE)
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/792.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/336.png
---------------------------------------------------
-🏟️ Match: Kaiserslautern Vs Nürnberg
-🆔 Match ID: 2603941
-🕒 Start: 2025-10-26 15:30 (GMT+3)
-📍 Tournament: 2. Bundesliga
-📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 3, Nova Sport 3 CZ, beIN Sports MAX 4 France, Arena Sport 2 Serbia, Sportklub 4 Croatia, Nova Sports Start Greece, Sky Sport Bundesliga 3 (DE)
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/161.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/160.png
---------------------------------------------------
-🏟️ Match: Eintracht Braunschweig Vs Hannover 96
-🆔 Match ID: 2603945
-🕒 Start: 2025-10-26 15:30 (GMT+3)
-📍 Tournament: 2. Bundesliga
-📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 2, Nova Sport 5 CZ, Diema Sport 3 Bulgaria, Fox Sports Argentina, Sky Sport Bundesliga 2 (DE)
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/291.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/153.png
---------------------------------------------------
 🏟️ Match: Mallorca Vs Levante
 🆔 Match ID: 2605209
 🕒 Start: 2025-10-26 16:00 (GMT+3)
