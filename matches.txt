@@ -1,24 +1,72 @@
-🏟️ Match: Damac Vs Al-Fateh
-🆔 Match ID: 2633002
-🕒 Start: 2025-10-30 18:15 (GMT+3)
+🏟️ Match: Al-Okhdood Vs Al-Najma
+🆔 Match ID: 2632996
+🕒 Start: 2025-10-31 16:40 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: Thmanyah
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/14863.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2331.png
+📺 Channels: Saudi Pro League YouTube, KTV Sport, Thmanyah, Fox Deportes USA, Jordan TV Sport, KTV Sport Kuwait, Alkass One, beIN Sports HD Qatar, Fox Sports 2 USA, TRT Spor Turkey, #Vamos ES, DAZN1 DE, Sport TV1 Portugal, FOX Deportes, Prima Sport 2 Romania, Cosmote Sport 1 Greece, MAX Sport 4 Bulgaria, Sportklub 3 Croatia, Fox Sports 2 (US), Fox Deportes (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25673.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26213.png
 --------------------------------------------------
-🏟️ Match: Al-Ahli Vs Al-Riyadh
-🆔 Match ID: 2632994
-🕒 Start: 2025-10-30 20:30 (GMT+3)
+🏟️ Match: Al-Hilal Vs Al-Shabab
+🆔 Match ID: 2632997
+🕒 Start: 2025-10-31 17:50 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube, Abu Dhabi Sports 1, Jordan TV Sport, beIN Sports MENA 6, Fox Deportes, beIN Sports HD Qatar, Thmanyah, Fox Soccer Plus, TRT Spor Turkey, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, DAZN2 DE, Bandsports Brasil, Sport TV4 Portugal, Cosmote Sport 3 Greece, Sportklub 3 Croatia, Prima Sport 4 Romania, KTV Sport, Fox Deportes USA, KTV Sport Kuwait, Alkass One, Fox Sports 2 USA, #Vamos ES, DAZN1 DE, Sport TV1 Portugal, Prima Sport 2 Romania, Cosmote Sport 1 Greece, MAX Sport 4 Bulgaria, Fox Sports 2 (US), Fox Deportes (ES)
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2339.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/29027.png
+📺 Channels: Saudi Pro League YouTube, KTV Sport, Thmanyah, Fox Deportes USA, Jordan TV Sport, KTV Sport Kuwait, Alkass One, beIN Sports HD Qatar, Fox Sports 2 USA, TRT Spor Turkey, #Vamos ES, DAZN1 DE, Sport TV1 Portugal, FOX Deportes, Prima Sport 2 Romania, Cosmote Sport 1 Greece, MAX Sport 4 Bulgaria, Sportklub 3 Croatia, Fox Sports 2 (US), Fox Deportes (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2328.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2336.png
 --------------------------------------------------
-🏟️ Match: Al Kholood Vs NEOM
-🆔 Match ID: 2633001
-🕒 Start: 2025-10-30 20:30 (GMT+3)
+🏟️ Match: Al-Ettifaq Vs Al-Hazem
+🆔 Match ID: 2632995
+🕒 Start: 2025-10-31 20:30 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: Thmanyah
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26921.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26702.png
+📺 Channels: Saudi Pro League YouTube, KTV Sport, Thmanyah, Fox Deportes USA, Jordan TV Sport, KTV Sport Kuwait, Alkass One, beIN Sports HD Qatar, Fox Sports 2 USA, TRT Spor Turkey, #Vamos ES, DAZN1 DE, Sport TV1 Portugal, FOX Deportes, Prima Sport 2 Romania, Cosmote Sport 1 Greece, MAX Sport 4 Bulgaria, Sportklub 3 Croatia, Fox Sports 2 (US), Fox Deportes (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2327.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/10025.png
+--------------------------------------------------
+🏟️ Match: PSV Vs Fortuna Sittard
+🆔 Match ID: 2594947
+🕒 Start: 2025-10-31 22:00 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: Premier Sports 2, TrillerTV+, ESPN 2 NL, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Sportdigital FUSSBALL DE, GOL PLAY ES, DAZN Eleven 2 Portugal, Astro Football, Arena Sport 1 Serbia, ESPN4 Mexico, Ring bg, Sport 3 Israel, Sportdigital FUSSBALL (DE), ESPN2 (NL)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/137.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2020.png
+--------------------------------------------------
+🏟️ Match: Augsburg Vs Borussia Dortmund
+🆔 Match ID: 2603476
+🕒 Start: 2025-10-31 22:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Bundesliga YouTube, The Overlap YouTube, That's Football YouTube, BBC iPlayer, BBC Sport Website, Sky Sport Bundesliga 1, Sky Sport Top Event DE, Sky Sport Calcio IT, DAZN Eleven 1 Portugal, Eleven Sports 1 Poland, beIN SPORTS Australia 3, beIN Sports 2 France, SONY TEN 2 HD, beIN Sports 3 Malaysia, Digi Sport 3 Romania, Prima Sport 2 Romania, Arena 3 Premium Serbia, Nova Sports 3 Greece, TV3 MAX Denmark, SporTV BR, Diema Sport 3 Bulgaria, ESPN2 Argentina, Sportklub 3 Croatia, Sport 1 Israel, Sky Sport Bundesliga 1 (DE), beIN Sports 2 (FR)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/171.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/155.png
+--------------------------------------------------
+🏟️ Match: Racing de Santander Vs Real Sociedad B
+🆔 Match ID: 2605856
+🕒 Start: 2025-10-31 22:30 (GMT+3)
+📍 Tournament: La Liga 2
+📺 Channels: Premier Player, LALIGA TV Hypermotion, Arena Sport 4 Serbia, LaLiga Hypermotion (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/222.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19698.png
+--------------------------------------------------
+🏟️ Match: Getafe Vs Girona
+🆔 Match ID: 2605213
+🕒 Start: 2025-10-31 23:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Premier Sports 1, M+ LALIGA TV, LaLiga TV UK, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Nova SPORT 4 CZ, DAZN2 DE, DAZN Eleven 3 Portugal, Eleven Sports 3 Poland, Ziggo Sport 2 NL, beIN Sports MAX 9 France, beIN Sports Malaysia, ESPN Deportes, Match! Football 2 Russia, Match TV Russia, Arena 2 Premium Serbia, TV2 Sport Denmark, Nova Sports 1 Greece, Digi Sport 4 Romania, Prima Sport 4 Romania, Arena Sport 1 Croatia, TV4 Fotball, MAX Sport 4 Bulgaria, ESPN3 Brazil, SuperSport Laliga, SuperSport MaXimo 1, beIN Sports MENA 3, Now Sports 2 (GB), ESPN Deportes (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/216.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/685.png
+--------------------------------------------------
+🏟️ Match: Wrexham Vs Coventry City
+🆔 Match ID: 2600945
+🕒 Start: 2025-10-31 23:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, Nova SPORT 6 CZ, Sport TV3 Portugal, beIN SPORTS Australia 2, ESPN3 Mexico, Arena Sport 5 Serbia, Cosmote Sport 3 Greece, Arena Sport 3 Croatia, V Sport Premium, Diema Sport 2 Bulgaria, FOX Sports Argentina, SuperSport Football, beIN Sports MENA 2, beIN Sports MENA English 1, Sport 2 Israel, Sky Sports Football (GB)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/617.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/566.png
+--------------------------------------------------
+🏟️ Match: Sporting CP Vs Alverca
+🆔 Match ID: 2608954
+🕒 Start: 2025-10-31 23:15 (GMT+3)
+📍 Tournament: Liga Portugal
+📺 Channels: TrillerTV+, Sport TV1 Portugal, GOLTV USA, Eleven Sports 2 Poland, beIN Sports MAX 10 France, Arena Sport 2 Serbia, Cosmote Sport 2 Greece, Sportklub 1 Croatia, Ring bg, Sportdigital FUSSBALL DE, ESPN4 Brazil, Sport TV1 (PT)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/140.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19430.png
 --------------------------------------------------
