@@ -6,19 +6,11 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/14863.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2331.png
 --------------------------------------------------
-🏟️ Match: Cagliari Vs Sassuolo
-🆔 Match ID: 2591583
-🕒 Start: 2025-10-30 20:30 (GMT+3)
-📍 Tournament: Serie A
-📺 Channels: DAZN, DAZN Zona IT, DAZN1 DE, Astro Football, Sport TV3 Portugal, Eleven Sports 1 Poland, Ziggo Sport 1 NL, Match! Football 1 Russia, Digi Sport 2 Romania, Prima Sport 2 Romania, ESPN3 Mexico, Arena 3 Premium Serbia, Cosmote Sport 2 Greece, Arena Sport 1 Croatia, MAX Sport 3 Bulgaria, TV4 Sportkanalen, ESPN2 Argentina, SuperSport Football, DAZN1 (DE), DAZN Zona (IT)
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/185.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/724.png
---------------------------------------------------
 🏟️ Match: Al-Ahli Vs Al-Riyadh
 🆔 Match ID: 2632994
 🕒 Start: 2025-10-30 20:30 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Saudi Pro League YouTube, Al Iraqiya Sports, Abu Dhabi Sports 1, Jordan TV Sport, beIN Sports MENA 6, Fox Deportes, beIN Sports HD Qatar, Thmanyah, Fox Soccer Plus, TRT Spor Turkey, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, DAZN2 DE, Bandsports Brasil, Sport TV4 Portugal, Cosmote Sport 3 Greece, Sportklub 3 Croatia, Prima Sport 4 Romania, Sportdigital FUSSBALL (DE), Fox Soccer Plus (US)
+📺 Channels: Saudi Pro League YouTube, Abu Dhabi Sports 1, Jordan TV Sport, beIN Sports MENA 6, Fox Deportes, beIN Sports HD Qatar, Thmanyah, Fox Soccer Plus, TRT Spor Turkey, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, DAZN2 DE, Bandsports Brasil, Sport TV4 Portugal, Cosmote Sport 3 Greece, Sportklub 3 Croatia, Prima Sport 4 Romania, KTV Sport, Fox Deportes USA, KTV Sport Kuwait, Alkass One, Fox Sports 2 USA, #Vamos ES, DAZN1 DE, Sport TV1 Portugal, Prima Sport 2 Romania, Cosmote Sport 1 Greece, MAX Sport 4 Bulgaria, Fox Sports 2 (US), Fox Deportes (ES)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2339.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/29027.png
 --------------------------------------------------
@@ -29,12 +21,4 @@
 📺 Channels: Thmanyah
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26921.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26702.png
---------------------------------------------------
-🏟️ Match: Pisa Vs Lazio
-🆔 Match ID: 2591589
-🕒 Start: 2025-10-30 22:45 (GMT+3)
-📍 Tournament: Serie A
-📺 Channels: DAZN, Sky Sport 251 IT, Sky Sport Calcio IT, DAZN1 DE, Sport TV3 Portugal, Eleven Sports 1 Poland, Astro Grandstand, SuperSport MáXimo 1, Ziggo Sport 2 NL, Match TV Russia, Match! Football 1 Russia, Digi Sport 2 Romania, Prima Sport 2 Romania, FOX Deportes, Arena Sport 1 Serbia, Cosmote Sport 1 Greece, Arena Sport 1 Croatia, ESPN3 Mexico, TV4 Fotball, MAX Sport 3 Bulgaria, ESPN2 Argentina, SuperSport Football, DAZN1 (DE), Sky Sport Calcio (IT), FOX Deportes (ES)
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1209.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/139.png
 --------------------------------------------------
