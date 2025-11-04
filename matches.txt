@@ -1,48 +1,168 @@
-🏟️ Match: MVPs United Vs M7
-🆔 Match ID: 2644360
-🕒 Start: 2025-11-03 20:30 (GMT+3)
-📍 Tournament: Baller League UK
-📺 Channels: DAZN National League, Sky Sports+ (GB)
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/57154.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/57151.png
+🏟️ Match: Slavia Prague Vs Arsenal
+🆔 Match ID: 2636493
+🕒 Start: 2025-11-04 20:45 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports 1, Discovery+ Premium, TNT Sports 1 UK, Sky Sport Austria 4, Nova Sport 3 CZ, Movistar Liga de Campeones 2, DAZN2 DE, Canal+ Extra 3 Poland, Canal+ Foot France, TUDN USA, UniMás, Digi Sport 1 Romania, Prima Sport 1 Romania, Ziggo Sport 3 NL, Sky Sport 254 IT, Sky Sport Arena IT, beIN Sports Malaysia, Arena 2 Premium Serbia, Cosmote Sport 5 Greece, TV3 Sport Denmark, Arena Sport 3 Croatia, MAX Sport 3 Bulgaria, TNT Brasil, Fox Sports Argentina, SuperSport Premier League, SuperSport MaXimo 1, beIN Sports MENA 4, beIN Sports MENA English 2, 5Sport Israel, TNT Sports 1 (GB), TUDN (ES), Canal+ Foot (FR), M. Liga de Campeones 2 (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/141.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
 --------------------------------------------------
-🏟️ Match: Rukkas FC Vs VZN
-🆔 Match ID: 2644362
-🕒 Start: 2025-11-03 21:20 (GMT+3)
-📍 Tournament: Baller League UK
+🏟️ Match: Napoli Vs Eintracht Frankfurt
+🆔 Match ID: 2636494
+🕒 Start: 2025-11-04 20:45 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports 2, TNT Sports Extra, Discovery+ Premium, TNT Sports 2 UK, Sky Sport Austria 3, DAZN1 DE, Sky Sport 253 IT, Sky Sport Uno IT, Movistar Liga de Campeones 3, Nova SPORT 4 CZ, Canal+ Extra 2 Poland, Canal+ Sport France, Digi Sport 2 Romania, Prima Sport 2 Romania, beIN Sports 3 Malaysia, Ziggo Sport 2 NL, Arena 1 Premium Serbia, Cosmote Sport 3 Greece, TV3 MAX Denmark, Arena Sport 4 Croatia, Space Brazil, ESPN2 Argentina, MAX Sport 4 Bulgaria, SuperSport Variety 3, beIN Sports MENA 5, Sport 5 Live Israel, TNT Sports 2 (GB), DAZN1 (DE), Sky Sport Uno (IT), Canal+ Sport (FR), M. Liga de Campeones 3 (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/191.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/156.png
+--------------------------------------------------
+🏟️ Match: The New Saints Vs Caernarfon Town
+🆔 Match ID: 2642649
+🕒 Start: 2025-11-04 22:45 (GMT+3)
+📍 Tournament: Cymru League Cup
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/57156.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/57158.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/372.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5501.png
 --------------------------------------------------
-🏟️ Match: 26ers Vs N5
-🆔 Match ID: 2644359
-🕒 Start: 2025-11-03 22:15 (GMT+3)
-📍 Tournament: Baller League UK
-📺 Channels: Apple TV, Sky Sports+, Fox Sports 1 USA, TSN5, FOX Deportes, Tennis Stream, NBA League Pass, NBA TV USA, Spectrum SportsNet USA, Sportsnet Ontario, Sport 5 Israel, Arena Sport 5 Serbia, NBCS Bay Area USA, Sky Sports Main Event UK, Nova SPORT 2 CZ, Sky Sport Top Event DE, TSN4, beIN Sports 1 France, Arena 1 Premium Serbia, SuperSport Grandstand, beIN SPORTS MENA English 1, beIN SPORTS MENA 8, Match TV Russia, NHL Gamecenter, TSN2, Viaplay Sports 2 UK, NBCS Philadelphia, Nova Sport 1 CZ, V Sport Premium, beIN Sports 5 Max France, Max Sport 1 Bulgaria, TNT USA, truTV USA, MSG USA, Sportsnet One, V Sport Vinter, TV3 Sport Denmark, Fox Sports 1 (US)
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/57155.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/57160.png
---------------------------------------------------
-🏟️ Match: NDL FC Vs Deportrio
-🆔 Match ID: 2644361
-🕒 Start: 2025-11-03 23:30 (GMT+3)
-📍 Tournament: Baller League UK
+🏟️ Match: Cambrian United Vs Briton Ferry Llansawel
+🆔 Match ID: 2642650
+🕒 Start: 2025-11-04 22:45 (GMT+3)
+📍 Tournament: Cymru League Cup
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/57153.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/57159.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/54564.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/30266.png
 --------------------------------------------------
-🏟️ Match: Yanited Vs Clutch FC
-🆔 Match ID: 2644364
-🕒 Start: 2025-11-04 00:10 (GMT+3)
-📍 Tournament: Baller League UK
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/57152.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/57161.png
+🏟️ Match: Haverfordwest County Vs Barry Town United
+🆔 Match ID: 2642651
+🕒 Start: 2025-11-04 22:45 (GMT+3)
+📍 Tournament: Cymru League Cup
+📺 Channels: Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7005.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6992.png
 --------------------------------------------------
-🏟️ Match: Wembley Rangers Vs SDS
-🆔 Match ID: 2644363
-🕒 Start: 2025-11-04 01:00 (GMT+3)
-📍 Tournament: Baller League UK
+🏟️ Match: Newtown Vs Llandudno
+🆔 Match ID: 2642652
+🕒 Start: 2025-11-04 22:45 (GMT+3)
+📍 Tournament: Cymru League Cup
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/57157.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/57162.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5203.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6708.png
+--------------------------------------------------
+🏟️ Match: Birmingham City Vs Millwall
+🆔 Match ID: 2600946
+🕒 Start: 2025-11-04 22:45 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+, Sky Sports+ (GB)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/205.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/574.png
+--------------------------------------------------
+🏟️ Match: Bristol City Vs Blackburn Rovers
+🆔 Match ID: 2600947
+🕒 Start: 2025-11-04 22:45 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+, Sky Sports+ (GB)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/564.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/210.png
+--------------------------------------------------
+🏟️ Match: Charlton Athletic Vs West Bromwich Albion
+🆔 Match ID: 2600948
+🕒 Start: 2025-11-04 22:45 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+, Sky Sports+ (GB)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/597.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/196.png
+--------------------------------------------------
+🏟️ Match: Derby County Vs Hull City
+🆔 Match ID: 2600950
+🕒 Start: 2025-11-04 22:45 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+, Sky Sports+ (GB)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/568.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/276.png
+--------------------------------------------------
+🏟️ Match: Ipswich Town Vs Watford
+🆔 Match ID: 2600951
+🕒 Start: 2025-11-04 22:45 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+, Sky Sports+ (GB)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/570.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/580.png
+--------------------------------------------------
+🏟️ Match: Leicester City Vs Middlesbrough
+🆔 Match ID: 2600952
+🕒 Start: 2025-11-04 22:45 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+, Sky Sports+ (GB)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/572.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/573.png
+--------------------------------------------------
+🏟️ Match: Oxford United Vs Stoke City
+🆔 Match ID: 2600953
+🕒 Start: 2025-11-04 22:45 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+, Sky Sports+ (GB)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/630.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/201.png
+--------------------------------------------------
+🏟️ Match: Atlético de Madrid Vs Union Saint-Gilloise
+🆔 Match ID: 2636495
+🕒 Start: 2025-11-04 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports Extra, Discovery+, Movistar Liga de Campeones, TNT Sports 5 UK, VTM 2 Belgium, Club RTL Belgium, Sky Sport Austria 7, Movistar Liga de Campeones 2, Sky Sport 256 IT, Canal+ Live 6 France, Ziggo Sport 6 NL, Arena 3 Premium Serbia, Cosmote Sport 8 Greece, ESPN Argentina, MAX Sport 3 Bulgaria, MAX Sport 1 Bulgaria, SuperSport Variety 2, beIN Sports MENA 5, Sport 5 Stars Israel, TNT Sports 5 (GB), Sky Sport 256 (IT), Canal+ Live 6 (FR), M. Liga de Campeones 2 (ES), M. Liga de Campeones (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3586.png
+--------------------------------------------------
+🏟️ Match: Bodø/Glimt Vs Monaco
+🆔 Match ID: 2636496
+🕒 Start: 2025-11-04 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 7 UK, Sky Sport Austria 5, Sky Sport 258 IT, Canal+ Extra 6 Poland, Canal+ Sport360 France, Arena Sport 3 Serbia, Cosmote Sport 9 Greece, SuperSport Action, beIN Sports MENA 8, TNT Sports 7 (GB), Sky Sport 258 (IT), Canal+ Sport360 (FR), M. Liga de Campeones 8 (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2394.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/259.png
+--------------------------------------------------
+🏟️ Match: Juventus Vs Sporting CP
+🆔 Match ID: 2636497
+🕒 Start: 2025-11-04 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports 4, Discovery+ Premium, SuperSport Football, TNT Sports 4 UK, Sky Sport Austria 6, Sky Sport 252 IT, Sky Sport Uno IT, Sport TV5 Portugal, Sporting TV, Movistar Liga de Campeones 5, Nova Sport 4 CZ, Canal+ Extra 3 Poland, Canal+ Live 4 France, Digi Sport 3 Romania, Prima Sport 3 Romania, Arena 4 Premium Serbia, Cosmote Sport 6 Greece, Arena Sport 4 Croatia, TV3 MAX Denmark, ESPN3 Argentina, MAX Sport 2 Bulgaria, beIN Sports MENA 6, TNT Sports 4 (GB), Sky Sport Uno (IT), Canal+ Live 4 (FR), M. Liga de Campeones 5 (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/140.png
+--------------------------------------------------
+🏟️ Match: Liverpool FC Vs Real Madrid
+🆔 Match ID: 2636498
+🕒 Start: 2025-11-04 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: LFCTV, TNT Sports 2, LFC All Red, Discovery+ Premium, UEFA.tv, Amazon Prime Video, TNT Sports 2 UK, LFC TV, Movistar Liga de Campeones 2, Real Madrid TV Spain, #Vamos ES, Sky Sport Austria 1, beIN Sports Malaysia, Nova Sport 4 CZ, Sky Sport Calcio IT, Canal+ Foot France, Canal+ Sport Poland, Canal+ Extra 1 Poland, CANAL+ SPORT 5 Poland, TV3 Sport Denmark, Digi Sport 3 Romania, MAX Sport 3 Bulgaria, SuperSport Football, beIN Sports MENA 4, 5Sport Israel, Sport 5 Plus Israel, Paramount+, Sky Sport 253 IT, Movistar Liga de Campeones, Movistar Plus+, Sky Sport Arena IT, Sky Sport Austria 3, Nova Sport 6 CZ, DAZN1 DE, Ziggo Sport 2 NL, Canal+ Sport France, TUDN USA, Univision, Digi Sport 1 Romania, Prima Sport 1 Romania, Arena 1 Premium Serbia, Cosmote Sport 3 Greece, Arena Sport 1 Croatia, TNT Brasil, Fox Sports Argentina, SuperSport Premier League, SuperSport MaXimo 1, beIN Sports MENA English 1, beIN Sports MENA 2, TNT Sports 2 (GB), Paramount+ (US), DAZN1 (DE), TUDN (ES), Sky Sport 253 (IT), Canal+ Sport (FR), M. Liga de Campeones (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26.png
+--------------------------------------------------
+🏟️ Match: Olympiacos Vs PSV
+🆔 Match ID: 2636499
+🕒 Start: 2025-11-04 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports Extra, Discovery+, Cosmote Sport 2 Greece, Ziggo Sport 3 NL, Ziggo Sport 1 NL, TNT Sports 6 UK, Sky Sport Austria 8, Movistar Liga de Campeones 7, Canal+ Live 7 France, Digi Sport 4 Romania, Sky Sport 257 IT, Canal+ Extra 7 Poland, Arena 5 Premium Serbia, ESPN4 Argentina, SuperSport Action, SuperSport Variety, beIN Sports MENA 7, TNT Sports 6 (GB), Cosmote Sport 2 (GR), Sky Sport 257 (IT), Canal+ Live 7 (FR), M. Liga de Campeones 7 (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/24.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/137.png
+--------------------------------------------------
+🏟️ Match: PSG Vs Bayern Munich
+🆔 Match ID: 2636500
+🕒 Start: 2025-11-04 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Movistar Liga de Campeones 2, Canal+ Foot France, beIN Sports Malaysia, SuperSport Football, SuperSport MáXimo 1, beIN SPORTS MENA 2, TNT Sports 2 UK, Sky Sport Austria 2, Nova Sport 5 CZ, Movistar Liga de Campeones 3, Canal+ Extra 2 Poland, Ziggo Sport 3 NL, Sky Sport 254 IT, Digi Sport 2 Romania, Prima Sport 2 Romania, Cosmote Sport 5 Greece, beIN Sports 3 Malaysia, Arena 2 Premium Serbia, Arena Sport 3 Croatia, MAX Sport 4 Bulgaria, Space Brazil, ESPN2 Argentina, SuperSport Variety 3, beIN Sports MENA 1, Sport 5 Plus Israel, TNT Sports 2 (GB), Sky Sport 254 (IT), Canal+ Foot (FR), M. Liga de Campeones 3 (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/263.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6.png
+--------------------------------------------------
+🏟️ Match: Tottenham Hotspur Vs FC Copenhagen
+🆔 Match ID: 2636501
+🕒 Start: 2025-11-04 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/202.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/351.png
+--------------------------------------------------
+🏟️ Match: Coventry City Vs Sheffield United
+🆔 Match ID: 2600949
+🕒 Start: 2025-11-04 23:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, Sport TV2 Portugal, Astro Football, beIN Sports MAX 5 France, Arena Sport 4 Serbia, ESPN2 Mexico, Diema Sport 2 Bulgaria, beIN Sports MENA English 2, Sky Sports Football (GB)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/566.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/583.png
 --------------------------------------------------
