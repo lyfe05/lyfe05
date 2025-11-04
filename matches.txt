@@ -14,38 +14,6 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/191.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/156.png
 --------------------------------------------------
-🏟️ Match: The New Saints Vs Caernarfon Town
-🆔 Match ID: 2642649
-🕒 Start: 2025-11-04 22:45 (GMT+3)
-📍 Tournament: Cymru League Cup
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/372.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5501.png
---------------------------------------------------
-🏟️ Match: Cambrian United Vs Briton Ferry Llansawel
-🆔 Match ID: 2642650
-🕒 Start: 2025-11-04 22:45 (GMT+3)
-📍 Tournament: Cymru League Cup
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/54564.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/30266.png
---------------------------------------------------
-🏟️ Match: Haverfordwest County Vs Barry Town United
-🆔 Match ID: 2642651
-🕒 Start: 2025-11-04 22:45 (GMT+3)
-📍 Tournament: Cymru League Cup
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7005.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6992.png
---------------------------------------------------
-🏟️ Match: Newtown Vs Llandudno
-🆔 Match ID: 2642652
-🕒 Start: 2025-11-04 22:45 (GMT+3)
-📍 Tournament: Cymru League Cup
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5203.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6708.png
---------------------------------------------------
 🏟️ Match: Birmingham City Vs Millwall
 🆔 Match ID: 2600946
 🕒 Start: 2025-11-04 22:45 (GMT+3)
