@@ -1,0 +1,56 @@
+🏟️ Match: FC Twente Vs Telstar
+🆔 Match ID: 2594956
+🕒 Start: 2025-11-07 22:00 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: TrillerTV+, ESPN 2 NL, Sportsnet World, Arena Sport 4 Serbia, ESPN2 (NL)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/550.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2016.png
+--------------------------------------------------
+🏟️ Match: Werder Bremen Vs VfL Wolfsburg
+🆔 Match ID: 2603484
+🕒 Start: 2025-11-07 22:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Bundesliga YouTube, That's Football YouTube, BBC iPlayer, BBC Sport Website, Sky Sport Bundesliga 1, Sky Sport Top Event DE, Nova Sport 3 CZ, DAZN Eleven 2 Portugal, Eleven Sports 2 Poland, Polsat Sport Premium 1 Poland, beIN Sports 2 France, Digi Sport 3 Romania, beIN Sports 3 Malaysia, Prima Sport 4 Romania, Arena 3 Premium Serbia, Nova Sports 3 Greece, TV3 MAX Denmark, SporTV BR, Diema Sport Bulgaria, ESPN3 Argentina, Sportklub 3 Croatia, Sport 1 Israel, Sky Sport Bundesliga 1 (DE)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/150.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/32.png
+--------------------------------------------------
+🏟️ Match: Mirandés Vs Sporting de Gijón
+🆔 Match ID: 2605870
+🕒 Start: 2025-11-07 22:30 (GMT+3)
+📍 Tournament: La Liga 2
+📺 Channels: Premier Sports 2, LALIGA TV Hypermotion, Premier Sports 2 Ireland, LaLyga Hypermotion (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1141.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/225.png
+--------------------------------------------------
+🏟️ Match: Pisa Vs Cremonese
+🆔 Match ID: 2591609
+🕒 Start: 2025-11-07 22:45 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, Sky Sport 251 IT, Sky Sport Calcio IT, Sport TV2 Portugal, Eleven Sports 3 Poland, FOX Deportes, Match! Football 1 Russia, Digi Sport 4 Romania, Prima Sport 3 Romania, Arena Sport 2 Serbia, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, TV4 Sport Live 1, MAX Sport 3 Bulgaria, SuperSport Football, Sport 4 Israel, Sky Sport Calcio (IT), FOX Deportes (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1209.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/386.png
+--------------------------------------------------
+🏟️ Match: Paris FC Vs Rennes
+🆔 Match ID: 2602892
+🕒 Start: 2025-11-07 22:45 (GMT+3)
+📍 Tournament: Ligue 1
+📺 Channels: Ligue 1+, DAZN 1 France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 4 CZ, DAZN1 DE, Sport TV3 Portugal, Arena Sport 3 Serbia, Arena Sport 3 Croatia, V Sport Premium, Diema Sport 3 Bulgaria, SuperSport Variety 4, beIN Sports MENA 4, 5Plus Israel, beIN Sports (US), Ligue1+ (FR)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5170.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/264.png
+--------------------------------------------------
+🏟️ Match: Elche Vs Real Sociedad
+🆔 Match ID: 2605222
+🕒 Start: 2025-11-07 23:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Premier Sports 1, DAZN LaLiga, LaLigaTV UK, Viaplay Sports 1 UK, Nova Sport 5 CZ, Premier Sports 1 Ireland, DAZN2 DE, DAZN Eleven 1 Portugal, Eleven Sports 4 Poland, Digi Sport 2 Romania, Match TV Russia, Match! Football 2 Russia, Ziggo Sport 2 NL, TV4 Fotball, ESPN Deportes, beIN Sports Malaysia, Arena 4 Premium Serbia, Nova Sports 1 Greece, TV2 Sport X Denmark, Prima Sport 2 Romania, Arena Sport 1 Croatia, MAX Sport 4 Bulgaria, ESPN4 Brazil, ESPN2 Argentina, SuperSport Laliga, beIN Sports MENA 3, Now Sports 2 (GB), ESPN Deportes (ES)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/682.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/223.png
+--------------------------------------------------
+🏟️ Match: Watford Vs Bristol City
+🆔 Match ID: 2600967
+🕒 Start: 2025-11-07 23:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, CBS Sports Golazo USA, Sky Sports Football UK, Sky Sports Main Event UK, Astro Football, Nova Sport 6 CZ, ESPN2 Mexico, Arena Sport 5 Serbia, Cosmote Sport 3 Greece, Diema Sport 2 Bulgaria, SuperSport Premier League, beIN Sports MENA 2, beIN Sports MENA English 1, Sport 2 Israel, Sky Sports Football (GB)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/580.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/564.png
+--------------------------------------------------
