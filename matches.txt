@@ -10,7 +10,7 @@
 🆔 Match ID: 2560266
 🕒 Start: 2025-11-16 17:00 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Amazon Prime Video, RTE 2, RTE Player
+📺 Channels: Amazon Prime Video, RTE 2, RTE Player, Fox Sports 1 USA, M4 Sports Hungary, Sky Sport 6 NZ, RTE 2 Ireland, Sport TV2 Portugal, Sky Sport 257 Italia, Polsat Sport Extra 1 Poland, Polsat Sport Premium 3 Poland, Prima Sport 3 Romania, Ziggo Sport 3 NL, Digi Sport 1 Romania, Arena 1 Premium Serbia, Nova Sports Start Greece, Diema Sport 2 Bulgaria, ESPN Brazil, Sport Klub 3 Croatia, SuperSport Football, beIN Sports MENA 2, beIN Sports MENA English 1, Sport 1 Israel, Sky Sport 257 (IT), Fox Sports 1 (US)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/125.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/122.png
 --------------------------------------------------
@@ -18,7 +18,7 @@
 🆔 Match ID: 2560270
 🕒 Start: 2025-11-16 17:00 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Amazon Prime Video
+📺 Channels: Amazon Prime Video, Fox Sports 2 USA, Sport TV1 Portugal, RTP 1 Portugal, Sky Sport 7 NZ, DAZN1 DE, Polsat Sport 3 Poland, Ziggo Sport 2 NL, Sky Sport Calcio IT, Prima Sport 1 Romania, SONY TEN 2 HD, Digi Sport 2 Romania, Arena 2 Premium Serbia, TV2 Sport X Denmark, Nova Sports Prime Greece, Diema Sport 3 Bulgaria, ESPN2 Argentina, Sportv Brazil, SuperSport Premier League, beIN Sports MENA 1, Sport 4 Israel, Sport TV1 (PT), Fox Sports 2 (US)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/43.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/315.png
 --------------------------------------------------
@@ -34,7 +34,7 @@
 🆔 Match ID: 2560265
 🕒 Start: 2025-11-16 20:00 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Amazon Prime Video
+📺 Channels: Amazon Prime Video, Fox Sports 2 USA, TF1 France, CBC Sport Azerbaijan, Sky Sport 7 NZ, Sport TV2 Portugal, Polsat Sport Premium 1 Poland, Ziggo Sport 2 NL, Prima Sport 1 Romania, Arena Sport 2 Serbia, Arena 2 Premium Serbia, Sportv Brazil, Nova Sports 1 Greece, Diema Sport 2 Bulgaria, SuperSport Variety 3, beIN Sports MENA 1, TF1 (FR)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/309.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/45.png
 --------------------------------------------------
@@ -42,7 +42,7 @@
 🆔 Match ID: 2560271
 🕒 Start: 2025-11-16 20:00 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Not specified
+📺 Channels: Sky Sport 9 NZ, Sport TV5 Portugal, Polsat Sport Extra 3 Poland, Nova Sports Start Greece, Arena Sport 2 Serbia, Diema Sport Bulgaria, Sportklub 3 Croatia, SuperSport Football, beIN Sports MENA 4, Sky Sport 9 (NZ)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/119.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/296.png
 --------------------------------------------------
@@ -50,7 +50,7 @@
 🆔 Match ID: 2560264
 🕒 Start: 2025-11-16 20:00 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: ITV1, ITVX, STV, STV Player
+📺 Channels: ITV1, ITVX, STV, STV Player, ITV 1 UK, SuperSport 2 Digitalb, Sport TV3 Portugal, DAZN 1 DE, Polsat Sport 2 Poland, Sportklub 1 Croatia, Prima Sport 2 Romania, Digi Sport 4 Romania, Ziggo Sport 3 NL, Arena 3 Premium Serbia, Nova Sports Prime Greece, Polsat Sport Extra 1 Poland, L'Equipe France, TV2 Sport X Denmark, Diema Sport 3 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport Premier League, SuperSport MaXimo 1, beIN Sports MENA 2, beIN Sports MENA English 1, Sport 2 Israel, ITV 1 (GB), Sky Sport 255 (IT)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/304.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/61.png
 --------------------------------------------------
@@ -58,7 +58,7 @@
 🆔 Match ID: 2560268
 🕒 Start: 2025-11-16 20:00 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Not specified
+📺 Channels: Fox Soccer Plus, LTV 7 Latvia, RTS 1 Serbia, Sport TV4 Portugal, Polsat Sport Extra 4 Poland, Arena 1 Premium Serbia, Prima Sport 4 Romania, Nova Sports 2 Greece, Nova Sport Bulgaria, SuperSport Laliga, beIN Sports MENA 3, Fox Soccer Plus (US)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/88.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/313.png
 --------------------------------------------------
@@ -66,7 +66,7 @@
 🆔 Match ID: 2643066
 🕒 Start: 2025-11-16 22:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
-📺 Channels: FIFA+
+📺 Channels: FIFA+, ESPN 1 NL, Sportdigital FUSSBALL DE, Sport Klub 3 Croatia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/85.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/895.png
 --------------------------------------------------
@@ -74,7 +74,7 @@
 🆔 Match ID: 2560267
 🕒 Start: 2025-11-16 22:45 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Not specified
+📺 Channels: Fox Soccer Plus, Moldova 1, Sport TV2 Portugal, Sky Sport Calcio IT, Prima Sport 2 Romania, SONY TEN 1 HD, Ziggo Sport 2 NL, Nova Sports Start Greece, Nova Sport Bulgaria, SuperSport Football, Sportv Brazil, beIN Sports MENA English 2, 5Sport Israel, Fox Soccer Plus (US)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/308.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/301.png
 --------------------------------------------------
@@ -82,7 +82,7 @@
 🆔 Match ID: 2560269
 🕒 Start: 2025-11-16 22:45 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Amazon Prime Video
+📺 Channels: Amazon Prime Video, Fox Sports 1 USA, RAI 1 IT, Sky Sport 2 NZ, TV 2 Direkte Norway, DAZN1 DE, SONY TEN 2 HD, Sport TV1 Portugal, TVP Sport Poland, Polsat Sport 2 Poland, Ziggo Sport 1 NL, Prima Sport 1 Romania, Arena 1 Premium Serbia, Nova Sports Prime Greece, Diema Sport 3 Bulgaria, ESPN2 Argentina, TV2 Sport X Denmark, SuperSport Premier League, SuperSport MaXimo 1, ESPN Brazil, beIN Sports MENA 1, beIN Sports MENA English 1, Sportklub 1 Croatia, Sport 4 Israel, Sky Sport 2 (NZ), RAI 1 (IT), Fox Sports 1 (US)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/37.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/115.png
 --------------------------------------------------
