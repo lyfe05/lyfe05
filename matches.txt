@@ -1,184 +1,72 @@
-🏟️ Match: Togo Vs Guinea
-🆔 Match ID: 2644841
-🕒 Start: 2025-11-15 15:00 (GMT+3)
-📍 Tournament: International Friendlies
+🏟️ Match: Hungary Vs Ireland
+🆔 Match ID: 2560266
+🕒 Start: 2025-11-16 17:00 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/106.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1010.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/125.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/122.png
 --------------------------------------------------
-🏟️ Match: South Africa Vs Zambia
-🆔 Match ID: 2644182
-🕒 Start: 2025-11-15 16:00 (GMT+3)
-📍 Tournament: International Friendlies
+🏟️ Match: Portugal Vs Armenia
+🆔 Match ID: 2560270
+🕒 Start: 2025-11-16 17:00 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/39.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/596.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/43.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/315.png
 --------------------------------------------------
-🏟️ Match: Malawi Vs Lesotho
-🆔 Match ID: 2644789
-🕒 Start: 2025-11-15 17:00 (GMT+3)
-📍 Tournament: International Friendlies
+🏟️ Match: Azerbaijan Vs France
+🆔 Match ID: 2560265
+🕒 Start: 2025-11-16 20:00 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1379.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/894.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/309.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/45.png
 --------------------------------------------------
-🏟️ Match: Libya Vs Mauritania
-🆔 Match ID: 2645342
-🕒 Start: 2025-11-15 17:00 (GMT+3)
-📍 Tournament: International Friendlies
+🏟️ Match: Ukraine Vs Iceland
+🆔 Match ID: 2560271
+🕒 Start: 2025-11-16 20:00 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/892.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2070.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/119.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/296.png
 --------------------------------------------------
-🏟️ Match: Russia Vs Chile
-🆔 Match ID: 2632902
-🕒 Start: 2025-11-15 18:00 (GMT+3)
-📍 Tournament: International Friendlies
+🏟️ Match: Albania Vs England
+🆔 Match ID: 2560264
+🕒 Start: 2025-11-16 20:00 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/124.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/35.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/304.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/61.png
 --------------------------------------------------
-🏟️ Match: Annan Athletic Vs Edinburgh City
-🆔 Match ID: 2597186
-🕒 Start: 2025-11-15 18:00 (GMT+3)
-📍 Tournament: Scottish League Two
-📺 Channels: WSL2 YouTube
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1999.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2097.png
---------------------------------------------------
-🏟️ Match: Elgin City Vs Dumbarton
-🆔 Match ID: 2597187
-🕒 Start: 2025-11-15 18:00 (GMT+3)
-📍 Tournament: Scottish League Two
+🏟️ Match: Serbia Vs Latvia
+🆔 Match ID: 2560268
+🕒 Start: 2025-11-16 20:00 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1604.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1601.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/88.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/313.png
 --------------------------------------------------
-🏟️ Match: Stirling Albion Vs Forfar Athletic
-🆔 Match ID: 2597188
-🕒 Start: 2025-11-15 18:00 (GMT+3)
-📍 Tournament: Scottish League Two
+🏟️ Match: Nigeria Vs DR Congo
+🆔 Match ID: 2643066
+🕒 Start: 2025-11-16 22:00 (GMT+3)
+📍 Tournament: CAF World Cup Qualifying
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2003.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1607.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/85.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/895.png
 --------------------------------------------------
-🏟️ Match: Stranraer Vs East Kilbride
-🆔 Match ID: 2597189
-🕒 Start: 2025-11-15 18:00 (GMT+3)
-📍 Tournament: Scottish League Two
+🏟️ Match: Israel Vs Moldova
+🆔 Match ID: 2560267
+🕒 Start: 2025-11-16 22:45 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1608.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3692.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/308.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/301.png
 --------------------------------------------------
-🏟️ Match: Spartans Vs Clyde
-🆔 Match ID: 2597190
-🕒 Start: 2025-11-15 18:00 (GMT+3)
-📍 Tournament: Scottish League Two
+🏟️ Match: Italy Vs Norway
+🆔 Match ID: 2560269
+🕒 Start: 2025-11-16 22:45 (GMT+3)
+📍 Tournament: UEFA World Cup Qualifying
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2081.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2005.png
---------------------------------------------------
-🏟️ Match: Brazil Vs Senegal
-🆔 Match ID: 2643116
-🕒 Start: 2025-11-15 19:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/79.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/121.png
---------------------------------------------------
-🏟️ Match: Kuwait Vs Tanzania
-🆔 Match ID: 2645355
-🕒 Start: 2025-11-15 19:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/130.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/585.png
---------------------------------------------------
-🏟️ Match: Guinea Vs Liberia
-🆔 Match ID: 2645796
-🕒 Start: 2025-11-15 19:30 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1010.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1382.png
---------------------------------------------------
-🏟️ Match: Youniors FC Vs ERA Colonia
-🆔 Match ID: 2645965
-🕒 Start: 2025-11-15 20:00 (GMT+3)
-📍 Tournament: Kings League Germany
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/57286.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/57279.png
---------------------------------------------------
-🏟️ Match: G2 FC Vs No Rules FC
-🆔 Match ID: 2645966
-🕒 Start: 2025-11-15 21:00 (GMT+3)
-📍 Tournament: Kings League Germany
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/57280.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/57283.png
---------------------------------------------------
-🏟️ Match: Youniors FC Vs G2 FC
-🆔 Match ID: 2645967
-🕒 Start: 2025-11-15 22:30 (GMT+3)
-📍 Tournament: Kings League Germany
-📺 Channels: Premier Sports 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/57286.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/57280.png
---------------------------------------------------
-🏟️ Match: Barbados Vs Aruba
-🆔 Match ID: 2645319
-🕒 Start: 2025-11-15 23:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1346.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1360.png
---------------------------------------------------
-🏟️ Match: Bahamas Vs British Virgin Islands
-🆔 Match ID: 2644528
-🕒 Start: 2025-11-16 00:30 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1365.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1356.png
---------------------------------------------------
-🏟️ Match: USA Vs Paraguay
-🆔 Match ID: 2638632
-🕒 Start: 2025-11-16 01:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/81.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/47.png
---------------------------------------------------
-🏟️ Match: Cayman Islands Vs Anguilla
-🆔 Match ID: 2644529
-🕒 Start: 2025-11-16 03:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1362.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1359.png
---------------------------------------------------
-🏟️ Match: St. Lucia Vs St. Vincent
-🆔 Match ID: 2645562
-🕒 Start: 2025-11-16 03:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1352.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1355.png
---------------------------------------------------
-🏟️ Match: Colombia Vs New Zealand
-🆔 Match ID: 2639318
-🕒 Start: 2025-11-16 03:30 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/118.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/54.png
---------------------------------------------------
-🏟️ Match: Mexico Vs Uruguay
-🆔 Match ID: 2639371
-🕒 Start: 2025-11-16 04:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/69.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/56.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/37.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/115.png
 --------------------------------------------------
