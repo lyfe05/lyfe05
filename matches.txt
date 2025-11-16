@@ -1,8 +1,16 @@
+🏟️ Match: Shabab Al Ahli Vs Al Nasr
+🆔 Match ID: 2642579
+🕒 Start: 2025-11-16 15:50 (GMT+3)
+📍 Tournament: UAE League Cup
+📺 Channels: TrillerTV+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/8375.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4472.png
+--------------------------------------------------
 🏟️ Match: Hungary Vs Ireland
 🆔 Match ID: 2560266
 🕒 Start: 2025-11-16 17:00 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Not specified
+📺 Channels: Amazon Prime Video, RTE 2, RTE Player
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/125.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/122.png
 --------------------------------------------------
@@ -10,15 +18,23 @@
 🆔 Match ID: 2560270
 🕒 Start: 2025-11-16 17:00 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Not specified
+📺 Channels: Amazon Prime Video
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/43.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/315.png
+--------------------------------------------------
+🏟️ Match: Al Jazira Vs Al Wasl
+🆔 Match ID: 2642580
+🕒 Start: 2025-11-16 18:30 (GMT+3)
+📍 Tournament: UAE League Cup
+📺 Channels: TrillerTV+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4451.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4477.png
 --------------------------------------------------
 🏟️ Match: Azerbaijan Vs France
 🆔 Match ID: 2560265
 🕒 Start: 2025-11-16 20:00 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Not specified
+📺 Channels: Amazon Prime Video
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/309.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/45.png
 --------------------------------------------------
@@ -34,7 +50,7 @@
 🆔 Match ID: 2560264
 🕒 Start: 2025-11-16 20:00 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Not specified
+📺 Channels: ITV1, ITVX, STV, STV Player
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/304.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/61.png
 --------------------------------------------------
@@ -50,7 +66,7 @@
 🆔 Match ID: 2643066
 🕒 Start: 2025-11-16 22:00 (GMT+3)
 📍 Tournament: CAF World Cup Qualifying
-📺 Channels: Not specified
+📺 Channels: FIFA+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/85.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/895.png
 --------------------------------------------------
@@ -66,7 +82,7 @@
 🆔 Match ID: 2560269
 🕒 Start: 2025-11-16 22:45 (GMT+3)
 📍 Tournament: UEFA World Cup Qualifying
-📺 Channels: Not specified
+📺 Channels: Amazon Prime Video
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/37.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/115.png
 --------------------------------------------------
