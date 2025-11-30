@@ -53,7 +53,8 @@ Serie BKT
 SWPL  
 Thai FA Cup  
 Thai League 1  
-Thai League Cup  
-UAE Pro League 
+Thai League Cup
+UAE League Cup
+UAE Pro League
 UAE President's Cup
 USL Championship
