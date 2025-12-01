@@ -2,7 +2,7 @@
 🆔 Match ID: 2591622
 🕒 Start: 2025-12-01 22:45 (GMT+3)
 📍 Tournament: Serie A
-📺 Channels: DAZN
+📺 Channels: DAZN, DAZN Zona IT, DAZN2 DE, Sport TV2 Portugal, Eleven Sports 1 Poland, Ziggo Sport 3 NL, Match! Football 1 Russia, Digi Sport 3 Romania, Arena 2 Premium Serbia, Cosmote Sport 2 Greece, Arena Sport 3 Croatia, TV4 Sport Live 1, MAX Sport 3 Bulgaria, ESPN3 Argentina, SuperSport Football, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/183.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/386.png
 --------------------------------------------------
@@ -10,7 +10,7 @@
 🆔 Match ID: 2605242
 🕒 Start: 2025-12-01 23:00 (GMT+3)
 📍 Tournament: LaLiga
-📺 Channels: Premier Sports 1
+📺 Channels: Premier Sports 1, M+ LALIGA TV, LaLiga TV UK, Viaplay Sports 1 UK, Premier Sports 1 Ireland, DAZN1 DE, DAZN Eleven 1 Portugal, Eleven Sports 2 Poland, beIN Sports 1 France, Ziggo Sport 2 NL, ESPN Deportes, Digi Sport 2 Romania, Prima Sport 2 Romania, beIN Sports Malaysia, Arena 1 Premium Serbia, Nova Sports 1 Greece, Match! Football 2 Russia, Arena Sport 1 Croatia, TV4 Fotball, MAX Sport 4 Bulgaria, ESPN4 Brazil, ESPN2 Argentina, SuperSport Laliga, SuperSport MaXimo 1, beIN Sports MENA 3, beIN Sports MENA English 2
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/690.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/143.png
 --------------------------------------------------
@@ -18,7 +18,7 @@
 🆔 Match ID: 2600994
 🕒 Start: 2025-12-01 23:00 (GMT+3)
 📍 Tournament: EFL Championship
-📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR
+📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, CBS Sports Golazo USA, Sky Sports Football UK, Sky Sports Main Event UK, Sky Sport Premier League DE, Sky Sport Top Event DE, Sport TV3 Portugal, beIN Sports MAX 4 France, Arena 3 Premium Serbia, ESPN2 Mexico, Astro Football, Cosmote Sport 1 Greece, Diema Sport 2 Bulgaria, ESPN2 Brazil, beIN Sports MENA 2, beIN Sports MENA English 1, Sport 2 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/205.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/580.png
 --------------------------------------------------
