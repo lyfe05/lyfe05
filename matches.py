@@ -219,7 +219,7 @@ def fetch_daddylive_matches():
         "nascar", "golf", "chess", "kabaddi"
     ]
 
-    # ---------- 1. get HTML ----------
+# ---------- 1. get HTML ----------
     html = None
     try:
         buf = BytesIO()
@@ -230,29 +230,17 @@ def fetch_daddylive_matches():
         c.setopt(c.SSL_VERIFYPEER, 0)
         c.setopt(c.SSL_VERIFYHOST, 0)
         c.setopt(c.FOLLOWLOCATION, 1)
-        c.setopt(c.TIMEOUT, 20)
-        c.perform()
-        if c.getinfo(c.RESPONSE_CODE) == 200:
-            html = buf.getvalue().decode("utf-8", errors="ignore")
-            logger.info("DaddyLive – live URL succeeded")
-        else:
-            raise RuntimeError("non-200 response")
+        c.setopt(c.TIMEOUT, 0)                 # <-- same as original
+        try:
+            c.perform()
+            if c.getinfo(c.RESPONSE_CODE) != 200:
+                raise RuntimeError("non-200 response")
+        finally:
+            c.close()
+        html = buf.getvalue().decode("utf-8", errors="ignore")
+        logger.info("DaddyLive – live URL succeeded")
     except Exception as e:
         logger.warning(f"DaddyLive URL failed ({e}) – trying local fallback {FALLBACK}")
-    finally:
-        try:
-            c.close()
-        except Exception:
-            pass
-
-    if html is None:                       # fallback path
-        try:
-            with open(FALLBACK, "r", encoding="utf-8") as fh:
-                html = fh.read()
-            logger.info("DaddyLive – loaded local fallback file")
-        except Exception as fe:
-            logger.error(f"DaddyLive fallback also failed: {fe}")
-            return []
 
     # ---------- 2. parse ----------
     def html_time_to_gmt3(time_str: str, base_date: datetime) -> str:
