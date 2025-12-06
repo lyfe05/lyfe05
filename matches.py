@@ -203,13 +203,14 @@ def fetch_wheresthematch_matches():
 # ---------- DADDYLIVE ----------
 def fetch_daddylive_matches():
     logger.info("Fetching matches from DaddyLive (primary URL + local fallback)...")
+    from io import BytesIO
     from datetime import timezone
     import pytz
 
-    URL        = "https://daddylive.sx/"
-    UA         = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                  "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36")
-    FALLBACK   = "dlhd.html"          # same folder as script
+    URL      = "https://daddylive.sx/"
+    UA       = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36")
+    FALLBACK = "dlhd.html"
 
     BLOCKED_KEYWORDS = [
         "tennis", "basketball", "hockey", "volleyball", "handball",
@@ -219,7 +220,7 @@ def fetch_daddylive_matches():
         "nascar", "golf", "chess", "kabaddi"
     ]
 
-# ---------- 1. get HTML ----------
+    # ---------- 1.  get HTML  ----------
     html = None
     try:
         buf = BytesIO()
@@ -230,7 +231,7 @@ def fetch_daddylive_matches():
         c.setopt(c.SSL_VERIFYPEER, 0)
         c.setopt(c.SSL_VERIFYHOST, 0)
         c.setopt(c.FOLLOWLOCATION, 1)
-        c.setopt(c.TIMEOUT, 0)                 # <-- same as original
+        c.setopt(c.TIMEOUT, 0)
         try:
             c.perform()
             if c.getinfo(c.RESPONSE_CODE) != 200:
@@ -242,7 +243,16 @@ def fetch_daddylive_matches():
     except Exception as e:
         logger.warning(f"DaddyLive URL failed ({e}) – trying local fallback {FALLBACK}")
 
-    # ---------- 2. parse ----------
+    if html is None:                       # fallback path
+        try:
+            with open(FALLBACK, "r", encoding="utf-8") as fh:
+                html = fh.read()
+            logger.info("DaddyLive – loaded local fallback file")
+        except Exception as fe:
+            logger.error(f"DaddyLive fallback also failed: {fe}")
+            return []
+
+    # ---------- 2.  parse  ----------
     def html_time_to_gmt3(time_str: str, base_date: datetime) -> str:
         try:
             h, m = map(int, time_str.split(":"))
@@ -303,6 +313,7 @@ def fetch_daddylive_matches():
         logger.info(f"DaddyLive – parsed {len(matches)} matches")
     except Exception as e:
         logger.error(f"DaddyLive parsing failed: {e}")
+
     return matches
 
 # ---------- ALLFOOTBALL ----------
