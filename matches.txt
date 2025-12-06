@@ -1,0 +1,304 @@
+🏟️ Match: Aston Villa Vs Arsenal
+🆔 Match ID: 2595702
+🕒 Start: 2025-12-06 15:30 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/199.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
+--------------------------------------------------
+🏟️ Match: Charlton Athletic Vs Portsmouth
+🆔 Match ID: 2601008
+🕒 Start: 2025-12-06 15:30 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/597.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/277.png
+--------------------------------------------------
+🏟️ Match: Derby County Vs Leicester City
+🆔 Match ID: 2601009
+🕒 Start: 2025-12-06 15:30 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports Football, ITV1, Sky Sports Ultra HDR, ITVX, STV, STV Player
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/568.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/572.png
+--------------------------------------------------
+🏟️ Match: Watford Vs Norwich City
+🆔 Match ID: 2601017
+🕒 Start: 2025-12-06 15:30 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/580.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/575.png
+--------------------------------------------------
+🏟️ Match: Villarreal Vs Getafe
+🆔 Match ID: 2605254
+🕒 Start: 2025-12-06 16:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Premier Sports 1
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/226.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/216.png
+--------------------------------------------------
+🏟️ Match: Sassuolo Vs Fiorentina
+🆔 Match ID: 2591637
+🕒 Start: 2025-12-06 17:00 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/724.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/15.png
+--------------------------------------------------
+🏟️ Match: VfB Stuttgart Vs Bayern Munich
+🆔 Match ID: 2603511
+🕒 Start: 2025-12-06 17:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/31.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6.png
+--------------------------------------------------
+🏟️ Match: VfL Wolfsburg Vs Union Berlin
+🆔 Match ID: 2603512
+🕒 Start: 2025-12-06 17:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/32.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/174.png
+--------------------------------------------------
+🏟️ Match: Augsburg Vs Bayer Leverkusen
+🆔 Match ID: 2603513
+🕒 Start: 2025-12-06 17:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/171.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/162.png
+--------------------------------------------------
+🏟️ Match: Heidenheim Vs SC Freiburg
+🆔 Match ID: 2603514
+🕒 Start: 2025-12-06 17:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/283.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/159.png
+--------------------------------------------------
+🏟️ Match: Köln Vs St. Pauli
+🆔 Match ID: 2603515
+🕒 Start: 2025-12-06 17:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/151.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/152.png
+--------------------------------------------------
+🏟️ Match: AFC Bournemouth Vs Chelsea
+🆔 Match ID: 2595701
+🕒 Start: 2025-12-06 18:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Not Televised
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/622.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
+--------------------------------------------------
+🏟️ Match: Everton Vs Nottingham Forest
+🆔 Match ID: 2595704
+🕒 Start: 2025-12-06 18:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Not Televised
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/197.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/577.png
+--------------------------------------------------
+🏟️ Match: Manchester City Vs Sunderland
+🆔 Match ID: 2595707
+🕒 Start: 2025-12-06 18:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Not Televised
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/209.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/208.png
+--------------------------------------------------
+🏟️ Match: Newcastle United Vs Burnley
+🆔 Match ID: 2595708
+🕒 Start: 2025-12-06 18:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Not Televised
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/207.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/275.png
+--------------------------------------------------
+🏟️ Match: Tottenham Hotspur Vs Brentford
+🆔 Match ID: 2595709
+🕒 Start: 2025-12-06 18:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Not Televised
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/202.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/671.png
+--------------------------------------------------
+🏟️ Match: Blackburn Rovers Vs Sheffield Wednesday
+🆔 Match ID: 2601006
+🕒 Start: 2025-12-06 18:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/210.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/638.png
+--------------------------------------------------
+🏟️ Match: Bristol City Vs Millwall
+🆔 Match ID: 2601007
+🕒 Start: 2025-12-06 18:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/564.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/574.png
+--------------------------------------------------
+🏟️ Match: Ipswich Town Vs Coventry City
+🆔 Match ID: 2601011
+🕒 Start: 2025-12-06 18:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/570.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/566.png
+--------------------------------------------------
+🏟️ Match: Preston North End Vs Wrexham
+🆔 Match ID: 2601012
+🕒 Start: 2025-12-06 18:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/578.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/617.png
+--------------------------------------------------
+🏟️ Match: Queens Park Rangers Vs West Bromwich Albion
+🆔 Match ID: 2601013
+🕒 Start: 2025-12-06 18:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/582.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/196.png
+--------------------------------------------------
+🏟️ Match: Sheffield United Vs Stoke City
+🆔 Match ID: 2601014
+🕒 Start: 2025-12-06 18:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/583.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/201.png
+--------------------------------------------------
+🏟️ Match: Southampton Vs Birmingham City
+🆔 Match ID: 2601015
+🕒 Start: 2025-12-06 18:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/615.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/205.png
+--------------------------------------------------
+🏟️ Match: Swansea City Vs Oxford United
+🆔 Match ID: 2601016
+🕒 Start: 2025-12-06 18:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/630.png
+--------------------------------------------------
+🏟️ Match: Alavés Vs Real Sociedad
+🆔 Match ID: 2605258
+🕒 Start: 2025-12-06 18:15 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: LaLigaTV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1254.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/223.png
+--------------------------------------------------
+🏟️ Match: Heerenveen Vs PSV
+🆔 Match ID: 2594990
+🕒 Start: 2025-12-06 18:30 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: TrillerTV+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/555.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/137.png
+--------------------------------------------------
+🏟️ Match: Nantes Vs Lens
+🆔 Match ID: 2602917
+🕒 Start: 2025-12-06 19:00 (GMT+3)
+📍 Tournament: Ligue 1
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/708.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/256.png
+--------------------------------------------------
+🏟️ Match: Inter Vs Como
+🆔 Match ID: 2591633
+🕒 Start: 2025-12-06 20:00 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, TNT Sports 1, Discovery+ Premium
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/16.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/387.png
+--------------------------------------------------
+🏟️ Match: Leeds United Vs Liverpool FC
+🆔 Match ID: 2595706
+🕒 Start: 2025-12-06 20:30 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/571.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18.png
+--------------------------------------------------
+🏟️ Match: Real Betis Vs Barcelona
+🆔 Match ID: 2605252
+🕒 Start: 2025-12-06 20:30 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: LaLigaTV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/691.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5.png
+--------------------------------------------------
+🏟️ Match: RB Leipzig Vs Eintracht Frankfurt
+🆔 Match ID: 2603510
+🕒 Start: 2025-12-06 20:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Sky Sports Football
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/885.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/156.png
+--------------------------------------------------
+🏟️ Match: Fortuna Sittard Vs Ajax
+🆔 Match ID: 2594988
+🕒 Start: 2025-12-06 20:45 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2020.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/341.png
+--------------------------------------------------
+🏟️ Match: Toulouse Vs Strasbourg
+🆔 Match ID: 2602921
+🕒 Start: 2025-12-06 21:00 (GMT+3)
+📍 Tournament: Ligue 1
+📺 Channels: Ligue 1+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/267.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/756.png
+--------------------------------------------------
+🏟️ Match: Heracles Vs Telstar
+🆔 Match ID: 2594989
+🕒 Start: 2025-12-06 22:00 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1176.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2016.png
+--------------------------------------------------
+🏟️ Match: Hellas Verona Vs Atalanta
+🆔 Match ID: 2591640
+🕒 Start: 2025-12-06 22:45 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/409.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/248.png
+--------------------------------------------------
+🏟️ Match: Athletic Bilbao Vs Atlético de Madrid
+🆔 Match ID: 2605259
+🕒 Start: 2025-12-06 23:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Disney+, Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3.png
+--------------------------------------------------
+🏟️ Match: Feyenoord Vs PEC Zwolle
+🆔 Match ID: 2594987
+🕒 Start: 2025-12-06 23:00 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: Premier Player, TrillerTV+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/736.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1175.png
+--------------------------------------------------
+🏟️ Match: PSG Vs Rennes
+🆔 Match ID: 2602922
+🕒 Start: 2025-12-06 23:05 (GMT+3)
+📍 Tournament: Ligue 1
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/263.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/264.png
+--------------------------------------------------
