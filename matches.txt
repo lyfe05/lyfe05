@@ -282,7 +282,7 @@
 🆔 Match ID: 2605259
 🕒 Start: 2025-12-06 23:00 (GMT+3)
 📍 Tournament: LaLiga
-📺 Channels: Disney+
+📺 Channels: Disney+, Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/213.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3.png
 --------------------------------------------------
