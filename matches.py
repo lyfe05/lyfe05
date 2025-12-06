@@ -203,6 +203,7 @@ def fetch_wheresthematch_matches():
 # ---------- DADDYLIVE ----------
 def fetch_daddylive_matches():
     logger.info("Fetching matches from DaddyLive (primary URL + local fallback)...")
+    import pycurl                 # <-- ADD THIS LINE
     from io import BytesIO
     from datetime import timezone
     import pytz
@@ -315,7 +316,7 @@ def fetch_daddylive_matches():
         logger.error(f"DaddyLive parsing failed: {e}")
 
     return matches
-
+    
 # ---------- ALLFOOTBALL ----------
 def fetch_allfootball_matches():
     logger.info("Fetching matches from AllFootball...")
