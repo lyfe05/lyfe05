@@ -1,232 +1,240 @@
-🏟️ Match: Norwich City Vs Southampton
-🆔 Match ID: 2601035
-🕒 Start: 2025-12-13 15:30 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, Nova Sport 6 CZ, Sport TV4 Portugal, Astro Football, beIN Sports MAX 9 France, Arena Sport 1 Serbia, Cosmote Sport 1 Greece, Arena Sport 1 Croatia, TV3 Max Denmark, ESPN Brazil, V Sport Football, SuperSport Variety 3, SuperSport MaXimo 1, Diema Sport 2 Bulgaria, beIN Sports MENA 2, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/575.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/615.png
---------------------------------------------------
-🏟️ Match: Oxford United Vs Preston North End
-🆔 Match ID: 2601036
-🕒 Start: 2025-12-13 15:30 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/630.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/578.png
---------------------------------------------------
-🏟️ Match: Stoke City Vs Swansea City
-🆔 Match ID: 2601039
-🕒 Start: 2025-12-13 15:30 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+, CBS Sports Golazo USA
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/201.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/576.png
---------------------------------------------------
-🏟️ Match: Atlético de Madrid Vs Valencia
-🆔 Match ID: 2605268
-🕒 Start: 2025-12-13 16:00 (GMT+3)
-📍 Tournament: LaLiga
-📺 Channels: LaLigaTV, DAZN LaLiga, LaLiga TV UK, DAZN Eleven 3 Portugal, Eleven Sports 1 Poland, Ziggo Sport 1 NL, Nova Sport 4 CZ, beIN Sports MAX 4 France, Match! Football 2 Russia, Digi Sport 1 Romania, ESPN Deportes, beIN Sports Malaysia, TV4 Fotball, Arena 1 Premium Serbia, Nova Sports 1 Greece, Arena Sport 3 Croatia, TV2 Sport Denmark, MAX Sport 4 Bulgaria, SuperSport Laliga
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/143.png
---------------------------------------------------
-🏟️ Match: Torino Vs Cremonese
-🆔 Match ID: 2591649
-🕒 Start: 2025-12-13 17:00 (GMT+3)
-📍 Tournament: Serie A
-📺 Channels: Paramount+, DAZN Zona IT, Sport TV3 Portugal, Eleven Sports 2 Poland, Ziggo Sport 2 NL, Match! Football 1 Russia, Digi Sport 4 Romania, Cosmote Sport 3 Greece, Arena Sport 2 Croatia, Prima Sport 3 Romania, ESPN Mexico, TV4 Sport Live 1, MAX Sport 3 Bulgaria, SuperSport Football
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/722.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/386.png
---------------------------------------------------
-🏟️ Match: Liverpool FC Vs Brighton & Hove Albion
-🆔 Match ID: 2595716
-🕒 Start: 2025-12-13 18:00 (GMT+3)
-📍 Tournament: Premier League
-📺 Channels: Not Televised, Hub Premier, Sky Sport 2 NZ, beIN Sports 3 Turkey, DAZN2 Spain, Sky Sport Premier League DE, DAZN Eleven 1 Portugal, Canal+ Foot France, Astro Premier League 2, Arena 1 Premium Serbia, V Sport Premium, Nova Sports Premier League Greece, Arena Sport 1 Croatia, TV3 Max Denmark, Diema Sport 2 Bulgaria, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/670.png
---------------------------------------------------
-🏟️ Match: Chelsea Vs Everton
-🆔 Match ID: 2595714
-🕒 Start: 2025-12-13 18:00 (GMT+3)
-📍 Tournament: Premier League
-📺 Channels: Not Televised, Hub Premier, USA Network, NBC UNIVERSO, Sky Sport 8 NZ, beIN Sports 4 Turkey, DAZN3 Spain, Sky Sport Mix DE, Sky Sport Arena IT, DAZN Eleven 2 Portugal, Canal+ Live 2 France, Astro Premier League, Astro Grandstand, Arena 2 Premium Serbia, Nova Sports 4 Greece, Arena Sport 4 Croatia, V Sport Football, Diema Sport 3 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport Variety 3, beIN Sports MENA 4, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/197.png
---------------------------------------------------
-🏟️ Match: Birmingham City Vs Charlton Athletic
-🆔 Match ID: 2601030
-🕒 Start: 2025-12-13 18:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/205.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/597.png
---------------------------------------------------
-🏟️ Match: Coventry City Vs Bristol City
-🆔 Match ID: 2601031
-🕒 Start: 2025-12-13 18:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+, CBS Sports Golazo USA
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/566.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/564.png
---------------------------------------------------
-🏟️ Match: Leicester City Vs Ipswich Town
-🆔 Match ID: 2601032
-🕒 Start: 2025-12-13 18:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/572.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/570.png
---------------------------------------------------
-🏟️ Match: Middlesbrough Vs Queens Park Rangers
-🆔 Match ID: 2601033
-🕒 Start: 2025-12-13 18:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/573.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/582.png
---------------------------------------------------
-🏟️ Match: Millwall Vs Hull City
-🆔 Match ID: 2601034
-🕒 Start: 2025-12-13 18:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/574.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/276.png
---------------------------------------------------
-🏟️ Match: Portsmouth Vs Blackburn Rovers
-🆔 Match ID: 2601037
-🕒 Start: 2025-12-13 18:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/277.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/210.png
---------------------------------------------------
-🏟️ Match: Wrexham Vs Watford
-🆔 Match ID: 2601041
-🕒 Start: 2025-12-13 18:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sport TV4 Portugal, beIN Sports MAX 9 France, Astro Football, Nova Sport 6 CZ, ESPN2 Mexico, ESPN4 Brazil, Cosmote Sport 1 Greece, beIN Sports MENA 6
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/617.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/580.png
---------------------------------------------------
-🏟️ Match: Mallorca Vs Elche
-🆔 Match ID: 2605263
-🕒 Start: 2025-12-13 18:15 (GMT+3)
-📍 Tournament: LaLiga
-📺 Channels: LaLigaTV, DAZN LaLiga 2, LaLiga TV UK, DAZN Eleven 3 Portugal, Canal+ Sport Poland, Nova Sport 4 CZ, Match! Football 2 Russia, beIN Sports MAX 4 France, ESPN Deportes, Digi Sport 2 Romania, beIN Sports Malaysia, Prima Sport 2 Romania, Nova Sports 1 Greece, Arena Sport 1 Serbia, Arena Sport 3 Croatia, TV4 Fotball, MAX Sport 4 Bulgaria, ESPN2 Brazil, ESPN2 Argentina, SuperSport Laliga, beIN Sports MENA 5
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/220.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/682.png
---------------------------------------------------
-🏟️ Match: Telstar Vs NEC Nijmegen
-🆔 Match ID: 2595000
-🕒 Start: 2025-12-13 18:30 (GMT+3)
+🏟️ Match: Sparta Rotterdam Vs Heerenveen
+🆔 Match ID: 2594999
+🕒 Start: 2025-12-14 14:15 (GMT+3)
 📍 Tournament: Eredivisie
-📺 Channels: TrillerTV+, ESPN 2 NL, Arena Sport 8 Serbia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2016.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/961.png
+📺 Channels: ESPN 1 NL
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2019.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/555.png
 --------------------------------------------------
-🏟️ Match: Rennes Vs Brest
-🆔 Match ID: 2602926
-🕒 Start: 2025-12-13 19:00 (GMT+3)
-📍 Tournament: Ligue 1
-📺 Channels: beIN Sports 2 France, beIN SPORTS USA, beIN SPORTS en Español, Sport TV5 Portugal, Arena Sport 2 Croatia, beIN Sports MENA 8, 5Plus Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/264.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/254.png
---------------------------------------------------
-🏟️ Match: Parma Vs Lazio
-🆔 Match ID: 2591647
-🕒 Start: 2025-12-13 20:00 (GMT+3)
+🏟️ Match: Milan Vs Sassuolo
+🆔 Match ID: 2591646
+🕒 Start: 2025-12-14 14:30 (GMT+3)
 📍 Tournament: Serie A
-📺 Channels: DAZN, DAZN Zona IT, CBS USA, CBSNY USA, Sport TV3 Portugal, Eleven Sports 2 Poland, Eleven Sports 4 Poland, Match! Football 1 Russia, FOX Deportes, Ziggo Sport 2 NL, Digi Sport 4 Romania, ESPN Mexico, Astro Football, Arena 3 Premium Serbia, Cosmote Sport 3 Greece, Arena Sport 4 Croatia, TV2 Sport Denmark, TV4 Sport Live 1, Prima Sport 3 Romania, MAX Sport 3 Bulgaria, SuperSport Football, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/193.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/139.png
+📺 Channels: DAZN, TNT Sports 1, Discovery+ Premium, TNT Sports 1 UK, DAZN Zona IT, DAZN2 DE, Sport TV2 Portugal, Eleven Sports 1 Poland, TRT Spor Turkey, Ziggo Sport 2 NL, Astro Football, Match! Football 1 Russia, FOX Deportes, Digi Sport 1 Romania, Prima Sport 1 Romania, Arena 1 Premium Serbia, Cosmote Sport 1 Greece, Arena Sport 1 Croatia, TV4 Fotball, MAX Sport 3 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport Football
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/724.png
 --------------------------------------------------
-🏟️ Match: Flamengo Vs Pyramids
-🆔 Match ID: 2639465
-🕒 Start: 2025-12-13 20:00 (GMT+3)
-📍 Tournament: FIFA Intercontinental Cup
-📺 Channels: DAZN, FIFA+, beIN SPORTS USA, beIN SPORTS en Español, SporTV BR, beIN Sports MAX 8 France, beIN Sports MENA 2, beIN Sports MENA English 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1802.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16081.png
---------------------------------------------------
-🏟️ Match: Burnley Vs Fulham
-🆔 Match ID: 2595713
-🕒 Start: 2025-12-13 20:30 (GMT+3)
-📍 Tournament: Premier League
-📺 Channels: Sky Sports Premier League, Sky Sports Main Event, Sky Sports Ultra HDR, Hub Premier, NBC USA, NBCNY USA, NBC UNIVERSO, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 8 NZ, DAZN2 Spain, beIN Sports 3 Turkey, Sky Sport Premier League DE, DAZN Eleven 2 Portugal, Canal+ Foot France, Sky Sport Arena IT, Astro Premier League 2, Arena Sport 1 Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, V Sport Premium, TV3 Max Denmark, Diema Sport 2 Bulgaria, ESPN Argentina, SuperSport Premier League, beIN Sports MENA 4, beIN Sports MENA English 1, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/275.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/211.png
---------------------------------------------------
-🏟️ Match: Barcelona Vs Osasuna
-🆔 Match ID: 2605269
-🕒 Start: 2025-12-13 20:30 (GMT+3)
+🏟️ Match: Sevilla Vs Real Oviedo
+🆔 Match ID: 2605266
+🕒 Start: 2025-12-14 16:00 (GMT+3)
 📍 Tournament: LaLiga
-📺 Channels: LaLigaTV, M+ LALIGA TV, M+ LALIGA 2 TV, LaLiga TV UK, TSN2, DAZN2 DE, Nova Sport 4 CZ, DAZN Eleven 1 Portugal, Canal+ Sport Poland, beIN Sports 3 France, Match TV Russia, Match! Football 2 Russia, Digi Sport 2 Romania, Ziggo Sport 1 NL, beIN Sports Malaysia, ESPN Deportes, Arena Premium 2 Serbia, Nova Sports Prime Greece, TV2 Sport X Denmark, Prima Sport 2 Romania, Arena Sport 3 Croatia, ESPN Brazil, TV4 Fotball, MAX Sport 4 Bulgaria, SuperSport Laliga, beIN Sports MENA 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/221.png
+📺 Channels: LaLigaTV, M+ LALIGA TV, LaLiga TV UK, Nova Sport 4 CZ, Eleven Sports 4 Poland, Ziggo Sport 3 NL, beIN Sports MAX 8 France, beIN Sports Malaysia, Match! Football 2 Russia, ESPN Deportes, Nova Sports 1 Greece, Arena Sport 3 Croatia, Prima Sport 3 Romania, TV4 Sport Live 1, MAX Sport 4 Bulgaria, ESPN2 Brazil, ESPN2 Argentina, SuperSport Laliga, beIN Sports MENA 5
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/28.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1239.png
 --------------------------------------------------
-🏟️ Match: Groningen Vs Volendam
-🆔 Match ID: 2594994
-🕒 Start: 2025-12-13 20:45 (GMT+3)
+🏟️ Match: Ajax Vs Feyenoord
+🆔 Match ID: 2594992
+🕒 Start: 2025-12-14 16:30 (GMT+3)
 📍 Tournament: Eredivisie
-📺 Channels: ESPN 3 NL
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1174.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2012.png
+📺 Channels: TrillerTV+, Premier Player, ESPN 1 NL, Sportsnet World, Sportdigital FUSSBALL DE, DAZN Eleven 4 Portugal, ESPN2 Mexico, Nova Sports Start Greece, Sportklub 3 Croatia, Ring bg, Polsat Sport Premium 1 Poland, ESPN3 Brazil, ESPN3 Argentina, Sport 4 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/341.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/736.png
 --------------------------------------------------
-🏟️ Match: Metz Vs PSG
-🆔 Match ID: 2602929
-🕒 Start: 2025-12-13 21:00 (GMT+3)
-📍 Tournament: Ligue 1
-📺 Channels: DAZN 1 France, beIN SPORTS USA, beIN SPORTS en Español, Sport TV2 Portugal, Eleven Sports 3 Poland, Sky Sport Max IT, Nova Sport 6 CZ, V Sport Football, Arena Sport 2 Croatia, Nova Sport Bulgaria, ESPN2 Argentina, beIN Sports MENA 3, SuperSport MaXimo 1, SuperSport Variety 4, 5Stars Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/710.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/263.png
---------------------------------------------------
-🏟️ Match: PSV Vs Heracles
-🆔 Match ID: 2594998
-🕒 Start: 2025-12-13 22:00 (GMT+3)
-📍 Tournament: Eredivisie
-📺 Channels: Premier Player, TrillerTV+, ESPN 1 NL, Sportsnet World, Sportdigital FUSSBALL DE, DAZN Eleven 4 Portugal, Polsat Sport 3 Poland, Arena Sport 4 Serbia, Nova Sports 2 Greece, ESPN2 Mexico, Ring bg, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/137.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1176.png
---------------------------------------------------
-🏟️ Match: Atalanta Vs Cagliari
-🆔 Match ID: 2591641
-🕒 Start: 2025-12-13 22:45 (GMT+3)
-📍 Tournament: Serie A
-📺 Channels: DAZN, Sky Sport 251 IT, CBS Sports Golazo USA, Sky Sport Calcio IT, Sport TV3 Portugal, Eleven Sports 1 Poland, Ziggo Sport 1 NL, Digi Sport 2 Romania, ESPN Mexico, Astro Football, Match TV Russia, Match! Football 1 Russia, Prima Sport 3 Romania, Arena 2 Premium Serbia, FOX Deportes, Cosmote Sport 2 Greece, ESPN4 Brazil, Arena Sport 4 Croatia, TV4 Sportkanalen, MAX Sport 3 Bulgaria, SuperSport Football
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/248.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/185.png
---------------------------------------------------
-🏟️ Match: Arsenal Vs Wolverhampton Wanderers
-🆔 Match ID: 2595711
-🕒 Start: 2025-12-13 23:00 (GMT+3)
-📍 Tournament: Premier League
-📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium, TNT Sports 1 UK, Hub Premier, USA Network, Sky Sport 8 NZ, beIN Sports 3 Turkey, DAZN2 Spain, Movistar Liga de Campeones, DAZN Eleven 1 Portugal, Sky Sport Premier League DE, Canal+ Foot France, Sky Sport Arena IT, Astro Premier League, Astro Grandstand, Arena 1 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, Diema Sport 2 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/203.png
---------------------------------------------------
-🏟️ Match: Getafe Vs Espanyol
-🆔 Match ID: 2605264
-🕒 Start: 2025-12-13 23:00 (GMT+3)
-📍 Tournament: LaLiga
-📺 Channels: Disney+, M+ LALIGA TV, LaLiga TV UK, Nova Sport 4 CZ, DAZN Eleven 2 Portugal, Eleven Sports 2 Poland, beIN Sports MAX 4 France, Digi Sport 4 Romania, ESPN Deportes, Match! Football 2 Russia, Ziggo Sport 2 NL, beIN Sports Malaysia, Arena 3 Premium Serbia, Nova Sports 1 Greece, Arena Sport 3 Croatia, TV4 Fotball, Prima Sport 2 Romania, MAX Sport 4 Bulgaria, SuperSport Laliga, beIN Sports MENA 5, beIN Sports MENA English 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/216.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/215.png
---------------------------------------------------
-🏟️ Match: PEC Zwolle Vs Fortuna Sittard
-🆔 Match ID: 2594997
-🕒 Start: 2025-12-13 23:00 (GMT+3)
+🏟️ Match: FC Twente Vs Go Ahead Eagles
+🆔 Match ID: 2594995
+🕒 Start: 2025-12-14 16:30 (GMT+3)
 📍 Tournament: Eredivisie
 📺 Channels: ESPN 2 NL
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1175.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2020.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/550.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1889.png
 --------------------------------------------------
-🏟️ Match: Paris FC Vs Toulouse
-🆔 Match ID: 2602924
-🕒 Start: 2025-12-13 23:05 (GMT+3)
+🏟️ Match: Crystal Palace Vs Manchester City
+🆔 Match ID: 2595715
+🕒 Start: 2025-12-14 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Sky Sports Premier League, Sky Sports Ultra HDR, Hub Premier, Sky Sports Premier League UK, Sky Sport 4 NZ, beIN Sports 3 Turkey, DAZN1 Spain, DAZN Eleven 1 Portugal, Sky Sport Mix DE, Canal+ Live 3 France, Astro Premier League, Astro Grandstand, Arena 1 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, V Sport Football, Nova Sport Bulgaria, ESPN Brazil, SuperSport MaXimo 1, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, Canal+ Sport 4 Afrique, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/567.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/209.png
+--------------------------------------------------
+🏟️ Match: Nottingham Forest Vs Tottenham Hotspur
+🆔 Match ID: 2595718
+🕒 Start: 2025-12-14 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Sky Sports Football, Sky Sports Ultra HDR, Hub Premier, Sky Sports Football UK, Sky Sport 5 NZ, beIN Sports 4 Turkey, Sky Sport 6 DE, DAZN3 Spain, DAZN Eleven 2 Portugal, Canal+ Live 4 France, Sky Sport Arena IT, Arena Sport 1 Serbia, Nova Sports Prime Greece, TV3 Max Denmark, ESPN Argentina, SuperSport PSL, beIN Sports MENA 2
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/577.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
+--------------------------------------------------
+🏟️ Match: Sunderland Vs Newcastle United
+🆔 Match ID: 2595719
+🕒 Start: 2025-12-14 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Sky Sports Main Event, Sky Sports Ultra HDR, Hub Premier, USA Network, Sky Sports Main Event UK, Telemundo, Sky Sport 3 NZ, DAZN4 Spain, Sky Sport Premier League DE, Sky Sport Top Event DE, Canal+ France, Astro Premier League 2, Arena Sport 5 Serbia, See Denmark, ESPN4 Brazil, Nova Sports 5 Greece, V Sport Premium, Diema Sport 2 Bulgaria, SuperSport Variety 3, beIN SPORTS MENA 3
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/208.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/207.png
+--------------------------------------------------
+🏟️ Match: West Ham United Vs Aston Villa
+🆔 Match ID: 2595720
+🕒 Start: 2025-12-14 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Sky Sports Tennis, Hub Premier, Sky Sports Tennis UK, Sky Sport 9 NZ, DAZN2 Spain, Canal+ Live 5 France, Sky Sport 7 DE, Arena Sport 4 Serbia, Nova Sports 4 Greece, SuperSport Action, beIN Sports MENA 4
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/198.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/199.png
+--------------------------------------------------
+🏟️ Match: Fiorentina Vs Hellas Verona
+🆔 Match ID: 2591643
+🕒 Start: 2025-12-14 17:00 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, Paramount+, Zona DAZN 2 IT, Eleven Sports 3 Poland, FOX Deportes, Arena Sport 3 Serbia, Match! Football 3 Russia, Cosmote Sport 5 Greece, TV4 Sportkanalen, MAX Sport 2 Bulgaria
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/15.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/409.png
+--------------------------------------------------
+🏟️ Match: Udinese Vs Napoli
+🆔 Match ID: 2591650
+🕒 Start: 2025-12-14 17:00 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, Zona DAZN IT, CBS Sports Golazo USA, Sport TV2 Portugal, Eleven Sports 1 Poland, Match! Football 1 Russia, Match TV Russia, Digi Sport 2 Romania, Prima Sport 2 Romania, FOX Deportes, Astro Football, ESPN Mexico, Ziggo Sport 1 NL, Ziggo Sport 2 NL, TV2 Sport Denmark, Arena 2 Premium Serbia, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, TV4 Fotball, MAX Sport 3 Bulgaria, SuperSport Football, Sport 3 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/195.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/191.png
+--------------------------------------------------
+🏟️ Match: Lyon Vs Le Havre
+🆔 Match ID: 2602927
+🕒 Start: 2025-12-14 17:00 (GMT+3)
 📍 Tournament: Ligue 1
-📺 Channels: Ligue 1+, DAZN 1 France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 3 CZ, Sport TV2 Portugal, Arena Sport 2 Croatia, V Sport Premium, Nova Sport Bulgaria, ESPN2 Argentina, beIN Sports MENA 2, 5 Live Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5170.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/267.png
+📺 Channels: Amazon Prime Video, Ligue 1+, DAZN 1 France, beIN SPORTS USA, beIN SPORTS en Español, Sport TV3 Portugal, Nova Sport 6 CZ, Arena Sport 9 Serbia, Arena Sport 2 Croatia, beIN Sports MENA 6, Canal+ Sport 2 Afrique, 5Sport Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/701.png
+--------------------------------------------------
+🏟️ Match: SC Freiburg Vs Borussia Dortmund
+🆔 Match ID: 2603520
+🕒 Start: 2025-12-14 17:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Amazon Prime Video, DAZN2 DE, DAZN Eleven 3 Portugal, Eleven Sports 2 Poland, Polsat Sport 3 Poland, Nova Sport 5 CZ, beIN Sports MAX 6 France, Sky Sport Max IT, beIN Sports 3 Malaysia, Digi Sport 4 Romania, Arena 3 Premium Serbia, Nova Sports 3 Greece, Diema Sport 3 Bulgaria, Canal+ Sport 1 Afrique, Sportklub 1 Croatia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/159.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/155.png
+--------------------------------------------------
+🏟️ Match: Celta de Vigo Vs Athletic Bilbao
+🆔 Match ID: 2605261
+🕒 Start: 2025-12-14 18:15 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: LaLigaTV, DAZN LaLiga, LaLiga TV UK, Nova Sport 4 CZ, beIN Sports MAX 8 France, Match! Football 2 Russia, Ziggo Sport 3 NL, ESPN Deportes, beIN Sports Malaysia, Nova Sports 1 Greece, Canal+ Sport Poland, Prima Sport 4 Romania, Arena Sport 3 Croatia, MAX Sport 4 Bulgaria, ESPN2 Brazil, ESPN2 Argentina, TV4 Sport Live 1, SuperSport Laliga, beIN Sports MENA 5
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/680.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/213.png
+--------------------------------------------------
+🏟️ Match: Albacete Vs Málaga
+🆔 Match ID: 2605923
+🕒 Start: 2025-12-14 18:15 (GMT+3)
+📍 Tournament: La Liga 2
+📺 Channels: LALIGA TV Hypermotion
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/678.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/219.png
+--------------------------------------------------
+🏟️ Match: AZ Vs Excelsior
+🆔 Match ID: 2594993
+🕒 Start: 2025-12-14 18:45 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2025.png
+--------------------------------------------------
+🏟️ Match: NAC Breda Vs Utrecht
+🆔 Match ID: 2594996
+🕒 Start: 2025-12-14 18:45 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: ESPN 1 NL
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1177.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/445.png
+--------------------------------------------------
+🏟️ Match: Auxerre Vs Lille
+🆔 Match ID: 2602925
+🕒 Start: 2025-12-14 19:15 (GMT+3)
+📍 Tournament: Ligue 1
+📺 Channels: Ligue 1+, DAZN 5 France, Sport TV3 Portugal, beIN Sports MENA 2
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/253.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/257.png
+--------------------------------------------------
+🏟️ Match: Strasbourg Vs Lorient
+🆔 Match ID: 2602928
+🕒 Start: 2025-12-14 19:15 (GMT+3)
+📍 Tournament: Ligue 1
+📺 Channels: Ligue 1+, DAZN 6 France, Arena Sport 1x2 Serbia, beIN Sports MENA 4
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/756.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/258.png
+--------------------------------------------------
+🏟️ Match: Lens Vs Nice
+🆔 Match ID: 2602930
+🕒 Start: 2025-12-14 19:15 (GMT+3)
+📍 Tournament: Ligue 1
+📺 Channels: Ligue 1+, DAZN 4 France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 6 CZ, Canal+ Sport 2 Afrique, Eleven Sports 3 Poland, Arena Sport 4 Serbia, beIN Sports MENA 6
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/256.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/262.png
+--------------------------------------------------
+🏟️ Match: Brentford Vs Leeds United
+🆔 Match ID: 2595712
+🕒 Start: 2025-12-14 19:30 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Sky Sports Premier League, Sky Sports Main Event, Sky Sports Ultra HDR, Hub Premier, USA Network, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 8 NZ, DAZN1 Spain, beIN Sports 3 Turkey, Sky Sport Premier League DE, Sky Sport Top Event DE, Astro Premier League 2, Canal+ France, DAZN Eleven 2 Portugal, Telemundo, Canal+ Foot France, Arena Sport 3 Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, V Sport Football, Diema Sport 2 Bulgaria, TV3 Max Denmark, ESPN Argentina, ESPN Brazil, SuperSport MaXimo 1, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/671.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/571.png
+--------------------------------------------------
+🏟️ Match: Bayern Munich Vs Mainz 05
+🆔 Match ID: 2603517
+🕒 Start: 2025-12-14 19:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Amazon Prime Video, DAZN1 DE, Nova Sport 3 CZ, DAZN Eleven 1 Portugal, Eleven Sports 1 Poland, beIN Sports 2 France, Sky Sport Arena IT, beIN Sports 3 Malaysia, Digi Sport 4 Romania, Arena 3 Premium Serbia, Canal+ Sport 1 Afrique, TV3 Sport Denmark, ESPN3 Argentina, Nova Sports Start Greece, Diema Sport 3 Bulgaria, SporTV BR, Sportklub 1 Croatia, Sport 4 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/163.png
+--------------------------------------------------
+🏟️ Match: Genoa Vs Inter
+🆔 Match ID: 2591644
+🕒 Start: 2025-12-14 20:00 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, Sky Sport 251 IT, Sky Sport Uno IT, Sky Sport Calcio IT, CBS Sports Golazo USA, Sport TV2 Portugal, Eleven Sports 2 Poland, Digi Sport 2 Romania, Prima Sport 2 Romania, ESPN Mexico, Ziggo Sport 1 NL, FOX Deportes, Astro Football, Match! Football 1 Russia, Match TV Russia, Arena 2 Premium Serbia, TV2 Sport X Denmark, Polsat Sport Extra 1 Poland, ESPN4 Brazil, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, MAX Sport 3 Bulgaria, TV4 Fotball, SuperSport Football, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/189.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16.png
+--------------------------------------------------
+🏟️ Match: Levante Vs Villarreal
+🆔 Match ID: 2605260
+🕒 Start: 2025-12-14 20:30 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: LaLigaTV, M+ LALIGA TV, LaLiga TV UK, Nova Sport 4 CZ, DAZN Eleven 3 Portugal, Eleven Sports 4 Poland, beIN Sports MAX 8 France, Match! Football 2 Russia, beIN Sports Malaysia, Ziggo Sport 2 NL, Canal+ Sport 4 Afrique, TV4 Sportkanalen, ESPN Deportes, Arena Sport 7 Serbia, Nova Sports 1 Greece, Arena Sport 3 Croatia, MAX Sport 4 Bulgaria, SuperSport Laliga, beIN Sports MENA 3
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/218.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/226.png
+--------------------------------------------------
+🏟️ Match: Almería Vs Burgos
+🆔 Match ID: 2605928
+🕒 Start: 2025-12-14 20:30 (GMT+3)
+📍 Tournament: La Liga 2
+📺 Channels: LALIGA TV Hypermotion, beIN Sports MENA 5
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/212.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2051.png
+--------------------------------------------------
+🏟️ Match: Werder Bremen Vs VfB Stuttgart
+🆔 Match ID: 2603521
+🕒 Start: 2025-12-14 21:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Amazon Prime Video, DAZN1 DE, Nova Sport 6 CZ, DAZN Eleven 2 Portugal, beIN Sports MAX 6 France, beIN Sports 3 Malaysia, Digi Sport 4 Romania, Arena Sport 2 Serbia, Nova Sports 3 Greece, TV3 Max Denmark, Diema Sport 3 Bulgaria, V Sport Premium, Sport 4 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/150.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/31.png
+--------------------------------------------------
+🏟️ Match: Bologna Vs Juventus
+🆔 Match ID: 2591642
+🕒 Start: 2025-12-14 22:45 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, TNT Sports 1, Discovery+ Premium, SuperSport Variety 2, TNT Sports 1 UK, DAZN Zona IT, FOX Deportes, CBS Sports Network USA, Sport TV2 Portugal, Eleven Sports 2 Poland, Ziggo Sport 2 NL, Match! Football 1 Russia, Digi Sport 3 Romania, ESPN Mexico, Astro Football, Arena Sport 1 Serbia, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, MAX Sport 3 Bulgaria, Prima Sport 3 Romania, ESPN Brazil, SuperSport Football, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/183.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/17.png
+--------------------------------------------------
+🏟️ Match: Marseille Vs Monaco
+🆔 Match ID: 2602931
+🕒 Start: 2025-12-14 22:45 (GMT+3)
+📍 Tournament: Ligue 1
+📺 Channels: Amazon Prime Video, Ligue 1+, DAZN 1 France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 3 CZ, Sport TV3 Portugal, Eleven Sports 3 Poland, Sky Sport Calcio IT, V Sport Football, Diema Sport 2 Bulgaria (CH-466) TV3 Sport Denmark, Canal+ Sport 2 Afrique, SuperSport MaXimo 1, SuperSport Variety 3, beIN Sports MENA 2, 5Stars Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/22.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/259.png
+--------------------------------------------------
+🏟️ Match: Alavés Vs Real Madrid
+🆔 Match ID: 2605267
+🕒 Start: 2025-12-14 23:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Premier Sports 1, DAZN LaLiga, DAZN LaLiga 2, LaLiga TV UK, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Nova Sport 4 CZ, DAZN Eleven 1 Portugal, Eleven Sports 1 Poland, beIN Sports 1 France, Ziggo Sport 1 NL, ESPN Deportes, beIN Sports Malaysia, Match! Football 2 Russia, Match TV Russia, Digi Sport 2 Romania, Prima Sport 2 Romania, Arena 2 Premium Serbia, Nova Sports 1 Greece, Arena Sport 3 Croatia, TV4 Fotball, TV2 Sport X Denmark, Canal+ Sport 3 Afrique, MAX Sport 4 Bulgaria, ESPN Argentina, SuperSport Laliga, beIN Sports MENA 1, beIN Sports MENA English 1
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1254.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26.png
+--------------------------------------------------
+🏟️ Match: Ceuta Vs Las Palmas
+🆔 Match ID: 2605925
+🕒 Start: 2025-12-14 23:00 (GMT+3)
+📍 Tournament: La Liga 2
+📺 Channels: Premier Player, LALIGA TV Hypermotion, DAZN Eleven 3 Portugal, beIN Sports MAX 8 France, Arena Sport 6 Serbia, Nova Sports Start Greece, TV4 Sportkanalen
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10389.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/687.png
 --------------------------------------------------
