@@ -16,6 +16,7 @@ Cymru League Cup
 Copa del Rey
 Copa do Brasil U20
 Copa Betano do Brasil
+Coupe de France
 DFB-Pokal
 EFL League One  
 EFL League Two  
@@ -56,6 +57,7 @@ SWPL
 Thai FA Cup  
 Thai League 1  
 Thai League Cup
+Trofeo de Campeones
 UAE League Cup
 UAE Pro League
 UAE President's Cup
