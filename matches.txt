@@ -2,7 +2,7 @@
 🆔 Match ID: 2574606
 🕒 Start: 2025-12-24 15:30 (GMT+3)
 📍 Tournament: Africa Cup of Nations
-📺 Channels: 4seven, All 4
+📺 Channels: 4seven UK, beIN SPORTS USA, beIN SPORTS en Español, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, Sport TV1 Portugal, beIN Sports 2 France, Ziggo Sport 1 NL, Arena 1 Premium Serbia, beIN Sports Malaysia, MAX Sport 4 Bulgaria, beIN SPORTS MAX AR, SuperSport PSL, Supersport Grandstand, Sportklub 1 Croatia, 5Plus Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1018.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1011.png
 --------------------------------------------------
@@ -10,7 +10,7 @@
 🆔 Match ID: 2574605
 🕒 Start: 2025-12-24 18:00 (GMT+3)
 📍 Tournament: Africa Cup of Nations
-📺 Channels: 4seven, All 4, Not specified
+📺 Channels: 4seven, All 4, 4seven UK, beIN SPORTS USA, beIN SPORTS en Español, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, Movistar Plus+, Sport TV1 Portugal, beIN Sports 1 France, Ziggo Sport 1 NL, Arena 1 Premium Serbia, MAX Sport 4 Bulgaria, beIN Sports Malaysia, BandSports Brazil, beIN SPORTS MAX AR, SuperSport PSL, Supersport Grandstand, Sportklub 1 Croatia, 5Plus Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/59.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1017.png
 --------------------------------------------------
@@ -18,7 +18,7 @@
 🆔 Match ID: 2574608
 🕒 Start: 2025-12-24 20:30 (GMT+3)
 📍 Tournament: Africa Cup of Nations
-📺 Channels: Not specified
+📺 Channels: 4seven UK, beIN SPORTS USA, beIN SPORTS en Español, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, M+ Vamos Spain, Sport TV1 Portugal, BandSports Brazil, beIN Sports 1 France, beIN Sports Malaysia, Ziggo Sport 1 NL, Arena 1 Premium Serbia, beIN SPORTS MAX AR, MAX Sport 4 Bulgaria, SuperSport PSL, Supersport Grandstand, Sportklub 1 Croatia, 5 Live Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/41.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/595.png
 --------------------------------------------------
@@ -26,7 +26,7 @@
 🆔 Match ID: 2574607
 🕒 Start: 2025-12-24 23:00 (GMT+3)
 📍 Tournament: Africa Cup of Nations
-📺 Channels: 4seven, All 4
+📺 Channels: 4seven, All 4, 4seven UK, beIN SPORTS USA, beIN SPORTS en Español, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, Sport TV1 Portugal, BandSports Brazil, beIN Sports 1 France, Ziggo Sport 1 NL, beIN Sports Malaysia, Arena 1 Premium Serbia, beIN SPORTS MAX AR, MAX Sport 4 Bulgaria, SuperSport PSL, Supersport Grandstand, Sportklub 1 Croatia, 5Plus Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/87.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1016.png
 --------------------------------------------------
