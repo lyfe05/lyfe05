@@ -1,24 +1,80 @@
-🏟️ Match: Qadsiah Vs Damac
-🆔 Match ID: 2633035
-🕒 Start: 2025-12-27 16:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5546.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/14863.png
+🏟️ Match: Milan Vs Hellas Verona
+🆔 Match ID: 2591665
+🕒 Start: 2025-12-28 14:30 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, DAZN Zona 1 IT, DAZN1 DE, Sport TV2 Portugal, Eleven Sports 1 Poland, FOX Deportes, Match! Football 1 Russia, Prima Sport 1 Romania, Digi Sport 1 Romania, Ziggo Sport 2 NL, Astro Football, Arena 1 Premium Serbia, ESPN Mexico, Cosmote Sport 1 Greece, TV2 Sport X Denmark, Arena Sport 1 Croatia, TV4 Fotball, MAX Sport 3 Bulgaria, ESPN Argentina, SuperSport Football
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/409.png
 --------------------------------------------------
-🏟️ Match: Al-Nassr Vs Al-Okhdood
-🆔 Match ID: 2633036
-🕒 Start: 2025-12-27 17:50 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Bahrain Sport 1, beIN Sports HD Qatar, Thmanyah, Fox Sports 2 USA, Sport TV3 Portugal, Polsat Sport 2 Poland, Prima Sport 2 Romania, Movistar Plus+, BandSports Brazil, Sportklub 1 Croatia, Cosmote Sport 5 Greece, MAX Sport 2 Bulgaria, DAZN2 DE, #Vamos ES, Sportv2 Brazil, Cosmote Sport 3 Greece, Sport Klub 3 Croatia, KTV Sport Kuwait, Al Iraqiya Sports, Abu Dhabi Sports 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2329.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/25673.png
+🏟️ Match: Gabon Vs Mozambique
+🆔 Match ID: 2574620
+🕒 Start: 2025-12-28 15:30 (GMT+3)
+📍 Tournament: Africa Cup of Nations
+📺 Channels: 4seven, All 4, 4seven UK, beIN SPORTS USA, beIN SPORTS en Español, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, Sport TV7 Portugal, beIN Sports 2 France, Ziggo Sport 1 NL, beIN Sports Malaysia, MAX Sport 4 Bulgaria, SuperSport PSL, Sportklub 1 Croatia, beIN SPORTS MAX AR, 5Plus Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1016.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/595.png
 --------------------------------------------------
-🏟️ Match: Al-Ittihad Vs Al-Shabab
-🆔 Match ID: 2633031
-🕒 Start: 2025-12-27 20:30 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Bahrain Sport 1, beIN Sports HD Qatar, Thmanyah, Fox Sports 2 USA, Sport TV3 Portugal, Polsat Sport 2 Poland, Prima Sport 2 Romania, Movistar Plus+, BandSports Brazil, Sportklub 1 Croatia, Cosmote Sport 5 Greece, MAX Sport 2 Bulgaria, DAZN2 DE, #Vamos ES, Sportv2 Brazil, Cosmote Sport 3 Greece, Sport Klub 3 Croatia, KTV Sport Kuwait, Al Iraqiya Sports, Abu Dhabi Sports 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2335.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2336.png
+🏟️ Match: Sunderland Vs Leeds United
+🆔 Match ID: 2595740
+🕒 Start: 2025-12-28 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR, Hub Premier, USA Network, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 8 NZ, DAZN1 Spain, beIN Sports 3 Turkey, Sky Sport Premier League DE, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Canal+ Foot France, Sky Sport Calcio IT, Astro Premier League 2, Arena 3 Premium Serbia, Nova Sports Premier League Greece, Canal+ Extra 1 Poland, Canal+ Sport 3 Afrique, Arena Sport 1 Croatia, V Sport Premium, See Denmark, Diema Sport 2 Bulgaria, ESPN Argentina, SuperSport MaXimo 1, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/208.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/571.png
+--------------------------------------------------
+🏟️ Match: Cremonese Vs Napoli
+🆔 Match ID: 2591663
+🕒 Start: 2025-12-28 17:00 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, DAZN Zona 1 IT, DAZN1 DE, Sport TV3 Portugal, Polsat Sport 2 Poland, Eleven Sports 1 Poland, Astro Football, Match! Football 1 Russia, ESPN Mexico, Digi Sport 1 Romania, Prima Sport 1 Romania, Ziggo Sport 2 NL, TV4 Fotball, Arena 1 Premium Serbia, Cosmote Sport 1 Greece, Arena Sport 2 Croatia, Arena Sport 4 Croatia, TV2 Sport X Denmark, MAX Sport 3 Bulgaria, ESPN Brazil, ESPN2 Argentina, SuperSport Football, SuperSport Variety 3, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/386.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/191.png
+--------------------------------------------------
+🏟️ Match: Equatorial Guinea Vs Sudan
+🆔 Match ID: 2574619
+🕒 Start: 2025-12-28 18:00 (GMT+3)
+📍 Tournament: Africa Cup of Nations
+📺 Channels: 4seven, All 4, 4seven UK, beIN SPORTS USA, beIN SPORTS en Español, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, Sport TV7 Portugal, Ziggo Sport 1 NL, beIN Sports 1 France, beIN Sports Malaysia, Arena 2 Premium Serbia, Sportklub 1 Croatia, MAX Sport 4 Bulgaria, SuperSport PSL, beIN SPORTS MAX AR, 5Sport Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1011.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1017.png
+--------------------------------------------------
+🏟️ Match: Crystal Palace Vs Tottenham Hotspur
+🆔 Match ID: 2595736
+🕒 Start: 2025-12-28 19:30 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Sky Sports Premier League, Sky Sports Main Event, Sky Sports Ultra HDR, Hub Premier, USA Network, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 8 NZ, beIN Sports 3 Turkey, DAZN1 Spain, Sky Sport Premier League DE, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Canal+ Foot France, Sky Sport Max IT, Telemundo, Astro Premier League, Astro Grandstand, See Denmark, Canal+ Extra 1 Poland, Canal+ Sport 3 Afrique, Arena 1 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, V Sport Premium, Diema Sport 2 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport MaXimo 1, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/567.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
+--------------------------------------------------
+🏟️ Match: Bologna Vs Sassuolo
+🆔 Match ID: 2591662
+🕒 Start: 2025-12-28 20:00 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, Sky Sport 251 IT, Sky Sport Calcio IT, Sky Sport Uno IT, DAZN1 DE, Sport TV3 Portugal, Eleven Sports 1 Poland, Eleven Sports 4 Poland, Digi Sport 2 Romania, Prima Sport 1 Romania, Astro Football, Ziggo Sport 2 NL, Match TV Russia, Match! Football 1 Russia, ESPN Mexico, Arena 2 Premium Serbia, Cosmote Sport 1 Greece, Arena Sport 3 Croatia, Arena Sport 4 Croatia, MAX Sport 3 Bulgaria, TV4 Fotball, SuperSport Football, SuperSport Variety 3, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/183.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/724.png
+--------------------------------------------------
+🏟️ Match: Algeria Vs Burkina Faso
+🆔 Match ID: 2574617
+🕒 Start: 2025-12-28 20:30 (GMT+3)
+📍 Tournament: Africa Cup of Nations
+📺 Channels: 4seven, All 4, 4seven UK, beIN SPORTS USA, beIN SPORTS en Español, Sportdigital FUSSBALL DE, Movistar Liga de Campeones, Sport TV7 Portugal, #Vamos ES, beIN Sports 1 France, Ziggo Sport 1 NL, beIN Sports Malaysia, BandSports Brazil, Arena Sport 1 Serbia, MAX Sport 4 Bulgaria, SuperSport PSL, beIN SPORTS MAX AR, Supersport Grandstand, 5Sport Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/59.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1018.png
+--------------------------------------------------
+🏟️ Match: Atalanta Vs Inter
+🆔 Match ID: 2591661
+🕒 Start: 2025-12-28 22:45 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, TNT Sports 1, Discovery+ Premium, TNT Sports 1 UK, DAZN Zona 1 IT, Sport TV3 Portugal, Eleven Sports 1 Poland, Digi Sport 1 Romania, Prima Sport 1 Romania, Match TV Russia, Match! Football 1 Russia, Ziggo Sport 2 NL, ESPN Mexico, Astro Football, Arena 2 Premium Serbia, Cosmote Sport 1 Greece, Arena Sport 1 Croatia, MAX Sport 3 Bulgaria, ESPN Argentina, TV12 Sweden, SuperSport Football, SuperSport Variety 3, SuperSport MáXimo 1, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/248.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16.png
+--------------------------------------------------
+🏟️ Match: Côte d'Ivoire Vs Cameroon
+🆔 Match ID: 2574618
+🕒 Start: 2025-12-28 23:00 (GMT+3)
+📍 Tournament: Africa Cup of Nations
+📺 Channels: 4seven UK, beIN SPORTS USA, beIN SPORTS en Español, Movistar Liga de Campeones, Sportdigital FUSSBALL DE, Sport TV7 Portugal, Ziggo Sport 1 NL, beIN Sports Malaysia, beIN Sports 1 France, Arena 3 Premium Serbia, BandSports Brazil, MAX Sport 4 Bulgaria, Sportklub 2 Croatia, SuperSport PSL, beIN SPORTS MAX AR, 5Plus Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/41.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/87.png
 --------------------------------------------------
