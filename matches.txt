@@ -14,6 +14,14 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/190.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/193.png
 --------------------------------------------------
+🏟️ Match: Derby County Vs Leeds United
+🆔 Match ID: 2649913
+🕒 Start: 2026-01-11 15:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: TNT Sports 2 UK, Sportsnet East, Sportsnet World, Sportsnet Ontario, Sportsnet West, DAZN1 DE, beIN Sports MAX 4 France, Nova Sport 2 CZ, Arena 2 Premium Serbia, Astro Grandstand, Cosmote Sport 3 Greece, Arena Sport 2 Croatia, V Sport Football, TV3 MAX Denmark, ESPN Brazil, SuperSport MaXimo 1, Nova Sport Bulgaria, beIN Sports MENA 2, beIN Sports MENA English 2, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/568.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/571.png
+--------------------------------------------------
 🏟️ Match: Rayo Vallecano Vs Mallorca
 🆔 Match ID: 2605304
 🕒 Start: 2026-01-11 16:00 (GMT+3)
@@ -38,6 +46,14 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2016.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/341.png
 --------------------------------------------------
+🏟️ Match: Portsmouth Vs Arsenal
+🆔 Match ID: 2649929
+🕒 Start: 2026-01-11 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium, TNT Sports 1 UK, ESPN2 USA, Sportsnet One, Sportsnet World, Sport TV3 Portugal, Astro Football, beIN Sports 1 France, Nova Sport 6 CZ, Arena 1 Premium Serbia, Cosmote Sport 5 Greece, Nova Sports Premier League Greece, Diema Sport 2 Bulgaria, Arena Sport 1 Croatia, ESPN Brazil, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/277.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
+--------------------------------------------------
 🏟️ Match: Fiorentina Vs Milan
 🆔 Match ID: 2591692
 🕒 Start: 2026-01-11 17:00 (GMT+3)
@@ -45,6 +61,46 @@
 📺 Channels: DAZN, DAZN Zona IT, CBS Sports Golazo USA, Sport TV2 Portugal, Eleven Sports 1 Poland, Ziggo Sport 1 NL, ESPN Mexico, Match! Football 1 Russia, Digi Sport 1 Romania, Prima Sport 1 Romania, FOX Deportes, Arena 3 Premium Serbia, Arena Sport 4 Croatia, Cosmote Sport 2 Greece, TV2 Sport Denmark, TV4 Fotball, MAX Sport 3 Bulgaria, ESPN Argentina, SuperSport Football
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/15.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/23.png
+--------------------------------------------------
+🏟️ Match: Swansea City Vs West Bromwich Albion
+🆔 Match ID: 2649914
+🕒 Start: 2026-01-11 17:30 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 6 UK, Sport TV5 Portugal, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/196.png
+--------------------------------------------------
+🏟️ Match: Norwich City Vs Walsall
+🆔 Match ID: 2649918
+🕒 Start: 2026-01-11 17:30 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 9 UK
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/575.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/663.png
+--------------------------------------------------
+🏟️ Match: West Ham United Vs Queens Park Rangers
+🆔 Match ID: 2649924
+🕒 Start: 2026-01-11 17:30 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 5 UK, Arena 2 Premium Serbia, V Sport Premium, beIN Sports MENA 2, Nova Sport Bulgaria, ESPN4 Brazil, beIN Sports MENA 5, beIN Sports MENA English 2, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/198.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/582.png
+--------------------------------------------------
+🏟️ Match: Sheffield United Vs Mansfield Town
+🆔 Match ID: 2649932
+🕒 Start: 2026-01-11 17:30 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 8 UK
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/583.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/629.png
+--------------------------------------------------
+🏟️ Match: Hull City Vs Blackburn Rovers
+🆔 Match ID: 2649937
+🕒 Start: 2026-01-11 17:30 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 7 UK, Arena Sport 4 Serbia, Arena Sport 2 Croatia, SuperSport Action
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/276.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/210.png
 --------------------------------------------------
 🏟️ Match: Borussia Mönchengladbach Vs Augsburg
 🆔 Match ID: 2603540
@@ -69,6 +125,14 @@
 📺 Channels: ESPN 1 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2019.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1176.png
+--------------------------------------------------
+🏟️ Match: Manchester United Vs Brighton & Hove Albion
+🆔 Match ID: 2649936
+🕒 Start: 2026-01-11 19:30 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: TNT Sports 1, TNT Sports 2, TNT Sports Ultimate, Discovery+ Premium, TNT Sports 1 UK, TNT Sports 2 UK, Sportsnet One, Sportsnet World, Sport TV2 Portugal, Astro Football, TVP Sport Poland, beIN Sports MAX 8 France, Nova Sport 2 CZ, Arena 1 Premium Serbia, Arena Sport 1 Croatia, Astro Grandstand, Diema Sport 2 Bulgaria, Cosmote Sport 3 Greece, TV3+ HD Denmark, ESPN Argentina, SuperSport MaXimo 1, Sportklub 1 Croatia, SuperSport Premier League, SuperSport Variety 3, beIN Sports MENA 1, beIN Sports MENA English 1
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/21.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/670.png
 --------------------------------------------------
 🏟️ Match: Bayern Munich Vs VfL Wolfsburg
 🆔 Match ID: 2603535
