@@ -1,96 +1,104 @@
-🏟️ Match: NEOM Vs Al-Fateh
-🆔 Match ID: 2633061
-🕒 Start: 2026-01-10 17:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: Thmanyah
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26702.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2331.png
+🏟️ Match: Heerenveen Vs Feyenoord
+🆔 Match ID: 2595016
+🕒 Start: 2026-01-11 14:15 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: ESPN 2 NL, Sportdigital FUSSBALL DE, GOL PLAY ES, DAZN Eleven 1 Portugal, Polsat Sport Premium 1 Poland, ESPN2 Mexico, Prima Sport 4 Romania, Nova Sports Prime Greece, Sportklub 3 Croatia, Ring bg, Sport 4 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/555.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/736.png
 --------------------------------------------------
-🏟️ Match: Al Waab FC Vs Lusail City
-🆔 Match ID: 2655940
-🕒 Start: 2026-01-10 17:30 (GMT+3)
-📍 Tournament: Emir of Qatar Cup
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25497.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/25495.png
+🏟️ Match: Lecce Vs Parma
+🆔 Match ID: 2591696
+🕒 Start: 2026-01-11 14:30 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN Zona IT, CBS Sports Network, CBS Sports Golazo USA, DAZN2 DE, Sport TV3 Portugal, Astro Football, Eleven Sports 1 Poland, Ziggo Sport 1 NL, Match! Football 1 Russia, Digi Sport 1 Romania, Prima Sport 1 Romania, ESPN Mexico, Arena 1 Premium Serbia, Arena Sport 1 Croatia, Cosmote Sport 1 Greece, MAX Sport 3 Bulgaria, TV4 Fotball, SuperSport Football
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/190.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/193.png
 --------------------------------------------------
-🏟️ Match: Al Kharaitiyat SC Vs Al Bidda
-🆔 Match ID: 2655941
-🕒 Start: 2026-01-10 17:30 (GMT+3)
-📍 Tournament: Emir of Qatar Cup
-📺 Channels: TrillerTV+, Al Iraqiya Sports, Thmanyah, Abu Dhabi Sports 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4470.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/25493.png
+🏟️ Match: Rayo Vallecano Vs Mallorca
+🆔 Match ID: 2605304
+🕒 Start: 2026-01-11 16:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: LaLigaTV, M+ LALIGA TV, LaLiga TV UK, DAZN Eleven 2 Portugal, Canal+ Sport Poland, Nova Sport 4 CZ, Nova Sport 4 SK, ESPN Deportes, beIN Sports MAX 6 France, Ziggo Sport 2 NL, Prima Sport 2 Romania, beIN Sports Malaysia, Digi Sport 3 Romania, Match! Football 2 Russia, Arena Sport 2 Serbia, Nova Sports 1 Greece, MAX Sport 4 Bulgaria, ESPN2 Argentina, SuperSport Laliga, beIN Sports MENA 3
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/690.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/220.png
 --------------------------------------------------
-🏟️ Match: Markhiya Vs Al Mesaimeer
-🆔 Match ID: 2655942
-🕒 Start: 2026-01-10 17:30 (GMT+3)
-📍 Tournament: Emir of Qatar Cup
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/8407.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/25491.png
+🏟️ Match: Go Ahead Eagles Vs Fortuna Sittard
+🆔 Match ID: 2595013
+🕒 Start: 2026-01-11 16:30 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: ESPN 1 NL, Sportsnet World
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1889.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2020.png
 --------------------------------------------------
-🏟️ Match: Al-Sailiya Vs Muaither
-🆔 Match ID: 2655943
-🕒 Start: 2026-01-10 17:30 (GMT+3)
-📍 Tournament: Emir of Qatar Cup
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4454.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7345.png
+🏟️ Match: Telstar Vs Ajax
+🆔 Match ID: 2595018
+🕒 Start: 2026-01-11 16:30 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: TrillerTV+, ESPN 3 NL, GOL PLAY ES, Sportdigital FUSSBALL DE, DAZN Eleven 1 Portugal, Polsat Sport Premium 1 Poland, ESPN 2 NL, Ring bg, ESPN2 Mexico, Nova Sports Start Greece, Sportklub 3 Croatia, ESPN3 Brazil, ESPN3 Argentina, Sport 4 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2016.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/341.png
 --------------------------------------------------
-🏟️ Match: Al-Riyadh Vs Al-Fayha
-🆔 Match ID: 2633059
-🕒 Start: 2026-01-10 18:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Al Iraqiya Sports, Thmanyah, Abu Dhabi Sports 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/29027.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7900.png
+🏟️ Match: Fiorentina Vs Milan
+🆔 Match ID: 2591692
+🕒 Start: 2026-01-11 17:00 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, DAZN Zona IT, CBS Sports Golazo USA, Sport TV2 Portugal, Eleven Sports 1 Poland, Ziggo Sport 1 NL, ESPN Mexico, Match! Football 1 Russia, Digi Sport 1 Romania, Prima Sport 1 Romania, FOX Deportes, Arena 3 Premium Serbia, Arena Sport 4 Croatia, Cosmote Sport 2 Greece, TV2 Sport Denmark, TV4 Fotball, MAX Sport 3 Bulgaria, ESPN Argentina, SuperSport Football
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/15.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/23.png
 --------------------------------------------------
-🏟️ Match: Annan Athletic Vs Elgin City
-🆔 Match ID: 2597221
-🕒 Start: 2026-01-10 18:00 (GMT+3)
-📍 Tournament: Scottish League Two
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1999.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1604.png
+🏟️ Match: Borussia Mönchengladbach Vs Augsburg
+🆔 Match ID: 2603540
+🕒 Start: 2026-01-11 17:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Amazon Prime Video, DAZN2 DE, Sky Sport Mix UK, DAZN Eleven 3 Portugal, Eleven Sports 2 Poland, beIN Sports MAX 5 France, beIN Sports 3 Malaysia, Digi Sport 4 Romania, Prima Sport 4 Romania, Nova Sport 5 CZ, Nova Sport 5 SK, Sportklub 1 Croatia, Diema Sport 3 Bulgaria, Arena Sport 1 Serbia, Nova Sports 2 Greece, TV3 MAX Denmark, Sport 3 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/154.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/171.png
 --------------------------------------------------
-🏟️ Match: Dumbarton Vs Clyde
-🆔 Match ID: 2597222
-🕒 Start: 2026-01-10 18:00 (GMT+3)
-📍 Tournament: Scottish League Two
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1601.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2005.png
+🏟️ Match: Levante Vs Espanyol
+🆔 Match ID: 2605306
+🕒 Start: 2026-01-11 18:15 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: LaLigaTV, DAZN LaLiga, LaLiga TV UK, DAZN Eleven 2 Portugal, Canal+ Sport Poland, beIN Sports MAX 10 France, ESPN Deportes, Nova Sport 4 CZ, Match! Football 2 Russia, Ziggo Sport 1 NL, Ziggo Sport 3 NL, Digi Sport 3 Romania, Nova Sports 1 Greece, TV4 Sportkanalen, beIN Sports Malaysia, Prima Sport 3 Romania, Arena Sport 2 Serbia, Arena Sport 3 Croatia, MAX Sport 4 Bulgaria, ESPN2 Brazil, ESPN2 Argentina, SuperSport Laliga, beIN Sports MENA 3
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/218.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/215.png
 --------------------------------------------------
-🏟️ Match: East Kilbride Vs Spartans
-🆔 Match ID: 2597223
-🕒 Start: 2026-01-10 18:00 (GMT+3)
-📍 Tournament: Scottish League Two
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3692.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2081.png
+🏟️ Match: Sparta Rotterdam Vs Heracles
+🆔 Match ID: 2595017
+🕒 Start: 2026-01-11 18:45 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: ESPN 1 NL
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2019.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1176.png
 --------------------------------------------------
-🏟️ Match: Edinburgh City Vs Stirling Albion
-🆔 Match ID: 2597224
-🕒 Start: 2026-01-10 18:00 (GMT+3)
-📍 Tournament: Scottish League Two
-📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 6 UK, Sport TV5 Portugal, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2097.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2003.png
+🏟️ Match: Bayern Munich Vs VfL Wolfsburg
+🆔 Match ID: 2603535
+🕒 Start: 2026-01-11 19:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Amazon Prime Video, DAZN1 DE, DAZN Eleven 1 Portugal, Eleven Sports 1 Poland, Nova Sport 3 SK, Nova Sport 3 CZ, beIN Sports MAX 9 France, beIN Sports 3 Malaysia, Digi Sport 1 Romania, Prima Sport 1 Romania, Arena 3 Premium Serbia, Canal+ Sport 1 Afrique, Sky Sport Max IT, Diema Sport 3 Bulgaria, SporTV BR, Nova Sports 3 Greece, TV3 MAX Denmark, Sportklub 1 Croatia, V Sport Fotball, Sport 3 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/32.png
 --------------------------------------------------
-🏟️ Match: Forfar Athletic Vs Stranraer
-🆔 Match ID: 2597225
-🕒 Start: 2026-01-10 18:00 (GMT+3)
-📍 Tournament: Scottish League Two
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1607.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1608.png
+🏟️ Match: Hellas Verona Vs Lazio
+🆔 Match ID: 2591691
+🕒 Start: 2026-01-11 20:00 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, Sky Sport 251 IT, Sky Sport Calcio IT, CBS Sports Golazo USA, Sport TV3 Portugal, Eleven Sports 2 Poland, Ziggo Sport 2 NL, Match! Football 1 Russia, Prima Sport 2 Romania, ESPN2 Mexico, Digi Sport 4 Romania, FOX Deportes, Arena 2 Premium Serbia, TV2 Sport X Denmark, Arena Sport 4 Croatia, Cosmote Sport 2 Greece, MAX Sport 3 Bulgaria, SuperSport Football, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/409.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/139.png
 --------------------------------------------------
-🏟️ Match: Al-Okhdood Vs Al-Ahli
-🆔 Match ID: 2633057
-🕒 Start: 2026-01-10 20:30 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Al Iraqiya Sports, Thmanyah, Abu Dhabi Sports 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25673.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2339.png
+🏟️ Match: Barcelona Vs Real Madrid
+🆔 Match ID: 2659868
+🕒 Start: 2026-01-11 22:00 (GMT+3)
+📍 Tournament: Supercopa de España
+📺 Channels: TNT Sports 1, TNT Sports 4, Discovery+ Premium, TNT Sports 4 UK, TNT Sports 1 UK, M+ LALIGA TV, ABC USA, ABC NY USA, Movistar Plus+, Canal+ Sport 3 Afrique, Arena Sport 1 Croatia, ESPN Brasil, Sportdigital FUSSBALL DE, Sport TV2 Portugal, Eleven Sports 1 Poland, L'Equipe France, Ziggo Sport 1 NL, ESPN Deportes, Match TV Russia, Match! Football 2 Russia, Digi Sport 1 Romania, Arena 1 Premium Serbia, Sport 3 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26.png
+--------------------------------------------------
+🏟️ Match: Inter Vs Napoli
+🆔 Match ID: 2591694
+🕒 Start: 2026-01-11 22:45 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: TNT Sports 2, DAZN, Discovery+ Premium, TNT Sports 2 UK, DAZN Zona IT, DAZN1 DE, Sport TV3 Portugal, Eleven Sports 2 Poland, Astro Football, FOX Deportes, Ziggo Sport 2 NL, ESPN2 Mexico, Match! Football 1 Russia, Digi Sport 2 Romania, Prima Sport 1 Romania, Arena 2 Premium Serbia, Arena Sport 4 Croatia, Cosmote Sport 2 Greece, TV2 Sport X Denmark, ESPN4 Brazil, MAX Sport 3 Bulgaria, ESPN Argentina, SuperSport Football, SuperSport Grandstand
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/16.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/191.png
 --------------------------------------------------
