@@ -24,7 +24,8 @@ EFL Trophy
 EFL Trophy
 Egyptian Premier League
 FIFA U17 World Cup
-FIFA U20 World Cup  
+FIFA U20 World Cup
+Iraq Stars League
 J1 League  
 J2 League  
 J.League Cup  
@@ -40,6 +41,7 @@ National League
 National League North / South  
 NIFL Premiership  
 NWSL  
+OFC Pro League
 Premier Division  
 Pro League  
 Qatar Stars League
@@ -49,7 +51,8 @@ Scottish Challenge Cup
 Scottish Championship  
 Scottish Cup  
 Scottish League Cup  
-Scottish League one  
+Scottish League one
+Scottish League two
 Scottish Premiership  
 Serie BKT  
 SWPL  
