@@ -1,11 +1,3 @@
-🏟️ Match: Zawra'a Vs Erbil
-🆔 Match ID: 2661252
-🕒 Start: 2026-01-17 15:00 (GMT+3)
-📍 Tournament: Iraq Stars League
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/12468.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19514.png
---------------------------------------------------
 🏟️ Match: Manchester United Vs Manchester City
 🆔 Match ID: 2595776
 🕒 Start: 2026-01-17 15:30 (GMT+3)
@@ -102,22 +94,6 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/157.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/154.png
 --------------------------------------------------
-🏟️ Match: Al Quwa Vs AL Shorta (IRQ)
-🆔 Match ID: 2661251
-🕒 Start: 2026-01-17 17:30 (GMT+3)
-📍 Tournament: Iraq Stars League
-📺 Channels: TrillerTV+, Saudi Pro League YouTube, Abu Dhabi Sports 1, Alkass One, beIN Sports HD Qatar, Thmanyah, Fox Soccer Plus, #Vamos ES, Movistar Liga de Campeones 2, Sport TV4 Portugal, Polsat Sport Premium 1 Poland, Sportklub 3 Croatia, Prima Sport 3 Romania, Cosmote Sport 7 Greece
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/12427.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/17006.png
---------------------------------------------------
-🏟️ Match: Duhok Vs Diyala
-🆔 Match ID: 2661253
-🕒 Start: 2026-01-17 17:30 (GMT+3)
-📍 Tournament: Iraq Stars League
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23330.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/55908.png
---------------------------------------------------
 🏟️ Match: Chelsea Vs Brentford
 🆔 Match ID: 2595773
 🕒 Start: 2026-01-17 18:00 (GMT+3)
@@ -213,22 +189,6 @@
 📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/617.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/575.png
---------------------------------------------------
-🏟️ Match: Elgin City Vs Edinburgh City
-🆔 Match ID: 2597228
-🕒 Start: 2026-01-17 18:00 (GMT+3)
-📍 Tournament: Scottish League Two
-📺 Channels: Sky Sports Football, Sky Sports+, Sky Sports Main Event, Sky Sports Ultra HDR, CBS Sports Network, Sky Sports Football UK, Sport TV4 Portugal, Nova Sport 6 CZ, beIN Sports MAX 8 France, ESPN2 Mexico, Cosmote Sport 1 Greece, TV3 MAX Denmark, V Sport Football, SuperSport Variety 3, Diema Sport Bulgaria, beIN Sports MENA 5, Sport 2 Israel, Sky Sports Main Event UK, Nova Sport 5 SK, Nova Sport 5 CZ, beIN Sports MAX 10 France, Nova Sport Bulgaria, beIN Sports MENA Xtra 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1604.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2097.png
---------------------------------------------------
-🏟️ Match: Stirling Albion Vs East Kilbride
-🆔 Match ID: 2597229
-🕒 Start: 2026-01-17 18:00 (GMT+3)
-📍 Tournament: Scottish League Two
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2003.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3692.png
 --------------------------------------------------
 🏟️ Match: Al Kholood Vs Al-Ahli
 🆔 Match ID: 2633081
@@ -381,20 +341,4 @@
 📺 Channels: Amazon Prime Video, Ligue 1+, DAZN 1 France, beIN SPORTS USA, beIN SPORTS en Español, Sport TV3 Portugal, Eleven Sports 3 Poland, Nova Sport 3 SK, beIN Sports 4 Turkey, Nova Sport 3 CZ, Arena Sport 3 Croatia, V Sport Premium, Diema Sport 3 Bulgaria, SuperSport Variety 4, beIN Sports MENA 2, 5Star Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/696.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/22.png
---------------------------------------------------
-🏟️ Match: Tahiti United Vs South Melbourne FC
-🆔 Match ID: 2659599
-🕒 Start: 2026-01-18 03:00 (GMT+3)
-📍 Tournament: OFC Pro League
-📺 Channels: TNT Sports 1, Discovery+ Premium, TNT Sports 1 UK, Sky Sport 3 NZ, Sky Sport 5 NZ, Sportdigital FUSSBALL DE
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/59888.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6375.png
---------------------------------------------------
-🏟️ Match: PNG Hekari Vs Solomon Kings
-🆔 Match ID: 2659600
-🕒 Start: 2026-01-18 07:00 (GMT+3)
-📍 Tournament: OFC Pro League
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/59886.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/59887.png
 --------------------------------------------------
