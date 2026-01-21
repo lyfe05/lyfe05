@@ -1,176 +1,136 @@
-🏟️ Match: Al-Shabab Vs Al-Najma
-🆔 Match ID: 2633087
-🕒 Start: 2026-01-20 18:05 (GMT+3)
+🏟️ Match: Qatar U17 Vs Rangers U17
+🆔 Match ID: 2662003
+🕒 Start: 2026-01-21 15:30 (GMT+3)
+📍 Tournament: Hybrid Friendlies
+📺 Channels: ChelseaFC.com, Chelsea Official App, Palace TV+, Canal 11 Portugal, MUTV UK, Sky Sports Mix UK, Sky Sport Select NZ, Sky Sports Cricket UK, Sky Sports Main Event, Willow 2 Cricket, Sky Sport 4 NZ, Astro Cricket, Sky Sports+ UK, Sky Sport 9 NZ, SuperSport Variety 1
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25489.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/54116.png
+--------------------------------------------------
+🏟️ Match: Al-Okhdood Vs Al-Riyadh
+🆔 Match ID: 2633085
+🕒 Start: 2026-01-21 18:30 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube, Al Iraqiya Sports, Abu Dhabi Sports 1, Thmanyah, Fox Sports 2 USA, TRT Spor Turkey, Movistar Liga de Campeones 3, Sport TV1 Portugal, FOX Deportes, Cosmote Sport 9 Greece, Sportklub 7 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2336.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26213.png
+📺 Channels: Thmanyah, Fox Sports 2 USA, TRT Spor Turkey, Movistar Liga de Campeones 3, Sport TV1 Portugal, FOX Deportes, Cosmote Sport 9 Greece, Sportklub 7 Croatia, Alkass Two
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25673.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/29027.png
 --------------------------------------------------
-🏟️ Match: Kairat Vs Club Brugge
-🆔 Match ID: 2636548
-🕒 Start: 2026-01-20 18:30 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: TNT Sports 1, Discovery+ Premium, TNT Sports 1 UK, Paramount+, Club RTL Belgium, Sky Sport Austria 2, Movistar Liga de Campeones, DAZN1 DE, DAZN Eleven 1 Portugal, Sky Sport Uno IT, Canal+ Extra 2 Poland, Canal+ Foot France, Digi Sport 1 Romania, Prima Sport 1 Romania, Nova Sport 4 CZ, Ziggo Sport 3 NL, beIN Sports 3 Malaysia, Arena 2 Premium Serbia, Cosmote Sport 1 Greece, Arena Sport 1 Croatia, TV3 Sport Denmark, MAX Sport 4 Bulgaria, Space Brazil, SuperSport MaXimo 1, Nova Sport 4 SK, Fox Sports Argentina, SuperSport Premier League, beIN Sports MENA 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2431.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/554.png
---------------------------------------------------
-🏟️ Match: Al-Fateh Vs Al Kholood
-🆔 Match ID: 2633088
-🕒 Start: 2026-01-20 20:30 (GMT+3)
+🏟️ Match: Damac Vs Al-Nassr
+🆔 Match ID: 2633084
+🕒 Start: 2026-01-21 20:30 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube, Al Iraqiya Sports, Abu Dhabi Sports 1, Thmanyah, Fox Sports 2 USA, TRT Spor Turkey, Movistar Liga de Campeones 3, Sport TV1 Portugal, FOX Deportes, Cosmote Sport 9 Greece, Sportklub 7 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2331.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26921.png
+📺 Channels: Saudi Pro League YouTube, Thmanyah, Fox Sports 2 USA, Sportdigital FUSSBALL DE, M+ #Vamos ES, Sport TV2 Portugal, Polsat Sport 3 Poland, Polsat Sport Premium 1 Poland, FOX Deportes, Cosmote Sport 9 Greece, MAX Sport 3 Bulgaria, Sportklub 2 Croatia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/14863.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2329.png
 --------------------------------------------------
-🏟️ Match: Al-Ahli Vs Al-Khaleej
-🆔 Match ID: 2633089
-🕒 Start: 2026-01-20 20:30 (GMT+3)
+🏟️ Match: Al-Ettifaq Vs NEOM
+🆔 Match ID: 2633086
+🕒 Start: 2026-01-21 20:30 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube, Al Iraqiya Sports, Abu Dhabi Sports 1, Thmanyah, Fox Sports 2 USA, TRT Spor Turkey, Movistar Liga de Campeones 3, Sport TV1 Portugal, FOX Deportes, Cosmote Sport 9 Greece, Sportklub 7 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2339.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2452.png
+📺 Channels: Thmanyah
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2327.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26702.png
 --------------------------------------------------
-🏟️ Match: Bodø/Glimt Vs Manchester City
-🆔 Match ID: 2636549
-🕒 Start: 2026-01-20 20:45 (GMT+3)
+🏟️ Match: Qarabağ Vs Eintracht Frankfurt
+🆔 Match ID: 2636558
+🕒 Start: 2026-01-21 20:45 (GMT+3)
 📍 Tournament: UEFA Champions League
-📺 Channels: TNT Sports 2, Discovery+ Premium, TNT Sports 2 UK, Paramount+, Sky Sport Austria 1, CBS Sports Network, Sky Sport Uno IT, TUDN USA, DAZN2 DE, Movistar Liga de Campeones 2, UniMás, DAZN Eleven 1 Portugal, Sky Sport 251 IT, Canal+ Extra 2 Poland, Canal+ Foot France, beIN Sports Malaysia, Ziggo Sport 2 NL, Nova Sport 3 CZ, Digi Sport 1 Romania, Arena 2 Premium Serbia, Prima Sport 1 Romania, Cosmote Sport 2 Greece, Arena Sport 2 Croatia, TV3 Sport Denmark, MAX Sport 3 Bulgaria, TNT Brasil, Nova Sport 3 SK, SuperSport MaXimo 1, Supersport Grandstand, SuperSport Premier League, TUDN MX, Fox Sports Argentina, beIN Sports MENA 2, beIN Sports MENA English 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2394.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/209.png
+📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 9 UK, DAZN1 DE, Sky Sport Austria 3, Movistar Liga de Campeones 3, DAZN Eleven 2 Portugal, Canal+ Extra 3 Poland, Canal+ Sport France, Nova Sport 4 SK, Nova Sport 4 CZ, Sky Sport 254 IT, SONY TEN 1 HD, TV3 Sport Denmark, Ziggo Sport 3 NL, Digi Sport 2 Romania, Prima Sport 2 Romania, beIN Sports 3 Malaysia, Arena 2 Premium Serbia, Cosmote Sport 3 Greece, Arena Sport 3 Croatia, Ring bg, Space Brazil, ESPN2 Argentina, SuperSport Variety 3, beIN SPORTS MENA 3, 5 Live Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/469.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/156.png
 --------------------------------------------------
-🏟️ Match: Salford City Vs Swindon Town
-🆔 Match ID: 2649934
-🕒 Start: 2026-01-20 22:45 (GMT+3)
-📍 Tournament: FA Cup
-📺 Channels: DAZN National League, ESPN Select, Sportsnet World, Nova Sport Bulgaria
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1559.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/664.png
+🏟️ Match: Galatasaray Vs Atlético de Madrid
+🆔 Match ID: 2636561
+🕒 Start: 2026-01-21 20:45 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 4 UK, CBS Sports Network, TRT 1 Turkey, Movistar Liga de Campeones, Movistar Plus+, Sky Sport Austria 4, DAZN Eleven 1 Portugal, Canal+ Extra 2 Poland, Canal+ Foot France, Nova Sport 5 SK, Nova Sport 5 CZ, Sky Sport 253 IT, Sky Sport Uno IT, SONY TEN 2 HD, SONY TEN 3 HD, beIN Sports Malaysia, Ziggo Sport 2 NL, TUDN USA, UniMás, Digi Sport 1 Romania, Prima Sport 1 Romania, Arena 1 Premium Serbia, Cosmote Sport 2 Greece, Fox Sports Argentina, Arena Sport 2 Croatia, V Sport Fotball, TV3 MAX Denmark, bTV Action Bulgaria, TNT Brasil, SuperSport MaXimo 1, SuperSport Premier League, beIN Sports MENA 2, 5Sport Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/228.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3.png
 --------------------------------------------------
-🏟️ Match: Coventry City Vs Millwall
-🆔 Match ID: 2601114
-🕒 Start: 2026-01-20 22:45 (GMT+3)
+🏟️ Match: AZ Vs Excelsior
+🆔 Match ID: 2594993
+🕒 Start: 2026-01-21 20:45 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: TrillerTV+, ESPN 1 NL, ESPN2 Mexico
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2025.png
+--------------------------------------------------
+🏟️ Match: Southampton Vs Sheffield United
+🆔 Match ID: 2601122
+🕒 Start: 2026-01-21 22:45 (GMT+3)
 📍 Tournament: EFL Championship
 📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/566.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/574.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/615.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/583.png
 --------------------------------------------------
-🏟️ Match: Ipswich Town Vs Bristol City
-🆔 Match ID: 2601115
-🕒 Start: 2026-01-20 22:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+, Paramount+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/570.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/564.png
---------------------------------------------------
-🏟️ Match: Oxford United Vs Queens Park Rangers
-🆔 Match ID: 2601116
-🕒 Start: 2026-01-20 22:45 (GMT+3)
+🏟️ Match: Watford Vs Portsmouth
+🆔 Match ID: 2601125
+🕒 Start: 2026-01-21 22:45 (GMT+3)
 📍 Tournament: EFL Championship
 📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/630.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/582.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/580.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/277.png
 --------------------------------------------------
-🏟️ Match: Preston North End Vs Hull City
-🆔 Match ID: 2601117
-🕒 Start: 2026-01-20 22:45 (GMT+3)
+🏟️ Match: Bayern Munich Vs Union Saint-Gilloise
+🆔 Match ID: 2636556
+🕒 Start: 2026-01-21 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 7 UK, Club RTL Belgium, DAZN1 DE, Sky Sport Austria 2, Movistar Liga de Campeones 7, DAZN Eleven 3 Portugal, Canal+ Extra 6 Poland, Sky Sport 255 IT, Canal+ Live 4 France, Digi Sport 3 Romania, Ziggo Sport 6 NL, Arena Sport 3 Serbia, Cosmote Sport 6 Greece, ESPN3 Argentina, SuperSport Variety 2, beIN Sports MENA 6, 5Plus Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3586.png
+--------------------------------------------------
+🏟️ Match: Slavia Prague Vs Barcelona
+🆔 Match ID: 2636557
+🕒 Start: 2026-01-21 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 6 UK, Nova Sport 3 CZ, Movistar Liga de Campeones, Sky Sport Austria 3, SONY TEN 1 HD, DAZN Eleven 2 Portugal, Canal+ Extra 1 Poland, Canal+ Foot France, Sky Sport 254 IT, Nova Sport 3 SK, Ziggo Sport 3 NL, beIN Sports 2 Malaysia, Digi Sport 1 Romania, Prima Sport 1 Romania, Arena Sport 1 Serbia, Cosmote Sport 5 Greece, TNT Brasil, ESPN2 Argentina, SuperSport Variety 3, beIN Sports MENA 2, 5Sport Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/141.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5.png
+--------------------------------------------------
+🏟️ Match: Atalanta Vs Athletic Bilbao
+🆔 Match ID: 2636559
+🕒 Start: 2026-01-21 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 8 UK, Sky Sport 252 IT, Movistar Liga de Campeones 2, Sky Sport Austria 7, Sky Sport Uno IT, Canal+ Extra 7 Poland, Canal+ Live 7 France, Arena Sport 2 Serbia, Cosmote Sport 8 Greece, SuperSport Variety 1, beIN Sports MENA 7
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/248.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/213.png
+--------------------------------------------------
+🏟️ Match: Chelsea Vs Pafos
+🆔 Match ID: 2636560
+🕒 Start: 2026-01-21 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports 3, Discovery+ Premium
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/54261.png
+--------------------------------------------------
+🏟️ Match: Juventus Vs Benfica
+🆔 Match ID: 2636562
+🕒 Start: 2026-01-21 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 5 UK, Sport TV5 Portugal, Sky Sport Austria 6, Movistar Liga de Campeones 6, Canal+ Extra 3 Poland, Canal+ Sport France, Cytavision Sports 2 Cyprus, Nova Sport 5 SK, Nova Sport 5 CZ, Arena 2 Premium Serbia, Cosmote Sport 3 Greece, Arena Sport 2 Croatia, Ring bg, Fox Sports 2 Argentina, SuperSport Football, beIN Sports MENA 5
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/147.png
+--------------------------------------------------
+🏟️ Match: Newcastle United Vs PSV
+🆔 Match ID: 2636563
+🕒 Start: 2026-01-21 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports 2, TNT Sports Ultimate, Discovery+ Premium, TNT Sports 2 UK, CBS Sports Network USA, Ziggo Sport 1 NL, Sky Sport Austria 4, Movistar Liga de Campeones 9, Canal+ Live 6 France, Sky Sport 257 IT, Digi Sport 4 Romania, Prima Sport 4 Romania, Canal+ Extra 5 Poland, Cosmote Sport 7 Greece, TV3 MAX Denmark, Arena Sport 3 Croatia, V Sport Fotball, SuperSport Action, beIN Sports MENA 4
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/207.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/137.png
+--------------------------------------------------
+🏟️ Match: Marseille Vs Liverpool FC
+🆔 Match ID: 2636564
+🕒 Start: 2026-01-21 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports 1, Discovery+ Premium, TNT Sports 1 UK, RTE 2 Ireland, Premier Sports 1 Ireland, SRF zwei, Movistar Liga de Campeones 5, DAZN Eleven 1 Portugal, Canal+ Extra 2 Poland, Canal+ France, TV8 IT, Sky Sport 253 IT, Canal+ Sport 2 Afrique, SONY TEN 2 HD, SONY TEN 3 HD, Ziggo Sport 2 NL, TUDN USA, UniMás, Nova Sport 6 CZ, Digi Sport 2 Romania, beIN Sports Malaysia, Prima Sport 2 Romania, Arena 1 Premium Serbia, Cosmote Sport 2 Greece, HRT 2 Croatia, Arena Sport 1 Croatia, TV3+ HD Denmark, V Sport Premium, bTV Action Bulgaria, Space Brazil, Fox Sports Argentina, SuperSport MaXimo 1, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/22.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18.png
+--------------------------------------------------
+🏟️ Match: Stoke City Vs Middlesbrough
+🆔 Match ID: 2601124
+🕒 Start: 2026-01-21 23:00 (GMT+3)
 📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/578.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/276.png
---------------------------------------------------
-🏟️ Match: Sheffield Wednesday Vs Birmingham City
-🆔 Match ID: 2601118
-🕒 Start: 2026-01-20 22:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/638.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/205.png
---------------------------------------------------
-🏟️ Match: Swansea City Vs Blackburn Rovers
-🆔 Match ID: 2601119
-🕒 Start: 2026-01-20 22:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+, Paramount+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/210.png
---------------------------------------------------
-🏟️ Match: West Bromwich Albion Vs Norwich City
-🆔 Match ID: 2601120
-🕒 Start: 2026-01-20 22:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/196.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/575.png
---------------------------------------------------
-🏟️ Match: Charlton Athletic Vs Derby County
-🆔 Match ID: 2601123
-🕒 Start: 2026-01-20 22:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/597.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/568.png
---------------------------------------------------
-🏟️ Match: Villarreal Vs Ajax
-🆔 Match ID: 2636547
-🕒 Start: 2026-01-20 23:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 6 UK, Paramount+, Ziggo Sport 1 NL, Movistar Liga de Campeones 2, Canal+ Extra 7 Poland, Sky Sport 258 IT, Canal+ Live 6 France, Arena Sport 5 Serbia, Cosmote Sport 9 Greece, SuperSport Variety 2, beIN Sports MENA 7
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/226.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/341.png
---------------------------------------------------
-🏟️ Match: FC Copenhagen Vs Napoli
-🆔 Match ID: 2636550
-🕒 Start: 2026-01-20 23:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: TNT Sports Extra, Discovery+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/351.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/191.png
---------------------------------------------------
-🏟️ Match: Inter Vs Arsenal
-🆔 Match ID: 2636551
-🕒 Start: 2026-01-20 23:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: Amazon Prime Video, Sky Sport 252 IT, Paramount+, Sky Sport Uno IT, Sky Sport Austria 3, Premier Sports 1 Ireland, Movistar Liga de Campeones 3, DAZN Eleven 2 Portugal, TVP Sport Poland, TVP1 Poland, Canal+ Extra 2 Poland, Nova Sport 3 SK, Canal+ Live 3 France, Digi Sport 1 Romania, Prima Sport 1 Romania, Nova Sport 3 CZ, Arena 2 Premium Serbia, beIN Sports 3 Malaysia, Ziggo Sport 2 NL, Cosmote Sport 3 Greece, TV3 Sport Denmark, Arena Sport 1 Croatia, MAX Sport 3 Bulgaria, Fox Sports Argentina, SuperSport MaXimo 1, SuperSport Premier League, beIN Sports MENA 2, beIN Sports MENA English 1, 5Plus Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/16.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
---------------------------------------------------
-🏟️ Match: Olympiacos Vs Bayer Leverkusen
-🆔 Match ID: 2636552
-🕒 Start: 2026-01-20 23:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: TNT Sports Extra, Discovery+, TNT Sports 7 UK, Paramount+, Cosmote Sport 2 Greece, DAZN1 DE, Sky Sport Austria 6, Movistar Liga de Campeones 7, Sky Sport 257 IT, Canal+ Extra 6 Poland, Canal+ Live 7 France, Arena Sport 4 Serbia, Nova Sport 5 CZ, Nova Sport 5 SK, SuperSport Variety, beIN Sports MENA 6
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/24.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/162.png
---------------------------------------------------
-🏟️ Match: Real Madrid Vs Monaco
-🆔 Match ID: 2636553
-🕒 Start: 2026-01-20 23:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: TNT Sports 2, TNT Sports Extra, Discovery+ Premium, TNT Sports 2 UK, Paramount+, TUDN USA, Sky Sport Austria 4, Movistar Liga de Campeones, DAZN Eleven 1 Portugal, Canal+ Extra 1 Poland, Canal+ Sport France, Sky Sport Max IT, Sky Sport 254 IT, Nova Sport 6 CZ, UniMás, Ziggo Sport 3 NL, beIN Sports Malaysia, Digi Sport 2 Romania, Prima Sport 2 Romania, Arena Sport 2 Serbia, Cosmote Sport 5 Greece, Arena Sport 2 Croatia, TV3 MAX Denmark, TNT Brasil, MAX Sport 4 Bulgaria, ESPN Argentina, SuperSport PSL, beIN SPORTS MENA 1, 5Sport Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/259.png
---------------------------------------------------
-🏟️ Match: Sporting CP Vs PSG
-🆔 Match ID: 2636554
-🕒 Start: 2026-01-20 23:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: TNT Sports 4 UK, Paramount+, Sky Sport Austria 5, Movistar Liga de Campeones 6, Sport TV5 Portugal, Canal+ Extra 5 Poland, Canal+ Foot France, Sky Sport 255 IT, Arena Sport 1 Serbia, Ziggo Sport 5 NL, Digi Sport 4 Romania, Prima Sport 4 Romania, Cosmote Sport 6 Greece, MAX Sport 1 Bulgaria, Space Brazil, ESPN2 Argentina, SuperSport Action, beIN Sports MENA 3, 5Star Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/140.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/263.png
---------------------------------------------------
-🏟️ Match: Tottenham Hotspur Vs Borussia Dortmund
-🆔 Match ID: 2636555
-🕒 Start: 2026-01-20 23:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium, TNT Sports 1 UK, Paramount+, Sky Sport Austria 2, Movistar Liga de Campeones 5, DAZN Eleven 3 Portugal, Canal+ Extra 3 Poland, Nova Sport 4 SK, Nova Sport 4 CZ, Canal+ Live 4 France, Ziggo Sport 6 NL, Sky Sport 256 IT, Digi Sport 3 Romania, Prima Sport 3 Romania, Arena 3 Premium Serbia, Cosmote Sport 7 Greece, Arena Sport 3 Croatia, MAX Sport 2 Bulgaria, V Sport Fotball, ESPN3 Argentina, SuperSport Variety 3, beIN Sports MENA 4, 5Stars Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/202.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/155.png
---------------------------------------------------
-🏟️ Match: Wrexham Vs Leicester City
-🆔 Match ID: 2601121
-🕒 Start: 2026-01-20 23:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Main Event UK, Sky Sports Football UK, Sport TV1 Portugal, beIN Sports MAX 7 France, Astro Football, beIN Sports MAX 6 France, Cosmote Sport 4 Greece, ESPN2 Mexico, Diema Sport 2 Bulgaria, Fox Sports 2 Argentina, beIN Sports MENA 8, beIN Sports MENA English 2, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/617.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/572.png
+📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, Sky Sport Premier League DE, Sky Sport Top Event DE, Sport TV2 Portugal, beIN Sports MAX 4 France, Astro Football, ESPN2 Mexico, Arena Sport 9 Serbia, Cosmote Sport 4 Greece, Diema Sport 2 Bulgaria, beIN Sports MENA 9, beIN Sports MENA English 2, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/201.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/573.png
 --------------------------------------------------
