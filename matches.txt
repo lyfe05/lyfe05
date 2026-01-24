@@ -2,87 +2,15 @@
 🆔 Match ID: 2662434
 🕒 Start: 2026-01-23 15:30 (GMT+3)
 📍 Tournament: Hybrid Friendlies
-📺 Channels: OneFootball, Arsenal.com, SpursPlay, MUTV, Willow Cricket, Sky Sport 9 NZ, SuperSport Variety 3, Willow 2 Cricket, Sky Sports Cricket UK, Astro Cricket, Sky Sport 4 NZ, Sky Sports Mix UK, Sky Sport Select NZ, SuperSport Motorsport, MUTV UK, Sky Sports+ UK
+📺 Channels: CITY+, SpursPlay, OneFootball, MUTV UK, Willow 2 Cricket, Sky Sports Mix UK, Sky Sport 9 NZ, Sky Sports+ UK, Sky Sport Select NZ, Canal 11 Portugal, beIN Sports MENA 6, Fox Sports 2 USA, Fox Soccer Plus, Willow Cricket, Astro Cricket, Sky Sports Cricket UK, Sky Sport 3 NZ, SuperSport Motorsport
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25489.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/59927.png
 --------------------------------------------------
-🏟️ Match: Auxerre Vs PSG
-🆔 Match ID: 2602966
-🕒 Start: 2026-01-23 22:00 (GMT+3)
-📍 Tournament: Ligue 1
-📺 Channels: DAZN France, beIN SPORTS USA, beIN SPORTS en Español, DAZN2 DE, Sport TV3 Portugal, Eleven Sports 2 Poland, Sky Sport Calcio IT, Nova Sport 4 SK, Nova Sport 4 CZ, Arena Sport 2 Croatia, TV3 Sport Denmark, V Sport Football, Diema Sport Bulgaria, ESPN3 Argentina, SuperSport Variety 3, beIN Sports MENA 2, 5Plus Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/253.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/263.png
---------------------------------------------------
-🏟️ Match: St. Pauli Vs Hamburg
-🆔 Match ID: 2603569
-🕒 Start: 2026-01-23 22:30 (GMT+3)
-📍 Tournament: Bundesliga
-📺 Channels: Bundesliga YouTube, BBC iPlayer, BBC Sport Website, Sky Sport Bundesliga 1, ESPN+ USA, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Eleven Sports 3 Poland, M+ #Vamos ES, beIN Sports 2 France, Sky Sport Max IT, Nova Sport 3 SK, Nova Sport 3 CZ, beIN Sports 3 Malaysia, Arena Sport 1 Serbia, Canal+ Sport 1 Afrique, Digi Sport 4 Romania, Nova Sports 3 Greece, TV3 MAX Denmark, V Sport Football, SportKlub 3 Croatia, Diema Sport 3 Bulgaria, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/152.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/157.png
---------------------------------------------------
-🏟️ Match: Málaga Vs Burgos
-🆔 Match ID: 2605976
-🕒 Start: 2026-01-23 22:30 (GMT+3)
-📍 Tournament: La Liga 2
-📺 Channels: Premier Player, LALIGA TV Hypermotion, Nova Sports 6 Greece
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/219.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2051.png
---------------------------------------------------
-🏟️ Match: Inter Vs Pisa
-🆔 Match ID: 2591715
-🕒 Start: 2026-01-23 22:45 (GMT+3)
-📍 Tournament: Serie A
-📺 Channels: TNT Sports 2, DAZN, Discovery+ Premium, TNT Sports 2 UK, DAZN Zona IT, DAZN1 DE, Sport TV2 Portugal, Eleven Sports 1 Poland, Polsat Sport Premium 1 Poland, Match! Football 1 Russia, Match TV Russia, Astro Football, Ziggo Sport 1 NL, Digi Sport 2 Romania, Prima Sport 2 Romania, Arena 3 Premium Serbia, Cosmote Sport 2 Greece, TV2 Sport X Denmark, Arena Sport 4 Croatia, MAX Sport 3 Bulgaria, TV4 Fotball, ESPN Brazil, ESPN2 Argentina, SuperSport Football, Sport 4 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/16.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1209.png
---------------------------------------------------
-🏟️ Match: Levante Vs Elche
-🆔 Match ID: 2605348
-🕒 Start: 2026-01-23 23:00 (GMT+3)
-📍 Tournament: LaLiga
-📺 Channels: LaLigaTV, DAZN LaLiga, LaLiga TV UK, Nova Sport 5 SK, Nova Sport 5 CZ, DAZN Eleven 2 Portugal, Eleven Sports 4 Poland, beIN Sports MAX 9 France, ESPN Deportes, beIN Sports Malaysia, Prima Sport 3 Romania, Ziggo Sport 2 NL, Teledeporte Spain (TDP), Match! Football 2 Russia, Digi Sport 3 Romania, Arena Sport 2 Serbia, Nova Sports 1 Greece, Arena Sport 1 Croatia, MAX Sport 4 Bulgaria, SuperSport Laliga, beIN Sports MENA 3
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/218.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/682.png
---------------------------------------------------
-🏟️ Match: Derby County Vs West Bromwich Albion
-🆔 Match ID: 2601129
-🕒 Start: 2026-01-23 23:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, beIN Sports MAX 10 France, Arena Sport 3 Serbia, ESPN3 Mexico, Astro Grandstand, Arena Sport 3 Croatia, Diema Sport 2 Bulgaria, SuperSport MaXimo 1, SuperSport Premier League, bNova Sport 6 CZ, ESPN4 Brazil, Cosmote Sport 3 Greece, beIN Sports MENA English 2, beIN Sports MENA 5, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/568.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/196.png
---------------------------------------------------
-🏟️ Match: San Lorenzo Vs Lanús
-🆔 Match ID: 2651461
-🕒 Start: 2026-01-24 01:00 (GMT+3)
-📍 Tournament: Liga Profesional Argentina
-📺 Channels: TNT Sports Argentina
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1831.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1832.png
---------------------------------------------------
-🏟️ Match: Independiente Vs Estudiantes
-🆔 Match ID: 2651457
-🕒 Start: 2026-01-24 02:00 (GMT+3)
-📍 Tournament: Liga Profesional Argentina
-📺 Channels: Premier Sports 2, ESPN Premium Argentina, Viaplay Sports 2 UK, Premier Sports 1 Ireland, Arena Sport 1 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1825.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1820.png
---------------------------------------------------
-🏟️ Match: Independiente Rivadavia Vs Atl. Tucumán
-🆔 Match ID: 2651458
-🕒 Start: 2026-01-24 04:15 (GMT+3)
-📍 Tournament: Liga Profesional Argentina
-📺 Channels: TNT Sports Argentina
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4756.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4741.png
---------------------------------------------------
-🏟️ Match: Talleres Vs Newell's Old Boys
-🆔 Match ID: 2651462
-🕒 Start: 2026-01-24 04:15 (GMT+3)
-📍 Tournament: Liga Profesional Argentina
-📺 Channels: ESPN Argentina, ESPN Premium Argentina
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7160.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1682.png
+🏟️ Match: Solomon Islands Under 19 Vs Australia U17
+🆔 Match ID: 2659738
+🕒 Start: 2026-01-24 08:00 (GMT+3)
+📍 Tournament: Hybrid Friendlies
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26746.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6205.png
 --------------------------------------------------
