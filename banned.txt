@@ -1,66 +1,451 @@
+1. divisjon
+1. divisjon Promotion Playoff
+1. Division
+1. HNL
+1. Lig
+1. SNL
 2. Bundesliga
-3. Liga  
-2. Liga
 2. Frauen-Bundesliga
+2. Liga
+2. Lig
+2. liga
+3. Lig
+3. Liga
 A-League Men
+A-League Women
+A Lyga
+Acreano
+AFC Asian Cup Qualifiers
+AFC Asian Qualifiers – Road to 26
 AFC Challenge League
-AFC Champions League Elite  
+AFC Champions League
+AFC Champions League Elite
 AFC Champions League Two
+AFC U-23 Asian Cup
+AFC Women's Asian Cup
+AFC Women's Champions League
+Africa Women Cup of Nations
+African Football League
+Alagoano
+Algeria Ligue 2
+Allsvenskan
+Allsvenskan Relegation Play-off
+Amazonense
+Amapaense
+Arab Club Champions Cup
+Arabian Gulf Cup
+Arnold Clark Cup
+ASEAN Club Championship
+ASEAN Hyundai Cup
+ASEAN Women's Championship
+Australia Cup
+Austrian Bundesliga
+Azerbaijan Premier League
+Baiano
+Baiano 2
+Baller League Germany
 Baller League UK
-Brasileirão Betano  
-Campionato Primavera 1 TIMvision  
-China League One
+Bangladesh Premier League
+Beker van België
+Belarusian Super Cup
+Belgian Promotion Playoff
+Besta-deild karla
+Bolivian Relegation Play-off
+Botola
+Brasileirão Betano
+Brasileirão Série B Superbet
+Brasileirão Série C
+Brasileirão Série D
+Brasiliense
+Bulgarian Cup
+Bulgarian Supercup
+CAF Champions League
+CAF Confederation Cup
+CAF Super Cup
+CAF Women's Champions League
+Campeonato de Portugal
+Campionato Primavera 1 TIMvision
+Campeones Cup
+Campeonato Paulista Feminino
+Campeonato Uruguayo Primera
+Canadian Championship
+Canadian Premier League
+Capixaba
+Carioca
+Carioca 2
+Catarinense
+Catarinense 2
+CBF Brasileiro U20
+Cearense 1
+Cearense 2
+CFA Cup
+CFA Super Cup
+Challenge League
+Challenger Pro League
+Chance liga
+Chance liga Relegation Playoffs
+Chance Národní Liga
+Championnat National
+Championnat National 2
+Championnat National 3
+Chinese Super League
 Club Friendly Games
-Cymru Premier
-Cymru League Cup
-Copa del Rey
-Copa do Brasil U20
+Club Friendlies Women
+CONCACAF Central American Cup
+CONCACAF Gold Cup
+CONCACAF Nations League
+CONCACAF Under-20 Championship
+CONCACAF W Champions Cup
+CONCACAF W Gold Cup
+CONMEBOL Libertadores Femenina
+CONMEBOL Libertadores U20
+CONMEBOL Pre-Olympic Tournament
+CONMEBOL Recopa
+CONMEBOL Sudamericana
+CONMEBOL Sudamericano U20
+CONMEBOL Women's Nations League
+Coppa Italia Serie C
+Coppa Italia Women
+Copa América
+Copa America Femenina
+Copa Argentina
 Copa Betano do Brasil
+Copa Chile
+Copa Colombia
+Copa de la Reina
+Copa del Rey
+Copa do Brasil U17
+Copa do Brasil U20
+Copa do Nordeste
+Copa Fares Lopes
+Copa Gaúcha
+Copa Rio
+Copa Santa Catarina
+Copa Verde
 Coupe de France
+Coupe de France féminine
+Coupe Nationale
+Cupa României
+Cup of Russia
+Cymru League Cup
+Cymru Premier
+Cypriot First Division
+Cypriot Super Cup
+Czech Cup
+Damallsvenskan
+DBU Pokalen
 DFB-Pokal
-EFL League One  
-EFL League Two  
-EFL Trophy  
+DFB-Pokal Frauen
+DFB-Supercup Frauen
+DFL Supercup
+EAFF E-1 Football Championship
+EAFF E-1 Women's Football Championship
+EFL League One
+EFL League Two
 EFL Trophy
+Egypt Cup
 Egyptian Premier League
+Egyptian Super Cup
+Eerste Divisie
+Ekstraklasa
+Eliteserien
+Eliteserien Relegation Play-offs
+Emperor's Cup
+Emirates Cup
+Emir of Qatar Cup
+Eredivisie Women
+Estonian Cup
+Estonian Supercup
+Ettan
+Euro Under-21 Qualifying
+Extra Matches
+FA Women's League Cup
+FAI Men's Senior Cup
+FIFA Arab Cup
+FIFA Club World Cup
+FIFA Club World Cup Play-In
+FIFA U17 Women's World Cup
 FIFA U17 World Cup
+FIFA U20 Women's World Cup
 FIFA U20 World Cup
+FIFA Women's Champions Cup
+FIFA Women's World Cup
+FIFA Women’s World Cup Play-off
+FIFA World Cup™ Play-Off Tournament
+Finalissima
+First League
+First Professional Football League
+Fizz Liga
+Florida Cup
+Football National League 2
+Frauen-Bundesliga
+Friendlies Women
+Gaúcho
+Gaúcho 2
+Goiano
+Goiano 2
+Greek Cup
+Gvia HaMedina
+Honduras Liga Nacional
+Hong Kong FA Cup
+Hong Kong Premier League
+Hrvatski kup
+Hrvatski superkup
+Hybrid Friendlies
+Hybrid Friendlies Women
+I Liga
+I-League
+Icelandic Men's Football Cup
+Indian Super League
+Intercontinental Cup
+Iranian Super Cup
 Iraq Stars League
-J1 League  
-J2 League  
-J.League Cup  
-K League 1  
-K-League 2  
-King's Cup  
-Liga FPD  
-Liga Profesional Argentina Clausura  
-Ligue 1 Tunisia  
-Major League Soccer  
-MLS Next Pro  
-National League  
-National League North / South  
-NIFL Premiership  
-NWSL  
+J League World Challenge
+J1 League
+J2 League
+J.League Cup
+Japanese Super Cup
+Johan Cruyff Shield
+Kategoria Superiore
+Kazakhstan Cup
+Kazakhstan Premier League
+King's Cup
+Kings Cup Europe Finals
+Kings Cup Mexico
+Kings League Brazil
+Kings League France
+Kings League Germany
+Kings League Italy
+Kings League MENA
+Kings League Spain
+Kings World Cup Clubs
+Kings World Cup Nations
+K League 1
+K-League 2
+K-League Promotion Playoff
+KNVB Beker
+KNVB Beker Vrouwen
+Korean FA Cup
+Kubak Belarusi
+Kubok
+Kupa e Shqipërisë
+La Liga 2
+Latvijas Kauss
+Legends Matches
+Leagues Cup
+Liga 2 Indonesia
+Liga BBVA MX
+Liga de Expansión MX
+Liga F
+Liga Femenina
+Liga FPD
+Liga MX Femenil
+Liga Nacional de Guatemala
+Liga Premier
+Liga Portugal
+Liga Portugal 2
+Liga Portugal 3
+LigaPro Serie A
+Liga Profesional Argentina
+Liga Profesional Argentina Clausura
+Liga Super Malaysia
+Ligat HaAl
+Ligue 1 Tunisia
+Ligue 2
+Ligue Professionnelle 1
+Magyar Kupa
+Major League Soccer
+Maltese Premier League
+Maranhense
+Matogrossense
+Meistarakeppni karla
+Meistriliiga
+Mineiro
+Mineiro 2
+MLS All-Star Game
+MLS Next Pro
+MTN 8
+National League
+National League North / South
+Nedbank Cup
+NIFL Charity Shield
+NIFL Premiership
+Niké Liga
+NM Cupen
+Northern Super League
+NWSL
+NWSL Challenge Cup
+OFC Men's Nations Cup
 OFC Pro League
-Premier Division  
-Pro League  
+OFC World Cup Qualifying
+ÖFB-Cup
+Olympic Games
+Olympic Games Women
+Olympics AFC–CAF play-off
+Paraense
+Paraibano
+Paranaense
+Paranaense 2
+Paulista
+Paulista Série A2
+Paulista Série A3
+Paulista Série A4
+Paulista Série B
+Pernambucano
+Pernambucano 2
+Persha Liha
+Persian Gulf Pro League
+Peru Liga 1
+Piala FA
+Piala Malaysia
+Piauiense
+Potiguar
+Premier Division
+Premier Division Play-off
+Premier League 2
+Premier Soccer League
+Première Ligue Women
+President's Cup
+Primera A
+Primera B
+Primera B Metropolitana
+Primera División
+Primera Division de El Salvador
+Primera División de Venezuela
+Primera División (Spain)
+Primera Federación RFEF
+Primera Nacional
+Pro League
+Puchar Polski
+Qatar Cup
+Qatar FA Cup
 Qatar Stars League
 Qatari Stars Cup
+Recopa Catarinense
+Regionalliga Bayern
+Regionalliga Nord
+Regionalliga Nordost
+Regionalliga Promotion Playoffs
 Regionalliga Südwest
+Regionalliga West
+Rondoniense
+Roraimense
+Russian Premier League
+Russian Super Cup
+São Paulo Youth Cup
+Saudi Super Cup
 Scottish Challenge Cup
-Scottish Championship  
-Scottish Cup  
-Scottish League Cup  
-Scottish League one
-Scottish League two
-Scottish Premiership  
-Serie BKT  
-SWPL  
-Thai FA Cup  
-Thai League 1  
+Scottish Championship
+Scottish Championship Playoffs
+Scottish Cup
+Scottish League Cup
+Scottish League One
+Scottish League One Playoffs
+Scottish League Two
+Scottish League Two Playoffs
+Scottish Premiership
+Serbian Cup
+Serie A Women
+Serie BKT
+Serie C
+Serie D
+Sergipano
+SheBelieves Cup
+Singapore Community Shield
+Singapore Cup
+Singapore Premier League
+Slovak Cup
+Slovenian Cup
+SOCCA Champions League
+SOCCA World Championship
+Sul-Mato-Grossense
+Suomen Cup
+Super Cup
+Super Kupa
+Super League
+Super League Greece
+Super League Indonesia
+Super Liga
+Super Liga
+Supercopa Argentina
+Supercopa de Chile
+Supercopa de España
+Supercopa Ecuador
+Supercopa Femenina
+Supercopa Internacional
+Supercopa MX
+Supercopa Uruguaya
+Supercopa do Brasil
+Supercoppa Femminile
+Supercupa României
+Superettan
+Superettan Relegation Play-offs
+Superliga Colombiana
+Superligaen
+SuperLiga României
+Superleague 2
+Superpuchar Polski
+Süper Kupa
+Süper Lig
+Svenska Cupen
+SWPL
+SWPL 1
+SWPL 1 Relegation Play-offs
+Swiss Cup
+Swiss Women's Super League
+Taça Da Liga
+Taça de Portugal
+Thai FA Cup
+Thai League 1
 Thai League Cup
+The Icon League
+Tochigi Prefectural League
+Tonybet Virsliga
+Toppserien
+Torneo Apertura
+Torneo Federal A
+Tocantinense
+Toulon Tournament
+Trophée des Champions
+Trofeo Campeon de Campeones
 Trofeo de Campeones
+Trofeo Joan Gamper
+Türkiye Kupasi
+Tweede Divisie
+U20 Intercontinental Cup
+U21 National Team Friendlies
 UAE League Cup
-UAE Pro League
 UAE President's Cup
+UAE Pro League
+UAE Super Cup
+UEFA Euro Under-19 Championship
+UEFA Euro Under-21 Championship
+UEFA Nations League
+UEFA Super Cup
+UEFA U17 Championship
+UEFA Women's Champions League
+UEFA Women's Euro
+UEFA Women's Euro Qualifying
+UEFA Women's Europa Cup
+UEFA Women's Nations League
+UEFA Women's U17 Championship
+UEFA Women's U19 Championship
+UEFA Youth League
+UEFA–CONMEBOL Club Challenge
+Ukrainian Cup
+US Open Cup
 USL Championship
+USL League One
+V.League 1
+VBET Ukrainian Premier League
+VBet Premier League Relegation Playoffs
+Veikkausliiga
+Veikkausliiga Play-offs
+Virsliga Play-off
+Vysheyshaya Liga
+Women's FA Cup
+Women's Finalissima
+Women's Super League
+Women's Super League 2
+Women's World Cup UEFA Qualifiers
+Ykkösliiga
