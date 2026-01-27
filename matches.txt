@@ -1,8 +1,24 @@
-🏟️ Match: Norwich City Vs Coventry City
-🆔 Match ID: 2601134
-🕒 Start: 2026-01-26 23:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+, Sky Sports Football UK, Sport TV6 Portugal, beIN Sports MAX 6 France, Astro Football, beIN Sports MAX 5 France, Nova Sport 5 CZ, ESPN2 Mexico, Cosmote Sport 3 Greece, V Sport Football, Diema Sport 3 Bulgaria, Fox Sports 2 Argentina, ESPN4 Brazil, Nova Sport 5 SK, beIN Sports MENA 2, beIN Sports MENA English 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/575.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/566.png
+🏟️ Match: Werder Bremen Vs Hoffenheim
+🆔 Match ID: 2603539
+🕒 Start: 2026-01-27 22:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Sky Sport Bundesliga 2, ESPN+ USA, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Eleven Sports 2 Poland, beIN Sports 3 France, Nova Sport 3 SK, Nova Sport 3 CZ, Digi Sport 3 Romania, Arena Sport 1 Serbia, Nova Sports 3 Greece, V Sport Football, Diema Sport Bulgaria, Sportklub 1 Croatia, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/150.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/158.png
+--------------------------------------------------
+🏟️ Match: St. Pauli Vs RB Leipzig
+🆔 Match ID: 2603542
+🕒 Start: 2026-01-27 22:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Amazon Prime Video, Sky Sport Bundesliga 1, ESPN+ USA, DAZN Eleven 2 Portugal, Eleven Sports 1 Poland, beIN Sports 2 France, Nova Sport 5 CZ, Nova Sport 5 SK, Sky Sport Calcio IT, Digi Sport 2 Romania, Nova Sports 2 Greece, beIN Sports 3 Malaysia, TV3 Sport Denmark, V Sport Premium, Diema Sport 3 Bulgaria, Sportklub 3 Croatia, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/152.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/885.png
+--------------------------------------------------
+🏟️ Match: Fiorentina Vs Como
+🆔 Match ID: 2633765
+🕒 Start: 2026-01-27 23:00 (GMT+3)
+📍 Tournament: Coppa Italia
+📺 Channels: Premier Sports 1, Italia 1 IT, CBS Sports Golazo USA, Paramaount+, Viaplay Sports 1 UK, Premier Sports 1 Ireland, DAZN1 Spain, Match! Football 1 Russia, Sport TV2 Portugal, Eleven Sports 3 Poland, Polsat Sport 3 Poland, Ziggo Sport 2 NL, Arena Sport 2 Serbia, Nova Sports Prime Greece, Arena Sport 1 Croatia, MAX Sport 3 Bulgaria, Sport 4 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/15.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/387.png
 --------------------------------------------------
