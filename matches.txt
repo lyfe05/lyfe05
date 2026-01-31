@@ -1,24 +1,8 @@
-🏟️ Match: Al-Fateh Vs Al-Ittihad
-🆔 Match ID: 2633105
-🕒 Start: 2026-01-29 18:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube, Jordan TV Sport, Abu Dhabi Sports 1, Thmanyah, Bandsports Brasil, Fox Sports 2 USA, Sportdigital FUSSBALL DE, Movistar Liga de Campeones 2, DAZN1 DE, Sport TV3 Portugal, Cosmote Sport 9 Greece, FOX Deportes, Prima Sport 2 Romania, Sportklub 2 Croatia, Alkass One, beIN Sports MENA 5, Alkass Four, beIN Sports MENA 2, M+ #Vamos ES, DAZN2 DE, Sport TV1 Portugal, Movistar Liga de Campeones, Polsat Sport 3 Poland, Cosmote Sport 7 Greece, MAX Sport 3 Bulgaria
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2331.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2335.png
---------------------------------------------------
-🏟️ Match: Al-Hazem Vs Al-Shabab
-🆔 Match ID: 2633110
-🕒 Start: 2026-01-29 20:30 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube, Jordan TV Sport, Abu Dhabi Sports 1, Thmanyah, Bandsports Brasil, Fox Sports 2 USA, Sportdigital FUSSBALL DE, Movistar Liga de Campeones 2, DAZN1 DE, Sport TV3 Portugal, Cosmote Sport 9 Greece, FOX Deportes, Prima Sport 2 Romania, Sportklub 2 Croatia, Alkass One, beIN Sports MENA 5, Alkass Four, beIN Sports MENA 2, M+ #Vamos ES, DAZN2 DE, Sport TV1 Portugal, Movistar Liga de Campeones, Polsat Sport 3 Poland, Cosmote Sport 7 Greece, MAX Sport 3 Bulgaria
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10025.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2336.png
---------------------------------------------------
-🏟️ Match: Qadsiah Vs Al-Hilal
-🆔 Match ID: 2633104
-🕒 Start: 2026-01-29 20:30 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5546.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2328.png
+🏟️ Match: Bristol City Vs Derby County
+🆔 Match ID: 2601139
+🕒 Start: 2026-01-30 23:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+, Sky Sports Football UK, Sport TV4 Portugal, Astro Football, Nova Sport 6 CZ, ESPN3 Mexico, Arena Sport 5 Serbia, Cosmote Sport 3 Greece, Arena Sport 3 Croatia, Diema Sport 2 Bulgaria, FOX Sports 3 Argentina, SuperSport MaXimo 1, SuperSport Premier League, beIN Sports MENA 3, beIN Sports MENA English 2, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/564.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/568.png
 --------------------------------------------------
