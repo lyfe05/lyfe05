@@ -2,7 +2,7 @@
 🆔 Match ID: 2595792
 🕒 Start: 2026-01-31 18:00 (GMT+3)
 📍 Tournament: Premier League
-📺 Channels: Hub Premier 2, Peacock Feed, Sky Sport 7 NZ, beIN Sports 4 Turkey, Sky Sport Mix DE, DAZN Eleven 4 Portugal, Canal+ Extra 3 Poland, Canal+ Sport360 France, Canal+ Live 6 France, Canal+ Sport 7 CZ, Astro Premier League 2, Arena 3 Premium Serbia, Nova Sports 4 Greece, TV3 Sport Denmark, Arena Sport 4 Croatia, V Sport Football, Diema Sport Bulgaria, SuperSport MaXimo 1, SuperSport Variety 3, beIN Sports MENA 4, Sport 1 Israel
+📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/670.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/197.png
 --------------------------------------------------
@@ -10,7 +10,7 @@
 🆔 Match ID: 2595794
 🕒 Start: 2026-01-31 18:00 (GMT+3)
 📍 Tournament: Premier League
-📺 Channels: Arsenal.com, Hub Premier 4, Peacock Feed, USA Network, NBC UNIVERSO, Sky Sport 5 NZ, beIN Sports 3 Turkey, DAZN1 Spain, Movistar Liga de Campeones, Sky Sport 8 DE, DAZN Eleven 1 Portugal, Canal+ Extra 1 Poland, Canal+ Foot France, Sky Sport Uno IT, Canal+ Sport SK, Canal+ Sport CZ, Astro Grandstand, Arena 2 Premium Serbia, Nova Sports Premier League Greece, TV3 MAX Denmark, Arena Sport 1 Croatia, V Sport Premium, Diema Sport 2 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 2 Israel
+📺 Channels: Arsenal.com
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/571.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
 --------------------------------------------------
@@ -18,7 +18,7 @@
 🆔 Match ID: 2595800
 🕒 Start: 2026-01-31 18:00 (GMT+3)
 📍 Tournament: Premier League
-📺 Channels: Hub Premier 3, Peacock Feed, Sky Sport 6 NZ, DAZN3 Spain, Canal+ Extra 5 Poland, Canal+ Live 7 France, Canal+ Sport 8 CZ, Arena Sport 1 Serbia, Nova Sports Start Greece, ESPN4 Brazil, SuperSport Action, beIN Sports MENA 8
+📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/203.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/622.png
 --------------------------------------------------
@@ -26,7 +26,7 @@
 🆔 Match ID: 2595793
 🕒 Start: 2026-01-31 20:30 (GMT+3)
 📍 Tournament: Premier League
-📺 Channels: Hub Premier 1, Peacock Feed, USA Network, NBC UNIVERSO, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 8 NZ, DAZN1 Spain, beIN Sports 3 Turkey, Sky Sport Premier League DE, Sky Sport Uno IT, Astro Premier League, Astro Grandstand, DAZN Eleven 1 Portugal, Canal+ Extra 1 Poland, Canal+ Foot France, Canal+ Sport SK, Canal+ Sport CZ, Arena 2 Premium Serbia, Nova Sports Premier League Greece, TV3 MAX Denmark, Arena Sport 1 Croatia, V Sport Premium, Diema Sport 2 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel
+📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/198.png
 --------------------------------------------------
@@ -34,7 +34,7 @@
 🆔 Match ID: 2595795
 🕒 Start: 2026-01-31 23:00 (GMT+3)
 📍 Tournament: Premier League
-📺 Channels: Hub Premier 1, Peacock Feed, NBC USA, NBCNY USA, TNT Sports 1 UK, Sky Sport 8 NZ, DAZN1 Spain, Astro Premier League, Astro Grandstand, beIN Sports 3 Turkey, Sky Sport Premier League DE, DAZN Eleven 1 Portugal, Canal+ Extra 1 Poland, Canal+ Foot France, Canal+ Sport CZ, Canal+ Sport 5 CZ, Canal+ Sport SK, Telemundo, Arena 1 Premium Serbia, Arena Sport 1 Croatia, Nova Sports Premier League Greece, Sky Sport Arena IT, Diema Sport 2 Bulgaria, ESPN Argentina, SuperSport MaXimo 1, SuperSport Premier League, beIN Sports MENA English 1, beIN Sports MENA 1, Sport 1 Israel
+📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/207.png
 --------------------------------------------------
