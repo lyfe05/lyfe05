@@ -1,32 +1,56 @@
-🏟️ Match: Damac Vs Al-Taawoun
-🆔 Match ID: 2633131
-🕒 Start: 2026-02-12 18:45 (GMT+3)
+🏟️ Match: Al-Shabab Vs Al-Ahli
+🆔 Match ID: 2633133
+🕒 Start: 2026-02-13 16:55 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: Thmanyah
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/14863.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2330.png
+📺 Channels: TrillerTV+, Saudi Pro League YouTube, Abu Dhabi Sports 1, Thmanyah, Jordan TV Sport, Fox Sports 2 USA, Sportdigital FUSSBALL DE, #Vamos ES, DAZN2 DE, Sport TV1 Portugal, Cosmote Sport 3 Greece, Prima Sport 2 Romania, MAX Sport 4 Bulgaria, beIN Sports HD Qatar, Sport TV2 Portugal, FOX Deportes, Cosmote Sport 1 Greece, Sportklub 4 Croatia, Fox Soccer Plus, Movistar Liga de Campeones, Sport TV5 Portugal, Sportv Brazil, Polsat Sport Extra 1 Poland
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2336.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2339.png
 --------------------------------------------------
-🏟️ Match: Qadsiah Vs NEOM
-🆔 Match ID: 2633137
-🕒 Start: 2026-02-12 20:30 (GMT+3)
+🏟️ Match: Al-Hilal Vs Al-Ettifaq
+🆔 Match ID: 2633134
+🕒 Start: 2026-02-13 18:25 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5546.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26702.png
+📺 Channels: TrillerTV+, Saudi Pro League YouTube, Abu Dhabi Sports 1, Thmanyah, Jordan TV Sport, Fox Sports 2 USA, Sportdigital FUSSBALL DE, #Vamos ES, DAZN2 DE, Sport TV1 Portugal, Cosmote Sport 3 Greece, Prima Sport 2 Romania, MAX Sport 4 Bulgaria, beIN Sports HD Qatar, Sport TV2 Portugal, FOX Deportes, Cosmote Sport 1 Greece, Sportklub 4 Croatia, Fox Soccer Plus, Movistar Liga de Campeones, Sport TV5 Portugal, Sportv Brazil, Polsat Sport Extra 1 Poland
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2328.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2327.png
 --------------------------------------------------
-🏟️ Match: Al-Hazem Vs Al-Okhdood
-🆔 Match ID: 2633130
-🕒 Start: 2026-02-12 20:30 (GMT+3)
+🏟️ Match: Al-Ittihad Vs Al-Fayha
+🆔 Match ID: 2633132
+🕒 Start: 2026-02-13 20:30 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Saudi Pro League YouTube, BeIN Sports HD Qatar, Jordan TV Sport, Thmanyah, Abu Dhabi Sports 1, Fox Sports 2 USA, Sportdigital FUSSBALL DE, #Vamos ES, DAZN2 DE, Sport TV1 Portugal, Cosmote Sport 3 Greece, Prima Sport 2 Romania, MAX Sport 4 Bulgaria, Sport TV2 Portugal, FOX Deportes, Cosmote Sport 1 Greece, Sportklub 4 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10025.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/25673.png
+📺 Channels: TrillerTV+, Saudi Pro League YouTube, Abu Dhabi Sports 1, Thmanyah, Jordan TV Sport, Fox Sports 2 USA, Sportdigital FUSSBALL DE, #Vamos ES, DAZN2 DE, Sport TV1 Portugal, Cosmote Sport 3 Greece, Prima Sport 2 Romania, MAX Sport 4 Bulgaria, beIN Sports HD Qatar, Sport TV2 Portugal, FOX Deportes, Cosmote Sport 1 Greece, Sportklub 4 Croatia, Fox Soccer Plus, Movistar Liga de Campeones, Sport TV5 Portugal, Sportv Brazil, Polsat Sport Extra 1 Poland
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2335.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7900.png
 --------------------------------------------------
-🏟️ Match: Cruz Azul Vs Vancouver
-🆔 Match ID: 2651098
-🕒 Start: 2026-02-13 04:00 (GMT+3)
-📍 Tournament: CONCACAF Champions Cup
-📺 Channels: YouTube, TUDN USA
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1843.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/36729.png
+🏟️ Match: St Patrick's Athletic Vs Galway United
+🆔 Match ID: 2651871
+🕒 Start: 2026-02-13 22:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: CITY+, MUTV, LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/909.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/11862.png
+--------------------------------------------------
+🏟️ Match: Derry City Vs Dundalk
+🆔 Match ID: 2651914
+🕒 Start: 2026-02-13 22:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1913.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/489.png
+--------------------------------------------------
+🏟️ Match: Drogheda United Vs Waterford
+🆔 Match ID: 2651868
+🕒 Start: 2026-02-13 23:00 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1883.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4138.png
+--------------------------------------------------
+🏟️ Match: Shelbourne Vs Shamrock Rovers
+🆔 Match ID: 2651870
+🕒 Start: 2026-02-13 23:00 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4167.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/433.png
 --------------------------------------------------
