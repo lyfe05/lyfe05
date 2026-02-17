@@ -1,40 +1,48 @@
-🏟️ Match: Birmingham City Vs Leeds United
-🆔 Match ID: 2661951
-🕒 Start: 2026-02-15 15:00 (GMT+3)
-📍 Tournament: FA Cup
-📺 Channels: DAZN National League, TNT Sports 3 UK, ESPN+ USA, ESPN2 USA, Sportsnet World, Sportsnet One, Sport TV3 Portugal, SONY TEN 2 HD, beIN Sports 1 France, Astro Football, Nova Sport 2 CZ, Arena 2 Premium Serbia, Cosmote Sport 1 Greece, Diema Sport 3 Bulgaria, ESPN Brazil, SuperSport Premier League, beIN Sports MENA 1, Sport 2 Israel, DAZN USA
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/205.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/571.png
+🏟️ Match: Galatasaray Vs Juventus
+🆔 Match ID: 2667060
+🕒 Start: 2026-02-17 20:45 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports 1, Discovery+ Premium, Paramount+, CBS Sports Golazo, TNT Sports 1 UK, TRT 1 Turkey, Sky Sport 251 IT, Sky Sport Austria 1, Movistar Liga de Campeones 2, Sky Sport Uno IT, DAZN1 DE, DAZN Eleven 1 Portugal, Canal+ Extra 2 Poland, Canal+ Foot France, Nova Sport 4 SK, Nova Sport 4 CZ, TUDN USA, UniMás, Ziggo Sport 1 NL, beIN Sports Malaysia, Digi Sport 1 Romania, Prima Sport 1 Romania, Arena 1 Premium Serbia, Cosmote Sport 2 Greece, Arena Sport 3 Croatia, TV3 Sport Denmark, MAX Sport 3 Bulgaria, TNT Brasil, ESPN Argentina, SuperSport MaXimo 1, SuperSport Premier League, beIN Sports MENA 3, 5Sport Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/228.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/17.png
 --------------------------------------------------
-🏟️ Match: Grimsby Town Vs Wolverhampton Wanderers
-🆔 Match ID: 2661958
-🕒 Start: 2026-02-15 16:30 (GMT+3)
-📍 Tournament: FA Cup
-📺 Channels: TNT Sports 1 UK, ESPN+ USA, Sport TV6 Portugal, beIN Sports MAX 9 France, Astro Grandstand, Arena 3 Premium Serbia, Diema Sport 2 Bulgaria, SuperSport MaXimo 1, SuperSport Action, beIN Sports MENA 5
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/658.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/203.png
+🏟️ Match: Charlton Athletic Vs Portsmouth
+🆔 Match ID: 2601008
+🕒 Start: 2026-02-17 22:45 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/597.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/277.png
 --------------------------------------------------
-🏟️ Match: Oxford United Vs Sunderland
-🆔 Match ID: 2661948
-🕒 Start: 2026-02-15 17:00 (GMT+3)
-📍 Tournament: FA Cup
-📺 Channels: TNT Sports 5 UK, ESPN+ USA, beIN Sports MAX 8 France, Arena 4 Premium Serbia, SONY TEN 1 HD, V Sport Football, Nova Sport Bulgaria, SuperSport Variety 3, beIN Sports MENA English 1, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/630.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/208.png
+🏟️ Match: Bristol City Vs Wrexham
+🆔 Match ID: 2601163
+🕒 Start: 2026-02-17 22:45 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+, Sky Sports+ UK, ESPN Brazil
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/564.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/617.png
 --------------------------------------------------
-🏟️ Match: Stoke City Vs Fulham
-🆔 Match ID: 2661950
-🕒 Start: 2026-02-15 17:00 (GMT+3)
-📍 Tournament: FA Cup
-📺 Channels: TNT Sports 6 UK, ESPN+ USA, Sportsnet World, Sport TV2 Portugal, Arena 2 Premium Serbia, Arena Sport 1 Croatia, Cosmote Sport 8 Greece, V Sport Premium, Diema Sport 3 Bulgaria, SuperSport Premier League, beIN Sports MENA 9, beIN Sports MENA English 2, RTSH Sport Albania
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/201.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/211.png
+🏟️ Match: Borussia Dortmund Vs Atalanta
+🆔 Match ID: 2667059
+🕒 Start: 2026-02-17 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TNT Sports 3, Discovery+ Premium, Paramount+, TNT Sports 3 UK, CBS Sports Network, Sky Sport 252 IT, Sky Sport Austria 2, Movistar Liga de Campeones 3, Sky Sport Uno IT, DAZN Eleven 2 Portugal, Canal+ Extra 2 Poland, Canal+ Sport France, Nova Sport 4 SK, Nova Sport 4 CZ, beIN Sports 2 Malaysia, Ziggo Sport 3 NL, Digi Sport 3 Romania, Prima Sport 2 Romania, Arena 2 Premium Serbia, TV3 MAX Denmark, Arena Sport 3 Croatia, Cosmote Sport 5 Greece, V Sport Football, ESPN2 Argentina, MAX Sport 2 Bulgaria, Space Brazil, SuperSport Variety 3, beIN Sports MENA 4, 5Stars Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/155.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/248.png
 --------------------------------------------------
-🏟️ Match: Arsenal Vs Wigan Athletic
-🆔 Match ID: 2661949
-🕒 Start: 2026-02-15 19:30 (GMT+3)
-📍 Tournament: FA Cup
-📺 Channels: TNT Sports 1 UK, ESPN+ USA, Sportsnet World, Sport TV2 Portugal, beIN Sports 1 France, Canal+ Sport 3 Afrique, Astro Football, Astro Grandstand, Arena 2 Premium Serbia, Cosmote Sport 3 Greece, Arena Sport 1 Croatia, Diema Sport 2 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport MaXimo 1, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/204.png
+🏟️ Match: Monaco Vs PSG
+🆔 Match ID: 2667062
+🕒 Start: 2026-02-17 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Paramount+, TNT Sports 1 UK, Canal+ Foot France, Sky Sport Austria 4, Movistar Liga de Campeones 2, DAZN Eleven 1 Portugal, CANAL+ 360 Poland, Sky Sport 254 IT, Digi Sport 2 Romania, Prima Sport 3 Romania, Ziggo Sport 2 NL, Nova Sport 3 SK, Nova Sport 3 CZ, beIN Sports 3 Malaysia, Arena 3 Premium Serbia, Cosmote Sport 3 Greece, TV3 Sport Denmark, Arena Sport 4 Croatia, V Sport Premium, MAX Sport 4 Bulgaria, Fox Sports Argentina, SuperSport PSL, beIN Sports MENA 2, 5Plus Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/259.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/263.png
+--------------------------------------------------
+🏟️ Match: Benfica Vs Real Madrid
+🆔 Match ID: 2667064
+🕒 Start: 2026-02-17 23:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Amazon Prime Video, Paramount+, Movistar Liga de Campeones, Premier Sports 1 Ireland, DAZN Eleven 3 Portugal, Sport TV5 Portugal, Sky Sport Austria 3, Sky Sport 253 IT, DAZN1 DE, Canal+ Extra 1 Poland, Canal+ Sport360 France, Sky Sport Arena IT, beIN Sports Malaysia, TUDN USA, UniMás, Ziggo Sport 1 NL, Digi Sport 1 Romania, Prima Sport 1 Romania, Nova Sport 6 CZ, Viaplay Sweden, Cosmote Sport 2 Greece, Arena 1 Premium Serbia, TV3+ HD Denmark, Arena Sport 4 Croatia, TNT Brasil, MAX Sport 3 Bulgaria, ESPN Argentina, SuperSport MaXimo 1, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, 5Sport Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/147.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26.png
 --------------------------------------------------
