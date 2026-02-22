@@ -1,48 +1,80 @@
-🏟️ Match: Kawasaki Frontale Vs FC Tokyo
-🆔 Match ID: 2672597
-🕒 Start: 2026-02-21 09:00 (GMT+3)
-📍 Tournament: J1 100 Year Vision League
+🏟️ Match: FC Twente Vs Groningen
+🆔 Match ID: 2595066
+🕒 Start: 2026-02-22 14:15 (GMT+3)
+📍 Tournament: Eredivisie
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1191.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1192.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/550.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1174.png
 --------------------------------------------------
-🏟️ Match: Nagoya Grampus Vs V-Varen Nagasaki
-🆔 Match ID: 2672598
-🕒 Start: 2026-02-21 09:00 (GMT+3)
-📍 Tournament: J1 100 Year Vision League
+🏟️ Match: Genoa Vs Torino
+🆔 Match ID: 2591755
+🕒 Start: 2026-02-22 14:30 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/189.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/722.png
+--------------------------------------------------
+🏟️ Match: Sheffield United Vs Sheffield Wednesday
+🆔 Match ID: 2601179
+🕒 Start: 2026-02-22 15:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports Football
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/583.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/638.png
+--------------------------------------------------
+🏟️ Match: Utrecht Vs PEC Zwolle
+🆔 Match ID: 2595067
+🕒 Start: 2026-02-22 16:30 (GMT+3)
+📍 Tournament: Eredivisie
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1206.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3745.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/445.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1175.png
 --------------------------------------------------
-🏟️ Match: Kashima Antlers Vs Kashiwa Reysol
-🆔 Match ID: 2672599
-🕒 Start: 2026-02-21 10:00 (GMT+3)
-📍 Tournament: J1 100 Year Vision League
+🏟️ Match: Go Ahead Eagles Vs Heracles
+🆔 Match ID: 2595070
+🕒 Start: 2026-02-22 16:30 (GMT+3)
+📍 Tournament: Eredivisie
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1199.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19434.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1889.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1176.png
 --------------------------------------------------
-🏟️ Match: Mito Hollyhock Vs JEF Utd Chiba
-🆔 Match ID: 2672600
-🕒 Start: 2026-02-22 08:00 (GMT+3)
-📍 Tournament: J1 100 Year Vision League
-📺 Channels: YouTube
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3733.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3742.png
+🏟️ Match: Atalanta Vs Napoli
+🆔 Match ID: 2591756
+🕒 Start: 2026-02-22 17:00 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, BBC iPlayer, BBC Sport Website, BBC Alba
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/248.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/191.png
 --------------------------------------------------
-🏟️ Match: Kyoto Sanga Vs Avispa Fukuoka
-🆔 Match ID: 2672601
-🕒 Start: 2026-02-22 08:00 (GMT+3)
-📍 Tournament: J1 100 Year Vision League
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3739.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6466.png
+🏟️ Match: AZ Vs Sparta Rotterdam
+🆔 Match ID: 2595065
+🕒 Start: 2026-02-22 18:45 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: Premier Sports 2, TrillerTV+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2019.png
 --------------------------------------------------
-🏟️ Match: Fagiano Okayama Vs Gamba Osaka
-🆔 Match ID: 2672602
-🕒 Start: 2026-02-22 08:00 (GMT+3)
-📍 Tournament: J1 100 Year Vision League
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3736.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1207.png
+🏟️ Match: Milan Vs Parma
+🆔 Match ID: 2591758
+🕒 Start: 2026-02-22 20:00 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/193.png
+--------------------------------------------------
+🏟️ Match: Feyenoord Vs Telstar
+🆔 Match ID: 2595068
+🕒 Start: 2026-02-22 22:00 (GMT+3)
+📍 Tournament: Eredivisie
+📺 Channels: TrillerTV+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/736.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2016.png
+--------------------------------------------------
+🏟️ Match: Roma Vs Cremonese
+🆔 Match ID: 2591759
+🕒 Start: 2026-02-22 22:45 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: TNT Sports 3, DAZN, Discovery+ Premium
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/145.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/386.png
 --------------------------------------------------
