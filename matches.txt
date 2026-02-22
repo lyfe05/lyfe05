@@ -1,24 +1,48 @@
-🏟️ Match: Al-Okhdood Vs Qadsiah
-🆔 Match ID: 2633139
-🕒 Start: 2026-02-20 22:00 (GMT+3)
-📍 Tournament: Saudi Pro League
+🏟️ Match: Kawasaki Frontale Vs FC Tokyo
+🆔 Match ID: 2672597
+🕒 Start: 2026-02-21 09:00 (GMT+3)
+📍 Tournament: J1 100 Year Vision League
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25673.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5546.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1191.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1192.png
 --------------------------------------------------
-🏟️ Match: Al-Taawoun Vs Al-Fayha
-🆔 Match ID: 2633140
-🕒 Start: 2026-02-20 22:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Saudi Pro League YouTube
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2330.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7900.png
---------------------------------------------------
-🏟️ Match: Damac Vs Al-Shabab
-🆔 Match ID: 2633143
-🕒 Start: 2026-02-20 22:00 (GMT+3)
-📍 Tournament: Saudi Pro League
+🏟️ Match: Nagoya Grampus Vs V-Varen Nagasaki
+🆔 Match ID: 2672598
+🕒 Start: 2026-02-21 09:00 (GMT+3)
+📍 Tournament: J1 100 Year Vision League
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/14863.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2336.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1206.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3745.png
+--------------------------------------------------
+🏟️ Match: Kashima Antlers Vs Kashiwa Reysol
+🆔 Match ID: 2672599
+🕒 Start: 2026-02-21 10:00 (GMT+3)
+📍 Tournament: J1 100 Year Vision League
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1199.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19434.png
+--------------------------------------------------
+🏟️ Match: Mito Hollyhock Vs JEF Utd Chiba
+🆔 Match ID: 2672600
+🕒 Start: 2026-02-22 08:00 (GMT+3)
+📍 Tournament: J1 100 Year Vision League
+📺 Channels: YouTube
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3733.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3742.png
+--------------------------------------------------
+🏟️ Match: Kyoto Sanga Vs Avispa Fukuoka
+🆔 Match ID: 2672601
+🕒 Start: 2026-02-22 08:00 (GMT+3)
+📍 Tournament: J1 100 Year Vision League
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3739.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6466.png
+--------------------------------------------------
+🏟️ Match: Fagiano Okayama Vs Gamba Osaka
+🆔 Match ID: 2672602
+🕒 Start: 2026-02-22 08:00 (GMT+3)
+📍 Tournament: J1 100 Year Vision League
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3736.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1207.png
 --------------------------------------------------
