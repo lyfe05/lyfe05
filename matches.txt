@@ -1,80 +1,40 @@
-🏟️ Match: FC Twente Vs Groningen
-🆔 Match ID: 2595066
-🕒 Start: 2026-02-22 14:15 (GMT+3)
-📍 Tournament: Eredivisie
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/550.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1174.png
---------------------------------------------------
-🏟️ Match: Genoa Vs Torino
-🆔 Match ID: 2591755
-🕒 Start: 2026-02-22 14:30 (GMT+3)
+🏟️ Match: Fiorentina Vs Pisa
+🆔 Match ID: 2591754
+🕒 Start: 2026-02-23 20:30 (GMT+3)
 📍 Tournament: Serie A
 📺 Channels: DAZN
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/189.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/722.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/15.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1209.png
 --------------------------------------------------
-🏟️ Match: Sheffield United Vs Sheffield Wednesday
-🆔 Match ID: 2601179
-🕒 Start: 2026-02-22 15:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports Football
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/583.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/638.png
---------------------------------------------------
-🏟️ Match: Utrecht Vs PEC Zwolle
-🆔 Match ID: 2595067
-🕒 Start: 2026-02-22 16:30 (GMT+3)
-📍 Tournament: Eredivisie
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/445.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1175.png
---------------------------------------------------
-🏟️ Match: Go Ahead Eagles Vs Heracles
-🆔 Match ID: 2595070
-🕒 Start: 2026-02-22 16:30 (GMT+3)
-📍 Tournament: Eredivisie
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1889.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1176.png
---------------------------------------------------
-🏟️ Match: Atalanta Vs Napoli
-🆔 Match ID: 2591756
-🕒 Start: 2026-02-22 17:00 (GMT+3)
-📍 Tournament: Serie A
-📺 Channels: DAZN, BBC iPlayer, BBC Sport Website, BBC Alba
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/248.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/191.png
---------------------------------------------------
-🏟️ Match: AZ Vs Sparta Rotterdam
-🆔 Match ID: 2595065
-🕒 Start: 2026-02-22 18:45 (GMT+3)
-📍 Tournament: Eredivisie
-📺 Channels: Premier Sports 2, TrillerTV+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2019.png
---------------------------------------------------
-🏟️ Match: Milan Vs Parma
-🆔 Match ID: 2591758
-🕒 Start: 2026-02-22 20:00 (GMT+3)
+🏟️ Match: Bologna Vs Udinese
+🆔 Match ID: 2591760
+🕒 Start: 2026-02-23 22:45 (GMT+3)
 📍 Tournament: Serie A
 📺 Channels: DAZN
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/193.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/183.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/195.png
 --------------------------------------------------
-🏟️ Match: Feyenoord Vs Telstar
-🆔 Match ID: 2595068
-🕒 Start: 2026-02-22 22:00 (GMT+3)
-📍 Tournament: Eredivisie
-📺 Channels: TrillerTV+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/736.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2016.png
+🏟️ Match: Everton Vs Manchester United
+🆔 Match ID: 2595826
+🕒 Start: 2026-02-23 23:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/197.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/21.png
 --------------------------------------------------
-🏟️ Match: Roma Vs Cremonese
-🆔 Match ID: 2591759
-🕒 Start: 2026-02-22 22:45 (GMT+3)
-📍 Tournament: Serie A
-📺 Channels: TNT Sports 3, DAZN, Discovery+ Premium
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/145.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/386.png
+🏟️ Match: Alavés Vs Girona
+🆔 Match ID: 2605486
+🕒 Start: 2026-02-23 23:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Premier Sports 1
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1254.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/685.png
+--------------------------------------------------
+🏟️ Match: Shamrock Rovers Vs Dundalk
+🆔 Match ID: 2651866
+🕒 Start: 2026-02-23 23:00 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/433.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/489.png
 --------------------------------------------------
