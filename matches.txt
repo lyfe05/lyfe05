@@ -1,0 +1,40 @@
+🏟️ Match: Pisa Vs Bologna
+🆔 Match ID: 2591766
+🕒 Start: 2026-03-02 20:30 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, Paramount+, DAZN Zona IT, Sport TV2 Portugal, Astro Football, Eleven Sports 1 Poland, Digi Sport 3 Romania, Prima Sport 3 Romania, Match! Football 1 Russia, Arena 2 Premium Serbia, Cosmote Sport 2 Greece, Arena Sport 1 Croatia, TV2 Sport X Denmark, TV4 Sportkanalen, MAX Sport 3 Bulgaria, ESPN2 Argentina, SuperSport Football, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1209.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/183.png
+--------------------------------------------------
+🏟️ Match: Udinese Vs Fiorentina
+🆔 Match ID: 2591770
+🕒 Start: 2026-03-02 22:45 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, Paramount+, Sky Sport 251 IT, Sky Sport Calcio IT, DAZN2 DE, Sport TV2 Portugal, Eleven Sports 2 Poland, Match! Football 1 Russia, Digi Sport 2 Romania, Prima Sport 3 Romania, Astro Grandstand, FOX Deportes, Arena 2 Premium Serbia, Cosmote Sport 7 Greece, Arena Sport 2 Croatia, TV4 Sport Live 1, MAX Sport 3 Bulgaria, SuperSport Football, Sport 2 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/195.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/15.png
+--------------------------------------------------
+🏟️ Match: St Patrick's Athletic Vs Galway United
+🆔 Match ID: 2651871
+🕒 Start: 2026-03-02 22:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV, LOITVl
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/909.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/11862.png
+--------------------------------------------------
+🏟️ Match: Real Madrid Vs Getafe
+🆔 Match ID: 2605494
+🕒 Start: 2026-03-02 23:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Premier Sports 1, DAZN LaLiga, DAZN LaLiga 2, ESPN+ USA, Viaplay Sports 1 UK, LaLiga TV UK, Premier Sports 1 Ireland, TSN2, DAZN1 DE, DAZN Eleven 1 Portugal, Eleven Sports 1 Poland, beIN Sports 2 France, Ziggo Sport 1 NL, Ziggo Sport 2 NL, beIN Sports Malaysia, Match TV Russia, Match! Football 2 Russia, ESPN Deportes, Canal+ Sport 3 Afrique, Nova Sport 4 SK, Nova Sport 4 CZ, Digi Sport 1 Romania, Prima Sport 2 Romania, Arena 1 Premium Serbia, Nova Sports 1 Greece, TV2 Sport X Denmark, Arena Sport 1 Croatia, ESPN Argentina, MAX Sport 4 Bulgaria, TV4 Fotball, SuperSport Laliga, SuperSport MaXimo 1, Supersport Grandstand, beIN Sports MENA English 1, beIN Sports MENA 1, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/216.png
+--------------------------------------------------
+🏟️ Match: Birmingham City Vs Middlesbrough
+🆔 Match ID: 2601198
+🕒 Start: 2026-03-02 23:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Football UK, Sky Sports Main Event UK, Astro Football, Sky Sport Premier League DE, Sky Sport Top Event DE, Sport TV3 Portugal, beIN Sports max 5 France, Nova Sport 6 CZ, ESPN4 Mexico, Arena 3 Premium Serbia, Cosmote Sport 3 Greece, Fox Sports 2 Argentina, Arena Sport 3 Croatia, Diema Sport 2 Bulgaria, ESPN2 Brazil, SuperSport Variety 3, beIN Sports MENA 3, beIN Sports MENA English 2, Sport 1 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/205.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/573.png
+--------------------------------------------------
