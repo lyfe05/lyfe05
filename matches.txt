@@ -1,64 +1,40 @@
-🏟️ Match: Al-Hilal Vs Al-Najma
-🆔 Match ID: 2633156
-🕒 Start: 2026-03-06 22:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Thmanyah, Fox Soccer Plus, TRT Spor Turkey, Sportdigital FUSSBALL DE, Sport TV1 Portugal, Movistar Liga de Campeones, Cosmote Sport 8 Greece, Bandsports Brasil, KTV Sport Kuwait
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2328.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26213.png
+🏟️ Match: Mansfield Town Vs Arsenal
+🆔 Match ID: 2671738
+🕒 Start: 2026-03-07 15:15 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: TNT Sports 1 UK, ESPN2 USA, Sportsnet One, Sportsnet World, DAZN2 DE, Sport TV2 Portugal, beIN Sports 3 France, ESPN Deportes, Astro Football, Astro Grandstand, Nova Sport 5 CZ, Arena 1 Premium Serbia, Cosmote Sport 3 Greece, Arena Sport 1 Croatia, V Sport Premium, Diema Sport 2 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport Premier League, Viaplay Sport News Denmark, beIN Sports MENA English 1, Sport 1 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/629.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
 --------------------------------------------------
-🏟️ Match: Al-Khaleej Vs Al-Hazem
-🆔 Match ID: 2633159
-🕒 Start: 2026-03-06 22:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Thmanyah, Fox Soccer Plus, TRT Spor Turkey, Sportdigital FUSSBALL DE, Sport TV1 Portugal, Movistar Liga de Campeones, Cosmote Sport 8 Greece, Bandsports Brasil, KTV Sport Kuwait
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2452.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/10025.png
+🏟️ Match: Wrexham Vs Chelsea
+🆔 Match ID: 2671740
+🕒 Start: 2026-03-07 20:45 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: TNT Sports 2 UK, BBC One UK, Astro Football, Astro Grandstand, DAZN2 DE, Sportsnet 360, Sportsnet World, Sport TV4 Portugal, beIN Sports MAX 6 France, Arena 3 Premium Serbia, Canal+ Extra 1 Poland, TV3 MAX Denmark, Cosmote Sport 3 Greece, Diema Sport 3 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport Premier League, beIN Sports MENA English 1, Sport 1 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/617.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
 --------------------------------------------------
-🏟️ Match: Al-Ahli Vs Al-Ittihad
-🆔 Match ID: 2633160
-🕒 Start: 2026-03-06 22:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Thmanyah, Fox Soccer Plus, TRT Spor Turkey, Sportdigital FUSSBALL DE, Sport TV1 Portugal, Movistar Liga de Campeones, Cosmote Sport 8 Greece, Bandsports Brasil, KTV Sport Kuwait
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2339.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2335.png
+🏟️ Match: Newcastle United Vs Manchester City
+🆔 Match ID: 2671736
+🕒 Start: 2026-03-07 23:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium, TNT Sports 1 UK, Sportsnet 360, Sportsnet World, DAZN2 DE, Sport TV4 Portugal, TVP Sport Poland, beIN Sports MAX 5 France, Nova Sport 3 CZ, Nova Sport 3 SK, Astro Football, Astro Grandstand, Arena 1 Premium Serbia, Viaplay Sport News Denmark, Cosmote Sport 1 Greece, Arena Sport 1 Croatia, Diema Sport 2 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport MaXimo 1, SuperSport Premier League, SuperSport Variety 3, beIN Sports MENA English 1, Sport 1 Israel, Backup Stream, ESPN+ USA, beIN Sports MAX 6 France, Nova Sport 5 CZ, Arena Sport 8 Serbia, Cosmote Sport 3 Greece, TV3 MAX Denmark, SONY TEN 2, beIN Sports MENA 1
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/207.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/209.png
 --------------------------------------------------
-🏟️ Match: Al-Taawoun Vs Al-Fateh
-🆔 Match ID: 2633161
-🕒 Start: 2026-03-06 22:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+, Thmanyah, Fox Soccer Plus, TRT Spor Turkey, Sportdigital FUSSBALL DE, Sport TV1 Portugal, Movistar Liga de Campeones, Cosmote Sport 8 Greece, Bandsports Brasil, KTV Sport Kuwait
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2330.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2331.png
---------------------------------------------------
-🏟️ Match: JEF Utd Chiba Vs Kashiwa Reysol
-🆔 Match ID: 2672614
-🕒 Start: 2026-03-07 07:00 (GMT+3)
-📍 Tournament: J1 100 Year Vision League
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3742.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19434.png
---------------------------------------------------
-🏟️ Match: FC Tokyo Vs Yokohama F Marinos
-🆔 Match ID: 2672615
-🕒 Start: 2026-03-07 08:00 (GMT+3)
+🏟️ Match: Fagiano Okayama Vs Kyoto Sanga
+🆔 Match ID: 2672620
+🕒 Start: 2026-03-08 06:55 (GMT+3)
 📍 Tournament: J1 100 Year Vision League
 📺 Channels: YouTube
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1192.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1196.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3736.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3739.png
 --------------------------------------------------
-🏟️ Match: Urawa Red Diamonds Vs Mito Hollyhock
-🆔 Match ID: 2672616
-🕒 Start: 2026-03-07 09:00 (GMT+3)
+🏟️ Match: Gamba Osaka Vs V-Varen Nagasaki
+🆔 Match ID: 2672621
+🕒 Start: 2026-03-08 09:00 (GMT+3)
 📍 Tournament: J1 100 Year Vision League
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1197.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3733.png
---------------------------------------------------
-🏟️ Match: Cerezo Osaka Vs Shimizu S-Pulse
-🆔 Match ID: 2672617
-🕒 Start: 2026-03-07 09:00 (GMT+3)
-📍 Tournament: J1 100 Year Vision League
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1193.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1204.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1207.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3745.png
 --------------------------------------------------
