@@ -1,40 +1,16 @@
-🏟️ Match: Sporting CP Vs Bodø/Glimt
-🆔 Match ID: 2667086
-🕒 Start: 2026-03-17 20:45 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: TNT Sports 3, Discovery+ Premium, Pramaount+, TNT Sports 3 UK, CBS Sports Network USA, Sport TV5 Portugal, Sky Sport Austria 1, Sky Sport Austria 5, Movistar Liga de Campeones 2, Movistar Liga de Campeones 4, DAZN1 DE, Canal+ Sport France, Canal+ Live 4 France, Tring Sport 2 Albania, Blue Sport 1 Live, beIN Sports Malaysia, Digi Sport 1 Romania, Prima Sport 1 Romania, Ziggo Sport 1 NL, Sky Sport 255 IT, TUDN USA, Arena 2 Premium Serbia, Cosmote Sport 7 Greece, TV3 Sport Denmark, Arena Sport 2 Croatia, Nova SPORT 4 CZ, TNT Brasil, MAX Sport 3 Bulgaria, Fox Sports 2 Argentina, SuperSport Premier League, beIN Sports MENA 4, beIN Sports MENA English 2, Sport 5 Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/140.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2394.png
+🏟️ Match: Alajuelense Vs LAFC
+🆔 Match ID: 2651120
+🕒 Start: 2026-03-18 04:00 (GMT+3)
+📍 Tournament: CONCACAF Champions Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6283.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/8936.png
 --------------------------------------------------
-🏟️ Match: Watford Vs Wrexham
-🆔 Match ID: 2601221
-🕒 Start: 2026-03-17 22:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports+, CBS Sports Network USA
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/580.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/617.png
---------------------------------------------------
-🏟️ Match: Chelsea Vs PSG
-🆔 Match ID: 2667084
-🕒 Start: 2026-03-17 23:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: Pramaount+, TNT Sports 2 UK, Canal+ Foot France, Sky Sport Austria 4, Movistar Liga de Campeones 3, DAZN2 DE, DAZN Eleven 2 Portugal (CH-456) Canal+ Extra 3 Poland, Sky Sport Arena IT, Sky Sport 253 IT, TUDN USA, UniMás, Digi Sport 2 Romania, Prima Sport 2 Romania, beIN Sports 2 Malaysia, Ziggo Sport 2 NL, Arena 3 Premium Serbia, TV2 Sport 1 Norway, Cosmote Sport 3 Greece, TV3 Sport Denmark, Arena Sport 2 Croatia, MAX Sport 4 Bulgaria, Fox Sports Argentina, SuperSport Variety 3, beIN Sports MENA 1, Sport 5 Plus Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/263.png
---------------------------------------------------
-🏟️ Match: Manchester City Vs Real Madrid
-🆔 Match ID: 2667087
-🕒 Start: 2026-03-17 23:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: Amazon Prime Video, Pramaount+, Movistar Liga de Campeones, Movistar Plus+, Sky Sport Austria 3, DAZN1 DE, DAZN Eleven 1 Portugal, Canal+ Extra 1 Poland, Canal+ Sport France, Sky Sport Calcio IT, Digi Sport 1 Romania, Prima Sport 1 Romania, beIN Sports Malaysia, TUDN USA, UniMás, Cosmote Sport 2 Greece, TV3+ HD Denmark, TNT Brasil, Arena Sport 1 Croatia, Nova SPORT 3 CZ, Ziggo Sport 1 NL, Ziggo Sport 5 NL, Arena 2 Premium Serbia, V Sport Fotball, MAX Sport 3 Bulgaria, ESPN Argentina, SuperSport Premier League, beIN Sports MENA 2, beIN Sports MENA English 2, Sport 5 Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/209.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26.png
---------------------------------------------------
-🏟️ Match: Arsenal Vs Bayer Leverkusen
-🆔 Match ID: 2667088
-🕒 Start: 2026-03-17 23:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: TNT Sports 1, TNT Sports Ultimate, Discovery+ Premium, Pramaount+, TNT Sports 1 UK, Sky Sport Austria 2, Movistar Liga de Campeones 2, Movistar Liga de Campeones 5, DAZN Eleven 3 Portugal, Canal+ Sport360 France, Sky Sport 254 IT, Sky Sport Max IT, beIN Sports 3 Malaysia, Arena 4 Premium Serbia, CANAL+ 360 Poland, Prima Sport 3 Romania, Ziggo Sport 3 NL, Cosmote Sport 5 Greece, TV3 MAX Denmark, Arena Sport 3 Croatia, V Sport Premium, Space Brazil, MAX Sport 2 Bulgaria, Nova SPORT 5 CZ, ESPN2 Argentina, SuperSport MaXimo 1, SuperSport PSL, beIN Sports MENA 3, Sport 5 Star Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/162.png
+🏟️ Match: Cruz Azul Vs Monterrey
+🆔 Match ID: 2651119
+🕒 Start: 2026-03-18 06:00 (GMT+3)
+📍 Tournament: CONCACAF Champions Cup
+📺 Channels: YouTube, Fox Sports 1 USA, TUDN USA
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1843.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1648.png
 --------------------------------------------------
