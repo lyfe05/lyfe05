@@ -1,248 +1,128 @@
-🏟️ Match: Solomon Islands Vs Bulgaria
-🆔 Match ID: 2671457
-🕒 Start: 2026-03-27 11:30 (GMT+3)
+🏟️ Match: Zambia Vs Malawi
+🆔 Match ID: 2677888
+🕒 Start: 2026-03-28 16:00 (GMT+3)
 📍 Tournament: International Friendlies
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1341.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/114.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/596.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1379.png
 --------------------------------------------------
-🏟️ Match: Australia Vs Cameroon
-🆔 Match ID: 2664717
-🕒 Start: 2026-03-27 12:10 (GMT+3)
+🏟️ Match: Korea Republic Vs Côte d'Ivoire
+🆔 Match ID: 2670300
+🕒 Start: 2026-03-28 17:00 (GMT+3)
 📍 Tournament: International Friendlies
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/74.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/87.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/70.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/41.png
 --------------------------------------------------
-🏟️ Match: Venezuela Vs Trinidad and Tobago
-🆔 Match ID: 2670738
-🕒 Start: 2026-03-27 13:00 (GMT+3)
+🏟️ Match: Kyrgyz Republic Vs Madagascar
+🆔 Match ID: 2676772
+🕒 Start: 2026-03-28 17:00 (GMT+3)
 📍 Tournament: International Friendlies
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/591.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/107.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1409.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1380.png
 --------------------------------------------------
-🏟️ Match: Oman Vs Sierra Leone
-🆔 Match ID: 2672142
-🕒 Start: 2026-03-27 14:00 (GMT+3)
+🏟️ Match: San Marino Vs Faroe Islands
+🆔 Match ID: 2677191
+🕒 Start: 2026-03-28 17:00 (GMT+3)
 📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/714.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1370.png
+📺 Channels: Fox Soccer Plus, DAZN2 DE, Polsat Sport Premium 1 Poland, beIN Sports MENA 4
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/300.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/317.png
 --------------------------------------------------
-🏟️ Match: Guyana Vs Dominican Republic
-🆔 Match ID: 2671840
-🕒 Start: 2026-03-27 15:00 (GMT+3)
+🏟️ Match: Namibia Vs Comoros
+🆔 Match ID: 2677725
+🕒 Start: 2026-03-28 17:00 (GMT+3)
 📍 Tournament: International Friendlies
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1363.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1357.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1377.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1381.png
 --------------------------------------------------
-🏟️ Match: Benin Vs Palestine
-🆔 Match ID: 2671884
-🕒 Start: 2026-03-27 15:00 (GMT+3)
+🏟️ Match: Botswana Vs Zimbabwe
+🆔 Match ID: 2677889
+🕒 Start: 2026-03-28 18:00 (GMT+3)
 📍 Tournament: International Friendlies
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1385.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1398.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/839.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/587.png
 --------------------------------------------------
-🏟️ Match: Liberia Vs Mauritania
-🆔 Match ID: 2673180
-🕒 Start: 2026-03-27 15:00 (GMT+3)
+🏟️ Match: Senegal Vs Peru
+🆔 Match ID: 2672754
+🕒 Start: 2026-03-28 19:00 (GMT+3)
 📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1382.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2070.png
+📺 Channels: FOX Deportes
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/121.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/127.png
 --------------------------------------------------
-🏟️ Match: Iran Vs Nigeria
-🆔 Match ID: 2672035
-🕒 Start: 2026-03-27 15:30 (GMT+3)
+🏟️ Match: Canada Vs Iceland
+🆔 Match ID: 2664742
+🕒 Start: 2026-03-28 20:00 (GMT+3)
 📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/102.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/85.png
+📺 Channels: TSN1, TSN4, RDS CA
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/132.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/296.png
 --------------------------------------------------
-🏟️ Match: Indonesia Vs St. Kitts and Nevis
-🆔 Match ID: 2671458
-🕒 Start: 2026-03-27 16:00 (GMT+3)
+🏟️ Match: Scotland Vs Japan
+🆔 Match ID: 2664764
+🕒 Start: 2026-03-28 20:00 (GMT+3)
 📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1410.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1347.png
+📺 Channels: Fox Soccer Plus, BBC Scotland, DAZN2 DE, Sport TV2 Portugal, L'Equipe France, SONY TEN 1, Sky Sport 7 NZ, Polsat Sport 2 Poland, Digi Sport 2 Romania, Prima Sport 4 Romania, Polsat Sport Extra 1 Poland, Sky Sport Arena IT, Arena 5 Premium Serbia, TV2 Sport X Denmark, V Sport Premium, Diema Sport 3 Bulgaria, ESPN Brazil, SuperSport PSL, beIN Sports MENA 1, Sport 4 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/113.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/52.png
 --------------------------------------------------
-🏟️ Match: Uzbekistan Vs Gabon
-🆔 Match ID: 2673718
-🕒 Start: 2026-03-27 17:00 (GMT+3)
+🏟️ Match: Hungary Vs Slovenia
+🆔 Match ID: 2665390
+🕒 Start: 2026-03-28 20:00 (GMT+3)
 📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/592.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1016.png
+📺 Channels: M4 Sports Hungary, SportKlub 1 Slovenia, Sky Sport 6 NZ, Sport TV6 Portugal, SONY TEN 2 HD, Polsat Sport Premium 1 Poland, Prima Sport 3 Romania, Arena 3 Premium Serbia, Diema Sport Bulgaria, SuperSport Laliga, beIN Sports MENA 2, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/125.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/67.png
 --------------------------------------------------
-🏟️ Match: Azerbaijan Vs St. Lucia
-🆔 Match ID: 2672143
-🕒 Start: 2026-03-27 18:00 (GMT+3)
+🏟️ Match: Burkina Faso Vs Guinea-Bissau
+🆔 Match ID: 2677918
+🕒 Start: 2026-03-28 21:00 (GMT+3)
 📍 Tournament: International Friendlies
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/309.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1352.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1018.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1376.png
 --------------------------------------------------
-🏟️ Match: Togo Vs Guinea
-🆔 Match ID: 2673181
-🕒 Start: 2026-03-27 18:00 (GMT+3)
+🏟️ Match: United States Vs Belgium
+🆔 Match ID: 2657779
+🕒 Start: 2026-03-28 22:30 (GMT+3)
 📍 Tournament: International Friendlies
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/106.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1010.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/81.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/116.png
 --------------------------------------------------
-🏟️ Match: Benin Vs Liberia
-🆔 Match ID: 2677920
-🕒 Start: 2026-03-27 18:00 (GMT+3)
+🏟️ Match: American Samoa Vs Guam
+🆔 Match ID: 2678185
+🕒 Start: 2026-03-28 23:00 (GMT+3)
 📍 Tournament: International Friendlies
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1385.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1382.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1335.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4980.png
 --------------------------------------------------
-🏟️ Match: Kenya Vs Estonia
-🆔 Match ID: 2673706
-🕒 Start: 2026-03-27 19:00 (GMT+3)
+🏟️ Match: Haiti Vs Tunisia
+🆔 Match ID: 2664743
+🕒 Start: 2026-03-29 03:00 (GMT+3)
 📍 Tournament: International Friendlies
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1372.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/302.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/134.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/112.png
 --------------------------------------------------
-🏟️ Match: Russia Vs Nicaragua
-🆔 Match ID: 2674446
-🕒 Start: 2026-03-27 19:30 (GMT+3)
+🏟️ Match: Puerto Rico Vs US Virgin Islands
+🆔 Match ID: 2678186
+🕒 Start: 2026-03-29 03:00 (GMT+3)
 📍 Tournament: International Friendlies
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/124.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1364.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1138.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1348.png
 --------------------------------------------------
-🏟️ Match: Austria Vs Ghana
-🆔 Match ID: 2664741
-🕒 Start: 2026-03-27 20:00 (GMT+3)
+🏟️ Match: Mexico Vs Portugal
+🆔 Match ID: 2657780
+🕒 Start: 2026-03-29 04:00 (GMT+3)
 📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/117.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/60.png
---------------------------------------------------
-🏟️ Match: Montenegro Vs Andorra
-🆔 Match ID: 2668848
-🕒 Start: 2026-03-27 20:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/316.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/318.png
---------------------------------------------------
-🏟️ Match: South Africa Vs Panama
-🆔 Match ID: 2669750
-🕒 Start: 2026-03-27 20:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/39.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1022.png
---------------------------------------------------
-🏟️ Match: Saudi Arabia Vs Egypt
-🆔 Match ID: 2663261
-🕒 Start: 2026-03-27 20:30 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/104.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/590.png
---------------------------------------------------
-🏟️ Match: Jordan Vs Costa Rica
-🆔 Match ID: 2673166
-🕒 Start: 2026-03-27 20:30 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/777.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/98.png
---------------------------------------------------
-🏟️ Match: Libya Vs Niger
-🆔 Match ID: 2677720
-🕒 Start: 2026-03-27 21:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/892.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1007.png
---------------------------------------------------
-🏟️ Match: Greece Vs Paraguay
-🆔 Match ID: 2671449
-🕒 Start: 2026-03-27 22:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/44.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/47.png
---------------------------------------------------
-🏟️ Match: Rwanda Vs Grenada
-🆔 Match ID: 2673713
-🕒 Start: 2026-03-27 22:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1366.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1343.png
---------------------------------------------------
-🏟️ Match: Algeria Vs Guatemala
-🆔 Match ID: 2673378
-🕒 Start: 2026-03-27 22:30 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/59.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/593.png
---------------------------------------------------
-🏟️ Match: Netherlands Vs Norway
-🆔 Match ID: 2657776
-🕒 Start: 2026-03-27 22:45 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/38.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/115.png
---------------------------------------------------
-🏟️ Match: England Vs Uruguay
-🆔 Match ID: 2657777
-🕒 Start: 2026-03-27 22:45 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/61.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/56.png
---------------------------------------------------
-🏟️ Match: Switzerland Vs Germany
-🆔 Match ID: 2657778
-🕒 Start: 2026-03-27 22:45 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/93.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/96.png
---------------------------------------------------
-🏟️ Match: Spain Vs Serbia
-🆔 Match ID: 2676972
-🕒 Start: 2026-03-27 23:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/34.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/88.png
---------------------------------------------------
-🏟️ Match: Morocco Vs Ecuador
-🆔 Match ID: 2670530
-🕒 Start: 2026-03-27 23:15 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/108.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/101.png
---------------------------------------------------
-🏟️ Match: Guyana Vs Dominica
-🆔 Match ID: 2676631
-🕒 Start: 2026-03-27 23:30 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1363.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1345.png
---------------------------------------------------
-🏟️ Match: Argentina Vs Mauritania
-🆔 Match ID: 2677661
-🕒 Start: 2026-03-28 02:15 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/55.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2070.png
+📺 Channels: TUDN Mexico, Azteca 7 Mexico, Sport TV1 Portugal, RTP 1 Portugal, Canal 11 Portugal, TUDN USA, FOX Deportes, Univision, SporTV BR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/69.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/43.png
 --------------------------------------------------
