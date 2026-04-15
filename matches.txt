@@ -2,39 +2,23 @@
 🆔 Match ID: 2633194
 🕒 Start: 2026-04-14 21:00 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: OneFootball, The AFC Hub, Saudi Pro League YouTube, ESPN 2 NL, SPORT1+ DE, Nova Sport Bulgaria, beIN Sports MENA 1, Sportklub 1 Croatia, Alkass One, beIN Sports HD Qatar, ESPN 4 NL, ESPN2 Mexico, Diema Sport 3 Bulgaria, ESPN4 Brazil, beIN Sports MENA 2, beIN Sports MENA 3, ESPN 1 NL, ESPN4 Mexico, ESPN3 Brazil, Sport 3 Israel, Thmanyah, Fox Sports 2 USA, Movistar Liga de Campeones 4, #Vamos ES, Sport TV1 Portugal, Cosmote Sport 5 Greece, Sportklub 3 Croatia
+📺 Channels: Saudi Pro League YouTube, ESPN 1 NL, SPORT1+ DE, ESPN4 Mexico, ESPN3 Brazil, Sportklub 1 Croatia, Sport 3 Israel, Thmanyah, Fox Sports 2 USA, Movistar Liga de Campeones 4, #Vamos ES, Sport TV1 Portugal, Cosmote Sport 5 Greece, Sportklub 3 Croatia, Jordan TV Sport, Sportdigital FUSSBALL DE, MAX Sport 3 Bulgaria, FOX Deportes, Prima Sport 3 Romania, BandSports Brazil
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5546.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2336.png
 --------------------------------------------------
-🏟️ Match: Liverpool FC Vs PSG
-🆔 Match ID: 2674457
-🕒 Start: 2026-04-14 22:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: Paramount+, Canal+ Foot France, Sky Sport Austria 2, Movistar Liga de Campeones 2, DAZN Eleven 1 Portugal, Canal+ Extra 2 Poland, Sky Sport Arena IT, Ziggo Sport 1 NL, beIN Sports Malaysia, SONY TEN 2, SONY TEN 3, Sky Sport 252 IT, Amazon Prime Video DE, Arena 1 Premium Serbia, SCTV Indonesia, Cytavision Sports 3, Tring Sport 1 Albania, Cosmote Sport 3 Greece, Arena Sport 3 Croatia, TV3+ Denmark, MAX Sport 3 Bulgaria, V Sport Premium, Fox Sports 2 Argentina, SuperSport MaXimo 1, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, 5Plus Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/263.png
+🏟️ Match: Cruz Azul Vs LAFC
+🆔 Match ID: 2677638
+🕒 Start: 2026-04-15 04:00 (GMT+3)
+📍 Tournament: CONCACAF Champions Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1843.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/8936.png
 --------------------------------------------------
-🏟️ Match: Atlético de Madrid Vs Barcelona
-🆔 Match ID: 2674459
-🕒 Start: 2026-04-14 22:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: TNT Sports 1, HBO Max, Paramount+, TNT Sports 1 UK, Movistar Liga de Campeones, Sky Sport Austria 3, Movistar Plus+, DAZN1 DE, Canal+ Extra 1 Poland, Ziggo Sport 2 NL, Sky Sport Calcio IT, Canal+ Sport France, Sport 1 Hungary, Sky Sport 253 IT, SONY TEN 1, TUDN USA, Tring Sport 2 Albania, Virgin Media Two UK, Cytavision Sports 4, Univision, beIN Sports 3 Malaysia, TV2 Sport 1 Norway, Sport TV5 Portugal, Arena 2 Premium Serbia, Cosmote Sport 2 Greece, Arena Sport 1 Croatia, V Sport Fotball, MAX Sport 4 Bulgaria, ESPN Argentina, SuperSport PSL, beIN Sports MENA 2, beIN Sports MENA English 2, 5Sport Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5.png
---------------------------------------------------
-🏟️ Match: Portsmouth Vs Ipswich Town
-🆔 Match ID: 2601090
-🕒 Start: 2026-04-14 22:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports Main Event, Sky Sports Ultra HDR, Sky Sports Main Event UK, beIN Sports MAX 4 France, Astro Football, Arena 3 Premium Serbia, ESPN2 Mexico, Cosmote Sport 7 Greece, Diema Sport 2 Bulgaria, ESPN2 Brazil, beIN Sports MENA 5
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/277.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/570.png
---------------------------------------------------
-🏟️ Match: Southampton Vs Blackburn Rovers
-🆔 Match ID: 2601328
-🕒 Start: 2026-04-14 22:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Sky Sports Football, Sky Sports Ultra HDR, Sky Sports Football UK, Cosmote Sport 8 Greece, beIN Sports MENA 4, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/615.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/210.png
+🏟️ Match: Club América Vs Nashville
+🆔 Match ID: 2677639
+🕒 Start: 2026-04-15 06:30 (GMT+3)
+📍 Tournament: CONCACAF Champions Cup
+📺 Channels: YouTube, Fox Sports 1 USA, SPORT1+ DE, ESPN2 Brazil, TUDN USA, Sportklub 1 Croatia, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1834.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16912.png
 --------------------------------------------------
