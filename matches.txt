@@ -1,136 +1,32 @@
-🏟️ Match: Fiorentina Vs Sassuolo
-🆔 Match ID: 2591834
-🕒 Start: 2026-04-26 13:30 (GMT+3)
+🏟️ Match: Cagliari Vs Atalanta
+🆔 Match ID: 2591833
+🕒 Start: 2026-04-27 19:30 (GMT+3)
 📍 Tournament: Serie A
 📺 Channels: DAZN
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/15.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/724.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/185.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/248.png
 --------------------------------------------------
-🏟️ Match: Coventry City Vs Wrexham
-🆔 Match ID: 2601321
-🕒 Start: 2026-04-26 14:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: ITV1, Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, ITVX, STV, STV Player
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/566.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/617.png
---------------------------------------------------
-🏟️ Match: Rayo Vallecano Vs Real Sociedad
-🆔 Match ID: 2605562
-🕒 Start: 2026-04-26 15:00 (GMT+3)
-📍 Tournament: LaLiga
-📺 Channels: Premier Sports 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/690.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/223.png
---------------------------------------------------
-🏟️ Match: Genoa Vs Como
-🆔 Match ID: 2591835
-🕒 Start: 2026-04-26 16:00 (GMT+3)
+🏟️ Match: Lazio Vs Udinese
+🆔 Match ID: 2591836
+🕒 Start: 2026-04-27 21:45 (GMT+3)
 📍 Tournament: Serie A
 📺 Channels: DAZN
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/189.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/387.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/139.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/195.png
 --------------------------------------------------
-🏟️ Match: Lorient Vs Strasbourg
-🆔 Match ID: 2603182
-🕒 Start: 2026-04-26 16:00 (GMT+3)
-📍 Tournament: Ligue 1
-📺 Channels: Ligue 1+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/258.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/756.png
+🏟️ Match: Manchester United Vs Brentford
+🆔 Match ID: 2595898
+🕒 Start: 2026-04-27 22:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Sky Sports Premier League, Sky Sports Main Event, Sky Sports Ultra HDR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/21.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/671.png
 --------------------------------------------------
-🏟️ Match: VfB Stuttgart Vs Werder Bremen
-🆔 Match ID: 2603673
-🕒 Start: 2026-04-26 16:30 (GMT+3)
-📍 Tournament: Bundesliga
-📺 Channels: Amazon Prime Video
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/31.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/150.png
---------------------------------------------------
-🏟️ Match: Chelsea Vs Leeds United
-🆔 Match ID: 2680257
-🕒 Start: 2026-04-26 17:00 (GMT+3)
-📍 Tournament: FA Cup
-📺 Channels: TNT Sports 1, HBO Max
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/571.png
---------------------------------------------------
-🏟️ Match: Real Oviedo Vs Elche
-🆔 Match ID: 2605556
-🕒 Start: 2026-04-26 17:15 (GMT+3)
-📍 Tournament: LaLiga
-📺 Channels: Premier Sports 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1239.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/682.png
---------------------------------------------------
-🏟️ Match: Rennes Vs Nantes
-🆔 Match ID: 2603178
-🕒 Start: 2026-04-26 18:15 (GMT+3)
-📍 Tournament: Ligue 1
-📺 Channels: Ligue 1+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/264.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/708.png
---------------------------------------------------
-🏟️ Match: Le Havre Vs Metz
-🆔 Match ID: 2603180
-🕒 Start: 2026-04-26 18:15 (GMT+3)
-📍 Tournament: Ligue 1
-📺 Channels: Ligue 1+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/701.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/710.png
---------------------------------------------------
-🏟️ Match: Paris FC Vs LOSC
-🆔 Match ID: 2603181
-🕒 Start: 2026-04-26 18:15 (GMT+3)
-📍 Tournament: Ligue 1
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5170.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/257.png
---------------------------------------------------
-🏟️ Match: Borussia Dortmund Vs SC Freiburg
-🆔 Match ID: 2603670
-🕒 Start: 2026-04-26 18:30 (GMT+3)
-📍 Tournament: Bundesliga
-📺 Channels: Amazon Prime Video
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/155.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/159.png
---------------------------------------------------
-🏟️ Match: Torino Vs Inter
-🆔 Match ID: 2591840
-🕒 Start: 2026-04-26 19:00 (GMT+3)
-📍 Tournament: Serie A
-📺 Channels: DAZN, BBC iPlayer, BBC Sport Website, BBC Alba
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/722.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16.png
---------------------------------------------------
-🏟️ Match: Osasuna Vs Sevilla
-🆔 Match ID: 2605561
-🕒 Start: 2026-04-26 19:30 (GMT+3)
+🏟️ Match: Espanyol Vs Levante
+🆔 Match ID: 2605560
+🕒 Start: 2026-04-27 22:00 (GMT+3)
 📍 Tournament: LaLiga
 📺 Channels: Premier Sports 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/221.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/28.png
---------------------------------------------------
-🏟️ Match: Milan Vs Juventus
-🆔 Match ID: 2591837
-🕒 Start: 2026-04-26 21:45 (GMT+3)
-📍 Tournament: Serie A
-📺 Channels: DAZN, TNT Sports 1, HBO Max
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/17.png
---------------------------------------------------
-🏟️ Match: Marseille Vs Nice
-🆔 Match ID: 2603186
-🕒 Start: 2026-04-26 21:45 (GMT+3)
-📍 Tournament: Ligue 1
-📺 Channels: Amazon Prime Video, Ligue 1+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/22.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/262.png
---------------------------------------------------
-🏟️ Match: Villarreal Vs Celta de Vigo
-🆔 Match ID: 2605565
-🕒 Start: 2026-04-26 22:00 (GMT+3)
-📍 Tournament: LaLiga
-📺 Channels: Premier Sports 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/226.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/680.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/215.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/218.png
 --------------------------------------------------
