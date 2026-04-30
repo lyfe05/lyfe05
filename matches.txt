@@ -1,8 +1,32 @@
-🏟️ Match: Atlético de Madrid Vs Arsenal
-🆔 Match ID: 2674463
-🕒 Start: 2026-04-29 22:00 (GMT+3)
-📍 Tournament: UEFA Champions League
+🏟️ Match: Nottingham Forest Vs Aston Villa
+🆔 Match ID: 2674523
+🕒 Start: 2026-04-30 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
 📺 Channels: TNT Sports 1, TNT Sports Ultimate, HBO Max
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/577.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/199.png
+--------------------------------------------------
+🏟️ Match: Braga Vs SC Freiburg
+🆔 Match ID: 2674522
+🕒 Start: 2026-04-30 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: TNT Sports 4, HBO Max
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/382.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/159.png
+--------------------------------------------------
+🏟️ Match: Rayo Vallecano Vs Strasbourg
+🆔 Match ID: 2674554
+🕒 Start: 2026-04-30 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: TNT Sports 5, HBO Max
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/690.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/756.png
+--------------------------------------------------
+🏟️ Match: Shakhtar Donetsk Vs Crystal Palace
+🆔 Match ID: 2674553
+🕒 Start: 2026-04-30 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: TNT Sports 2, HBO Max
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/138.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/567.png
 --------------------------------------------------
