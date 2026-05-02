@@ -1,16 +1,8 @@
-🏟️ Match: Pisa Vs Lecce
-🆔 Match ID: 2591848
-🕒 Start: 2026-05-01 21:45 (GMT+3)
-📍 Tournament: Serie A
-📺 Channels: DAZN
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1209.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/190.png
---------------------------------------------------
 🏟️ Match: Drogheda United Vs Sligo Rovers
 🆔 Match ID: 2651929
 🕒 Start: 2026-05-01 21:45 (GMT+3)
 📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
+📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1883.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4170.png
 --------------------------------------------------
@@ -18,7 +10,7 @@
 🆔 Match ID: 2651930
 🕒 Start: 2026-05-01 21:45 (GMT+3)
 📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
+📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/489.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4167.png
 --------------------------------------------------
@@ -26,31 +18,15 @@
 🆔 Match ID: 2651931
 🕒 Start: 2026-05-01 21:45 (GMT+3)
 📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
+📺 Channels: MUTV
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/11862.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/909.png
---------------------------------------------------
-🏟️ Match: Leeds United Vs Burnley
-🆔 Match ID: 2595908
-🕒 Start: 2026-05-01 22:00 (GMT+3)
-📍 Tournament: Premier League
-📺 Channels: Sky Sports Premier League, Sky Sports Main Event, Sky Sports Ultra HDR
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/571.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/275.png
---------------------------------------------------
-🏟️ Match: Girona Vs Mallorca
-🆔 Match ID: 2605584
-🕒 Start: 2026-05-01 22:00 (GMT+3)
-📍 Tournament: LaLiga
-📺 Channels: Premier Sports 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/685.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/220.png
 --------------------------------------------------
 🏟️ Match: Bohemian Vs Derry City
 🆔 Match ID: 2651928
 🕒 Start: 2026-05-01 22:00 (GMT+3)
 📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
+📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/346.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1913.png
 --------------------------------------------------
@@ -58,7 +34,7 @@
 🆔 Match ID: 2651932
 🕒 Start: 2026-05-01 22:00 (GMT+3)
 📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
+📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/433.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4138.png
 --------------------------------------------------
