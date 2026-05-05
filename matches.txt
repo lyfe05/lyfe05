@@ -1,80 +1,40 @@
-🏟️ Match: Chelsea Vs Nottingham Forest
-🆔 Match ID: 2595906
-🕒 Start: 2026-05-04 17:00 (GMT+3)
-📍 Tournament: Premier League
-📺 Channels: Sky Sports Premier League, Sky Sports Main Event, Sky Sports Ultra HDR
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/577.png
+🏟️ Match: Japan U17 Vs Qatar U17
+🆔 Match ID: 2670570
+🕒 Start: 2026-05-05 19:00 (GMT+3)
+📍 Tournament: AFC U-17 Asian Cup
+📺 Channels: YouTube, CITY+, UEFA.tv, OneFootball, Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10671.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/25489.png
 --------------------------------------------------
-🏟️ Match: Bohemian Vs Shelbourne
-🆔 Match ID: 2651933
-🕒 Start: 2026-05-04 19:00 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/346.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4167.png
+🏟️ Match: Indonesia U17 Vs China U17
+🆔 Match ID: 2670571
+🕒 Start: 2026-05-05 19:30 (GMT+3)
+📍 Tournament: AFC U-17 Asian Cup
+📺 Channels: YouTube, CITY+, UEFA.tv, OneFootball, Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/51771.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/24623.png
 --------------------------------------------------
-🏟️ Match: Derry City Vs Galway United
-🆔 Match ID: 2651934
-🕒 Start: 2026-05-04 19:00 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1913.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/11862.png
+🏟️ Match: Saudi Arabia U17 Vs Myanmar U17
+🆔 Match ID: 2670572
+🕒 Start: 2026-05-05 20:00 (GMT+3)
+📍 Tournament: AFC U-17 Asian Cup
+📺 Channels: YouTube, CITY+, UEFA.tv, OneFootball, Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/47589.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/60529.png
 --------------------------------------------------
-🏟️ Match: Shamrock Rovers Vs Drogheda United
-🆔 Match ID: 2651935
-🕒 Start: 2026-05-04 19:00 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/433.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1883.png
+🏟️ Match: Tajikistan U17 Vs Thailand U17
+🆔 Match ID: 2670569
+🕒 Start: 2026-05-05 20:30 (GMT+3)
+📍 Tournament: AFC U-17 Asian Cup
+📺 Channels: YouTube, CITY+, UEFA.tv, OneFootball, Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/13863.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/29794.png
 --------------------------------------------------
-🏟️ Match: Sligo Rovers Vs St Patrick's Athletic
-🆔 Match ID: 2651936
-🕒 Start: 2026-05-04 19:00 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4170.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/909.png
---------------------------------------------------
-🏟️ Match: Waterford Vs Dundalk
-🆔 Match ID: 2651937
-🕒 Start: 2026-05-04 19:00 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4138.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/489.png
---------------------------------------------------
-🏟️ Match: Cremonese Vs Lazio
-🆔 Match ID: 2591845
-🕒 Start: 2026-05-04 19:30 (GMT+3)
-📍 Tournament: Serie A
-📺 Channels: DAZN
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/386.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/139.png
---------------------------------------------------
-🏟️ Match: Roma Vs Fiorentina
-🆔 Match ID: 2591849
-🕒 Start: 2026-05-04 21:45 (GMT+3)
-📍 Tournament: Serie A
-📺 Channels: DAZN
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/145.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/15.png
---------------------------------------------------
-🏟️ Match: Everton Vs Manchester City
-🆔 Match ID: 2595907
-🕒 Start: 2026-05-04 22:00 (GMT+3)
-📍 Tournament: Premier League
-📺 Channels: Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/197.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/209.png
---------------------------------------------------
-🏟️ Match: Sevilla Vs Real Sociedad
-🆔 Match ID: 2605578
-🕒 Start: 2026-05-04 22:00 (GMT+3)
-📍 Tournament: LaLiga
-📺 Channels: Premier Sports 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/28.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/223.png
+🏟️ Match: Arsenal Vs Atlético de Madrid
+🆔 Match ID: 2674465
+🕒 Start: 2026-05-05 22:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Amazon Prime Video
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3.png
 --------------------------------------------------
