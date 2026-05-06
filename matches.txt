@@ -1,40 +1,40 @@
-🏟️ Match: Japan U17 Vs Qatar U17
-🆔 Match ID: 2670570
-🕒 Start: 2026-05-05 19:00 (GMT+3)
+🏟️ Match: Australia U17 Vs India U17
+🆔 Match ID: 2670574
+🕒 Start: 2026-05-06 19:00 (GMT+3)
 📍 Tournament: AFC U-17 Asian Cup
-📺 Channels: YouTube, CITY+, UEFA.tv, OneFootball, Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10671.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/25489.png
+📺 Channels: Palace TV+, OneFootball, YouTube, Cancelled, Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6205.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/29194.png
 --------------------------------------------------
-🏟️ Match: Indonesia U17 Vs China U17
-🆔 Match ID: 2670571
-🕒 Start: 2026-05-05 19:30 (GMT+3)
+🏟️ Match: Yemen U17 Vs Vietnam U17
+🆔 Match ID: 2670576
+🕒 Start: 2026-05-06 20:00 (GMT+3)
 📍 Tournament: AFC U-17 Asian Cup
-📺 Channels: YouTube, CITY+, UEFA.tv, OneFootball, Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/51771.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/24623.png
+📺 Channels: Palace TV+, OneFootball, YouTube, Cancelled, Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/56480.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/34759.png
 --------------------------------------------------
-🏟️ Match: Saudi Arabia U17 Vs Myanmar U17
-🆔 Match ID: 2670572
-🕒 Start: 2026-05-05 20:00 (GMT+3)
+🏟️ Match: Korea Republic U17 Vs United Arab Emirates U17
+🆔 Match ID: 2670573
+🕒 Start: 2026-05-06 20:30 (GMT+3)
 📍 Tournament: AFC U-17 Asian Cup
-📺 Channels: YouTube, CITY+, UEFA.tv, OneFootball, Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/47589.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/60529.png
+📺 Channels: Palace TV+, OneFootball, YouTube, Cancelled, Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10719.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/25657.png
 --------------------------------------------------
-🏟️ Match: Tajikistan U17 Vs Thailand U17
-🆔 Match ID: 2670569
-🕒 Start: 2026-05-05 20:30 (GMT+3)
-📍 Tournament: AFC U-17 Asian Cup
-📺 Channels: YouTube, CITY+, UEFA.tv, OneFootball, Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/13863.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/29794.png
+🏟️ Match: Al-Ahli Vs Al-Fateh
+🆔 Match ID: 2633187
+🕒 Start: 2026-05-06 21:00 (GMT+3)
+📍 Tournament: Saudi Pro League
+📺 Channels: TrillerTV+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2339.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2331.png
 --------------------------------------------------
-🏟️ Match: Arsenal Vs Atlético de Madrid
-🆔 Match ID: 2674465
-🕒 Start: 2026-05-05 22:00 (GMT+3)
+🏟️ Match: Bayern Munich Vs PSG
+🆔 Match ID: 2674464
+🕒 Start: 2026-05-06 22:00 (GMT+3)
 📍 Tournament: UEFA Champions League
-📺 Channels: Amazon Prime Video
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3.png
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/263.png
 --------------------------------------------------
