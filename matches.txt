@@ -1,40 +1,32 @@
-🏟️ Match: Australia U17 Vs India U17
-🆔 Match ID: 2670574
-🕒 Start: 2026-05-06 19:00 (GMT+3)
-📍 Tournament: AFC U-17 Asian Cup
-📺 Channels: Palace TV+, OneFootball, YouTube, Cancelled, Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6205.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/29194.png
+🏟️ Match: Aston Villa Vs Nottingham Forest
+🆔 Match ID: 2674525
+🕒 Start: 2026-05-07 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: TNT Sports 1, TNT Sports Ultimate, HBO Max
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/199.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/577.png
 --------------------------------------------------
-🏟️ Match: Yemen U17 Vs Vietnam U17
-🆔 Match ID: 2670576
-🕒 Start: 2026-05-06 20:00 (GMT+3)
-📍 Tournament: AFC U-17 Asian Cup
-📺 Channels: Palace TV+, OneFootball, YouTube, Cancelled, Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/56480.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/34759.png
+🏟️ Match: SC Freiburg Vs Braga
+🆔 Match ID: 2674524
+🕒 Start: 2026-05-07 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: TNT Sports 3, HBO Max
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/159.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/382.png
 --------------------------------------------------
-🏟️ Match: Korea Republic U17 Vs United Arab Emirates U17
-🆔 Match ID: 2670573
-🕒 Start: 2026-05-06 20:30 (GMT+3)
-📍 Tournament: AFC U-17 Asian Cup
-📺 Channels: Palace TV+, OneFootball, YouTube, Cancelled, Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10719.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/25657.png
+🏟️ Match: Crystal Palace Vs Shakhtar Donetsk
+🆔 Match ID: 2674555
+🕒 Start: 2026-05-07 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: TNT Sports 2, HBO Max
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/567.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/138.png
 --------------------------------------------------
-🏟️ Match: Al-Ahli Vs Al-Fateh
-🆔 Match ID: 2633187
-🕒 Start: 2026-05-06 21:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: TrillerTV+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2339.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2331.png
---------------------------------------------------
-🏟️ Match: Bayern Munich Vs PSG
-🆔 Match ID: 2674464
-🕒 Start: 2026-05-06 22:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/263.png
+🏟️ Match: Strasbourg Vs Rayo Vallecano
+🆔 Match ID: 2674556
+🕒 Start: 2026-05-07 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: TNT Sports 5, HBO Max
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/756.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/690.png
 --------------------------------------------------
