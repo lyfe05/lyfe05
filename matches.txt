@@ -1,0 +1,176 @@
+🏟️ Match: Liverpool FC Vs Chelsea
+🆔 Match ID: 2595916
+🕒 Start: 2026-05-09 14:30 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: TNT Sports 1, TNT Sports Ultimate, HBO Max
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9.png
+--------------------------------------------------
+🏟️ Match: Middlesbrough Vs Southampton
+🆔 Match ID: 2681833
+🕒 Start: 2026-05-09 14:30 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports Main Event, Sky Sports Football, Sky Sports Ultra HDR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/573.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/615.png
+--------------------------------------------------
+🏟️ Match: Elche Vs Alavés
+🆔 Match ID: 2605593
+🕒 Start: 2026-05-09 15:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Premier Sports 1
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/682.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1254.png
+--------------------------------------------------
+🏟️ Match: Cagliari Vs Udinese
+🆔 Match ID: 2591860
+🕒 Start: 2026-05-09 16:00 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/185.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/195.png
+--------------------------------------------------
+🏟️ Match: RB Leipzig Vs St. Pauli
+🆔 Match ID: 2603690
+🕒 Start: 2026-05-09 16:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Bundesliga YouTube, Bundesliga App
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/885.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/152.png
+--------------------------------------------------
+🏟️ Match: VfB Stuttgart Vs Bayer Leverkusen
+🆔 Match ID: 2603691
+🕒 Start: 2026-05-09 16:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Bundesliga YouTube, Bundesliga App
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/31.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/162.png
+--------------------------------------------------
+🏟️ Match: Augsburg Vs Borussia Mönchengladbach
+🆔 Match ID: 2603693
+🕒 Start: 2026-05-09 16:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Bundesliga YouTube, Bundesliga App
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/171.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/154.png
+--------------------------------------------------
+🏟️ Match: Hoffenheim Vs Werder Bremen
+🆔 Match ID: 2603694
+🕒 Start: 2026-05-09 16:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Bundesliga YouTube, Bundesliga App
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/158.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/150.png
+--------------------------------------------------
+🏟️ Match: Fulham Vs AFC Bournemouth
+🆔 Match ID: 2595915
+🕒 Start: 2026-05-09 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Not Televised
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/211.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/622.png
+--------------------------------------------------
+🏟️ Match: Sunderland Vs Manchester United
+🆔 Match ID: 2595919
+🕒 Start: 2026-05-09 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Not Televised
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/208.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/21.png
+--------------------------------------------------
+🏟️ Match: Brighton & Hove Albion Vs Wolverhampton Wanderers
+🆔 Match ID: 2595920
+🕒 Start: 2026-05-09 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Not Televised
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/670.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/203.png
+--------------------------------------------------
+🏟️ Match: Sevilla Vs Espanyol
+🆔 Match ID: 2605586
+🕒 Start: 2026-05-09 17:15 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: LaLigaTV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/28.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/215.png
+--------------------------------------------------
+🏟️ Match: Lazio Vs Inter
+🆔 Match ID: 2591855
+🕒 Start: 2026-05-09 19:00 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/139.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16.png
+--------------------------------------------------
+🏟️ Match: China U17 Vs Japan U17
+🆔 Match ID: 2670577
+🕒 Start: 2026-05-09 19:00 (GMT+3)
+📍 Tournament: AFC U-17 Asian Cup
+📺 Channels: CITY+, MUTV, ChelseaFC.com, Chelsea Official App, Palace TV+, OneFootball, YouTube, Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/24623.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/10671.png
+--------------------------------------------------
+🏟️ Match: Manchester City Vs Brentford
+🆔 Match ID: 2595917
+🕒 Start: 2026-05-09 19:30 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/209.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/671.png
+--------------------------------------------------
+🏟️ Match: Atlético de Madrid Vs Celta de Vigo
+🆔 Match ID: 2605589
+🕒 Start: 2026-05-09 19:30 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: LaLigaTV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/680.png
+--------------------------------------------------
+🏟️ Match: VfL Wolfsburg Vs Bayern Munich
+🆔 Match ID: 2603692
+🕒 Start: 2026-05-09 19:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Sky Sports Football
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/32.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6.png
+--------------------------------------------------
+🏟️ Match: Qatar U17 Vs Indonesia U17
+🆔 Match ID: 2670578
+🕒 Start: 2026-05-09 19:30 (GMT+3)
+📍 Tournament: AFC U-17 Asian Cup
+📺 Channels: CITY+, MUTV, ChelseaFC.com, Chelsea Official App, Palace TV+, OneFootball, YouTube, Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25489.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/51771.png
+--------------------------------------------------
+🏟️ Match: Thailand U17 Vs Saudi Arabia U17
+🆔 Match ID: 2670579
+🕒 Start: 2026-05-09 20:00 (GMT+3)
+📍 Tournament: AFC U-17 Asian Cup
+📺 Channels: CITY+, MUTV, ChelseaFC.com, Chelsea Official App, Palace TV+, OneFootball, YouTube, Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/29794.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/47589.png
+--------------------------------------------------
+🏟️ Match: Myanmar U17 Vs Tajikistan U17
+🆔 Match ID: 2670580
+🕒 Start: 2026-05-09 20:30 (GMT+3)
+📍 Tournament: AFC U-17 Asian Cup
+📺 Channels: CITY+, MUTV, ChelseaFC.com, Chelsea Official App, Palace TV+, OneFootball, YouTube, Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/60529.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/13863.png
+--------------------------------------------------
+🏟️ Match: Lecce Vs Juventus
+🆔 Match ID: 2591856
+🕒 Start: 2026-05-09 21:45 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, TNT Sports 2, HBO Max
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/190.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/17.png
+--------------------------------------------------
+🏟️ Match: Real Sociedad Vs Real Betis
+🆔 Match ID: 2605594
+🕒 Start: 2026-05-09 22:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Disney+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/223.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/691.png
+--------------------------------------------------
