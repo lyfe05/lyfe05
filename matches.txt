@@ -2,7 +2,7 @@
 🆔 Match ID: 2603697
 🕒 Start: 2026-05-16 16:30 (GMT+3)
 📍 Tournament: Bundesliga
-📺 Channels: Amazon Prime Video
+📺 Channels: Amazon Prime Video, Sky Sport Bundesliga 7, ESPN+ USA, beIN Sports MAX 7 France, Arena Sport 3 Serbia, Nova Sports 5 Greece, Polsat Sport 2 Poland, Polsat Sport Extra 1 Poland, Sportklub 1 Croatia, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/162.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/157.png
 --------------------------------------------------
@@ -10,7 +10,7 @@
 🆔 Match ID: 2603698
 🕒 Start: 2026-05-16 16:30 (GMT+3)
 📍 Tournament: Bundesliga
-📺 Channels: Amazon Prime Video, Sky Sports Action
+📺 Channels: Amazon Prime Video, Sky Sports Action, Sky Sport Bundesliga 5, ESPN+ USA, DAZN Eleven 1 Portugal, beIN Sports MAX 6 France, Arena Sport 2 Serbia, Nova Sport Bulgaria, Digi Sport 2 Romania, Prima Sport 3 Romania, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/156.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/31.png
 --------------------------------------------------
@@ -18,7 +18,7 @@
 🆔 Match ID: 2603699
 🕒 Start: 2026-05-16 16:30 (GMT+3)
 📍 Tournament: Bundesliga
-📺 Channels: Bundesliga YouTube, Bundesliga App
+📺 Channels: Bundesliga YouTube, Bundesliga App, Sky Sport Bundesliga 8, ESPN+ USA, DAZN Eleven 2 Portugal, Arena 4 Premium Serbia, Nova Sports Start Greece, Polsat Sport Fight Poland, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/159.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/885.png
 --------------------------------------------------
@@ -26,7 +26,7 @@
 🆔 Match ID: 2603700
 🕒 Start: 2026-05-16 16:30 (GMT+3)
 📍 Tournament: Bundesliga
-📺 Channels: Amazon Prime Video
+📺 Channels: Amazon Prime Video, Sky Sport Bundesliga 4, ESPN+ USA, DAZN Eleven 3 Portugal, Arena 3 Premium Serbia, Nova Sports 4 Greece, ESPN2 Argentina, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/150.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/155.png
 --------------------------------------------------
@@ -34,7 +34,7 @@
 🆔 Match ID: 2603701
 🕒 Start: 2026-05-16 16:30 (GMT+3)
 📍 Tournament: Bundesliga
-📺 Channels: Bundesliga YouTube, Bundesliga App
+📺 Channels: Bundesliga YouTube, Bundesliga App, Sky Sport Bundesliga 6, ESPN+ USA, beIN Sports MAX 8 France, Arena Sport 4 Serbia, Sportklub 6 Croatia, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/154.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/158.png
 --------------------------------------------------
@@ -42,7 +42,7 @@
 🆔 Match ID: 2603702
 🕒 Start: 2026-05-16 16:30 (GMT+3)
 📍 Tournament: Bundesliga
-📺 Channels: Bundesliga YouTube, Bundesliga App
+📺 Channels: Bundesliga YouTube, Bundesliga App, Sky Sport Bundesliga 9, ESPN+ USA, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/174.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/171.png
 --------------------------------------------------
@@ -50,7 +50,7 @@
 🆔 Match ID: 2603703
 🕒 Start: 2026-05-16 16:30 (GMT+3)
 📍 Tournament: Bundesliga
-📺 Channels: BBC iPlayer, BBC Sport Website
+📺 Channels: BBC iPlayer, BBC Sport Website, Sky Sport Bundesliga 2, ESPN+ USA, DAZN Eleven 3 Portugal, Nova Sport 4 SK, Nova Sport 4 CZ, Arena Sport 6 Serbia, Eleven Sports 4 Poland, beIN Sports MAX 4 France, See Denmark, Sportklub 10 Croatia, Sport 4 Israel, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/152.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/32.png
 --------------------------------------------------
@@ -58,7 +58,7 @@
 🆔 Match ID: 2603704
 🕒 Start: 2026-05-16 16:30 (GMT+3)
 📍 Tournament: Bundesliga
-📺 Channels: Bundesliga YouTube, Bundesliga App
+📺 Channels: Bundesliga YouTube, Bundesliga App, Sky Sport Bundesliga 3, ESPN+ USA, Arena Sport 5 Serbia, Arena Sport 8 Serbia, Nova Sports 2 Greece, beIN Sports MAX 5 France, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/283.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/163.png
 --------------------------------------------------
@@ -66,7 +66,7 @@
 🆔 Match ID: 2603705
 🕒 Start: 2026-05-16 16:30 (GMT+3)
 📍 Tournament: Bundesliga
-📺 Channels: Not specified
+📺 Channels: Sky Sport Bundesliga 1, ESPN+ USA, Movistar Liga de Campeones 2, beIN Sports 2 France, Nova Sport 3 SK, Nova Sport 3 CZ, Eleven Sports 2 Poland, Prima Sport 1 Romania, SporTV BR, beIN Sports 3 Malaysia, Arena 2 Premium Serbia, Digi Sport 3 Romania, Nova Sports 3 Greece, Sportklub 8 Croatia, Sport 3 Israel, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/151.png
 --------------------------------------------------
@@ -74,7 +74,7 @@
 🆔 Match ID: 2680259
 🕒 Start: 2026-05-16 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: Sky Sports+, BBC1, TNT Sports 1, TNT Sports Ultimate, BBC iPlayer, BBC Sport Website, HBO Max
+📺 Channels: Sky Sports+, BBC1, TNT Sports 1, TNT Sports Ultimate, BBC iPlayer, BBC Sport Website, HBO Max, ESPN+ USA, beIN Sports Malaysia, Sky Sport 5 NZ, Ziggo Sport 2 NL, ESPN3 Brazil, Polsat Sport Extra 3 Poland, Backup Stream, TNT Sports 1 UK, Sportsnet One, BBC One UK, ESPN2 USA, Movistar Plus+, Sportsnet 360, Sportsnet World, Sportsnet West, Sky Sport 6 NZ, Movistar Liga de Campeones, DAZN2 DE, Sport TV2 Portugal, TVP Sport Poland, beIN Sports 1 France, SONY TEN 3 HD, Nova Sport 1 CZ, Canal+ Sport 3 Afrique, SONY TEN 2 HD, Astro Football, Astro Grandstand, ESPN Deportes, Cytavision Sports 3 Cyprus, Arena 1 Premium Serbia, Cosmote Sport 2 Greece, Arena Sport 1 Croatia, TV3+ HD Denmark, V Sport Premium, Diema Sport 3 Bulgaria, ESPN Brazil, ESPN Argentina, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/209.png
 --------------------------------------------------
@@ -90,7 +90,7 @@
 🆔 Match ID: 2670595
 🕒 Start: 2026-05-16 19:00 (GMT+3)
 📍 Tournament: AFC U-17 Asian Cup
-📺 Channels: Palace TV+, OneFootball, YouTube, MUTV, Not specified
+📺 Channels: Palace TV+, OneFootball, YouTube, MUTV, beIN Sports MENA 5, Sporting TV Portugal, MUTV UK, beIN Sports 3 Malaysia, beIN Sports MENA Xtra 1, KHL TV
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/28567.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/10719.png
 --------------------------------------------------
@@ -98,7 +98,7 @@
 🆔 Match ID: 2633228
 🕒 Start: 2026-05-16 19:05 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube
+📺 Channels: Saudi Pro League YouTube, Thmanyah, Bandsports Brasil, KTV Sport Kuwait, Fox Soccer Plus, Movistar Liga de Campeones, DAZN2 DE, Sport TV5 Portugal, FOX Deportes, Cosmote Sport 3 Greece, Prima Sport 3 Romania, Sportklub 5 Croatia, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25673.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2452.png
 --------------------------------------------------
@@ -106,7 +106,7 @@
 🆔 Match ID: 2633231
 🕒 Start: 2026-05-16 19:05 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube
+📺 Channels: Saudi Pro League YouTube, Thmanyah, Fox Soccer Plus, TRT Spor Turkey, Movistar Liga de Campeones 2, Sport TV3 Portugal, FOX Deportes, Prima Sport 3 Romania, SporTV BR, Cosmote Sport 6 Greece, Sportklub 3 Croatia, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2328.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26702.png
 --------------------------------------------------
@@ -114,7 +114,7 @@
 🆔 Match ID: 2670596
 🕒 Start: 2026-05-16 20:00 (GMT+3)
 📍 Tournament: AFC U-17 Asian Cup
-📺 Channels: Palace TV+, OneFootball, YouTube, MUTV, Not specified
+📺 Channels: Palace TV+, OneFootball, YouTube, MUTV, beIN Sports MENA 5, Sporting TV Portugal, MUTV UK, beIN Sports 3 Malaysia, beIN Sports MENA Xtra 1, KHL TV
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/34759.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6205.png
 --------------------------------------------------
@@ -122,7 +122,7 @@
 🆔 Match ID: 2633230
 🕒 Start: 2026-05-16 21:00 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube
+📺 Channels: Saudi Pro League YouTube, Thmanyah, Bandsports Brasil, KTV Sport Kuwait, Fox Soccer Plus, Movistar Liga de Campeones, DAZN2 DE, Sport TV5 Portugal, FOX Deportes, Cosmote Sport 3 Greece, Prima Sport 3 Romania, Sportklub 5 Croatia, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2339.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26921.png
 --------------------------------------------------
