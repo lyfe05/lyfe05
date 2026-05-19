@@ -1,16 +1,32 @@
-🏟️ Match: Waterford Vs Drogheda United
-🆔 Match ID: 2651917
-🕒 Start: 2026-05-18 21:45 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4138.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1883.png
+🏟️ Match: Japan U17 Vs Uzbekistan U17
+🆔 Match ID: 2670597
+🕒 Start: 2026-05-19 18:00 (GMT+3)
+📍 Tournament: AFC U-17 Asian Cup
+📺 Channels: OneFootball, YouTube, Sportklub 3 Croatia, beIN Sports 2 Malaysia, beIN Sports Malaysia, SporTV Brazil
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10671.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/28567.png
 --------------------------------------------------
-🏟️ Match: Arsenal Vs Burnley
-🆔 Match ID: 2595923
-🕒 Start: 2026-05-18 22:00 (GMT+3)
+🏟️ Match: AFC Bournemouth Vs Manchester City
+🆔 Match ID: 2595926
+🕒 Start: 2026-05-19 21:30 (GMT+3)
 📍 Tournament: Premier League
-📺 Channels: Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR, Hub Premier, Peacock Feed, USA Network, NBC UNIVERSO, Sky Sports Main Event UK, Sky Sports Premier League UK, Sky Sport 8 NZ, beIN Sports 3 Turkey, DAZN1 Spain, Sky Sport Premier League DE, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Canal+ Extra 1 Poland, Canal+ Sport SK, Canal+ Sport CZ, Canal+ Foot France, Cytavision Sports 3 Cyprus, Astro Premier League, Astro Grandstand, Arena 2 Premium Serbia, Sky Sport Uno IT, Sky Sport Calcio IT, Canal+ Sport 3 Afrique, ESPN4 Brazil, Nova Sports Premier League Greece, Arena Sport 1 Croatia, TV3+ HD Denmark, Diema Sport 2 Bulgaria, V Sport Premium, ESPN Argentina, SuperSport MaXimo 1, SuperSport Premier League, Supersport Grandstand, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/275.png
+📺 Channels: Sky Sports Main Event, Sky Sports Ultra HDR, Hub Premier, Peacock Feed, NBC UNIVERSO, USA Network, Sky Sports Main Event UK, Sky Sport 8 NZ, DAZN1 Spain, Movistar Plus+, Movistar Liga de Campeones, Sky Sport Premier League DE, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Canal+ Extra 1 Poland, Sky Sport Uno IT, Canal+ Foot France, Astro Premier League 2, Cytavision Sports 3 Cyprus, Canal+ Sport 3 Afrique, Arena 1 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 3 Croatia, ESPN Brazil, ESPN Argentina, Diema Sport Bulgaria, SuperSport Premier League, Supersport Grandstand, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 2 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/622.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/209.png
+--------------------------------------------------
+🏟️ Match: China U17 Vs Australia U17
+🆔 Match ID: 2670598
+🕒 Start: 2026-05-19 21:30 (GMT+3)
+📍 Tournament: AFC U-17 Asian Cup
+📺 Channels: OneFootball, YouTube, beIN Sports 2 Malaysia, beIN Sports Malaysia, Sportklub 3 Croatia, SporTV Brazil
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/24623.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6205.png
+--------------------------------------------------
+🏟️ Match: Chelsea Vs Tottenham Hotspur
+🆔 Match ID: 2595921
+🕒 Start: 2026-05-19 22:15 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Sky Sports Premier League, Sky Sports Ultra HDR, Hub Premier, Peacock Feed, Sky Sports Premier League UK, Sky Sport 7 NZ, beIN Sports 3 Turkey, DAZN2 Spain, Sky Sport Mix DE, DAZN Eleven 2 Portugal, Canal+ Extra 2 Poland, Astro Premier League, Astro Grandstand, Sky Sport Calcio IT, Canal+ Sport360 France, Cytavision Sports 4 Cyprus, Canal+ Sport 4 CZ, Canal+ Sport 4 SK, Arena 2 Premium Serbia, Nova Sports Prime Greece, Arena Sport 3 Croatia, Diema Sport 2 Bulgaria, SuperSport MaXimo 1, SuperSport PSL, beIN Sports MENA 2, Sport 1 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
 --------------------------------------------------
