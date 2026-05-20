@@ -1,32 +1,24 @@
-🏟️ Match: Japan U17 Vs Uzbekistan U17
-🆔 Match ID: 2670597
-🕒 Start: 2026-05-19 18:00 (GMT+3)
-📍 Tournament: AFC U-17 Asian Cup
-📺 Channels: OneFootball, YouTube, Sportklub 3 Croatia, beIN Sports 2 Malaysia, beIN Sports Malaysia, SporTV Brazil
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10671.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/28567.png
+🏟️ Match: Al-Khaleej Vs Al-Ahli
+🆔 Match ID: 2633240
+🕒 Start: 2026-05-20 21:00 (GMT+3)
+📍 Tournament: Saudi Pro League
+📺 Channels: Saudi Pro League YouTube, ON Sport 1 Egypt, KTV Sport Kuwait, Thmanyah, Bandsports Brasil, Fox Sports 2 USA, Sport TV1 Portugal, FOX Deportes, Prima Sport 2 Romania, Cosmote Sport 5 Greece, M+ Vamos 2 Spain, Sportklub 1 Croatia, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2452.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2339.png
 --------------------------------------------------
-🏟️ Match: AFC Bournemouth Vs Manchester City
-🆔 Match ID: 2595926
-🕒 Start: 2026-05-19 21:30 (GMT+3)
-📍 Tournament: Premier League
-📺 Channels: Sky Sports Main Event, Sky Sports Ultra HDR, Hub Premier, Peacock Feed, NBC UNIVERSO, USA Network, Sky Sports Main Event UK, Sky Sport 8 NZ, DAZN1 Spain, Movistar Plus+, Movistar Liga de Campeones, Sky Sport Premier League DE, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Canal+ Extra 1 Poland, Sky Sport Uno IT, Canal+ Foot France, Astro Premier League 2, Cytavision Sports 3 Cyprus, Canal+ Sport 3 Afrique, Arena 1 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 3 Croatia, ESPN Brazil, ESPN Argentina, Diema Sport Bulgaria, SuperSport Premier League, Supersport Grandstand, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 2 Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/622.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/209.png
+🏟️ Match: Al-Najma Vs Al-Shabab
+🆔 Match ID: 2633243
+🕒 Start: 2026-05-20 21:00 (GMT+3)
+📍 Tournament: Saudi Pro League
+📺 Channels: Saudi Pro League YouTube, ON Sport 1 Egypt, KTV Sport Kuwait, Thmanyah, Bandsports Brasil, Fox Sports 2 USA, Sport TV1 Portugal, FOX Deportes, Prima Sport 2 Romania, Cosmote Sport 5 Greece, M+ Vamos 2 Spain, Sportklub 1 Croatia, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26213.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2336.png
 --------------------------------------------------
-🏟️ Match: China U17 Vs Australia U17
-🆔 Match ID: 2670598
-🕒 Start: 2026-05-19 21:30 (GMT+3)
-📍 Tournament: AFC U-17 Asian Cup
-📺 Channels: OneFootball, YouTube, beIN Sports 2 Malaysia, beIN Sports Malaysia, Sportklub 3 Croatia, SporTV Brazil
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/24623.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6205.png
---------------------------------------------------
-🏟️ Match: Chelsea Vs Tottenham Hotspur
-🆔 Match ID: 2595921
-🕒 Start: 2026-05-19 22:15 (GMT+3)
-📍 Tournament: Premier League
-📺 Channels: Sky Sports Premier League, Sky Sports Ultra HDR, Hub Premier, Peacock Feed, Sky Sports Premier League UK, Sky Sport 7 NZ, beIN Sports 3 Turkey, DAZN2 Spain, Sky Sport Mix DE, DAZN Eleven 2 Portugal, Canal+ Extra 2 Poland, Astro Premier League, Astro Grandstand, Sky Sport Calcio IT, Canal+ Sport360 France, Cytavision Sports 4 Cyprus, Canal+ Sport 4 CZ, Canal+ Sport 4 SK, Arena 2 Premium Serbia, Nova Sports Prime Greece, Arena Sport 3 Croatia, Diema Sport 2 Bulgaria, SuperSport MaXimo 1, SuperSport PSL, beIN Sports MENA 2, Sport 1 Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
+🏟️ Match: SC Freiburg Vs Aston Villa
+🆔 Match ID: 2674526
+🕒 Start: 2026-05-20 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: TNT Sports 1, TNT Sports Ultimate, HBO Max, Paramount+, TNT Sports 1 UK, CBS Sports Network, RTL DE, TRT 1 Turkey, Premier Sports Ireland, Movistar Plus+, Movistar Liga de Campeones, SRF Info, STV 1 Slovenia, TVI Portugal, Sport TV5 Portugal, Polsat Sport Premium 1 Poland, Canal+ Foot France, Sky Sport 251 IT, TV8 IT, Sky Sport Uno IT, Ziggo Sport 1 NL, M4 Sports Hungary, Tipik Belgium, beIN Sports Malaysia, ESPN Mexico, TUDN USA, UniMás, SuperSport 2 Albania, RTK1 Kosovo, Arena Sport 1 Croatia, bTV Action Bulgaria, MAX Sport 3 Bulgaria, Digi Sport 1 Romania, Prima Sport 1 Romania, Arena 1 Premium Serbia, Cosmote Sport 1 Greece, ESPN Argentina, SuperSport MaXimo 1, SuperSport Premier League, Supersport Grandstand, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/159.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/199.png
 --------------------------------------------------
