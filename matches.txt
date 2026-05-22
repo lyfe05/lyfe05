@@ -1,88 +1,64 @@
-🏟️ Match: Ajax Vs Groningen
-🆔 Match ID: 2683400
-🕒 Start: 2026-05-21 19:45 (GMT+3)
-📍 Tournament: Eredivisie
-📺 Channels: Premier Sports 1, TrillerTV+, ESPN 1 NL, ESPN+ USA, Viaplay Sports 1 UK, Premier Sports 1 Ireland, ESPN3 Mexico, Polsat Sport Extra 1 Poland, DAZN Eleven 1 Portugal, Arena Sport 1x2 Serbia, Sport 4 Israel, Backup Stream, Sportklub 6 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/341.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1174.png
+🏟️ Match: China U17 Vs Japan U17
+🆔 Match ID: 2670599
+🕒 Start: 2026-05-22 20:00 (GMT+3)
+📍 Tournament: AFC U-17 Asian Cup
+📺 Channels: DFB Play, OneFootball, YouTube, ChelseaFC.com, CITY+, Chelsea Official App, Sky Sport Mix DE, Sky Sport Top Event DE, France 4, beIN Sports 1 France, Fox Soccer Plus, FOX Deportes, Cytavision Sports 4 Cyprus, STV 2 Slovenia, KHL TV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/24623.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/10671.png
 --------------------------------------------------
-🏟️ Match: NEOM Vs Al-Ettifaq
-🆔 Match ID: 2633237
-🕒 Start: 2026-05-21 21:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: Thmanyah
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26702.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2327.png
+🏟️ Match: Rot-Weiss Essen Vs Greuther Fürth
+🆔 Match ID: 2683367
+🕒 Start: 2026-05-22 21:30 (GMT+3)
+📍 Tournament: 2. Bundesliga Playoffs
+📺 Channels: Bundesliga YouTube, Bundesliga App, Sky Sport Bundesliga 1, ESPN+ USA, Sky Sport News DE, Sky Sport Top Event DE, Prima Sport 3 Romania, beIN Sports 3 Malaysia, Sat.1 DE, DAZN Eleven 1 Portugal, Eleven Sports 3 Poland, Nova Sport 3 SK, Nova Sport 3 CZ, Sportklub 6 Croatia, Sport 2 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/787.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/165.png
 --------------------------------------------------
-🏟️ Match: Al-Ittihad Vs Al Qadsiah
-🆔 Match ID: 2633245
-🕒 Start: 2026-05-21 21:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube, KTV Sport Kuwait, Thmanyah, Fox Soccer Plus, #Vamos 2 ES, Movistar Liga de Campeones 2, Sport TV2 Portugal, Prima Sport 2 Romania, Cosmote Sport 7 Greece, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2335.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5546.png
+🏟️ Match: Fiorentina Vs Atalanta
+🆔 Match ID: 2591874
+🕒 Start: 2026-05-22 21:45 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: DAZN, Paramount+, DAZN Zona IT, Eleven Sports 2 Poland, Arena Sport 2 Croatia, STARZPLAY Sports 1, Sport TV3 Portugal, Digi Sport 2 Romania, Prima Sport 2 Romania, Match TV Russia, Match! Football 1 Russia, Ziggo Sport 2 NL, Arena 3 Premium Serbia, Cosmote Sport 2 Greece, TV2 Sport X Denmark, TV4 Sportkanalen, MAX Sport 3 Bulgaria, ESPN3 Argentina, SuperSport Football, Sport 4 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/15.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/248.png
 --------------------------------------------------
-🏟️ Match: Al-Riyadh Vs Al-Okhdood
-🆔 Match ID: 2633244
-🕒 Start: 2026-05-21 21:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube, KTV Sport Kuwait, Thmanyah, Fox Soccer Plus, #Vamos 2 ES, Movistar Liga de Campeones 2, Sport TV2 Portugal, Prima Sport 2 Romania, Cosmote Sport 7 Greece, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/29027.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/25673.png
+🏟️ Match: Galway United Vs Bohemian
+🆔 Match ID: 2651949
+🕒 Start: 2026-05-22 21:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/11862.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/346.png
 --------------------------------------------------
-🏟️ Match: Al-Fayha Vs Al-Hilal
-🆔 Match ID: 2633242
-🕒 Start: 2026-05-21 21:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube, KTV Sport Kuwait, Thmanyah, Fox Soccer Plus, #Vamos 2 ES, Movistar Liga de Campeones 2, Sport TV2 Portugal, Prima Sport 2 Romania, Cosmote Sport 7 Greece, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7900.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2328.png
+🏟️ Match: Shelbourne Vs Waterford
+🆔 Match ID: 2651948
+🕒 Start: 2026-05-22 21:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4167.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4138.png
 --------------------------------------------------
-🏟️ Match: Al-Nassr Vs Damac
-🆔 Match ID: 2633241
-🕒 Start: 2026-05-21 21:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: OneFootball, Saudi Pro League YouTube, YouTube, Thmanyah, Fox Sports 2 USA, Movistar Liga de Campeones, #Vamos ES, Sportdigital FUSSBALL DE, Bandsports Brasil, Polsat Sport Premium 2 Poland, MAX Sport 4 Bulgaria, Sport TV1 Portugal, FOX Deportes, Sportklub 7 Croatia, Prima Sport 1 Romania, Cosmote Sport 5 Greece, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2329.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/14863.png
+🏟️ Match: Derry City Vs St Patrick's Athletic
+🆔 Match ID: 2651950
+🕒 Start: 2026-05-22 21:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1913.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/909.png
 --------------------------------------------------
-🏟️ Match: Al-Hazem Vs Al-Taawoun
-🆔 Match ID: 2633239
-🕒 Start: 2026-05-21 21:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube, KTV Sport Kuwait, Thmanyah, Fox Soccer Plus, #Vamos 2 ES, Movistar Liga de Campeones 2, Sport TV2 Portugal, Prima Sport 2 Romania, Cosmote Sport 7 Greece, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10025.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2330.png
+🏟️ Match: Drogheda United Vs Dundalk
+🆔 Match ID: 2651952
+🕒 Start: 2026-05-22 22:00 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1883.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/489.png
 --------------------------------------------------
-🏟️ Match: Al Kholood Vs Al-Fateh
-🆔 Match ID: 2633238
-🕒 Start: 2026-05-21 21:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube, KTV Sport Kuwait, Thmanyah, Fox Soccer Plus, #Vamos 2 ES, Movistar Liga de Campeones 2, Sport TV2 Portugal, Prima Sport 2 Romania, Cosmote Sport 7 Greece, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26921.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2331.png
---------------------------------------------------
-🏟️ Match: VfL Wolfsburg Vs Paderborn
-🆔 Match ID: 2683365
-🕒 Start: 2026-05-21 21:30 (GMT+3)
-📍 Tournament: Bundesliga Playoffs
-📺 Channels: Amazon Prime Video, Sky Sport Bundesliga 1, ESPN+ USA, OneSoccer CA, DAZN Eleven 2 Portugal, Nova Sport 3 SK, beIN Sports 3 Malaysia, Nova Sport 3 CZ, Nova Sports 3 Greece, Eleven Sport 1 Poland, beIN Sports 1 France, Digi Sport 3 Romania, Prima Sport 2 Romania, STV 1 Slovenia, Nova SPORT 4 CZ, Arena 3 Premium Serbia, Diema Sport 3 Bulgaria, ESPN2 Argentina, Sportklub 3 Croatia, SporTV BR, Sport 1 Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/32.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/169.png
---------------------------------------------------
-🏟️ Match: Utrecht Vs Heerenveen
-🆔 Match ID: 2683401
-🕒 Start: 2026-05-21 22:00 (GMT+3)
-📍 Tournament: Eredivisie
-📺 Channels: Premier Sports 2, TrillerTV+, ESPN 1 NL, ESPN+ USA, Viaplay Sports 2 UK, Premier Sports 2 Ireland, DAZN Eleven 1 Portugal, Arena Sport 1x2 Serbia, Polsat Sport Extra 1 Poland, Sport 4 Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/445.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/555.png
---------------------------------------------------
-🏟️ Match: Partick Thistle Vs St Mirren
-🆔 Match ID: 2682056
-🕒 Start: 2026-05-21 22:00 (GMT+3)
-📍 Tournament: Scottish Premiership Playoffs
-📺 Channels: Sky Sports Football, Paramount+, Sky Sports Football UK, Digi Sport 4 Romania, Cosmote Sport 3 Greece, Sport 5 Plus Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1605.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1164.png
+🏟️ Match: Shamrock Rovers Vs Sligo Rovers
+🆔 Match ID: 2651951
+🕒 Start: 2026-05-22 22:00 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/433.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4170.png
 --------------------------------------------------
