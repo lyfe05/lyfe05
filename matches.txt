@@ -1,32 +1,16 @@
-🏟️ Match: Paderborn Vs VfL Wolfsburg
-🆔 Match ID: 2683366
-🕒 Start: 2026-05-25 21:30 (GMT+3)
-📍 Tournament: Bundesliga Playoffs
-📺 Channels: Amazon Prime Video, ESPN+ USA, Sky Sport Bundesliga 1, Sat.1 DE, Sky Sport News DE, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Eleven Sports 1 Poland, beIN Sports 1 France, Sky Sport Uno IT, Sky Sport Calcio IT, Canal+ Sport 1 Afrique, Canal+ Sport 2 Afrique, Nova Sport 3 SK, Nova Sport 3 CZ, Digi Sport 2 Romania, Prima Sport 2 Romania, Arena 2 Premium Serbia, Nova Sports 3 Greece, SporTV BR, Diema Sport 3 Bulgaria, Sport Klub 1 Croatia, Sport 4 Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/169.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/32.png
+🏟️ Match: Greuther Fürth Vs Rot-Weiss Essen
+🆔 Match ID: 2683368
+🕒 Start: 2026-05-26 21:30 (GMT+3)
+📍 Tournament: 2. Bundesliga Playoffs
+📺 Channels: Amazon Prime Video, Bundesliga YouTube, Bundesliga App, ESPN+ USA, Sky Sport Bundesliga 1, Sat.1 DE, Sky Sport News DE, Sky Sport Top Event DE, DAZN Eleven 1 Portugal, Eleven Sports 2 Poland, Nova Sport 3 SK, Nova Sport 3 CZ, Digi Sport 2 Romania, Diema Sport 3 Bulgaria, Fox Sports 2 Argentina, Sport Klub 1 Croatia, Sport 3 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/165.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/787.png
 --------------------------------------------------
-🏟️ Match: Derry City Vs Shelbourne
-🆔 Match ID: 2651953
-🕒 Start: 2026-05-25 21:45 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1913.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4167.png
---------------------------------------------------
-🏟️ Match: Bohemian Vs Shamrock Rovers
-🆔 Match ID: 2651954
-🕒 Start: 2026-05-25 22:00 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/346.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/433.png
---------------------------------------------------
-🏟️ Match: St Mirren Vs Partick Thistle
-🆔 Match ID: 2682057
-🕒 Start: 2026-05-25 22:00 (GMT+3)
-📍 Tournament: Scottish Premiership Playoffs
-📺 Channels: Sky Sports Football, Sky Sports Main Event, Sky Sports Ultra HDR, CBS Sports Golazo, Sky Sports Football UK, Sky Sports Main Event UK, Digi Sport 4 Romania, Ring bg, Cosmote Sport 3 Greece, 5 Live Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1164.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1605.png
+🏟️ Match: Saint-Étienne Vs Nice
+🆔 Match ID: 2683152
+🕒 Start: 2026-05-26 21:45 (GMT+3)
+📍 Tournament: Ligue 1 Playoffs
+📺 Channels: Ligue 1+, DAZN 1 France, beIN Sports 1 France, beIN SPORTS USA, beIN SPORTS en Español, DAZN1 DE, Sport TV2 Portugal, Eleven Sports 1 Poland, Canal+ Sport 2 Afrique, Arena 5 Premium Serbia, Arena Sport 2 Croatia, V Sport Premium, Diema Sport 2 Bulgaria, beIN Sports MENA 2, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/266.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/262.png
 --------------------------------------------------
