@@ -1,8 +1,16 @@
-🏟️ Match: Crystal Palace Vs Rayo Vallecano
-🆔 Match ID: 2674557
-🕒 Start: 2026-05-27 22:00 (GMT+3)
-📍 Tournament: UEFA Conference League
-📺 Channels: TNT Sports 1, TNT Sports Ultimate, HBO Max, TNT Sports 1 UK, Paramount+, CBS Sports Network, TRT Spor Turkey, SRF zwei, Premier Sports Ireland 1, Movistar Liga de Campeones, Movistar Plus+, Sport TV5 Portugal, Polsat Sport Premium 1 Poland, M4 Sports Hungary, Canal+ Foot France, SONY TEN 2 HD, TUDN USA, Sky Sport 251 IT, Sky Sport Uno IT, ŠTV 1 Slovenia, SuperSport 2 Albania, ANT1 Cyprus, Nova SPORT 5 CZ, Ziggo Sport 1 NL, Prima Sport 1 Romania, Digi Sport 1 Romania, beIN Sports Malaysia, ESPN Mexico, Tipik Belgium, Arena 1 Premium Serbia, Cosmote Sport 1 Greece, Arena Sport 1 Croatia, ESPN Argentina, bTV Action Bulgaria, MAX Sport 3 Bulgaria, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/567.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/690.png
+🏟️ Match: Egypt Vs Russia
+🆔 Match ID: 2681683
+🕒 Start: 2026-05-28 21:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Match Premier Russia, ON Sport 1 Egypt, FOX Deportes, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/590.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/124.png
+--------------------------------------------------
+🏟️ Match: Ireland Vs Qatar
+🆔 Match ID: 2670304
+🕒 Start: 2026-05-28 21:45 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Amazon Prime Video, RTE 2, RTE Player, Fox Sports 2 USA, RTE 2 Ireland, Sky Sport 7 NZ, DAZN1 DE, Sport TV2 Portugal, Polsat Sport 2 Poland, Digi Sport 2 Romania, Prima Sport 1 Romania, TV2 Sport Norway, Cytavision Sports 3 Cyprus, Arena Sport 3 Serbia, Sportv Brazil, V Sport Premium, TV2 Sport Denmark, Sportklub 1 Croatia, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/122.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/586.png
 --------------------------------------------------
