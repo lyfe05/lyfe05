@@ -1,16 +1,48 @@
-🏟️ Match: Egypt Vs Russia
-🆔 Match ID: 2681683
-🕒 Start: 2026-05-28 21:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Match Premier Russia, ON Sport 1 Egypt, FOX Deportes, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/590.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/124.png
+🏟️ Match: Sligo Rovers Vs Bohemian
+🆔 Match ID: 2651955
+🕒 Start: 2026-05-29 21:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4170.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/346.png
 --------------------------------------------------
-🏟️ Match: Ireland Vs Qatar
-🆔 Match ID: 2670304
-🕒 Start: 2026-05-28 21:45 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Amazon Prime Video, RTE 2, RTE Player, Fox Sports 2 USA, RTE 2 Ireland, Sky Sport 7 NZ, DAZN1 DE, Sport TV2 Portugal, Polsat Sport 2 Poland, Digi Sport 2 Romania, Prima Sport 1 Romania, TV2 Sport Norway, Cytavision Sports 3 Cyprus, Arena Sport 3 Serbia, Sportv Brazil, V Sport Premium, TV2 Sport Denmark, Sportklub 1 Croatia, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/122.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/586.png
+🏟️ Match: Dundalk Vs Derry City
+🆔 Match ID: 2651959
+🕒 Start: 2026-05-29 21:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/489.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1913.png
+--------------------------------------------------
+🏟️ Match: Shelbourne Vs Galway United
+🆔 Match ID: 2651958
+🕒 Start: 2026-05-29 21:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4167.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/11862.png
+--------------------------------------------------
+🏟️ Match: Drogheda United Vs Waterford
+🆔 Match ID: 2651957
+🕒 Start: 2026-05-29 21:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1883.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4138.png
+--------------------------------------------------
+🏟️ Match: Nice Vs Saint-Étienne
+🆔 Match ID: 2683153
+🕒 Start: 2026-05-29 21:45 (GMT+3)
+📍 Tournament: Ligue 1 Playoffs
+📺 Channels: Ligue 1+, beIN Sports 1 France, DAZN 1 France, beIN SPORTS USA, beIN SPORTS en Español, DAZN1 DE, Sport TV2 Portugal, Eleven Sports 1 Poland, Sky Sport Calcio IT, Nova Sport 4 SK, Nova Sport 4 CZ, Canal+ Sport 2 Afrique, Arena 2 Premium Serbia, beIN Sports 4 Turkey, SuperSport Variety 4, Arena Sport 1 Croatia, Diema Sport 2 Bulgaria, beIN Sports MENA 3, 5Sport Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/262.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/266.png
+--------------------------------------------------
+🏟️ Match: Shamrock Rovers Vs St Patrick's Athletic
+🆔 Match ID: 2651956
+🕒 Start: 2026-05-29 22:00 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/433.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/909.png
 --------------------------------------------------
