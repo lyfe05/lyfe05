@@ -1,48 +1,56 @@
-🏟️ Match: Sligo Rovers Vs Bohemian
-🆔 Match ID: 2651955
-🕒 Start: 2026-05-29 21:45 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4170.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/346.png
+🏟️ Match: Scotland Vs Curaçao
+🆔 Match ID: 2664797
+🕒 Start: 2026-05-30 15:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: BBC iPlayer, BBC1 Scotland, BBC Sport Website, Fox Soccer Plus, Sky Sport Select NZ, DAZN1 DE, BBC Scotland, Sport TV1 Portugal, Prima Sport 4 Romania, Cytavision Sports 4 Cyprus, Polsat Sport 3 Poland, Ziggo Sport 2 NL, Digi Sport 2 Romania, Sky Sport Calcio IT, Arena Sport 1 Serbia, Diema Sport 3 Bulgaria, ESPN Brazil, Ziggo Sport 1 NL, V Sport Premium, beIN Sports MENA 3, Sportklub 5 Croatia, Sport 1 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/113.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1354.png
 --------------------------------------------------
-🏟️ Match: Dundalk Vs Derry City
-🆔 Match ID: 2651959
-🕒 Start: 2026-05-29 21:45 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/489.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1913.png
+🏟️ Match: Zimbabwe Vs India
+🆔 Match ID: 2684154
+🕒 Start: 2026-05-30 16:30 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/587.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1397.png
 --------------------------------------------------
-🏟️ Match: Shelbourne Vs Galway United
-🆔 Match ID: 2651958
-🕒 Start: 2026-05-29 21:45 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4167.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/11862.png
+🏟️ Match: PSG Vs Arsenal
+🆔 Match ID: 2674466
+🕒 Start: 2026-05-30 19:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Paramount+, TNT Sports 1 UK, CBS USA, CBSNY USA, Canal+ Foot France, M6 France, Canal+ France, Canal+ Live 1 France, Sky Sport Austria 1, Premier Sports Ireland 1, TRT 1 Turkey, RTE 2 Ireland, TVE La 1 Spain, Movistar Liga de Campeones, Movistar Plus+, DAZN1 DE, ZDF DE, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, Canal+ Extra 1 Poland, Sky Sport 251 IT, Sky Sport Uno IT, Sky Sport Calcio IT, Digi Sport 1 Romania, Prima Sport 1 Romania, Ziggo Sport 1 NL, beIN Sports Malaysia, SONY TEN 2 HD, SONY TEN 3 HD, TV2 Direkte Norway, Canal+ Sport 2 Afrique, SRF Info, Nova Sport 3 SK, Nova Sport 3 CZ, Univision, Cytavision Sports 3 Cyprus, Club RTL Belgium, TV3+ HD Denmark, Arena 1 Premium Serbia, HRT 2 Croatia, Sky Calcio 1 (251) Italy, Arena Sport 1 Croatia, Cosmote Sport 1 Greece, V Sport Premium, bTV Action Bulgaria, BNT 3 Bulgaria, MAX Sport 3 Bulgaria, TNT Brasil, ESPN Argentina, TNT Mexico, Fox Sports Argentina, SuperSport Premier League, Supersport Grandstand, TUDN USA, beIN Sports MENA 1, beIN Sports MENA 2, beIN Sports MENA English 1, Sport 5 Israel, Sport 5 Live Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/263.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
 --------------------------------------------------
-🏟️ Match: Drogheda United Vs Waterford
-🆔 Match ID: 2651957
-🕒 Start: 2026-05-29 21:45 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1883.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4138.png
+🏟️ Match: Jamaica Vs Nigeria
+🆔 Match ID: 2684155
+🕒 Start: 2026-05-30 21:30 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: DAZN
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/110.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/85.png
 --------------------------------------------------
-🏟️ Match: Nice Vs Saint-Étienne
-🆔 Match ID: 2683153
-🕒 Start: 2026-05-29 21:45 (GMT+3)
-📍 Tournament: Ligue 1 Playoffs
-📺 Channels: Ligue 1+, beIN Sports 1 France, DAZN 1 France, beIN SPORTS USA, beIN SPORTS en Español, DAZN1 DE, Sport TV2 Portugal, Eleven Sports 1 Poland, Sky Sport Calcio IT, Nova Sport 4 SK, Nova Sport 4 CZ, Canal+ Sport 2 Afrique, Arena 2 Premium Serbia, beIN Sports 4 Turkey, SuperSport Variety 4, Arena Sport 1 Croatia, Diema Sport 2 Bulgaria, beIN Sports MENA 3, 5Sport Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/262.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/266.png
+🏟️ Match: Ecuador Vs Saudi Arabia
+🆔 Match ID: 2680962
+🕒 Start: 2026-05-31 02:30 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Movistar Liga de Campeones
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/101.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/104.png
 --------------------------------------------------
-🏟️ Match: Shamrock Rovers Vs St Patrick's Athletic
-🆔 Match ID: 2651956
-🕒 Start: 2026-05-29 22:00 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/433.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/909.png
+🏟️ Match: Korea Republic Vs Trinidad and Tobago
+🆔 Match ID: 2682949
+🕒 Start: 2026-05-31 04:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Movistar Liga de Campeones 2
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/70.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/107.png
+--------------------------------------------------
+🏟️ Match: Mexico Vs Australia
+🆔 Match ID: 2671908
+🕒 Start: 2026-05-31 05:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: TUDN MX, Azteca 7 MX, Canal5 MX, Movistar Liga de Campeones, TUDN USA, Univision, FOX Deportes
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/69.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/74.png
 --------------------------------------------------
