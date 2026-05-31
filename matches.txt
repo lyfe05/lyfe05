@@ -1,56 +1,96 @@
-🏟️ Match: Scotland Vs Curaçao
-🆔 Match ID: 2664797
-🕒 Start: 2026-05-30 15:00 (GMT+3)
+🏟️ Match: Japan Vs Iceland
+🆔 Match ID: 2680232
+🕒 Start: 2026-05-31 13:25 (GMT+3)
 📍 Tournament: International Friendlies
-📺 Channels: BBC iPlayer, BBC1 Scotland, BBC Sport Website, Fox Soccer Plus, Sky Sport Select NZ, DAZN1 DE, BBC Scotland, Sport TV1 Portugal, Prima Sport 4 Romania, Cytavision Sports 4 Cyprus, Polsat Sport 3 Poland, Ziggo Sport 2 NL, Digi Sport 2 Romania, Sky Sport Calcio IT, Arena Sport 1 Serbia, Diema Sport 3 Bulgaria, ESPN Brazil, Ziggo Sport 1 NL, V Sport Premium, beIN Sports MENA 3, Sportklub 5 Croatia, Sport 1 Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/113.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1354.png
+📺 Channels: Not Televised, Sky Sport 7 NZ, Movistar Liga de Campeones, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/52.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/296.png
 --------------------------------------------------
-🏟️ Match: Zimbabwe Vs India
-🆔 Match ID: 2684154
-🕒 Start: 2026-05-30 16:30 (GMT+3)
+🏟️ Match: Singapore Vs Mongolia
+🆔 Match ID: 2682570
+🕒 Start: 2026-05-31 14:30 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1395.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1403.png
+--------------------------------------------------
+🏟️ Match: Switzerland Vs Jordan
+🆔 Match ID: 2673184
+🕒 Start: 2026-05-31 16:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Not Televised, Fox Sports 2 USA, SRF Info, Jordan TV Sport, SONY TEN 1 HD, Sport TV1 Portugal, Polsat Sport 2 Poland, RSI La 1 IT, Sky Sport Calcio IT, Prima Sport 2 Romania, Arena Sport 1 Serbia, TV2 Sport X Denmark, ESPN Argentina, Diema Sport Bulgaria, SuperSport PSL, Sportklub 5 Croatia, Backup Stream, RSI La 2
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/93.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/777.png
+--------------------------------------------------
+🏟️ Match: Albion Vs City Torque
+🆔 Match ID: 2683014
+🕒 Start: 2026-05-31 16:00 (GMT+3)
+📍 Tournament: Liga AUF Uruguaya
+📺 Channels: Channel 4, TNT Sports 1, TNT Sports Ultimate, HBO Max, TNT Sports 1 UK, Channel 4 UK, CBS Sports Network, Movistar Liga de Campeones, Polsat Sport 3 Poland, ESPN Mexico, ESPN Brazil, Sport 2 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/20885.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9623.png
+--------------------------------------------------
+🏟️ Match: Czechia Vs Kosovo
+🆔 Match ID: 2682901
+🕒 Start: 2026-05-31 17:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Not Televised, ČT2 CZ, RTK1 Kosovo, Polsat Sport Premium 2 Poland, Digi Sport 1 Romania, Prima Sport 1 Romania, Cytavision Sports 3 Cyprus, Sportklub 1 Croatia, beIN Sports MENA 4, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/100.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6677.png
+--------------------------------------------------
+🏟️ Match: Cabo Verde Vs Serbia
+🆔 Match ID: 2681800
+🕒 Start: 2026-05-31 18:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: RTS 2 Serbia, Arena 1 Premium Serbia, Sky Sport 7 NZ, Canal 11 Portugal, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/589.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/88.png
+--------------------------------------------------
+🏟️ Match: Poland Vs Ukraine
+🆔 Match ID: 2682805
+🕒 Start: 2026-05-31 18:30 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Not Televised, TVP Sport Poland, TVP1 Poland, Sky Sport 6 NZ, Digi Sport 2 Romania, SONY TEN 1 HD, Sportv Brazil, Prima Sport 2 Romania, Cytavision Sports 4 Cyprus, TV2 Sport X Denmark, Diema Sport 2 Bulgaria, beIN Sports MENA 2, Sportklub 5 Croatia, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/103.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/119.png
+--------------------------------------------------
+🏟️ Match: Juventud Vs Wanderers
+🆔 Match ID: 2683020
+🕒 Start: 2026-05-31 21:00 (GMT+3)
+📍 Tournament: Liga AUF Uruguaya
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1848.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1857.png
+--------------------------------------------------
+🏟️ Match: Germany Vs Finland
+🆔 Match ID: 2657791
+🕒 Start: 2026-05-31 21:45 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Amazon Prime Video, Fox Sports 2 USA, ZDF DE, Sky Sport 6 NZ, Sport TV1 Portugal, YLE TV2 Finland, Diema Sport 3 Bulgaria, ESPN Argentina, Polsat Sport 3 Poland, L'Equipe France, Sky Sport Calcio IT, Digi Sport 2 Romania, Prima Sport 2 Romania, Ziggo Sport 2 NL, Cytavision Sports 3 Cyprus, TV2 Sport Norway, V Sport Premium, Arena 3 Premium Serbia, Nova Sports Start Greece, TV2 Sport X Denmark, ESPN Brazil, SuperSport PSL, Sportklub 2 Croatia, beIN Sports MENA 1, beIN Sports MENA 2, Sport 1 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/96.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/314.png
+--------------------------------------------------
+🏟️ Match: United States Vs Senegal
+🆔 Match ID: 2657792
+🕒 Start: 2026-05-31 22:30 (GMT+3)
 📍 Tournament: International Friendlies
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/587.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1397.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/81.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/121.png
 --------------------------------------------------
-🏟️ Match: PSG Vs Arsenal
-🆔 Match ID: 2674466
-🕒 Start: 2026-05-30 19:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: Paramount+, TNT Sports 1 UK, CBS USA, CBSNY USA, Canal+ Foot France, M6 France, Canal+ France, Canal+ Live 1 France, Sky Sport Austria 1, Premier Sports Ireland 1, TRT 1 Turkey, RTE 2 Ireland, TVE La 1 Spain, Movistar Liga de Campeones, Movistar Plus+, DAZN1 DE, ZDF DE, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, Canal+ Extra 1 Poland, Sky Sport 251 IT, Sky Sport Uno IT, Sky Sport Calcio IT, Digi Sport 1 Romania, Prima Sport 1 Romania, Ziggo Sport 1 NL, beIN Sports Malaysia, SONY TEN 2 HD, SONY TEN 3 HD, TV2 Direkte Norway, Canal+ Sport 2 Afrique, SRF Info, Nova Sport 3 SK, Nova Sport 3 CZ, Univision, Cytavision Sports 3 Cyprus, Club RTL Belgium, TV3+ HD Denmark, Arena 1 Premium Serbia, HRT 2 Croatia, Sky Calcio 1 (251) Italy, Arena Sport 1 Croatia, Cosmote Sport 1 Greece, V Sport Premium, bTV Action Bulgaria, BNT 3 Bulgaria, MAX Sport 3 Bulgaria, TNT Brasil, ESPN Argentina, TNT Mexico, Fox Sports Argentina, SuperSport Premier League, Supersport Grandstand, TUDN USA, beIN Sports MENA 1, beIN Sports MENA 2, beIN Sports MENA English 1, Sport 5 Israel, Sport 5 Live Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/263.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
---------------------------------------------------
-🏟️ Match: Jamaica Vs Nigeria
-🆔 Match ID: 2684155
-🕒 Start: 2026-05-30 21:30 (GMT+3)
+🏟️ Match: Brazil Vs Panama
+🆔 Match ID: 2675813
+🕒 Start: 2026-06-01 00:30 (GMT+3)
 📍 Tournament: International Friendlies
-📺 Channels: DAZN
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/110.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/85.png
+📺 Channels: Not Televised, SporTV BR, TVN Panama, Abu Dhabi Sports 1, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/79.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1022.png
 --------------------------------------------------
-🏟️ Match: Ecuador Vs Saudi Arabia
-🆔 Match ID: 2680962
-🕒 Start: 2026-05-31 02:30 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Movistar Liga de Campeones
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/101.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/104.png
---------------------------------------------------
-🏟️ Match: Korea Republic Vs Trinidad and Tobago
-🆔 Match ID: 2682949
-🕒 Start: 2026-05-31 04:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Movistar Liga de Campeones 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/70.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/107.png
---------------------------------------------------
-🏟️ Match: Mexico Vs Australia
-🆔 Match ID: 2671908
-🕒 Start: 2026-05-31 05:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: TUDN MX, Azteca 7 MX, Canal5 MX, Movistar Liga de Campeones, TUDN USA, Univision, FOX Deportes
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/69.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/74.png
+🏟️ Match: Maldonado Vs Club Nacional de Football
+🆔 Match ID: 2683021
+🕒 Start: 2026-06-01 00:30 (GMT+3)
+📍 Tournament: Liga AUF Uruguaya
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17451.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1671.png
 --------------------------------------------------
