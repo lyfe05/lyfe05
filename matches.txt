@@ -1,208 +1,32 @@
-🏟️ Match: Vanuatu Vs Fiji
-🆔 Match ID: 2684316
-🕒 Start: 2026-06-09 09:00 (GMT+3)
+🏟️ Match: Pakistan Vs Afghanistan
+🆔 Match ID: 2686834
+🕒 Start: 2026-06-10 19:00 (GMT+3)
 📍 Tournament: International Friendlies
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1337.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1339.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1389.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1402.png
 --------------------------------------------------
-🏟️ Match: Ethiopia Vs Malawi
-🆔 Match ID: 2683358
-🕒 Start: 2026-06-09 12:00 (GMT+3)
+🏟️ Match: Portugal Vs Nigeria
+🆔 Match ID: 2680182
+🕒 Start: 2026-06-10 22:45 (GMT+3)
 📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1369.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1379.png
+📺 Channels: Amazon Prime Video, Fox Soccer Plus, Sport TV1 Portugal, RTP 1 Portugal, Sport TV2 Portugal, Sky Sport 2 NZ, Sportklub 1 Croatia, Polsat Sport 2 Poland, Polsat Sport Extra 1 poland, Sky Sport Arena IT, Ziggo Sport 3 NL, TV2 Sport Norway, Digi Sport 1 Romania, Prima Sport 1 Romania, Cytavision Sports 4 Cyprus, Arena 5 Premium Serbia, Nova Sports Prime Greece, SporTV BR, Diema Sport 2 Bulgaria, ESPN Argentina, beIN Sports MENA 2, beIN Sports MENA English 2, Sport 2 Israel, Backup Stream, Viaplay Sport SE
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/43.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/85.png
 --------------------------------------------------
-🏟️ Match: Philippines Vs Myanmar
-🆔 Match ID: 2683357
-🕒 Start: 2026-06-09 14:30 (GMT+3)
+🏟️ Match: England Vs Costa Rica
+🆔 Match ID: 2670437
+🕒 Start: 2026-06-10 23:00 (GMT+3)
 📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1392.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1405.png
+📺 Channels: ITV1, ITVX, STV, STV Player, ITV 1 UK, Fox Sports 2 USA, Sky Sport 1 NZ, Sport TV3 Portugal, Polsat Sport 3 Poland, Sky Sport Calcio IT, Sportklub 2 Croatia, L'Equipe France, Digi Sport 2 Romania, Prima Sport 2 Romania, Ziggo Sport 1 NL, Ziggo Sport 2 NL, Cytavision Sports 3 Cyprus, Arena 3 Premium Serbia, Nova Sports Start Greece, TV2 Sport X Denmark, ESPN Brazil, Diema Sport 3 Bulgaria, ESPN Argentina, SuperSport PSL, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel, Backup Stream, V Sport Premium SE
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/61.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/98.png
 --------------------------------------------------
-🏟️ Match: China PR Vs Thailand
-🆔 Match ID: 2683458
-🕒 Start: 2026-06-09 14:35 (GMT+3)
+🏟️ Match: Bolivia Vs Algeria
+🆔 Match ID: 2684215
+🕒 Start: 2026-06-11 03:00 (GMT+3)
 📍 Tournament: International Friendlies
-📺 Channels: Thairath TV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/120.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/584.png
---------------------------------------------------
-🏟️ Match: Cambodia Vs Hong Kong
-🆔 Match ID: 2682412
-🕒 Start: 2026-06-09 15:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1387.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1401.png
---------------------------------------------------
-🏟️ Match: Oman Vs Kuwait
-🆔 Match ID: 2681600
-🕒 Start: 2026-06-09 15:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Oman TV Sport, KTV Sport
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/714.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/130.png
---------------------------------------------------
-🏟️ Match: Comoros Vs Equatorial Guinea
-🆔 Match ID: 2682727
-🕒 Start: 2026-06-09 15:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1381.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1011.png
---------------------------------------------------
-🏟️ Match: Botswana Vs Niger
-🆔 Match ID: 2683924
-🕒 Start: 2026-06-09 15:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/839.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1007.png
---------------------------------------------------
-🏟️ Match: Mauritania Vs Liberia
-🆔 Match ID: 2683867
-🕒 Start: 2026-06-09 15:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2070.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1382.png
---------------------------------------------------
-🏟️ Match: Indonesia Vs Mozambique
-🆔 Match ID: 2683816
-🕒 Start: 2026-06-09 16:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1410.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/595.png
---------------------------------------------------
-🏟️ Match: Bahrain Vs Syria
-🆔 Match ID: 2682409
-🕒 Start: 2026-06-09 17:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/897.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/966.png
---------------------------------------------------
-🏟️ Match: Kyrgyz Republic Vs Palestine
-🆔 Match ID: 2683511
-🕒 Start: 2026-06-09 17:30 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1409.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1398.png
---------------------------------------------------
-🏟️ Match: Tajikistan Vs India
-🆔 Match ID: 2684015
-🕒 Start: 2026-06-09 18:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1388.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1397.png
---------------------------------------------------
-🏟️ Match: Armenia Vs Moldova
-🆔 Match ID: 2677727
-🕒 Start: 2026-06-09 18:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Sky Sport Select NZ, Prima Sport 1 Romania, Digi Sport 4 Romania, Sport Klub 9 Croatia, Diema Sport 3 Bulgaria, beIN Sports MENA 2, Sport 2 CZ
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/315.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/301.png
---------------------------------------------------
-🏟️ Match: Tanzania Vs Rwanda
-🆔 Match ID: 2684138
-🕒 Start: 2026-06-09 19:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/585.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1366.png
---------------------------------------------------
-🏟️ Match: Liberia Vs Sierra Leone
-🆔 Match ID: 2684632
-🕒 Start: 2026-06-09 19:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1382.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1370.png
---------------------------------------------------
-🏟️ Match: DR Congo Vs Chile
-🆔 Match ID: 2681795
-🕒 Start: 2026-06-09 19:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Chilevision
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/895.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/35.png
---------------------------------------------------
-🏟️ Match: Belarus Vs Burkina Faso
-🆔 Match ID: 2682413
-🕒 Start: 2026-06-09 19:30 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Fox Soccer Plus, Sky Sport 4 NZ, Digi Sport 3 Romania, Prima Sport 4 Romania, beIN Sports MENA English 1, Sport Klub 8 Croatia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/303.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1018.png
---------------------------------------------------
-🏟️ Match: Hungary Vs Kazakhstan
-🆔 Match ID: 2671845
-🕒 Start: 2026-06-09 20:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not Televised, Fox Sports 2 USA, M4 Sports Hungary, Sky Sport 2 NZ, Polsat Sport 1 Poland, Sky Sport Calcio IT, Cytavision Sports 3 Cyprus, Digi Sport 1 Romania, Sport 1 CZ, Sport Klub 7 Croatia, Prima Sport 2 Romania, Diema Sport Bulgaria, SuperSport PSL, beIN Sports MENA 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/125.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/311.png
---------------------------------------------------
-🏟️ Match: Russia Vs Trinidad and Tobago
-🆔 Match ID: 2681685
-🕒 Start: 2026-06-09 20:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/124.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/107.png
---------------------------------------------------
-🏟️ Match: Azerbaijan Vs San Marino
-🆔 Match ID: 2682460
-🕒 Start: 2026-06-09 21:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: CBC Sport Azerbaijan, Sky Sport 3 NZ, Prima Sport 1 Romania, Digi Sport 4 Romania, Sport Klub 4 Croatia, Diema Sport 3 Bulgaria, SporTV 2 BR, SuperSport Premier League, beIN SPORTS MENA 3
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/309.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/300.png
---------------------------------------------------
-🏟️ Match: Togo Vs Benin
-🆔 Match ID: 2683815
-🕒 Start: 2026-06-09 21:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/106.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1385.png
---------------------------------------------------
-🏟️ Match: CAR Vs Angola
-🆔 Match ID: 2681776
-🕒 Start: 2026-06-09 22:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/967.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/97.png
---------------------------------------------------
-🏟️ Match: Saudi Arabia Vs Senegal
-🆔 Match ID: 2681828
-🕒 Start: 2026-06-10 02:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/104.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/121.png
---------------------------------------------------
-🏟️ Match: Iraq Vs Venezuela
-🆔 Match ID: 2683629
-🕒 Start: 2026-06-10 04:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Al Iraqiya Sports
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/133.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/591.png
---------------------------------------------------
-🏟️ Match: Argentina Vs Iceland
-🆔 Match ID: 2680545
-🕒 Start: 2026-06-10 04:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: ESPN USA, Fox Soccer Plus, Telefe Argentina, Abu Dhabi Sports 1, Sky Sport 1 NZ, Polsat Sport 1 Poland, ESPN Deportes, Arena 1 Premium Serbia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/55.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/296.png
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/840.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/59.png
 --------------------------------------------------
