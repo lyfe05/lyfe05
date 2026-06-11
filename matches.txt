@@ -1,32 +1,16 @@
-🏟️ Match: Pakistan Vs Afghanistan
-🆔 Match ID: 2686834
-🕒 Start: 2026-06-10 19:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1389.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1402.png
+🏟️ Match: Mexico Vs South Africa
+🆔 Match ID: 2645041
+🕒 Start: 2026-06-11 22:00 (GMT+3)
+📍 Tournament: FIFA World Cup™
+📺 Channels: ITV1, ITVX, STV, STV Player, ITV 1 UK, FOX USA, FOXNY USA, RTE 2 Ireland, TUDN Mexico, Azteca 7 Mexico, TSN1, TSN3, TSN4, TVP Sport Poland, RDS CA, SRF zwei, TRT 1 Turkey, TRT Spor Turkey, TVE La 1 Spain, ZDF DE, Sport TV1 Portugal, TVI Portugal, Sport TV5 Portugal, RAI 1 IT, NPO 1 NL, Ziggo Sport 1 NL, M6 France, ČT Sport CZ, beIN Sports 1 France, JOJ Sport Slovakia, M4 Sports Hungary, Match TV Russia, Match! Football 1 Russia, Match Premier Russia, Telefe Argentina, T Sports Bangladesh, BHT 1 Bosnia, Arena Sport 1P, La Une Belgium, Caracol TV Colombia, Telemundo, Antena 1 Romania, TV 2 Direkte Norway, HRT 2 Croatia, RTS 1 Serbia, Arena 1 Premium Serbia, TV4 Sweden, TV2 Denmark, ERT 1 Greece, BNT 1 Bulgaria, BNT 3 Bulgaria, SporTV BR, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 1 Arabia, beIN Sports MAX 2 Arabia, Sport 1 Israel, Backup Stream, SBS, DAZN Mundial, MTV Urheilu 1, HRT 2 Crotia, TV4 Sweden SE
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/69.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/39.png
 --------------------------------------------------
-🏟️ Match: Portugal Vs Nigeria
-🆔 Match ID: 2680182
-🕒 Start: 2026-06-10 22:45 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Amazon Prime Video, Fox Soccer Plus, Sport TV1 Portugal, RTP 1 Portugal, Sport TV2 Portugal, Sky Sport 2 NZ, Sportklub 1 Croatia, Polsat Sport 2 Poland, Polsat Sport Extra 1 poland, Sky Sport Arena IT, Ziggo Sport 3 NL, TV2 Sport Norway, Digi Sport 1 Romania, Prima Sport 1 Romania, Cytavision Sports 4 Cyprus, Arena 5 Premium Serbia, Nova Sports Prime Greece, SporTV BR, Diema Sport 2 Bulgaria, ESPN Argentina, beIN Sports MENA 2, beIN Sports MENA English 2, Sport 2 Israel, Backup Stream, Viaplay Sport SE
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/43.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/85.png
---------------------------------------------------
-🏟️ Match: England Vs Costa Rica
-🆔 Match ID: 2670437
-🕒 Start: 2026-06-10 23:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: ITV1, ITVX, STV, STV Player, ITV 1 UK, Fox Sports 2 USA, Sky Sport 1 NZ, Sport TV3 Portugal, Polsat Sport 3 Poland, Sky Sport Calcio IT, Sportklub 2 Croatia, L'Equipe France, Digi Sport 2 Romania, Prima Sport 2 Romania, Ziggo Sport 1 NL, Ziggo Sport 2 NL, Cytavision Sports 3 Cyprus, Arena 3 Premium Serbia, Nova Sports Start Greece, TV2 Sport X Denmark, ESPN Brazil, Diema Sport 3 Bulgaria, ESPN Argentina, SuperSport PSL, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel, Backup Stream, V Sport Premium SE
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/61.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/98.png
---------------------------------------------------
-🏟️ Match: Bolivia Vs Algeria
-🆔 Match ID: 2684215
-🕒 Start: 2026-06-11 03:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/840.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/59.png
+🏟️ Match: Korea Republic Vs Czechia
+🆔 Match ID: 2650049
+🕒 Start: 2026-06-12 05:00 (GMT+3)
+📍 Tournament: FIFA World Cup™
+📺 Channels: Fox Sports 1 USA, ITV 1 UK, RTE 2 Ireland, ČT Sport CZ, TSN1, TSN4, TSN5, RDS CA, TRT Spor Turkey, Sport TV5 Portugal, TVP Sport Poland, TVP2 Poland, beIN Sports 1 France, RSI La 2 IT, JOJ Sport Slovakia, NPO 1 NL, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, Antena 1 Romania, M4 Sport Hungary, Tipik Belgium, ERT 1 Greece, Telemundo, Arena 1 Premium Serbia, HRT 2 Croatia, TV2 Sport X Denmark, TV4 Sweden, BNT 1 Bulgaria, BNT 3 Bulgaria, TyC Sports Argentina, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 1 Arabia, beIN Sports MAX 2 Arabia, Sport 1 Israel, Sport 2 Israel, Backup Stream, SBS, MagentaTV, TV2 Sport X DK, DAZN Mundial, MTV Urheilu 1, HRT 2 Crotia, RAI 1 IT, Azteca 7 Mexico, TV 2 Direkte Norway, Sport TV1 Portugal, TV4 Sweden SE, TRT 1 Turkey
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/70.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/100.png
 --------------------------------------------------
