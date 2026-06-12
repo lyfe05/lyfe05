@@ -1,16 +1,56 @@
-🏟️ Match: Mexico Vs South Africa
-🆔 Match ID: 2645041
-🕒 Start: 2026-06-11 22:00 (GMT+3)
-📍 Tournament: FIFA World Cup™
-📺 Channels: ITV1, ITVX, STV, STV Player, ITV 1 UK, FOX USA, FOXNY USA, RTE 2 Ireland, TUDN Mexico, Azteca 7 Mexico, TSN1, TSN3, TSN4, TVP Sport Poland, RDS CA, SRF zwei, TRT 1 Turkey, TRT Spor Turkey, TVE La 1 Spain, ZDF DE, Sport TV1 Portugal, TVI Portugal, Sport TV5 Portugal, RAI 1 IT, NPO 1 NL, Ziggo Sport 1 NL, M6 France, ČT Sport CZ, beIN Sports 1 France, JOJ Sport Slovakia, M4 Sports Hungary, Match TV Russia, Match! Football 1 Russia, Match Premier Russia, Telefe Argentina, T Sports Bangladesh, BHT 1 Bosnia, Arena Sport 1P, La Une Belgium, Caracol TV Colombia, Telemundo, Antena 1 Romania, TV 2 Direkte Norway, HRT 2 Croatia, RTS 1 Serbia, Arena 1 Premium Serbia, TV4 Sweden, TV2 Denmark, ERT 1 Greece, BNT 1 Bulgaria, BNT 3 Bulgaria, SporTV BR, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 1 Arabia, beIN Sports MAX 2 Arabia, Sport 1 Israel, Backup Stream, SBS, DAZN Mundial, MTV Urheilu 1, HRT 2 Crotia, TV4 Sweden SE
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/69.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/39.png
+🏟️ Match: Waterford Vs Sligo Rovers
+🆔 Match ID: 2651960
+🕒 Start: 2026-06-12 21:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4138.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4170.png
 --------------------------------------------------
-🏟️ Match: Korea Republic Vs Czechia
-🆔 Match ID: 2650049
-🕒 Start: 2026-06-12 05:00 (GMT+3)
+🏟️ Match: Derry City Vs Bohemian
+🆔 Match ID: 2651961
+🕒 Start: 2026-06-12 21:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV, BBC iPlayer, BBC Sport Website
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1913.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/346.png
+--------------------------------------------------
+🏟️ Match: St Patrick's Athletic Vs Drogheda United
+🆔 Match ID: 2651964
+🕒 Start: 2026-06-12 21:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/909.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1883.png
+--------------------------------------------------
+🏟️ Match: Galway United Vs Dundalk
+🆔 Match ID: 2651962
+🕒 Start: 2026-06-12 21:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/11862.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/489.png
+--------------------------------------------------
+🏟️ Match: Canada Vs Bosnia & Herzegovina
+🆔 Match ID: 2650050
+🕒 Start: 2026-06-12 22:00 (GMT+3)
 📍 Tournament: FIFA World Cup™
-📺 Channels: Fox Sports 1 USA, ITV 1 UK, RTE 2 Ireland, ČT Sport CZ, TSN1, TSN4, TSN5, RDS CA, TRT Spor Turkey, Sport TV5 Portugal, TVP Sport Poland, TVP2 Poland, beIN Sports 1 France, RSI La 2 IT, JOJ Sport Slovakia, NPO 1 NL, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, Antena 1 Romania, M4 Sport Hungary, Tipik Belgium, ERT 1 Greece, Telemundo, Arena 1 Premium Serbia, HRT 2 Croatia, TV2 Sport X Denmark, TV4 Sweden, BNT 1 Bulgaria, BNT 3 Bulgaria, TyC Sports Argentina, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 1 Arabia, beIN Sports MAX 2 Arabia, Sport 1 Israel, Sport 2 Israel, Backup Stream, SBS, MagentaTV, TV2 Sport X DK, DAZN Mundial, MTV Urheilu 1, HRT 2 Crotia, RAI 1 IT, Azteca 7 Mexico, TV 2 Direkte Norway, Sport TV1 Portugal, TV4 Sweden SE, TRT 1 Turkey
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/70.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/100.png
+📺 Channels: BBC1, BBC iPlayer, BBC Sport Website, BBC One UK, RTE 2 Ireland, FOX USA, FOXNY USA, CTV 2 Canada, TSN1, TSN3, TSN4, RDS CA, BHT 1 Bosnia, Arena Sport 1P, Telemundo, SRF zwei, TRT 1 Turkey, TVE La 1 Spain, Das Erste DE, Sky Sport 3 DE, Sky Sport 4 DE, Sky Sport 2 DE, Sport TV1 Portugal, SIC Portugal, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, RAI 1 IT, RTVS Sport Slovakia, M6 France, beIN Sports 1 France, M4 Sports Hungary, Match Premier Russia, Match TV Russia, Tipik Belgium, T Sports Bangladesh, Antena 1 Romania, DR 1 Denmark, NRK1 Norway, TV6 Latvia, YLE TV2 Finland, NPO 1 NL, Match! Football 1 Russia, ERT 2 Greece, Arena 1 Premium Serbia, HRT 2 Croatia, SVT 1 Sweden, BNT 1 Bulgaria, BNT 3 Bulgaria, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 1 Arabia, beIN Sports MAX 2 Arabia, Sport 1 Israel, Backup Stream, SBS AU, MagentaTV DE, DAZN Mundial ES, YLE TV2 FI, BBC One, HRT 2 Crotia, SVT 1 SE, TRT Spor TR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/132.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/297.png
+--------------------------------------------------
+🏟️ Match: Shelbourne Vs Shamrock Rovers
+🆔 Match ID: 2651963
+🕒 Start: 2026-06-12 22:00 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4167.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/433.png
+--------------------------------------------------
+🏟️ Match: United States Vs Paraguay
+🆔 Match ID: 2645043
+🕒 Start: 2026-06-13 04:00 (GMT+3)
+📍 Tournament: FIFA World Cup™
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/81.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/47.png
 --------------------------------------------------
