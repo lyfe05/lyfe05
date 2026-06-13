@@ -1,56 +1,32 @@
-🏟️ Match: Waterford Vs Sligo Rovers
-🆔 Match ID: 2651960
-🕒 Start: 2026-06-12 21:45 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4138.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4170.png
---------------------------------------------------
-🏟️ Match: Derry City Vs Bohemian
-🆔 Match ID: 2651961
-🕒 Start: 2026-06-12 21:45 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV, BBC iPlayer, BBC Sport Website
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1913.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/346.png
---------------------------------------------------
-🏟️ Match: St Patrick's Athletic Vs Drogheda United
-🆔 Match ID: 2651964
-🕒 Start: 2026-06-12 21:45 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/909.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1883.png
---------------------------------------------------
-🏟️ Match: Galway United Vs Dundalk
-🆔 Match ID: 2651962
-🕒 Start: 2026-06-12 21:45 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/11862.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/489.png
---------------------------------------------------
-🏟️ Match: Canada Vs Bosnia & Herzegovina
-🆔 Match ID: 2650050
-🕒 Start: 2026-06-12 22:00 (GMT+3)
+🏟️ Match: Qatar Vs Switzerland
+🆔 Match ID: 2645046
+🕒 Start: 2026-06-13 22:00 (GMT+3)
 📍 Tournament: FIFA World Cup™
-📺 Channels: BBC1, BBC iPlayer, BBC Sport Website, BBC One UK, RTE 2 Ireland, FOX USA, FOXNY USA, CTV 2 Canada, TSN1, TSN3, TSN4, RDS CA, BHT 1 Bosnia, Arena Sport 1P, Telemundo, SRF zwei, TRT 1 Turkey, TVE La 1 Spain, Das Erste DE, Sky Sport 3 DE, Sky Sport 4 DE, Sky Sport 2 DE, Sport TV1 Portugal, SIC Portugal, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, RAI 1 IT, RTVS Sport Slovakia, M6 France, beIN Sports 1 France, M4 Sports Hungary, Match Premier Russia, Match TV Russia, Tipik Belgium, T Sports Bangladesh, Antena 1 Romania, DR 1 Denmark, NRK1 Norway, TV6 Latvia, YLE TV2 Finland, NPO 1 NL, Match! Football 1 Russia, ERT 2 Greece, Arena 1 Premium Serbia, HRT 2 Croatia, SVT 1 Sweden, BNT 1 Bulgaria, BNT 3 Bulgaria, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 1 Arabia, beIN Sports MAX 2 Arabia, Sport 1 Israel, Backup Stream, SBS AU, MagentaTV DE, DAZN Mundial ES, YLE TV2 FI, BBC One, HRT 2 Crotia, SVT 1 SE, TRT Spor TR
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/132.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/297.png
+📺 Channels: ITV1, ITVX, STV, STV Player, ITV 1 UK, RTE 2 Ireland, FOX USA, FOXNY USA, CTV Canada, TSN1, TSN3, TSN4, RDS CA, TRT 1 Turkey, SRF zwei, DAZN Mundial 1 ESP, ZDF DE, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, M6 France, beIN Sports 1 France, Telemundo, JOJ Sport Slovakia, NRK1 Norway, NPO 1 NL, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, ČT Sport CZ, Arena 1 Premium Serbia, Arena Sport 1 Bosnia, Tipik Belgium, T Sports Bangladesh, M4 Sports Hungary, Antena 1 Romania, ERT 2 Greece, HRT 2 Croatia, DR 1 Denmark, BNT 1 Bulgaria, BNT 3 Bulgaria, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 1 Arabia, beIN Sports MAX 3 Arabia, Sport 1 Israel, Backup Stream, SBS AU, MagentaTV, DAZN Mundial ES, MTV Urheilu 1, Azteca 7 MX, TV4 SE, TRT 1 TR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/586.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/93.png
 --------------------------------------------------
-🏟️ Match: Shelbourne Vs Shamrock Rovers
-🆔 Match ID: 2651963
-🕒 Start: 2026-06-12 22:00 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4167.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/433.png
---------------------------------------------------
-🏟️ Match: United States Vs Paraguay
-🆔 Match ID: 2645043
-🕒 Start: 2026-06-13 04:00 (GMT+3)
+🏟️ Match: Brazil Vs Morocco
+🆔 Match ID: 2645048
+🕒 Start: 2026-06-14 01:00 (GMT+3)
 📍 Tournament: FIFA World Cup™
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/81.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/47.png
+📺 Channels: BBC1, BBC iPlayer, BBC Sport Website, BBC One UK, RTE 2 Ireland, FOX USA, FOXNY USA, CTV Canada, TSN1, TSN4, TSN5, RDS CA, TRT 1 Turkey, HRT 2 Croatia, DAZN Mundial 1 ESP, SRF zwei, TVE La 1 Spain, ZDF DE, Sport TV1 Portugal, Sport TV5 Portugal, TVP Sport Poland, TVP2 Poland, RAI 1 IT, M6 France, beIN Sports 1 France, JOJ Sport Slovakia, NPO 1 NL, TV 2 Direkte Norway, Telemundo, M4 Sports Hungary, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, T Sports Bangladesh, Telefe Argentina, TUDN Mexico, Azteca 7 Mexico, Tipik Belgium, ČT Sport CZ, Antena 1 Romania, TV2 Sport X Denmark, Arena 1 Premium Serbia, ERT 2 Greece, SVT 1 Sweden, BNT 1 Bulgaria, BNT 3 Bulgaria, SporTV BR, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 2 Arabia, beIN Sports MAX 4 Arabia, Sport 1 Israel, Sport 2 Israel, Backup Stream, SBS AU, MagentaTV, TV2 Sport X DK, DAZN Mundial ES, MTV Urheilu 1, ITV 1 UK, HRT 2 Crotia, Azteca 7 MX, TRT 1 TR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/79.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/108.png
+--------------------------------------------------
+🏟️ Match: Haiti Vs Scotland
+🆔 Match ID: 2645045
+🕒 Start: 2026-06-14 04:00 (GMT+3)
+📍 Tournament: FIFA World Cup™
+📺 Channels: BBC One UK, RTE 2 Ireland, FOX USA, FOXNY USA, CTV Canada, TSN1, TSN4, TSN5, RDS CA, TRT Spor Turkey, SRF zwei, DAZN Mundial 1 ESP, Das Erste DE, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, beIN Sports 1 France, Telemundo, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, NPO 1 NL, Antena 1 Romania, JOJ Sport Slovakia, M4 Sports Hungary, Arena Sport 1 Bosnia, Tipik Belgium, T Sports Bangladesh, SVT 1 Sweden, TV 2 Direkte Norway, Arena 1 Premium Serbia, HRT 2 Croatia, DR 1 Denmark, BNT 1 Bulgaria, BNT 3 Bulgaria, TyC Sports Argentina, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 1 Arabia, beIN Sports MAX 3 Arabia, Sport 1 Israel, Sport 2 Israel, Backup Stream, SBS AU, MagentaTV, DAZN Mundial ES, MTV Urheilu 1, M6 France, ITV 1 UK, ERT 2 Greece, Azteca 7 MX, TV4 SE, TRT 1 TR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/134.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/113.png
+--------------------------------------------------
+🏟️ Match: Australia Vs Türkiye
+🆔 Match ID: 2650051
+🕒 Start: 2026-06-14 07:00 (GMT+3)
+📍 Tournament: FIFA World Cup™
+📺 Channels: ITV 1 UK, RTE 2 Ireland, Fox Sports 1 USA, TRT 1 Turkey, TSN1, TSN4, CTV Canada, TSN5, RDS CA, SRF zwei, DAZN Mundial 1 ESP, Sport TV5 Portugal, TVP Sport Poland, TVP2 Poland, beIN Sports 1 France, Telemundo, M4 Sports Hungary, TV 2 Direkte Norway, NPO 1 NL, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, Antena 1 Romania, JOJ Sport Slovakia, Tipik Belgium, T Sports Bangladesh, TyC Sports Argentina, Arena 1 Premium Serbia, DR 1 Denmark, HRT 2 Croatia, BNT 1 Bulgaria, BNT 3 Bulgaria, SporTV BR, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 2 Arabia, beIN Sports MAX 4 Arabia, Sport 2 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/74.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/123.png
 --------------------------------------------------
