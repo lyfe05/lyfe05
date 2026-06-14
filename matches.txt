@@ -1,32 +1,32 @@
-🏟️ Match: Qatar Vs Switzerland
-🆔 Match ID: 2645046
-🕒 Start: 2026-06-13 22:00 (GMT+3)
+🏟️ Match: Germany Vs Curaçao
+🆔 Match ID: 2645051
+🕒 Start: 2026-06-14 20:00 (GMT+3)
 📍 Tournament: FIFA World Cup™
-📺 Channels: ITV1, ITVX, STV, STV Player, ITV 1 UK, RTE 2 Ireland, FOX USA, FOXNY USA, CTV Canada, TSN1, TSN3, TSN4, RDS CA, TRT 1 Turkey, SRF zwei, DAZN Mundial 1 ESP, ZDF DE, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, M6 France, beIN Sports 1 France, Telemundo, JOJ Sport Slovakia, NRK1 Norway, NPO 1 NL, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, ČT Sport CZ, Arena 1 Premium Serbia, Arena Sport 1 Bosnia, Tipik Belgium, T Sports Bangladesh, M4 Sports Hungary, Antena 1 Romania, ERT 2 Greece, HRT 2 Croatia, DR 1 Denmark, BNT 1 Bulgaria, BNT 3 Bulgaria, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 1 Arabia, beIN Sports MAX 3 Arabia, Sport 1 Israel, Backup Stream, SBS AU, MagentaTV, DAZN Mundial ES, MTV Urheilu 1, Azteca 7 MX, TV4 SE, TRT 1 TR
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/586.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/93.png
+📺 Channels: ITV1, ITVX, STV, STV Player, ITV 1 UK, RTE 2 Ireland, FOX USA, FOXNY USA, CTV Canada, TRT 1 Turkey, SRF zwei, TSN1, DAZN Mundial 1 ESP, TSN4, RDS CA, TVE La 1 Spain, Das Erste DE, Sport TV1 Portugal, Sport TV5 Portugal, TVP Sport Poland, Azteca 7 MX, TVP2 Poland, NPO 1 NL, M4 Sports Hungary, RTVS Sport Slovakia, M6 France, beIN Sports 1 France, DR 1 Denmark, ČT Sport CZ, Telemundo, Antena 1 Romania, NRK1 Norway, Tipik Belgium, ORF eins, Arena Sport 1 Bosnia, T Sports Bangladesh, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, YLE TV2 Finland, Arena 1 Premium Serbia, PTV Sports, ERT 2 Greece, TV4 Sweden, HRT 2 Croatia, BNT 1 Bulgaria, BNT 3 Bulgaria, SuperSport PSL, Supersport Grandstand, Bein Sports MAX 1 Arabic, beIN SPORTS XTRA 2 Arabic, Canal5 MX, beIN Sports MAX 3 Arabia, Sport 1 Israel, Backup Stream, Backup Stream (CH-5035) SBS AU, MagentaTV, DAZN Mundial ES, MTV Urheilu 1, TV4 SE, TRT 1 TR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/96.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1354.png
 --------------------------------------------------
-🏟️ Match: Brazil Vs Morocco
-🆔 Match ID: 2645048
-🕒 Start: 2026-06-14 01:00 (GMT+3)
+🏟️ Match: Netherlands Vs Japan
+🆔 Match ID: 2645050
+🕒 Start: 2026-06-14 23:00 (GMT+3)
 📍 Tournament: FIFA World Cup™
-📺 Channels: BBC1, BBC iPlayer, BBC Sport Website, BBC One UK, RTE 2 Ireland, FOX USA, FOXNY USA, CTV Canada, TSN1, TSN4, TSN5, RDS CA, TRT 1 Turkey, HRT 2 Croatia, DAZN Mundial 1 ESP, SRF zwei, TVE La 1 Spain, ZDF DE, Sport TV1 Portugal, Sport TV5 Portugal, TVP Sport Poland, TVP2 Poland, RAI 1 IT, M6 France, beIN Sports 1 France, JOJ Sport Slovakia, NPO 1 NL, TV 2 Direkte Norway, Telemundo, M4 Sports Hungary, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, T Sports Bangladesh, Telefe Argentina, TUDN Mexico, Azteca 7 Mexico, Tipik Belgium, ČT Sport CZ, Antena 1 Romania, TV2 Sport X Denmark, Arena 1 Premium Serbia, ERT 2 Greece, SVT 1 Sweden, BNT 1 Bulgaria, BNT 3 Bulgaria, SporTV BR, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 2 Arabia, beIN Sports MAX 4 Arabia, Sport 1 Israel, Sport 2 Israel, Backup Stream, SBS AU, MagentaTV, TV2 Sport X DK, DAZN Mundial ES, MTV Urheilu 1, ITV 1 UK, HRT 2 Crotia, Azteca 7 MX, TRT 1 TR
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/79.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/108.png
+📺 Channels: ITV1, ITVX, STV, STV Player, ITV 1 UK, RTE 2 Ireland, FOX USA, FOXNY USA, CTV Canada, TSN1, TSN4, RDS CA, RAI 1 IT, DAZN Mundial 1 ESP, TRT 1 Turkey, SRF zwei, Sport TV5 Portugal, TVP Sport Poland, M6 France, beIN Sports 1 France, YLE TV2 Finland, RTVS Sport Slovakia, Telemundo, NPO 1 NL, M4 Sports Hungary, Tipik Belgium, T Sports Bangladesh, ORF eins, Antena 1 Romania, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, RTS 1 Serbia, Arena Sport 1 Bosnia, TV 2 Direkte Norway, TUDN Mexico, Azteca 7 Mexico, TV2 Denmark, Arena 1 Premium Serbia, ERT 2 Greece, TV4 Sweden, PTV Sports, HRT 2 Croatia, BNT 1 Bulgaria, BNT 3 Bulgaria, TyC Sports Argentina, SporTV BR, Bein Sports MAX 1 Arabic, beIN SPORTS XTRA 2 Arabic, Canal5 MX, SuperSport PSL, Supersport Grandstand, Sport 1 Israel, Backup Stream, Backup Stream (CH-5035) SBS AU, MagentaTV, DAZN Mundial ES, MTV Urheilu 1, Azteca 7 MX, TV4 SE, TRT 1 TR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/38.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/52.png
 --------------------------------------------------
-🏟️ Match: Haiti Vs Scotland
-🆔 Match ID: 2645045
-🕒 Start: 2026-06-14 04:00 (GMT+3)
+🏟️ Match: Côte d'Ivoire Vs Ecuador
+🆔 Match ID: 2645052
+🕒 Start: 2026-06-15 02:00 (GMT+3)
 📍 Tournament: FIFA World Cup™
-📺 Channels: BBC One UK, RTE 2 Ireland, FOX USA, FOXNY USA, CTV Canada, TSN1, TSN4, TSN5, RDS CA, TRT Spor Turkey, SRF zwei, DAZN Mundial 1 ESP, Das Erste DE, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, beIN Sports 1 France, Telemundo, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, NPO 1 NL, Antena 1 Romania, JOJ Sport Slovakia, M4 Sports Hungary, Arena Sport 1 Bosnia, Tipik Belgium, T Sports Bangladesh, SVT 1 Sweden, TV 2 Direkte Norway, Arena 1 Premium Serbia, HRT 2 Croatia, DR 1 Denmark, BNT 1 Bulgaria, BNT 3 Bulgaria, TyC Sports Argentina, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 1 Arabia, beIN Sports MAX 3 Arabia, Sport 1 Israel, Sport 2 Israel, Backup Stream, SBS AU, MagentaTV, DAZN Mundial ES, MTV Urheilu 1, M6 France, ITV 1 UK, ERT 2 Greece, Azteca 7 MX, TV4 SE, TRT 1 TR
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/134.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/113.png
+📺 Channels: Fox Sports 1 USA, BBC One UK, RTE 2 Ireland, TSN1, TSN3, TSN4, TSN5, RDS CA, TRT Spor Turkey, DAZN Mundial 1 ESP, SRF zwei, Das Erste DE, Sport TV5 Portugal, TVP Sport Poland, TVP2 Poland, M6 France, beIN Sports 1 France, YLE TV2 Finland, RTVS Sport Slovakia, Telemundo, Antena 1 Romania, NPO 1 NL, M4 Sports Hungary, Tipik Belgium, T Sports Bangladesh, Arena Sport 1 Bosnia, ORF eins, Azteca 7 MX, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, TV 2 Direkte Norway, Arena 1 Premium Serbia, ERT 2 Greece, PTV Sports, DR 1 Denmark, TV4 Sweden, HRT 2 Croatia, BNT 1 Bulgaria, BNT 3 Bulgaria, SporTV BR, SuperSport PSL, Supersport Grandstand, Bein Sports MAX 1 Arabic, beIN SPORTS XTRA 2 Arabic, Canal5 MX, beIN Sports MAX 3 Arabia, Sport 1 Israel, Backup Stream, Backup Stream (CH-5035) SBS AU, MagentaTV, DAZN Mundial ES, MTV Urheilu 1, ITV 1 UK, TV4 SE, TRT 1 TR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/41.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/101.png
 --------------------------------------------------
-🏟️ Match: Australia Vs Türkiye
-🆔 Match ID: 2650051
-🕒 Start: 2026-06-14 07:00 (GMT+3)
+🏟️ Match: Sweden Vs Tunisia
+🆔 Match ID: 2650052
+🕒 Start: 2026-06-15 05:00 (GMT+3)
 📍 Tournament: FIFA World Cup™
-📺 Channels: ITV 1 UK, RTE 2 Ireland, Fox Sports 1 USA, TRT 1 Turkey, TSN1, TSN4, CTV Canada, TSN5, RDS CA, SRF zwei, DAZN Mundial 1 ESP, Sport TV5 Portugal, TVP Sport Poland, TVP2 Poland, beIN Sports 1 France, Telemundo, M4 Sports Hungary, TV 2 Direkte Norway, NPO 1 NL, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, Antena 1 Romania, JOJ Sport Slovakia, Tipik Belgium, T Sports Bangladesh, TyC Sports Argentina, Arena 1 Premium Serbia, DR 1 Denmark, HRT 2 Croatia, BNT 1 Bulgaria, BNT 3 Bulgaria, SporTV BR, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 2 Arabia, beIN Sports MAX 4 Arabia, Sport 2 Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/74.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/123.png
+📺 Channels: ITV 1 UK, Fox Sports 1 USA, RTE 2 Ireland, TSN1, TSN3, TSN4, TSN5, RDS CA, TVP1 Poland, DAZN Mundial 1 ESP, TRT 1 Turkey, SRF zwei, Sport TV5 Portugal, TVP Sport Poland, beIN Sports 1 France, M6 France, YLE TV2 Finland, RTVS Sport Slovakia, ORF eins, Telemundo, NPO 1 NL, M4 Sports Hungary, Tipik Belgium, T Sports Bangladesh, Arena Sport 1 Bosnia, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, DR 1 Denmark, PTV Sports, TV 2 Direkte Norway, ERT 1 Greece, Arena 1 Premium Serbia, HRT 2 Croatia, Azteca 7 MX, SVT 1 Sweden, BNT 1 Bulgaria, BNT 3 Bulgaria, TyC Sports Argentina, Bein Sports MAX 1 Arabic, beIN SPORTS XTRA 2 Arabic, Canal5 MX, SporTV BR, SuperSport PSL, Supersport Grandstand, Sport 1 Israel, Sport 2 Israel, Backup Stream, Backup Stream (CH-5035) SBS AU, MagentaTV, DAZN Mundial ES, MTV Urheilu 1, ERT 2 Greece, TV4 SE, TRT 1 TR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/105.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/112.png
 --------------------------------------------------
