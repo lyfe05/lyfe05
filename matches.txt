@@ -1,32 +1,48 @@
-🏟️ Match: Portugal Vs Uzbekistan
-🆔 Match ID: 2649638
-🕒 Start: 2026-06-23 20:00 (GMT+3)
+🏟️ Match: Switzerland Vs Canada
+🆔 Match ID: 2645077
+🕒 Start: 2026-06-24 22:00 (GMT+3)
 📍 Tournament: FIFA World Cup™
-📺 Channels: FOX USA, FOXNY USA, ITV 1 UK, RTE 2 Ireland, Sport TV1 Portugal, Sport TV2 Portugal, TVI Portugal, RDS CA, Sport TV5 Portugal, TSN1, TSN3, TSN4, TSN5, TRT 1 Turkey, Chilevision, Servus TV Austria, SRF zwei, DAZN Mundial Spain, Das Erste DE, TVP Sport Poland, TVP2 Poland, M6 France, beIN Sports 1 France, RSI La 2 IT, TV 2 Direkte Norway, PTV Sports Pakistan, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, Fussball.TV 1, Azteca 7 Mexico, M4 Sports Hungary, T Sports Bangladesh, Qazsport, JOJ Sport Slovakia, ETV 2 Estonia, NPO 1 NL, Fast Sports Armenia, Ictimai TV Azerbaijan, SBS Australia, Antena 1 Romania, Arena Sport 1 Slovenia, VTV 3 Vietnam, Telemundo, Arena Sport 1 Bosnia, ERT 2 Greece, TV Klan Albania, DR 1 Denmark, Tipik Belgium, Arena 1 Premium Serbia, HRT 2 Croatia, svt Kunskapskanalen, BNT 1 Bulgaria, BNT 3 Bulgaria, Telefe Argentina, TyC Sports Argentina, DIRECTV Sports Argentina, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 1 Arabia, Sport 1 Israel, Fussball.TV 3, Fussball.TV 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/43.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/592.png
+📺 Channels: ITV1, ITVX, STV, STV Player, FOX USA, FOXNY USA, CTV Canada, ITV 1 UK, RTE 2 Ireland, TSN1, TSN3, TSN4, TSN5, RDS CA, SRF zwei, DAZN Mundial Spain, TRT 1 Turkey, Das Erste DE, Sport TV5 Portugal, Servus TV Austria, TVP1 Poland, RAI 1 IT, RSI La 2 IT, M6 France, beIN Sports 1 France, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, NPO 1 NL, PTV Sports Pakistan, YLE TV2 Finland, ETV 1 Estonia, Antena 1 Romania, RTS 1 Serbia, Arena 1 Premium Serbia, VTV 3 Vietnam, Fussball.TV 1, T Sports Bangladesh, Tipik Belgium, M4 Sports Hungary, JOJ Sport Slovakia, TV Klan Albania, SBS Australia, Fast Sports Armenia, Ictimai TV Azerbaijan, NRK1 Norway, VIX Premium MX, DR 1 Denmark, Telemundo, ERT 2 Greece, TV4 Sweden, SporTV BR, BNT 1 Bulgaria, TyC Sports Argentina, DIRECTV Sports Argentina, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 2 Arabia, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/93.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/132.png
 --------------------------------------------------
-🏟️ Match: England Vs Ghana
-🆔 Match ID: 2649636
-🕒 Start: 2026-06-23 23:00 (GMT+3)
+🏟️ Match: Bosnia & Herzegovina Vs Qatar
+🆔 Match ID: 2650060
+🕒 Start: 2026-06-24 22:00 (GMT+3)
 📍 Tournament: FIFA World Cup™
-📺 Channels: FOX USA, FOXNY USA, BBC One UK, RTE 2 Ireland, TSN1, TSN3, TSN4, RDS CA, TRT 1 Turkey, SRF zwei, DAZN Mundial Spain, TVE La 1 Spain, Das Erste DE, RSI La 2 IT, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, RAI 1 IT, Match Premier Russia, M6 France, Fussball.TV 1, beIN Sports 1 France, Match TV Russia, Match! Football 1 Russia, M4 Sports Hungary, Qazsport, NPO 1 NL, Chilevision, Servus TV Austria, PTV Sports Pakistan, RTS 1 Serbia, Ictimai TV Azerbaijan, SBS Australia, JOJ Sport Slovakia, T Sports Bangladesh, TV2 Denmark, Tipik Belgium, Arena Sport 1 Bosnia, ČT Sport CZ, Fast Sports Armenia, TV Klan Albania, VTV 3 Vietnam, Antena 1 Romania, Arena Sport 1 Slovenia, Telemundo, Arena 1 Premium Serbia, NRK1 Norway, ERT 2 Greece, HRT 2 Croatia, SVT 1 Sweden, BNT 1 Bulgaria, BNT 3 Bulgaria, Telefe Argentina, DIRECTV Sports Argentina, SporTV BR, beIN Sports MAX 2 Arabia, SuperSport PSL, Supersport Grandstand, Sport 1 Israel, Fussball.TV 3, Fussball.TV 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/61.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/60.png
+📺 Channels: ITV4, ITVX, Fox Sports 1 USA, NBC UNIVERSO, ITV 4 UK, BHT 1 Bosnia, Arena Sport 1 Bosnia, SRF info, TSN2, RDS 2 CA, DAZN Mundial 2 Spain, Sport TV1 Portugal, TVP Sport Poland, beIN Sports 2 France, ORF 1 Austria, NRK 3 Norway, PTV Sports Pakistan, Duna World Hungary, Qazsport, NPO 3 NL, Fast Sports 1 Armenia, Fussball.TV 2, La Une Belgium, Ictimai TV Azerbaijan, RTVS Sport Slovakia, Arena Sport 1 Slovenia, ČT Sport CZ, VIX Premium MX, SuperSport 2 Digitalb, VTV2 Vietnam, DR 2 Denmark, Arena 2 Premium Serbia, ERT 1 Greece, HRT 2 Croatia, BNT 3 Bulgaria, DSports 2 Argentina, SuperSport Premier League, beIN Sports MAX 1 Arabia, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/297.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/586.png
 --------------------------------------------------
-🏟️ Match: Panama Vs Croatia
-🆔 Match ID: 2649637
-🕒 Start: 2026-06-24 02:00 (GMT+3)
+🏟️ Match: Morocco Vs Haiti
+🆔 Match ID: 2645078
+🕒 Start: 2026-06-25 01:00 (GMT+3)
 📍 Tournament: FIFA World Cup™
-📺 Channels: FOX USA, FOXNY USA, BBC One UK, RPC Panama, RTE 2 Ireland, HRT 2 Croatia, TSN1, TSN3, TSN4, TSN5, RDS CA, TRT 1 Turkey, SRF zwei, DAZN Mundial Spain, Sport TV5 Portugal, CTV CA, Chilevision, Servus TV Austria, TVP Sport Poland, TVP2 Poland, RSI La 2 IT, beIN Sports 1 France, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, M4 Sports Hungary, Qazsport, NPO 1 NL, PTV Sports Pakistan, JOJ Sport Slovakia, SBS Australia, Ictimai TV Azerbaijan, Fussball.TV 1, T Sports Bangladesh, Tipik Belgium, Arena Sport 1 Bosnia, Fast Sports Armenia, TV Klan Albania, Arena Sport 1 Slovenia, VTV 3 Vietnam, Arena 1 Premium Serbia, Antena 1 Romania, Telemundo, ERT 2 Greece, DR 1 Denmark, NRK1 Norway, BNT 1 Bulgaria, BNT 3 Bulgaria, TV4 Sweden, TyC Sports Argentina, DSports+ Argentina, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 1 Arabia, Sport 1 Israel, Fussball.TV 3, Fussball.TV 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1022.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/99.png
+📺 Channels: BBC2, BBC iPlayer, BBC Sport Website, Fox Sports 1 USA, NBC UNIVERSO, BBC Two UK, TSN2, RDS 2 CA, SRF Info, Servus TV Austria, Arryadia TNT, DAZN Mundial 2 Spain, ZDF DE, Sport TV5 Portugal, TVP Sport Poland, beIN Sports 1 France, JOJ Sport Slovakia, T Sports Bangladesh, Duna World Hungary, ČT Sport CZ, Qazsport, PTV Sports Pakistan, Fussball.TV 2, Ictimai TV Azerbaijan, Arena 2 Premium Serbia, NRK2 Norway, Tipik Belgium, VTV2 Vietnam, Fast Sports 1 Armenia, VIX Premium MX, SuperSport 2 Digitalb Albania, NPO 1 NL, DR 2 Denmark, ERT 1 Greece, BNT 3 Bulgaria, TyC Sports Argentina, DSports+ Argentina, SuperSport Premier League, beIN Sports MAX 3 Arabia, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/108.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/134.png
 --------------------------------------------------
-🏟️ Match: Colombia Vs DR Congo
-🆔 Match ID: 2650061
-🕒 Start: 2026-06-24 05:00 (GMT+3)
+🏟️ Match: Scotland Vs Brazil
+🆔 Match ID: 2645074
+🕒 Start: 2026-06-25 01:00 (GMT+3)
 📍 Tournament: FIFA World Cup™
-📺 Channels: Fox Sports 1 USA, ITV 1 UK, RTE 2 Ireland, Caracol TV Colombia, TSN1, TSN3, TSN4, TSN5, RDS CA, TRT 1 Turkey, DAZN Mundial Spain, SRF zwei, Das Erste DE, RSI La 2 IT, Chilevision, Servus TV Austria, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, beIN Sports 1 France, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, NPO 1 NL, TV 2 Direkte Norway, PTV Sports Pakistan, M4 Sports Hungary, Fussball.TV 1, SBS Australia, Ictimai TV Azerbaijan, T Sports Bangladesh, Tipik Belgium, Arena Sport 1 Bosnia, Fast Sports Armenia, TV Klan Albania, JOJ Sport Slovakia, Qazsport, TV2 Sport X Denmark, Antena 1 Romania, VTV 3 Vietnam, Arena Sport 1 Slovenia, TUDN MX, Canal5 MX, Azteca 7 Mexico, Telemundo, Arena 1 Premium Serbia, HRT 2 Croatia, ERT 1 Greece, BNT 1 Bulgaria, BNT 3 Bulgaria, DIRECTV Sports Argentina, SporTV BR, TV4 Sweden, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 2 Arabia, Sport 1 Israel, Sport 3 Israel, Fussball.TV 3, Fussball.TV 2
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/118.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/895.png
+📺 Channels: BBC1, BBC iPlayer, BBC Sport Website, FOX USA, FOXNY USA, BBC One UK, RTE 2 Ireland, SporTV BR, TSN1, TSN3, TSN4, RDS CA, SRF zwei, Telemundo, DAZN Mundial Spain, TVE La 1 Spain, Sport TV1 Portugal, TVP1 Poland, ORF 1 Austria, M6 France, beIN Sports 2 France, VTV 3 Vietnam, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, M4 Sports Hungary, NRK1 Norway, PTV Sports Pakistan, Fast Sports Armenia, SBS Australia, T Sports Bangladesh, Ictimai TV Azerbaijan, Fussball.TV 1, La Une Belgium, NPO 3 NL, YLE TV2 Finland, Antena 1 Romania, RTVS Sport Slovakia, VIX Premium MX, Arena Sport 1 Bosnia, Arena Sport 1 Slovenia, Caracol TV Colombia, TV Klan Albania, RTS 1 Serbia, Arena 1 Premium Serbia, DR 1 Denmark, TV4 Sweden, ERT 2 Greece, HRT 2 Croatia, BNT 1 Bulgaria, Telefe Argentina, DIRECTV Sports Argentina, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 4 Arabia, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/113.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/79.png
+--------------------------------------------------
+🏟️ Match: South Africa Vs Korea Republic
+🆔 Match ID: 2645075
+🕒 Start: 2026-06-25 04:00 (GMT+3)
+📍 Tournament: FIFA World Cup™
+📺 Channels: Fox Sports 1 USA, NBC UNIVERSO, BBC Two UK, TSN2, RDS 2 CA, Sport TV1 Portugal, TVP Sport Poland, beIN Sports 2 France, Tipik Belgium, PTV Sports Pakistan, T Sports Bangladesh, Duna World Hungary, Servus TV Austria, DAZN Mundial 2 Spain, Qazsport, Ictimai TV Azerbaijan, NPO 3 NL, VTV2 Vietnam, RTVS Sport Slovakia, Fussball.TV 2, ČT2 CZ, TV2 Sport Norway, Arena 2 Premium Serbia, SuperSport 2 Digitalb Albania, ERT 1 Greece, Fast Sports 1 Armenia, VIX Premium MX, TV2 Sport X Denmark, TyC Sports Argentina, BNT 3 Bulgaria, SVT 2 Sweden, DSports+ Argentina, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 2 Arabia, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/39.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/70.png
+--------------------------------------------------
+🏟️ Match: Czechia Vs Mexico
+🆔 Match ID: 2650063
+🕒 Start: 2026-06-25 04:00 (GMT+3)
+📍 Tournament: FIFA World Cup™
+📺 Channels: BBC One UK, RTE 2 Ireland, TSN1, TSN4, TSN5, RDS CA, SRF zwei, Chilevision, TRT 1 Turkey, Telemundo, Sport TV5 Portugal, TVP 2 Poland, beIN Sports 1 France, PTV Sports Pakistan, Antena 1 Romania, VTV 3 Vietnam, DAZN Mundial Spain, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, M4 Sports Hungary, T Sports Bangladesh, TUDN Mexico, Azteca 7 Mexico, Canal5 MX, SBS Australia, ORF 1 Austria, Arena Sport 1 Slovenia, TV Klan Albania, Fast Sports Armenia, Ictimai TV Azerbaijan, NPO 1 NL, Fussball.TV 1, JOJ Sport Slovakia, TV 2 Denmark, TV 2 Direkte Norway, VIX Premium MX, Arena Sport 1 Bosnia, ČT Sport CZ, La Une Belgium, YLE TV2 Finland, Arena 1 Premium Serbia, HRT 2 Croatia, ERT 2 Greece, SVT 1 Sweden, BNT 1 Bulgaria, DIRECTV Sports Argentina, SuperSport Premier League, beIN Sports MAX 1 Arabia, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/100.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/69.png
 --------------------------------------------------
