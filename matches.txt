@@ -1,56 +1,8 @@
-🏟️ Match: Sligo Rovers Vs Shelbourne
-🆔 Match ID: 2651976
-🕒 Start: 2026-06-27 21:45 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: Unknown Channel, LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4170.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4167.png
---------------------------------------------------
-🏟️ Match: Panama Vs England
-🆔 Match ID: 2649640
-🕒 Start: 2026-06-28 00:00 (GMT+3)
+🏟️ Match: South Africa Vs Canada
+🆔 Match ID: 2645089
+🕒 Start: 2026-06-28 22:00 (GMT+3)
 📍 Tournament: FIFA World Cup™
-📺 Channels: Unknown Channel, FOX USA, FOXNY USA, ITV 1 UK, RTE 2 Ireland, RPC Panama, TSN1, TSN4, TSN5, RDS CA, ORF 1 Austria, TRT 1 Turkey, SRF info, DAZN Mundial Spain, Sport TV5 Portugal, TVP Sport Poland, M6 France, beIN Sports 1 France, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, Fussball.TV 1, CTV Canada, NPO 1 NL, PTV Sports Pakistan, Antena 1 Romania, Telemundo, M4 Sports Hungary, Fast Sports Armenia, T Sports Bangladesh, CBC Sport Azerbaijan, Canal5 MX, Azteca 7 MX, TUDN MX, SBS Australia, La Une Belgium, TV 2 Direkte Norway, TV2 Denmark, TV Klan Albania, VIX Premium MX, Arena 1 Premium Serbia, SporTV BR, ERT 2 Greece, SVT 1 Sweden, BNT 1 Bulgaria, TV Publica Argentina, TyC Sports Argentina, DSports 1 Argentina, SuperSport Premier League, beIN Sports MAX 1 Arabia, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1022.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/61.png
---------------------------------------------------
-🏟️ Match: Croatia Vs Ghana
-🆔 Match ID: 2649641
-🕒 Start: 2026-06-28 00:00 (GMT+3)
-📍 Tournament: FIFA World Cup™
-📺 Channels: Unknown Channel, Fox Sports 1 USA, NBC UNIVERSO, ITV 4 UK, HRT 2 Croatia, TSN2, RDS 2 CA, TRT Spor Turkey, SRF zwei, DAZN Mundial 2 Spain, ZDF DE, Sport TV2 Portugal, TVP1 Poland, Servus TV Austria, beIN Sports 2 France, NPO 3 NL, Sport TV1 Portuga, PTV Sports Pakistan, TV2 Sport Norway, Fussball.TV 2, Arena Sport 1 Slovenia, Duna World Hungary, SVT 2 Sweden, Qazsport, Arena Sport 1 Bosnia, Tipik Belgium, T Sports Bangladesh, Ictimai TV Azerbaijan, ČT Sport CZ, SuperSport 2 Digitalb Albania, RTS 1 Serbia, VIX Premium MX, Arena 2 Premium Serbia, ERT 1 Greece, TV2 Sport X Denmark, BNT 3 Bulgaria, DSports+ Argentina, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 2 Arabia, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/99.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/60.png
---------------------------------------------------
-🏟️ Match: Colombia Vs Portugal
-🆔 Match ID: 2649644
-🕒 Start: 2026-06-28 02:30 (GMT+3)
-📍 Tournament: FIFA World Cup™
-📺 Channels: FOX USA, FOXNY USA, RTE 2 Ireland, BBC One UK, Caracol TV Colombia, Sport TV1 Portugal, RTP 1 Portugal, TSN1, TSN4, TSN5, RDS CA, TRT 1 Turkey, SRF zwei, Chilevision, Servus TV Austria, ZDF DE, CTV Canada, DAZN Mundial Spain, TVE La 1 Spain, Telemundo, TVP1 Poland, M6 France, beIN Sports 1 France, Arena Sport 1 Slovenia, PTV Sports Pakistan, NPO 1 NL, Antena 1 Romania, Arena Sport 1 Bosnia, Fussball.TV 1, TV Klan Albania, SBS Australia, Ictimai TV Azerbaijan, Fast Sports Armenia, Canal5 MX, Azteca 7 MX, TUDN MX, NRK1 Norway, La Une Belgium, M4 Sports Hungary, T Sports Bangladesh, JOJ Sport Slovakia, TV2 Denmark, Arena 1 Premium Serbia, HRT 2 Croatia, ERT 2 Greece, VIX Premium MX, BNT 1 Bulgaria, TV4 Sweden, DSports 1 Argentina, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 3 Arabia, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/118.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/43.png
---------------------------------------------------
-🏟️ Match: DR Congo Vs Uzbekistan
-🆔 Match ID: 2650066
-🕒 Start: 2026-06-28 02:30 (GMT+3)
-📍 Tournament: FIFA World Cup™
-📺 Channels: Fox Sports 1 USA, NBC UNIVERSO, BBC Two UK, TSN2, RDS 2 CA, CBC Sport Azerbaijan, TRT Spor Turkey, DAZN Mundial 2 Spain, Sport TV5 Portugal, TVP Sport Poland, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, beIN Sports 2 France, NPO 3 NL, Qazsport, SuperSport 2 Digitalb Albania, ORF 1 Austria, RTVS Sport Slovakia, Fussball.TV 2, NRK2 Norway, PTV Sports Pakistan, Tipik Belgium, ČT Sport CZ, T Sports Bangladesh, VIX Premium MX, Duna World Hungary, Arena 2 Premium Serbia, TV2 Sport X Denmark, ERT 1 Greece, BNT 3 Bulgaria, DSports+ Argentina, TyC Sports Argentina, SuperSport Premier League, beIN Sports MAX 4 Arabia, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/895.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/592.png
---------------------------------------------------
-🏟️ Match: Jordan Vs Argentina
-🆔 Match ID: 2649642
-🕒 Start: 2026-06-28 05:00 (GMT+3)
-📍 Tournament: FIFA World Cup™
-📺 Channels: FOX USA, FOXNY USA, RTE 2 Ireland, BBC One UK, Telefe Argentina, TV Publica Argentina, TyC Sports Argentina, DSports 1 Argentina, TSN1, TSN4, TSN5, RDS CA, TRT 1 Turkey, CTV Canada, DAZN Mundial Spain, Sport TV5 Portugal, TVP2 Poland, beIN Sports 2 France, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, NPO 1 NL, Fussball.TV 2, Ictimai TV Azerbaijan, Servus TV Austria, Telemundo, Sport TV1 Portuga, ČT Sport CZ, Arena Sport 1 Slovenia, Antena 1 Romania, Arena Sport 1 Bosnia, NRK1 Norway, SBS Australia, TV Klan Albania, T Sports Bangladesh, Fast Sports Armenia, La Une Belgium, VIX Premium MX, M4 Sports Hungary, PTV Sports Pakistan, Arena 1 Premium Serbia, ERT 2 Greece, BNT 1 Bulgaria, DR 1 Denmark, TV4 Sweden, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 1 Arabia, Sport 1 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/777.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/55.png
---------------------------------------------------
-🏟️ Match: Algeria Vs Austria
-🆔 Match ID: 2649643
-🕒 Start: 2026-06-28 05:00 (GMT+3)
-📍 Tournament: FIFA World Cup™
-📺 Channels: Fox Sports 1 USA, NBC UNIVERSO, BBC Two UK, TSN2, RDS 2 CA, SRF zwei, TRT Spor Turkey, DAZN Mundial 2 Spain, ZDF DE, Sport TV2 Portugal, TVP Sport Poland, Fussball.TV 1, ORF 1 Austria, Sport TV4 Portugal, CBC Sport Azerbaijan, beIN Sports 1 France, NPO 3 NL, SuperSport 2 Digitalb Albania, Tipik Belgium, Qazsport, YLE TV2 Finland, T Sports Bangladesh, NRK2 Norway, PTV Sports Pakistan, Duna World Hungary, Ictimai TV Azerbaijan, Arena 2 Premium Serbia, VIX Premium MX, DR 2 Denmark, SporTV BR, ERT 1 Greece, HRT 2 Croatia, DSports+ Argentina, BNT 3 Bulgaria, SuperSport Premier League, beIN Sports MAX 2 Arabia, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/59.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/117.png
+📺 Channels: Unknown Channel, FOX USA, FOXNY USA, CTV Canada, Servus TV Austria, ITV 1 UK, RTE 2 Ireland, TSN1, TSN3, TSN4, RDS CA, SuperSport Grandstand, SuperSport PSL, SRF zwei, TRT 1 Turkey, TVE La 1 Spain, DAZN Mundial Spain, Sport TV1 Portugal, TVI Portugal, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, M6 France, beIN Sports 1 France, PTV Sports Pakistan, ORF 1 Austria, NRK1 Norway, RSI La 2 IT, Rai 1 IT, Match Premier Russia, Match TV Russia, Fussball.TV 1, Match! Football 1 Russia, ČT Sport CZ, YLE TV2 Finland, NPO 1 NL, Qazsport, M4 Sports Hungary, Tipik Belgium, T Sports Bangladesh, Ictimai TV Azerbaijan, Arena Sport 1 Bosnia, Antena 1 Romania, Canal5 MX, Azteca 7 MX, TUDN MX, VIX Premium MX, Fast Sports Armenia, TV Klan Albania, SBS Australia, Arena Sport 1 Slovenia, RTVS Sport Slovakia, Arena 1 Premium Serbia, Telemundo, TV4 Sweden, ERT 2 Greece, HRT 2 Croatia, TV2 Denmark, BNT 1 Bulgaria, BNT 3 Bulgaria, DSports 1 Argentina, Sport 1 Israel, Backup Stream, Backup Stream (ENG), Backup Stream (4K), Backup Stream (TSN 4K), Backup Stream (Bein AR), Backup Stream (ESP), Backup Stream (Fox USA), Backup Stream (Fox 4K), Backup Stream (Telemundo), Backup Stream (TSN1), (Bein Max Arabic), Backup Stream (FusballTV1), MagentaTV, DAZN Mundial ES, ITV 1, HRT 2 Crotia, DAZN  IT, Backup Stream (4K Quality), Backup Stream (ITV UK), Backup Stream (TSN), Backup Stream (Bein Max AR), Backup Stream (Bein Max 4K), Backup Stream (Fussbaltv 4K)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/39.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/132.png
 --------------------------------------------------
