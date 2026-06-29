@@ -1,8 +1,24 @@
-🏟️ Match: South Africa Vs Canada
-🆔 Match ID: 2645089
-🕒 Start: 2026-06-28 22:00 (GMT+3)
+🏟️ Match: Brazil Vs Japan
+🆔 Match ID: 2645091
+🕒 Start: 2026-06-29 20:00 (GMT+3)
 📍 Tournament: FIFA World Cup™
-📺 Channels: Unknown Channel, FOX USA, FOXNY USA, CTV Canada, Servus TV Austria, ITV 1 UK, RTE 2 Ireland, TSN1, TSN3, TSN4, RDS CA, SuperSport Grandstand, SuperSport PSL, SRF zwei, TRT 1 Turkey, TVE La 1 Spain, DAZN Mundial Spain, Sport TV1 Portugal, TVI Portugal, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, M6 France, beIN Sports 1 France, PTV Sports Pakistan, ORF 1 Austria, NRK1 Norway, RSI La 2 IT, Rai 1 IT, Match Premier Russia, Match TV Russia, Fussball.TV 1, Match! Football 1 Russia, ČT Sport CZ, YLE TV2 Finland, NPO 1 NL, Qazsport, M4 Sports Hungary, Tipik Belgium, T Sports Bangladesh, Ictimai TV Azerbaijan, Arena Sport 1 Bosnia, Antena 1 Romania, Canal5 MX, Azteca 7 MX, TUDN MX, VIX Premium MX, Fast Sports Armenia, TV Klan Albania, SBS Australia, Arena Sport 1 Slovenia, RTVS Sport Slovakia, Arena 1 Premium Serbia, Telemundo, TV4 Sweden, ERT 2 Greece, HRT 2 Croatia, TV2 Denmark, BNT 1 Bulgaria, BNT 3 Bulgaria, DSports 1 Argentina, Sport 1 Israel, Backup Stream, Backup Stream (ENG), Backup Stream (4K), Backup Stream (TSN 4K), Backup Stream (Bein AR), Backup Stream (ESP), Backup Stream (Fox USA), Backup Stream (Fox 4K), Backup Stream (Telemundo), Backup Stream (TSN1), (Bein Max Arabic), Backup Stream (FusballTV1), MagentaTV, DAZN Mundial ES, ITV 1, HRT 2 Crotia, DAZN  IT, Backup Stream (4K Quality), Backup Stream (ITV UK), Backup Stream (TSN), Backup Stream (Bein Max AR), Backup Stream (Bein Max 4K), Backup Stream (Fussbaltv 4K)
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/39.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/132.png
+📺 Channels: Unknown Channel, FOX USA, FOXNY USA, BBC One UK, SporTV BR, TSN4, TSN1, RDS CA, TSN3, RTE 2 Ireland, ORF 1 Austria, SRF zwei, TRT 1 Turkey, DAZN Mundial Spain, ZDF DE, Sport TV5 Portugal, TVP Sport Poland, TVE La 1 Spain, RAI 1 IT, TV 2 Direkte Norway, Tipik Belgium, TVP2 Poland, M6 France, beIN Sports 1 France, PTV Sports Pakistan, ETV 2 Estonia, Telemundo, M4 Sports Hungary, RSI La 2 IT, NPO 1 NL, T Sports Bangladesh, TV Klan Albania, Arena Sport 1 Bosnia, Qazsport, Fussball.TV 1, SBS Australia, MATCH! Futbol 1 Russia, MATCH! Premier Russia, MATCH TV Russia, Fast Sports Armenia, Antena 1 Romania, Ictimai TV Azerbaijan, JOJ Šport Slovakia, Arena Sport 1 Slovenia, RTS 2 Serbia, Arena 1 Premium Serbia, ERT 1 Greece, HRT 2 Croatia, VIX Premium MX, BNT 1 Bulgaria, BNT 3 Bulgaria, TV4 Sweden, TV2 Denmark, Telefe Argentina, DSports 1 Argentina, SuperSport Grandstand, SuperSport PSL, beIN Max 1 Arabia, beIN Max 4 Arabia, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/79.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/52.png
+--------------------------------------------------
+🏟️ Match: Germany Vs Paraguay
+🆔 Match ID: 2650252
+🕒 Start: 2026-06-29 23:30 (GMT+3)
+📍 Tournament: FIFA World Cup™
+📺 Channels: Unknown Channel, FOX USA, FOXNY USA, ITV 1 UK, BBC One UK, ZDF DE, TSN1, RDS CA, TSN4, TSN3, TSN5, ORF 1 Austria, RTE 2 Ireland, SRF zwei, TRT 1 Turkey, DAZN Mundial Spain, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, beIN Sports 1 France, M6 France, JOJ Sport Slovakia, SVT 1 Sweden, RTS 1 Serbia, NRK1 Norway, DR 1 Denmark, Tipik Belgium, Telemundo, Qazsport, TV Klan Albania, SBS Australia, Fast Sports Armenia, Fussball.TV 1, MATCH! Futbol 1 Russia, MATCH! Premier Russia, MATCH TV Russia, T Sports Bangladesh, Ictimai TV Azerbaijan, Arena Sport 1 Bosnia, ČT Sport CZ, Antena 1 Romania, PTV Sports Pakistan, TUDN MX, M4 Sports Hungary, VIX Premium MX, NPO 1 NL, Arena Sport 1 Slovenia, Arena 1 Premium Serbia, ERT 2 Greece, TyC Sports Argentina, DSports 1 Argentina, HRT 2 Croatia, BNT 1 Bulgaria, beIN Sports MAX 1 Arabia, beIN Sports MAX 2 Arabia, BNT 3 Bulgaria, SuperSport Grandstand, SuperSport PSL, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/96.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/47.png
+--------------------------------------------------
+🏟️ Match: Netherlands Vs Morocco
+🆔 Match ID: 2645090
+🕒 Start: 2026-06-30 04:00 (GMT+3)
+📍 Tournament: FIFA World Cup™
+📺 Channels: FOX USA, FOXNY USA, ITV 1 UK, RTE 2 Ireland, Arryadia TNT, NPO 1 NL, TSN4, TSN1, RDS CA, TSN3, TSN5, ORF 1 Austria, TV 2 Direkte Norway, JOJ Sport Slovakia, SVT 1 Sweden, Tipik Belgium, DR 1 Denmark, YLE TV2 Finland, SRF zwei, TRT 1 Turkey, DAZN Mundial Spain, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, beIN Sports 1 France, Telemundo, SBS Australia, TV Klan Albania, Arena Sport 1 Bosnia, Qazsport, Fussball.TV 1, Fast Sports Armenia, T Sports Bangladesh, MATCH! Futbol 1 Russia, MATCH! Premier Russia, MATCH TV Russia, Ictimai TV Azerbaijan, ČT Sport CZ, Antena 1 Romania, PTV Sports Pakistan, M4 Sports Hungary, TUDN MX, Arena Sport 1 Slovenia, VIX Premium MX, DSports 1 Argentina, Arena 1 Premium Serbia, ERT 1 Greece, HRT 2 Croatia, BNT 1 Bulgaria, BNT 3 Bulgaria, beIN Sports MAX 1 Arabia, beIN Sports MAX 2 Arabia, SuperSport Grandstand, SuperSport PSL, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/38.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/108.png
 --------------------------------------------------
