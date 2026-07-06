@@ -1,16 +1,16 @@
-🏟️ Match: Brazil Vs Norway
-🆔 Match ID: 2650266
-🕒 Start: 2026-07-05 23:00 (GMT+3)
+🏟️ Match: Portugal Vs Spain
+🆔 Match ID: 2650267
+🕒 Start: 2026-07-06 22:00 (GMT+3)
 📍 Tournament: FIFA World Cup™
-📺 Channels: Unknown Channel, FOX USA, FOXNY USA, ITV 1 UK, TVE La 1 Spain, RTE 2 Ireland, SporTV BR, TSN1, TSN3, TSN4, RDS CA, TRT 1 Turkey, SRF zwei, DAZN Mundial Spain, Das Erste DE, NRK1 Norway, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, RAI 1 IT, RSI La 2 IT, M6 France, beIN Sports 1 France, Telemundo, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, Antena 1 Romania, M4 Sports Hungary, PTV Sports Pakistan, NPO 1 NL, Qazsport, YLE TV2 Finland, ČT Sport CZ, Arena Sport 1 Slovenia, JOJ Sport Slovakia, Fussball.TV 1, RTS 1 Serbia, TV Klan Albania, Fast Sports Armenia, Chilevision, Vix Premium MX, ORF 1 Austria, T Sports Bangladesh, SBS Australia, Ictimai TV Azerbaijan, Tipik Belgium, Arena Sport 1 Bosnia, BNT 1 Bulgaria, BNT 3 Bulgaria, Arena 1 Premium Serbia, ERT 2 Greece, TV2 Denmark, HRT 2 Croatia, TV4 Sweden, DSports 1 Argentina, TyC Sports Argentina, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 1 Arabia, Sport 1 Israel, Backup Stream, Backup Stream (ENG), Backup Stream (4K), Backup Stream (TSN 4K), Backup Stream (Bein AR), Backup Stream (ESP), Backup Stream (Fox USA), Backup Stream (Fox 4K), Backup Stream (Telemundo), Backup Stream (TSN1), (Bein Max Arabic), Backup Stream (FusballTV1), MagentaTV, DAZN Mundial ES, ITV 1, HRT 2 Crotia, Sport TV1 Portugal, Backup Stream (4K Quality), Backup Stream (ITV UK), Backup Stream (TSN), Backup Stream (Bein Max AR), Backup Stream (Bein Max 4K), Backup Stream (Fussbaltv 4K)
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/79.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/115.png
+📺 Channels: Unknown Channel, FOX USA, FOXNY USA, BBC One UK, RTE 2 Ireland, Sport TV1 Portugal, RTP 1 Portugal, Sport TV5 Portugal, TVE La 1 Spain, DAZN Mundial Spain, TSN1, TSN3, TSN4, TSN5, RDS CA, Servus TV Austria, TRT 1 Turkey, SRF zwei, ZDF DE, TVP Sport Poland, TVP1 Poland, RAI 1 IT, RSI La 2 IT, M6 France, beIN Sports 1 France, Telemundo, NPO 1 NL, Qazsport, M4 Sports Hungary, Arena Sport 1 Slovenia, Fussball.TV 1, TUDN Mexico, Canal5 MX, Azteca 7 Mexico, Caracol TV Colombia, RTVS Sport Slovakia, T Sports Bangladesh, Tipik Belgium, Arena Sport 1 Bosnia, Antena 1 Romania, Ictimai TV Azerbaijan, SBS Australia, Fast Sports Armenia, TV Klan Albania, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, PTV Sports Pakistan, TV 2 Direkte Norway, Arena 1 Premium Serbia, ERT 2 Greece, DR 1 Denmark, TV4 Sweden, Vix Premium MX, SporTV BR, BNT 1 Bulgaria, BNT 3 Bulgaria, DSports 1 Argentina, SuperSport Grandstand, SuperSport PSL, beIN Sports MAX 3 Arabia, beIN Sports MAX 1 Arabia, Sport 1 Israel, Backup Stream, Backup Stream (ENG), Backup Stream (4K), Backup Stream (TSN 4K), Backup Stream (Bein AR), Backup Stream (ESP), Backup Stream (Fox USA), Backup Stream (Fox 4K), Backup Stream (Telemundo), Backup Stream (TSN1), (Bein Max Arabic), Backup Stream (FusballTV1), MagentaTV, DAZN Mundial ES, ITV 1, HRT 2 Crotia, Backup Stream (4K Quality), Backup Stream (ITV UK), Backup Stream (TSN), Backup Stream (Bein Max AR), Backup Stream (Bein Max 4K), Backup Stream (Fussbaltv 4K)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/43.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/34.png
 --------------------------------------------------
-🏟️ Match: Mexico Vs England
-🆔 Match ID: 2650268
-🕒 Start: 2026-07-06 03:00 (GMT+3)
+🏟️ Match: United States Vs Belgium
+🆔 Match ID: 2650270
+🕒 Start: 2026-07-07 03:00 (GMT+3)
 📍 Tournament: FIFA World Cup™
-📺 Channels: NBC UNIVERSO, BBC One UK, FOX USA, FOXNY USA, RTE 2 Ireland, TUDN Mexico, Vix Premium MX, DAZN Mundial Spain, Azteca 7 Mexico, Canal5 MX, TSN1, TSN4, RDS CA, TRT 1 Turkey, SRF zwei, Das Erste DE, Sport TV5 Portugal, Telemundo, TVP Sport Poland, beIN Sports 1 France, TVP2 Poland, PTV Sports Pakistan, TV 2 Direkte Norway, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, Antena 1 Romania, YLE TV2 Finland, Tipik Belgium, Arena Sport 1 Bosnia, Arena Sport 1 Slovenia, M4 Sports Hungary, ORF 1 Austria, JOJ Sport Slovakia, TV Klan Albania, Fast Sports Armenia, Fussball.TV 1, Ictimai TV Azerbaijan, SBS Australia, DR 1 Denmark, T Sports Bangladesh, NPO 1 NL, Qazsport, BNT 1 Bulgaria, BNT 3 Bulgaria, RTS 1 Serbia, Arena 1 Premium Serbia, ERT 2 Greece, HRT 2 Croatia, Telefe Argentina, DSports 1 Argentina, svt1 Sweden, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 2 Arabia, Sport 1 Israel, Backup Stream, Backup Stream (ENG), Backup Stream (4K), Backup Stream (TSN 4K), Backup Stream (Bein AR), Backup Stream (ESP), Backup Stream (Fox USA), Backup Stream (Fox 4K), Backup Stream (Telemundo), Backup Stream (TSN1), (Bein Max Arabic), Backup Stream (FusballTV1), MagentaTV, DAZN Mundial ES, M6 France, ITV 1, HRT 2 Crotia, Sport TV1 Portugal, TV4 Sweden, Backup Stream (4K Quality), Backup Stream (ITV UK), Backup Stream (TSN), Backup Stream (Bein Max AR), Backup Stream (Bein Max 4K), Backup Stream (Fussbaltv 4K)
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/69.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/61.png
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/81.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/116.png
 --------------------------------------------------
