@@ -1,16 +1,96 @@
-🏟️ Match: Portugal Vs Spain
-🆔 Match ID: 2650267
-🕒 Start: 2026-07-06 22:00 (GMT+3)
-📍 Tournament: FIFA World Cup™
-📺 Channels: Unknown Channel, FOX USA, FOXNY USA, BBC One UK, RTE 2 Ireland, Sport TV1 Portugal, RTP 1 Portugal, Sport TV5 Portugal, TVE La 1 Spain, DAZN Mundial Spain, TSN1, TSN3, TSN4, TSN5, RDS CA, Servus TV Austria, TRT 1 Turkey, SRF zwei, ZDF DE, TVP Sport Poland, TVP1 Poland, RAI 1 IT, RSI La 2 IT, M6 France, beIN Sports 1 France, Telemundo, NPO 1 NL, Qazsport, M4 Sports Hungary, Arena Sport 1 Slovenia, Fussball.TV 1, TUDN Mexico, Canal5 MX, Azteca 7 Mexico, Caracol TV Colombia, RTVS Sport Slovakia, T Sports Bangladesh, Tipik Belgium, Arena Sport 1 Bosnia, Antena 1 Romania, Ictimai TV Azerbaijan, SBS Australia, Fast Sports Armenia, TV Klan Albania, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, PTV Sports Pakistan, TV 2 Direkte Norway, Arena 1 Premium Serbia, ERT 2 Greece, DR 1 Denmark, TV4 Sweden, Vix Premium MX, SporTV BR, BNT 1 Bulgaria, BNT 3 Bulgaria, DSports 1 Argentina, SuperSport Grandstand, SuperSport PSL, beIN Sports MAX 3 Arabia, beIN Sports MAX 1 Arabia, Sport 1 Israel, Backup Stream, Backup Stream (ENG), Backup Stream (4K), Backup Stream (TSN 4K), Backup Stream (Bein AR), Backup Stream (ESP), Backup Stream (Fox USA), Backup Stream (Fox 4K), Backup Stream (Telemundo), Backup Stream (TSN1), (Bein Max Arabic), Backup Stream (FusballTV1), MagentaTV, DAZN Mundial ES, ITV 1, HRT 2 Crotia, Backup Stream (4K Quality), Backup Stream (ITV UK), Backup Stream (TSN), Backup Stream (Bein Max AR), Backup Stream (Bein Max 4K), Backup Stream (Fussbaltv 4K)
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/43.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/34.png
+🏟️ Match: Argentina Vs Egypt
+🆔 Match ID: 2650271
+🕒 Start: 2026-07-07 19:00 (GMT+3)
+📍 Tournament: World Cup
+📺 Channels: Unknown Channel, FOX USA, FOXNY USA, ITV 1 UK, RTE 2 Ireland, TyC Sports Argentina, Telefe Argentina, DSports 1 Argentina, Tv Publica Argentina, TSN1, TSN3, TSN4, RDS CA, TRT 1 Turkey, SRF zwei, Servus TV Austria, TVE La 1 Spain, DAZN Mundial Spain, Das Erste DE, Sport TV5 Portugal, TVP Sport Poland, TVP2 Poland, beIN Sports 1 France, M6 France, RSI La 2 IT, M4 Sports Hungary, Telemundo, RTS 1 Serbia, Fussball.TV 1, YLE TV2 Finland, Arena 1 Premium Serbia, NPO 1 NL, Qazsport, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, Arena Sport 1 Slovenia, Tipik Belgium, Arena Sport 1 Bosnia, JOJ Sport Slovakia, ETV 2 Estonia, PTV Sports Pakistan, Fast Sports Armenia, Ictimai TV Azerbaijan, SBS Australia, T Sports Bangladesh, Antena 1 Romania, TV Klan Albania, Vix Premium MX, TV 2 Direkte Norway, SporTV BR, TV4 Sweden, ERT 2 Greece, HRT 2 Croatia, TV2 Denmark, BNT 1 Bulgaria, BNT 3 Bulgaria, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 1 Arabia, beIN Sports MAX 3 Arabia, Sport 1 Israel, Backup Stream, Backup Stream (ENG), Backup Stream (4K), Backup Stream (TSN 4K), Backup Stream (Bein AR), Backup Stream (ESP), Backup Stream (Fox USA), Backup Stream (Fox 4K), Backup Stream (Telemundo), Backup Stream (TSN1), (Bein Max Arabic), Backup Stream (FusballTV1), MagentaTV, DAZN Mundial ES, ITV 1, HRT 2 Crotia, Sport TV1 Portugal, Backup Stream (4K Quality), Backup Stream (ITV UK), Backup Stream (TSN), Backup Stream (Bein Max AR), Backup Stream (Bein Max 4K), Backup Stream (Fussbaltv 4K)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/55.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/590.png
 --------------------------------------------------
-🏟️ Match: United States Vs Belgium
-🆔 Match ID: 2650270
-🕒 Start: 2026-07-07 03:00 (GMT+3)
-📍 Tournament: FIFA World Cup™
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/81.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/116.png
+🏟️ Match: Kauno Žalgiris Vs Drita
+🆔 Match ID: 2690619
+🕒 Start: 2026-07-07 19:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6845.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/10043.png
+--------------------------------------------------
+🏟️ Match: Lincoln Red Imps Vs Inter Club d'Escaldes
+🆔 Match ID: 2690625
+🕒 Start: 2026-07-07 19:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2426.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18039.png
+--------------------------------------------------
+🏟️ Match: Ararat-Armenia Vs Riga FC
+🆔 Match ID: 2690616
+🕒 Start: 2026-07-07 19:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TV4 Latvia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/13551.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7469.png
+--------------------------------------------------
+🏟️ Match: Sabah Vs The New Saints
+🆔 Match ID: 2690613
+🕒 Start: 2026-07-07 19:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/14602.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/372.png
+--------------------------------------------------
+🏟️ Match: Vardar Vs KuPS
+🆔 Match ID: 2690618
+🕒 Start: 2026-07-07 20:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Backup Stream, Arena Sport 1 Serbia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1034.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/924.png
+--------------------------------------------------
+🏟️ Match: Floriana Vs Shamrock Rovers
+🆔 Match ID: 2690622
+🕒 Start: 2026-07-07 20:30 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Backup Stream, TVMSport+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/928.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/433.png
+--------------------------------------------------
+🏟️ Match: Borac BB Vs Levski Sofia
+🆔 Match ID: 2690621
+🕒 Start: 2026-07-07 21:30 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Backup Stream, Arena Sport 1P, Arena Sport 1x2 Serbia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/20660.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/486.png
+--------------------------------------------------
+🏟️ Match: Tre Fiori Vs Larne
+🆔 Match ID: 2690615
+🕒 Start: 2026-07-07 21:30 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Unknown Channel, Arena 4 Premium Serbia, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/375.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/45570.png
+--------------------------------------------------
+🏟️ Match: KÍ Vs Atert
+🆔 Match ID: 2690617
+🕒 Start: 2026-07-07 21:45 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7888.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/24501.png
+--------------------------------------------------
+🏟️ Match: Víkingur Reykjavík Vs ETO Győr
+🆔 Match ID: 2690614
+🕒 Start: 2026-07-07 22:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Duna World Hungary
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5205.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/424.png
+--------------------------------------------------
+🏟️ Match: Switzerland Vs Colombia
+🆔 Match ID: 2650269
+🕒 Start: 2026-07-07 23:00 (GMT+3)
+📍 Tournament: World Cup
+📺 Channels: Unknown Channel, FOX USA, FOXNY USA, ITV 1 UK, RTE 2 Ireland, NBC UNIVERSO, SRF zwei, Caracol TV Colombia, TSN1, TSN3, TSN4, TSN5, RDS CA, TRT 1 Turkey, DAZN Mundial Spain, Das Erste DE, Servus TV Austria, Sport TV5 Portugal, TVP Sport Poland, TVP1 Poland, beIN Sports 1 France, M6 France, RAI 1 IT, RSI La 2 IT, M4 Sports Hungary, Telemundo, Fussball.TV 1, Arena Sport 1 Slovenia, Qazsport, YLE TV2 Finland, Arena Sport 1 Bosnia, PTV Sports Pakistan, JOJ Sport Slovakia, Antena 1 Romania, ČT Sport CZ, Vix Premium MX, TUDN Mexico, Canal5 MX, Azteca 7 Mexico, T Sports Bangladesh, TV Klan Albania, Ictimai TV Azerbaijan, Fast Sports Armenia, SBS Australia, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, Tipik Belgium, DSports 1 Argentina, NRK1 Norway, RTS 1 Serbia, Arena 1 Premium Serbia, DR 1 Denmark, SporTV BR, ERT 2 Greece, HRT 2 Croatia, BNT 1 Bulgaria, BNT 3 Bulgaria, svt1 Sweden, SuperSport PSL, Supersport Grandstand, beIN Sports MAX 2 Arabia, beIN Sports MAX 4 Arabia, Sport 1 Israel, Backup Stream, Backup Stream (ENG), Backup Stream (4K), Backup Stream (TSN 4K), Backup Stream (Bein AR), Backup Stream (ESP), Backup Stream (Fox USA), Backup Stream (Fox 4K), Backup Stream (Telemundo), Backup Stream (TSN1), (Bein Max Arabic), Backup Stream (FusballTV1), MagentaTV, DAZN Mundial ES, ITV 1, HRT 2 Crotia, NPO 1 NL, Sport TV1 Portugal, TV4 Sweden, Backup Stream (4K Quality), Backup Stream (ITV UK), Backup Stream (TSN), Backup Stream (Bein Max AR), Backup Stream (Bein Max 4K), Backup Stream (Fussbaltv 4K)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/93.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/118.png
 --------------------------------------------------
