@@ -1,56 +1,224 @@
-🏟️ Match: Kairat Vs Sutjeska
-🆔 Match ID: 2690624
-🕒 Start: 2026-07-08 18:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: Qazsport, Arena Sport 1 SK, Sport 5 Plus Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2431.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1906.png
---------------------------------------------------
-🏟️ Match: Flora Vs Iberia
-🆔 Match ID: 2690623
-🕒 Start: 2026-07-08 19:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/516.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5451.png
---------------------------------------------------
-🏟️ Match: Zira Vs Kutaisi
-🆔 Match ID: 2690666
-🕒 Start: 2026-07-08 19:00 (GMT+3)
+🏟️ Match: Atletic Club d'Escaldes Vs Mornar
+🆔 Match ID: 2690695
+🕒 Start: 2026-07-09 17:00 (GMT+3)
 📍 Tournament: UEFA Conference League
-📺 Channels: Idman TV, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7881.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1042.png
---------------------------------------------------
-🏟️ Match: Petrocub Vs Egnatia
-🆔 Match ID: 2690620
-🕒 Start: 2026-07-08 20:00 (GMT+3)
-📍 Tournament: UEFA Champions League
 📺 Channels: Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10073.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/55021.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/20158.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19639.png
 --------------------------------------------------
-🏟️ Match: ML Vitebsk Vs Universitatea Craiova
-🆔 Match ID: 2690626
-🕒 Start: 2026-07-08 20:00 (GMT+3)
-📍 Tournament: UEFA Champions League
-📺 Channels: Digi Sport 1 Romania, Prima Sport 1 Romania
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/21010.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2253.png
+🏟️ Match: Qarabağ Vs IF Vestri
+🆔 Match ID: 2690641
+🕒 Start: 2026-07-09 19:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: CBC Sport Azerbaijan
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/469.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/23701.png
 --------------------------------------------------
-🏟️ Match: Connah's Quay Nomads Vs Ballkani
-🆔 Match ID: 2690661
-🕒 Start: 2026-07-08 20:30 (GMT+3)
+🏟️ Match: FK Liepāja Vs Dečić
+🆔 Match ID: 2690693
+🕒 Start: 2026-07-09 19:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6727.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/54257.png
+--------------------------------------------------
+🏟️ Match: Kalju Vs Linfield
+🆔 Match ID: 2690681
+🕒 Start: 2026-07-09 19:00 (GMT+3)
 📍 Tournament: UEFA Conference League
 📺 Channels: Unknown Channel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6737.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/21297.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/927.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/365.png
 --------------------------------------------------
-🏟️ Match: Differdange Vs Ilves
-🆔 Match ID: 2690667
-🕒 Start: 2026-07-08 20:30 (GMT+3)
+🏟️ Match: Dila Vs Virtus
+🆔 Match ID: 2690678
+🕒 Start: 2026-07-09 19:00 (GMT+3)
 📍 Tournament: UEFA Conference League
 📺 Channels: Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/456.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4588.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1061.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/31159.png
+--------------------------------------------------
+🏟️ Match: Alashkert Vs Yelimay
+🆔 Match ID: 2690676
+🕒 Start: 2026-07-09 19:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Backup Stream, Qazsport
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5202.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/40261.png
+--------------------------------------------------
+🏟️ Match: Hegelmann Vs Paide
+🆔 Match ID: 2690675
+🕒 Start: 2026-07-09 19:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19195.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18239.png
+--------------------------------------------------
+🏟️ Match: Dynamo Kyiv Vs Universitatea Cluj
+🆔 Match ID: 2690642
+🕒 Start: 2026-07-09 20:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Digi Sport 1 Romania
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/12.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/8855.png
+--------------------------------------------------
+🏟️ Match: Sheriff Vs Aluminij
+🆔 Match ID: 2690644
+🕒 Start: 2026-07-09 20:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Arena Sport 1 Slovakia, We Sport
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/377.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4314.png
+--------------------------------------------------
+🏟️ Match: Dinamo Minsk Vs FK Sileks Kratovo
+🆔 Match ID: 2690665
+🕒 Start: 2026-07-09 20:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/488.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5462.png
+--------------------------------------------------
+🏟️ Match: Marsaxlokk Vs Pyunik
+🆔 Match ID: 2690673
+🕒 Start: 2026-07-09 20:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18073.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/371.png
+--------------------------------------------------
+🏟️ Match: Velež Vs Milsami
+🆔 Match ID: 2690664
+🕒 Start: 2026-07-09 20:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Backup Stream, Moja TV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4376.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/939.png
+--------------------------------------------------
+🏟️ Match: Bohemian Vs St Joseph's
+🆔 Match ID: 2690662
+🕒 Start: 2026-07-09 20:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/346.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7886.png
+--------------------------------------------------
+🏟️ Match: Mondorf Vs Dinamo Tbilisi
+🆔 Match ID: 2690684
+🕒 Start: 2026-07-09 20:15 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/21758.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/442.png
+--------------------------------------------------
+🏟️ Match: Caernarfon Town Vs Levadia
+🆔 Match ID: 2690674
+🕒 Start: 2026-07-09 20:30 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Unknown Channel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5501.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/363.png
+--------------------------------------------------
+🏟️ Match: Europa Vs Shkëndija
+🆔 Match ID: 2690680
+🕒 Start: 2026-07-09 20:30 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2428.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/953.png
+--------------------------------------------------
+🏟️ Match: Vojvodina Vs Ferencváros
+🆔 Match ID: 2690643
+🕒 Start: 2026-07-09 21:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Duna World Hungry, Arena Sport 1x2, Backup Stream, Arena 3 Premium Serbia, Arena Sport 1x2 Serbia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/934.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/932.png
+--------------------------------------------------
+🏟️ Match: CSKA Sofia Vs Derry City
+🆔 Match ID: 2690645
+🕒 Start: 2026-07-09 21:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Unknown Channel, Diema Sport Bulgaria, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/522.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1913.png
+--------------------------------------------------
+🏟️ Match: Hajduk Vs MŠK Žilina
+🆔 Match ID: 2690646
+🕒 Start: 2026-07-09 21:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Backup Stream, Hajduk TV, Dvojka
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/529.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/376.png
+--------------------------------------------------
+🏟️ Match: Vllaznia Vs Malisheva
+🆔 Match ID: 2690671
+🕒 Start: 2026-07-09 21:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2544.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19983.png
+--------------------------------------------------
+🏟️ Match: Glentoran Vs RFS
+🆔 Match ID: 2690670
+🕒 Start: 2026-07-09 21:30 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Unknown Channel, TV4 Latvia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/432.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/13556.png
+--------------------------------------------------
+🏟️ Match: Petrovac Vs Žalgiris
+🆔 Match ID: 2690659
+🕒 Start: 2026-07-09 21:45 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: RTCG 2
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/21366.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1065.png
+--------------------------------------------------
+🏟️ Match: Penybont Vs FC Santa Coloma
+🆔 Match ID: 2690682
+🕒 Start: 2026-07-09 21:45 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Unknown Channel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6851.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/352.png
+--------------------------------------------------
+🏟️ Match: NSI Runavik Vs Hamrun Spartans
+🆔 Match ID: 2690683
+🕒 Start: 2026-07-09 21:45 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/459.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/45571.png
+--------------------------------------------------
+🏟️ Match: Sarajevo Vs Inter Turku
+🆔 Match ID: 2690679
+🕒 Start: 2026-07-09 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/925.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/499.png
+--------------------------------------------------
+🏟️ Match: Dinamo Vs Astana
+🆔 Match ID: 2690663
+🕒 Start: 2026-07-09 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Kazach TV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2532.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1874.png
+--------------------------------------------------
+🏟️ Match: Stjarnan Vs Víkingur Gøta
+🆔 Match ID: 2690704
+🕒 Start: 2026-07-09 22:00 (GMT+3)
+📍 Tournament: UEFA Conference League
+📺 Channels: Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2446.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/534.png
+--------------------------------------------------
+🏟️ Match: France Vs Morocco
+🆔 Match ID: 2650272
+🕒 Start: 2026-07-09 23:00 (GMT+3)
+📍 Tournament: World Cup
+📺 Channels: Unknown Channel, FOX USA, FOXNY USA, ITV 1 UK, RTE 2 Ireland, TSN1, TSN3, TSN4, TSN5, RDS CA, TVE La 1 Spain, DAZN Mundial Spain, RAI 1 IT, SRF zwei, ORF 1 Austria, M6 France, beIN Sports 1 France, SBS Australia, Arryadia TNT, TRT 1 Turkey, Sport TV5 Portugal, Match Premier Russia, Match TV Russia, Match! Football 1 Russia, Qazsport, Fussball.TV 1, TV4 Sweden, TVP Sport Poland, TVP1 Poland, NPO 1 NL, TV2 Denmark, Yle TV2 Finland, NRK1 Norway, ERT 2 Greece, T Sports BD, M4 Sports Hungary, Arena 1 Premium Serbia, HRT 2 Croatia, ČT Sport CZ, RTS 1 Serbia, Ictimai Azerbaijan, Tipik Belgium, Antena 1 Romania, JOJ Sport Slovakia, TV Klan Albania, TUDN Mexico, Vix Premium MX, Azteca 7 Mexico, DSports 1 Argentina, Fast Sports Armenia, PTV Sports Pakistan, BNT 1 Bulgaria, BNT 3 Bulgaria, Telemundo, SuperSport Grandstand, SuperSport PSL, beIN Sports MAX 1 Arabia, beIN Sports MAX 3 Arabia, Sport 1 Israel, Backup Stream, Backup Stream (ENG), Backup Stream (4K), Backup Stream (TSN 4K), Backup Stream (Bein AR), Backup Stream (ESP), Backup Stream (Fox USA), Backup Stream (Fox 4K), Backup Stream (Telemundo), Backup Stream (TSN1), (Bein Max Arabic), Backup Stream (FusballTV1), MagentaTV, DAZN Mundial ES, ITV 1, HRT 2 Crotia, Sport TV1 Portugal, Backup Stream (4K Quality), Backup Stream (ITV UK), Backup Stream (TSN), Backup Stream (Bein Max AR), Backup Stream (Bein Max 4K), Backup Stream (Fussbaltv 4K)
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/45.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/108.png
 --------------------------------------------------
