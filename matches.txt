@@ -1,8 +1,16 @@
-🏟️ Match: St Patrick's Athletic Vs Dundalk
-🆔 Match ID: 2651985
-🕒 Start: 2026-07-24 22:00 (GMT+3)
+🏟️ Match: Galway United Vs Waterford
+🆔 Match ID: 2651986
+🕒 Start: 2026-07-25 19:00 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: Unknown Channel, LOITV, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/11862.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4138.png
+--------------------------------------------------
+🏟️ Match: Sligo Rovers Vs Drogheda United
+🆔 Match ID: 2651987
+🕒 Start: 2026-07-25 21:45 (GMT+3)
 📍 Tournament: League of Ireland Premier Division
 📺 Channels: Unknown Channel, LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/909.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/489.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4170.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1883.png
 --------------------------------------------------
