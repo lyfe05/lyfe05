@@ -1,0 +1,56 @@
+🏟️ Match: Chelsea Vs Western Sydney Wanderers
+🆔 Match ID: 2714854
+🕒 Start: 2026-07-28 12:45 (GMT+3)
+📍 Tournament: Sydney Super Cup
+📺 Channels: CBS Sports Golazo USA, Sport TV1 Portugal, Sigma TV, Sport 1 Israel, CBS Sports Golazo, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1783.png
+--------------------------------------------------
+🏟️ Match: KuPS Vs Sabah
+🆔 Match ID: 2691364
+🕒 Start: 2026-07-28 18:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: İctimai TV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/924.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/14602.png
+--------------------------------------------------
+🏟️ Match: Lincoln Red Imps Vs Mjällby
+🆔 Match ID: 2691367
+🕒 Start: 2026-07-28 19:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Backup Stream, Sport Bladet Play
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2426.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1321.png
+--------------------------------------------------
+🏟️ Match: Dinamo Zagreb Vs Thun
+🆔 Match ID: 2691365
+🕒 Start: 2026-07-28 21:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: SRF zwei Switzerland, RSI La 2, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/349.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/547.png
+--------------------------------------------------
+🏟️ Match: Celje Vs Egnatia
+🆔 Match ID: 2691372
+🕒 Start: 2026-07-28 21:15 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Kanal A Slovenia, SuperSport 2 Digitalb, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1052.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/55021.png
+--------------------------------------------------
+🏟️ Match: Hearts Vs Sturm Graz
+🆔 Match ID: 2691376
+🕒 Start: 2026-07-28 21:45 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Unknown Channel, Viaplay Sports 1 UK, Arena Sport 1 Slovakia, ORF eins, Canal 11 Portugal, Arena 1 Premium Serbia, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/946.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/449.png
+--------------------------------------------------
+🏟️ Match: Shamrock Rovers Vs Ararat-Armenia
+🆔 Match ID: 2691369
+🕒 Start: 2026-07-28 22:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Unknown Channel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/433.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/13551.png
+--------------------------------------------------
