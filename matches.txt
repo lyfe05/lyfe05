@@ -1,56 +1,72 @@
-🏟️ Match: Chelsea Vs Western Sydney Wanderers
-🆔 Match ID: 2714854
-🕒 Start: 2026-07-28 12:45 (GMT+3)
+🏟️ Match: Tottenham Hotspur Vs Sydney FC
+🆔 Match ID: 2714855
+🕒 Start: 2026-07-29 12:45 (GMT+3)
 📍 Tournament: Sydney Super Cup
-📺 Channels: CBS Sports Golazo USA, Sport TV1 Portugal, Sigma TV, Sport 1 Israel, CBS Sports Golazo, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1783.png
+📺 Channels: Sport TV1 Portugal, Sigma TV, Sport 4 Israel, Sport Bladet Play Sweden
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/202.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1780.png
 --------------------------------------------------
-🏟️ Match: KuPS Vs Sabah
-🆔 Match ID: 2691364
-🕒 Start: 2026-07-28 18:00 (GMT+3)
+🏟️ Match: Kairat Vs Omonia
+🆔 Match ID: 2691366
+🕒 Start: 2026-07-29 18:00 (GMT+3)
 📍 Tournament: UEFA Champions League
-📺 Channels: İctimai TV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/924.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/14602.png
+📺 Channels: Cytavision Sports 1 Cyprus, Qazsport, Arena Sport 1 Slovakia, MAX Sport 4 Bulgaria, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2431.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/380.png
 --------------------------------------------------
-🏟️ Match: Lincoln Red Imps Vs Mjällby
-🆔 Match ID: 2691367
-🕒 Start: 2026-07-28 19:00 (GMT+3)
+🏟️ Match: Kauno Žalgiris Vs KÍ
+🆔 Match ID: 2691363
+🕒 Start: 2026-07-29 19:00 (GMT+3)
 📍 Tournament: UEFA Champions League
-📺 Channels: Backup Stream, Sport Bladet Play
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2426.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1321.png
+📺 Channels: TV6 Lithuania, Backup Stream, TV6 Algeria
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6845.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7888.png
 --------------------------------------------------
-🏟️ Match: Dinamo Zagreb Vs Thun
-🆔 Match ID: 2691365
-🕒 Start: 2026-07-28 21:00 (GMT+3)
+🏟️ Match: Lech Vs AGF Aarhus
+🆔 Match ID: 2691374
+🕒 Start: 2026-07-29 20:00 (GMT+3)
 📍 Tournament: UEFA Champions League
-📺 Channels: SRF zwei Switzerland, RSI La 2, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/349.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/547.png
+📺 Channels: TVP Sport Poland, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/362.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1060.png
 --------------------------------------------------
-🏟️ Match: Celje Vs Egnatia
-🆔 Match ID: 2691372
-🕒 Start: 2026-07-28 21:15 (GMT+3)
+🏟️ Match: Hapoel Be'er Sheva Vs Víkingur Reykjavík
+🆔 Match ID: 2691368
+🕒 Start: 2026-07-29 20:30 (GMT+3)
 📍 Tournament: UEFA Champions League
-📺 Channels: Kanal A Slovenia, SuperSport 2 Digitalb, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1052.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/55021.png
+📺 Channels: Sport 2 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2488.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5205.png
 --------------------------------------------------
-🏟️ Match: Hearts Vs Sturm Graz
-🆔 Match ID: 2691376
-🕒 Start: 2026-07-28 21:45 (GMT+3)
+🏟️ Match: Universitatea Craiova Vs Levski Sofia
+🆔 Match ID: 2691371
+🕒 Start: 2026-07-29 20:30 (GMT+3)
 📍 Tournament: UEFA Champions League
-📺 Channels: Unknown Channel, Viaplay Sports 1 UK, Arena Sport 1 Slovakia, ORF eins, Canal 11 Portugal, Arena 1 Premium Serbia, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/946.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/449.png
+📺 Channels: Digi Sport 1 Romania, Prima Sport 1 Romania, Diema Sport Bulgaria, Canal 11 Portugal
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2253.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/486.png
 --------------------------------------------------
-🏟️ Match: Shamrock Rovers Vs Ararat-Armenia
-🆔 Match ID: 2691369
-🕒 Start: 2026-07-28 22:00 (GMT+3)
+🏟️ Match: Red Star Belgrade Vs Larne
+🆔 Match ID: 2691370
+🕒 Start: 2026-07-29 21:00 (GMT+3)
 📍 Tournament: UEFA Champions League
-📺 Channels: Unknown Channel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/433.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/13551.png
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2850.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/45570.png
+--------------------------------------------------
+🏟️ Match: Górnik Vs Fenerbahçe
+🆔 Match ID: 2691373
+🕒 Start: 2026-07-29 21:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: TV100 Turkey, Sport TV1 Portugal, Ictimai TV, Polsat Sport 1 Poland, Polsat Sport Premium 1 Poland, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1293.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/148.png
+--------------------------------------------------
+🏟️ Match: Slovan Bratislava Vs Iberia
+🆔 Match ID: 2691375
+🕒 Start: 2026-07-29 21:15 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Backup Stream, RTVS Sport Serbia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/453.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5451.png
 --------------------------------------------------
