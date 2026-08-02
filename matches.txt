@@ -1,16 +1,24 @@
-🏟️ Match: Chelsea Vs Tottenham Hotspur
-🆔 Match ID: 2714856
-🕒 Start: 2026-08-01 12:45 (GMT+3)
-📍 Tournament: Sydney Super Cup
-📺 Channels: Unknown Channel, CBS Sports Golazo, Sport TV2 Portugal, Sport 1 Israel, VG+ Denmark, Sport Bladet Play Sweden, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
+🏟️ Match: Waterford Vs Shelbourne
+🆔 Match ID: 2651988
+🕒 Start: 2026-08-02 17:00 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: Unknown Channel, LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4138.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4167.png
 --------------------------------------------------
-🏟️ Match: Tranmere Rovers Vs Rochdale
-🆔 Match ID: 2689514
-🕒 Start: 2026-08-01 17:00 (GMT+3)
-📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Nova Sport Bulgaria
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/608.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/650.png
+🏟️ Match: St Patrick's Athletic Vs Derry City
+🆔 Match ID: 2651989
+🕒 Start: 2026-08-02 19:00 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: Unknown Channel, LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/909.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1913.png
+--------------------------------------------------
+🏟️ Match: Bohemian Vs Galway United
+🆔 Match ID: 2651990
+🕒 Start: 2026-08-02 21:00 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: Unknown Channel, LOITV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/346.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/11862.png
 --------------------------------------------------
