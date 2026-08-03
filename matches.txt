@@ -1,24 +1,8 @@
-🏟️ Match: Waterford Vs Shelbourne
-🆔 Match ID: 2651988
-🕒 Start: 2026-08-02 17:00 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: Unknown Channel, LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4138.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4167.png
---------------------------------------------------
-🏟️ Match: St Patrick's Athletic Vs Derry City
-🆔 Match ID: 2651989
-🕒 Start: 2026-08-02 19:00 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: Unknown Channel, LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/909.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1913.png
---------------------------------------------------
-🏟️ Match: Bohemian Vs Galway United
-🆔 Match ID: 2651990
-🕒 Start: 2026-08-02 21:00 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: Unknown Channel, LOITV
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/346.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/11862.png
+🏟️ Match: York City Vs Crawley Town
+🆔 Match ID: 2689515
+🕒 Start: 2026-08-03 21:30 (GMT+3)
+📍 Tournament: EFL Cup
+📺 Channels: Unknown Channel, LOITV, Paramount+, Diema Sport 2 Bulgaria
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/624.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1190.png
 --------------------------------------------------
