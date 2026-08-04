@@ -1,8 +1,80 @@
-🏟️ Match: York City Vs Crawley Town
-🆔 Match ID: 2689515
-🕒 Start: 2026-08-03 21:30 (GMT+3)
-📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, LOITV, Paramount+, Diema Sport 2 Bulgaria
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/624.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1190.png
+🏟️ Match: Mjällby Vs Slovan Bratislava
+🆔 Match ID: 2714746
+🕒 Start: 2026-08-04 19:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: RTVS Sport Slovakia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1321.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/453.png
+--------------------------------------------------
+🏟️ Match: Ararat-Armenia Vs Celje
+🆔 Match ID: 2714748
+🕒 Start: 2026-08-04 19:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Arena Sport 1 Slovakia, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/13551.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1052.png
+--------------------------------------------------
+🏟️ Match: Levski Sofia Vs Kairat
+🆔 Match ID: 2714745
+🕒 Start: 2026-08-04 20:30 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Diema Sport Bulgaria, Qazsport, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/486.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2431.png
+--------------------------------------------------
+🏟️ Match: Hapoel Be'er Sheva Vs Red Star Belgrade
+🆔 Match ID: 2714749
+🕒 Start: 2026-08-04 20:30 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2488.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2850.png
+--------------------------------------------------
+🏟️ Match: Dinamo Zagreb Vs Kauno Žalgiris
+🆔 Match ID: 2714744
+🕒 Start: 2026-08-04 21:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: MAX Sport 1 Croatia, MAX Sport 2 Croatia, Arena Sport 1P, Moja TV
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/349.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6845.png
+--------------------------------------------------
+🏟️ Match: Olympiacos Vs NEC Nijmegen
+🆔 Match ID: 2714750
+🕒 Start: 2026-08-04 21:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Cosmote Sport 1 Greece, Ziggo Sport 1 NL, Arena 2 Premium Serbia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/24.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/961.png
+--------------------------------------------------
+🏟️ Match: Union Saint-Gilloise Vs Bodø/Glimt
+🆔 Match ID: 2714751
+🕒 Start: 2026-08-04 21:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Arena 3 Premium Serbia, RTL Club Belgium, Arena Sport 1 Slovakia, VG+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3586.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2394.png
+--------------------------------------------------
+🏟️ Match: Sparta Prague Vs Lyon
+🆔 Match ID: 2714753
+🕒 Start: 2026-08-04 21:00 (GMT+3)
+📍 Tournament: UEFA Champions League
+📺 Channels: Canal+ Foot France, Canal+ France, Arena Sport 1x2 Serbia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/370.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19.png
+--------------------------------------------------
+🏟️ Match: Larne Vs Iberia
+🆔 Match ID: 2714775
+🕒 Start: 2026-08-04 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Unknown Channel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/45570.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5451.png
+--------------------------------------------------
+🏟️ Match: Shamrock Rovers Vs Egnatia
+🆔 Match ID: 2714781
+🕒 Start: 2026-08-04 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/433.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/55021.png
 --------------------------------------------------
