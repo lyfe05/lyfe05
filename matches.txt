@@ -2,7 +2,7 @@
 🆔 Match ID: 2705723
 🕒 Start: 2026-08-08 15:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: Not specified
+📺 Channels: Unknown Channel, Sky Sports Football UK, Sky Sports Main Event UK, Arena 1 Premium Serbia, Arena Sport 1 Croatia, Nova Sport 1 CZ, Digi Sport 3 Romania, Cytavision Sports 3 Cyprus, V Sport Premium, Diema Sport 2 Bulgaria, beIN Sports MENA 1, beIN Sports MENA English 1, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/54370.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19532.png
 --------------------------------------------------
@@ -10,7 +10,7 @@
 🆔 Match ID: 2698432
 🕒 Start: 2026-08-08 15:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, Nova Sport Bulgaria
+📺 Channels: Sky Sports+, Backup Stream, Nova Sport Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/635.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/676.png
 --------------------------------------------------
@@ -42,16 +42,16 @@
 🆔 Match ID: 2698441
 🕒 Start: 2026-08-08 16:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, Arena Sport 2 Croatia, beIN Sports English 1, Arena Sport 1 Slovenia, Nova Sport 1 CZ, Diema Sport Bulgaria, beIN Sports MENA English 1, Backup Stream
+📺 Channels: Sky Sports+, Arena Sport 2 Croatia, beIN Sports English 1, Arena Sport 1 Slovenia, Nova Sport 1 CZ, Diema Sport Bulgaria, beIN Sports MENA English 1, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/582.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/574.png
 --------------------------------------------------
-🏟️ Match: Home Vs Coventry Sphinx
+🏟️ Match: Sutton Utd WM Vs Coventry Sphinx
 🆔 Match ID: 2705626
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/57744.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/61552.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/30293.png
 --------------------------------------------------
 🏟️ Match: Epsom & Ewell Vs Chipstead
@@ -138,7 +138,7 @@
 🆔 Match ID: 2705638
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/58201.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/30307.png
 --------------------------------------------------
@@ -154,7 +154,7 @@
 🆔 Match ID: 2705640
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: LOITV
+📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7857.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19665.png
 --------------------------------------------------
@@ -230,12 +230,12 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/21783.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/24271.png
 --------------------------------------------------
-🏟️ Match: Home Vs Benfleet FC
+🏟️ Match: Clapton Vs Benfleet FC
 🆔 Match ID: 2705654
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/57744.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/54748.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/53825.png
 --------------------------------------------------
 🏟️ Match: Ardley Utd Vs Portishead Town
@@ -258,7 +258,7 @@
 🆔 Match ID: 2705658
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/21305.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/58199.png
 --------------------------------------------------
@@ -298,7 +298,7 @@
 🆔 Match ID: 2705667
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: Unknown Channel, DAZN USA
+📺 Channels: DAZN USA
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19979.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18375.png
 --------------------------------------------------
@@ -314,7 +314,7 @@
 🆔 Match ID: 2705670
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: Unknown Channel, Sky Sports+, DAZN USA
+📺 Channels: Sky Sports+, DAZN USA
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/54821.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/28604.png
 --------------------------------------------------
@@ -386,7 +386,7 @@
 🆔 Match ID: 2705680
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: Not specified
+📺 Channels: Unknown Channel, Sky Sports Football UK, Sky Sports Main Event UK, Arena 1 Premium Serbia, Arena Sport 1 Croatia, Nova Sport 1 CZ, Digi Sport 3 Romania, Cytavision Sports 3 Cyprus, V Sport Premium, Diema Sport 2 Bulgaria, beIN Sports MENA 1, beIN Sports MENA English 1, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/53816.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1530.png
 --------------------------------------------------
@@ -414,13 +414,13 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10006.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/53657.png
 --------------------------------------------------
-🏟️ Match: Northwood Vs Guest
+🏟️ Match: Northwood Vs Hutton
 🆔 Match ID: 2705685
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3274.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/57745.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/61553.png
 --------------------------------------------------
 🏟️ Match: Leverstock Vs Walthamstow
 🆔 Match ID: 2705686
@@ -634,7 +634,7 @@
 🆔 Match ID: 2705720
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: LOITV
+📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5513.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19635.png
 --------------------------------------------------
@@ -642,7 +642,7 @@
 🆔 Match ID: 2705721
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: Not specified
+📺 Channels: Unknown Channel, Sky Sports Football UK, Sky Sports Main Event UK, Arena 1 Premium Serbia, Arena Sport 1 Croatia, Nova Sport 1 CZ, Digi Sport 3 Romania, Cytavision Sports 3 Cyprus, V Sport Premium, Diema Sport 2 Bulgaria, beIN Sports MENA 1, beIN Sports MENA English 1, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18415.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/53978.png
 --------------------------------------------------
@@ -722,7 +722,7 @@
 🆔 Match ID: 2705735
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/58258.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/10174.png
 --------------------------------------------------
@@ -746,7 +746,7 @@
 🆔 Match ID: 2705738
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: LOITV
+📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/53656.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/21771.png
 --------------------------------------------------
@@ -854,12 +854,12 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/58250.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/21873.png
 --------------------------------------------------
-🏟️ Match: Home Vs Hamworthy Rec
+🏟️ Match: Devizes Town Vs Hamworthy Rec
 🆔 Match ID: 2705752
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/57744.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/54551.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/58237.png
 --------------------------------------------------
 🏟️ Match: Garforth Town Vs West Didsbury & Chorlton
@@ -1002,7 +1002,7 @@
 🆔 Match ID: 2705773
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: LOITV
+📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19660.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/13853.png
 --------------------------------------------------
@@ -1186,7 +1186,7 @@
 🆔 Match ID: 2705798
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: Unknown Channel, Sky Sports+, V Sport Football, beIN Sports MAX 8 France, Backup Stream
+📺 Channels: Sky Sports+, V Sport Football, beIN Sports MAX 8 France, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25185.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/53781.png
 --------------------------------------------------
@@ -1302,13 +1302,13 @@
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/29413.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/53894.png
 --------------------------------------------------
-🏟️ Match: Newcastle B Vs Guest
+🏟️ Match: Newcastle B Vs Redcar Town
 🆔 Match ID: 2705813
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
 📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25446.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/57745.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/61554.png
 --------------------------------------------------
 🏟️ Match: Ashington Vs Horden Community Welfare
 🆔 Match ID: 2705814
@@ -1362,16 +1362,16 @@
 🆔 Match ID: 2705820
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: Unknown Channel, Sky Sports+, V Sport Football, beIN Sports MAX 8 France, Backup Stream
+📺 Channels: Sky Sports+, V Sport Football, beIN Sports MAX 8 France, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6918.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/30326.png
 --------------------------------------------------
-🏟️ Match: Home Vs West Auckland Town
+🏟️ Match: Yarm & Eagle Vs West Auckland Town
 🆔 Match ID: 2705821
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/57744.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/61555.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1587.png
 --------------------------------------------------
 🏟️ Match: Desborough Vs Hucknall Town
@@ -1450,7 +1450,7 @@
 🆔 Match ID: 2705832
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: LOITV
+📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/53719.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3199.png
 --------------------------------------------------
@@ -1466,7 +1466,7 @@
 🆔 Match ID: 2705835
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: FA Cup
-📺 Channels: LOITV
+📺 Channels: Not specified
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1500.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/25462.png
 --------------------------------------------------
@@ -1546,7 +1546,7 @@
 🆔 Match ID: 2698408
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/672.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/618.png
 --------------------------------------------------
@@ -1554,7 +1554,7 @@
 🆔 Match ID: 2698410
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/658.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/206.png
 --------------------------------------------------
@@ -1562,7 +1562,7 @@
 🆔 Match ID: 2698411
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, V Sport Football, beIN Sports MAX 8 France, Backup Stream
+📺 Channels: Sky Sports+, V Sport Football, beIN Sports MAX 8 France, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1559.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/611.png
 --------------------------------------------------
@@ -1570,7 +1570,7 @@
 🆔 Match ID: 2698412
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/610.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/210.png
 --------------------------------------------------
@@ -1578,7 +1578,7 @@
 🆔 Match ID: 2698413
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/609.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/650.png
 --------------------------------------------------
@@ -1586,7 +1586,7 @@
 🆔 Match ID: 2698414
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, V Sport Football, beIN Sports MAX 8 France, Backup Stream
+📺 Channels: Sky Sports+, V Sport Football, beIN Sports MAX 8 France, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/572.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/654.png
 --------------------------------------------------
@@ -1594,7 +1594,7 @@
 🆔 Match ID: 2698415
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/647.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/599.png
 --------------------------------------------------
@@ -1602,7 +1602,7 @@
 🆔 Match ID: 2698416
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/621.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1552.png
 --------------------------------------------------
@@ -1610,7 +1610,7 @@
 🆔 Match ID: 2698417
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, Nova Sport 4 CZ, Diema Sport 3 Bulgaria, beIN Sports HD 3, Backup Stream
+📺 Channels: Sky Sports+, Nova Sport 4 CZ, Diema Sport 3 Bulgaria, beIN Sports HD 3, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/568.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/655.png
 --------------------------------------------------
@@ -1618,7 +1618,7 @@
 🆔 Match ID: 2698418
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, Sport TV2 Portugal, Arena 1 Premium Serbia, Arena Sport 1 Croatia, beIN Sports MAX 4 France, Cytavision Sports 3, Digi Sport 2 Romania, V Sport Premium, Nova Sport 2 CZ, Diema Sport 2 Bulgaria, beIN Sports HD 1, Sport 4 Israel, Backup Stream
+📺 Channels: Sky Sports+, Sport TV2 Portugal, Arena 1 Premium Serbia, Arena Sport 1 Croatia, beIN Sports MAX 4 France, Cytavision Sports 3, Digi Sport 2 Romania, V Sport Premium, Nova Sport 2 CZ, Diema Sport 2 Bulgaria, beIN Sports HD 1, Sport 4 Israel, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/198.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/277.png
 --------------------------------------------------
@@ -1626,7 +1626,7 @@
 🆔 Match ID: 2698419
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, beIN Sports MAX 7 France, V Sport 1 Sweden, Backup Stream
+📺 Channels: Sky Sports+, beIN Sports MAX 7 France, V Sport 1 Sweden, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/275.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/657.png
 --------------------------------------------------
@@ -1634,7 +1634,7 @@
 🆔 Match ID: 2698421
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, Sport TV3 Portugal, Arena Sport 4 Croatia, Nova Sport 3 CZ, Nova Sport Bulgaria, Digi Sport 3 Romania, beIN Sports HD 2, Backup Stream
+📺 Channels: Sky Sports+, Sport TV3 Portugal, Arena Sport 4 Croatia, Nova Sport 3 CZ, Nova Sport Bulgaria, Digi Sport 3 Romania, beIN Sports HD 2, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/205.png
 --------------------------------------------------
@@ -1642,7 +1642,7 @@
 🆔 Match ID: 2698422
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/201.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/666.png
 --------------------------------------------------
@@ -1650,7 +1650,7 @@
 🆔 Match ID: 2698423
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/619.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/581.png
 --------------------------------------------------
@@ -1658,7 +1658,7 @@
 🆔 Match ID: 2698424
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/578.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/673.png
 --------------------------------------------------
@@ -1666,7 +1666,7 @@
 🆔 Match ID: 2698425
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, V Sport Football, beIN Sports MAX 8 France, Backup Stream
+📺 Channels: Sky Sports+, V Sport Football, beIN Sports MAX 8 France, Backup Stream
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/565.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/664.png
 --------------------------------------------------
@@ -1674,7 +1674,7 @@
 🆔 Match ID: 2698426
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/653.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/674.png
 --------------------------------------------------
@@ -1682,7 +1682,7 @@
 🆔 Match ID: 2698427
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/669.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/630.png
 --------------------------------------------------
@@ -1690,7 +1690,7 @@
 🆔 Match ID: 2698428
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, beIN Sports MAX 6 France
+📺 Channels: Sky Sports+, beIN Sports MAX 6 France
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/638.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/200.png
 --------------------------------------------------
@@ -1698,7 +1698,7 @@
 🆔 Match ID: 2698430
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/625.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/569.png
 --------------------------------------------------
@@ -1706,7 +1706,7 @@
 🆔 Match ID: 2698431
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, beIN Sports MAX 9 France
+📺 Channels: Sky Sports+, beIN Sports MAX 9 France
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/575.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/662.png
 --------------------------------------------------
@@ -1714,7 +1714,7 @@
 🆔 Match ID: 2698434
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/580.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1190.png
 --------------------------------------------------
@@ -1722,7 +1722,7 @@
 🆔 Match ID: 2698435
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/563.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/204.png
 --------------------------------------------------
@@ -1730,7 +1730,7 @@
 🆔 Match ID: 2698437
 🕒 Start: 2026-08-08 17:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/665.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/636.png
 --------------------------------------------------
@@ -1738,7 +1738,7 @@
 🆔 Match ID: 2698429
 🕒 Start: 2026-08-08 19:30 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports Football, Sky Sports Main Event, Arena 4 Premium Serbia, beIN Sports MAX 4 France, Arena Sport 1 Croatia, Cytavision Sports 4, Nova Sport 1 CZ, Diema Sport 2 Bulgaria, beIN Sports HD 1, ESPN3 Brazil, ESPN Mexico, Sport 4 Israel
+📺 Channels: Sky Sports Football, Sky Sports Main Event, Arena 4 Premium Serbia, beIN Sports MAX 4 France, Arena Sport 1 Croatia, Cytavision Sports 4, Nova Sport 1 CZ, Diema Sport 2 Bulgaria, beIN Sports HD 1, ESPN3 Brazil, ESPN Mexico, Sport 4 Israel
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/605.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/615.png
 --------------------------------------------------
@@ -1746,7 +1746,7 @@
 🆔 Match ID: 2698436
 🕒 Start: 2026-08-08 19:30 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, V Sport Football, Nova Sport Bulgaria
+📺 Channels: Sky Sports+, V Sport Football, Nova Sport Bulgaria
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/606.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/196.png
 --------------------------------------------------
@@ -1754,7 +1754,7 @@
 🆔 Match ID: 2698442
 🕒 Start: 2026-08-08 19:30 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+
+📺 Channels: Sky Sports+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/626.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/597.png
 --------------------------------------------------
