@@ -1,80 +1,48 @@
-🏟️ Match: Parma Vs Cremonese
-🆔 Match ID: 2698465
-🕒 Start: 2026-09-01 19:00 (GMT+3)
+🏟️ Match: Sassuolo Vs Frosinone
+🆔 Match ID: 2698469
+🕒 Start: 2026-09-02 16:00 (GMT+3)
 📍 Tournament: Coppa Italia
-📺 Channels: Unknown Channel, Italia 1 IT, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Sport TV2 Portugal, Ziggo Sport 1 NL, Ziggo Sport 5 NL, Match! Football 1 Russia, Cytavision Sports 4 Cyprus, Arena Sport 1 Slovenia, Nova Sports Prime Greece, Arena 3 Premium Serbia, DSports 2 Argentina, Arena Sport 2 Croatia, MAX Sport 3 Bulgaria, Sport 4 Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/193.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/386.png
+📺 Channels: Unknown Channel, Italia 1 IT, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Sport TV1 Portugal, MBC Action, Cytavision Sports 4 Cyprus, Arena 1 Premium Serbia, Match! Football 1 Russia, Arena Sport 1 Slovenia, Arena Sport 2 Croatia, MAX Sport 3 Bulgaria, Sport 2 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/724.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/717.png
 --------------------------------------------------
-🏟️ Match: Lincoln City Vs Blackburn Rovers
-🆔 Match ID: 2696547
-🕒 Start: 2026-09-01 21:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Unknown Channel, Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/655.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/210.png
---------------------------------------------------
-🏟️ Match: Portsmouth Vs Derby County
-🆔 Match ID: 2696548
-🕒 Start: 2026-09-01 21:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Unknown Channel, Sky Sports+, V Sport Football
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/277.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/568.png
---------------------------------------------------
-🏟️ Match: Preston North End Vs Bristol City
-🆔 Match ID: 2696549
-🕒 Start: 2026-09-01 21:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Unknown Channel, Sky Sports+, V Sport 1 Sweden
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/578.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/564.png
---------------------------------------------------
-🏟️ Match: Sheffield United Vs Bolton Wanderers
-🆔 Match ID: 2696550
-🕒 Start: 2026-09-01 21:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Unknown Channel, Sky Sports+, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/583.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/200.png
---------------------------------------------------
-🏟️ Match: Swansea City Vs Watford
-🆔 Match ID: 2696552
-🕒 Start: 2026-09-01 21:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Unknown Channel, Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/580.png
---------------------------------------------------
-🏟️ Match: West Ham United Vs Wolverhampton Wanderers
-🆔 Match ID: 2696553
-🕒 Start: 2026-09-01 21:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Unknown Channel, Sky Sports+, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/198.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/203.png
---------------------------------------------------
-🏟️ Match: Torino Vs Monza
-🆔 Match ID: 2698463
-🕒 Start: 2026-09-01 22:00 (GMT+3)
+🏟️ Match: Udinese Vs Venezia
+🆔 Match ID: 2698470
+🕒 Start: 2026-09-02 19:00 (GMT+3)
 📍 Tournament: Coppa Italia
-📺 Channels: Unknown Channel, Italia 1 IT, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Sport TV2 Portugal, Polsat Sport 3 Poland, Ziggo Sport 1 NL, Ziggo Sport 3 NL, Match! Football 1 Russia, Cytavision Sports 4 Cyprus, Arena Sport 3 Slovenia, Arena 3 Premium Serbia, DSports 1 Argentina, Nova Sports Prime Greece, TRT Spor Turkey, Arena Sport 1 Croatia, MAX Sport 3 Bulgaria, Sport 4 Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/722.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/404.png
+📺 Channels: Unknown Channel, Italia 1 IT, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Sport TV1 Portugal, Polsat Sport 2 Poland, Match! Football 1 Russia, Arena 1 Premium Serbia, Cytavision Sports 4 Cyprus, Arena Sport 1 Slovenia, Nova Sports Start Greece, DSports 2 Argentina, Ziggo Sport 1 NL, MBC Action, Arena Sport 3 Croatia, MAX Sport 3 Bulgaria, Sport 2 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/195.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1989.png
 --------------------------------------------------
-🏟️ Match: Birmingham City Vs Southampton
-🆔 Match ID: 2696546
-🕒 Start: 2026-09-01 22:00 (GMT+3)
+🏟️ Match: Millwall Vs Wrexham
+🆔 Match ID: 2696555
+🕒 Start: 2026-09-02 21:45 (GMT+3)
 📍 Tournament: EFL Championship
-📺 Channels: Unknown Channel, Sky Sports+, V Sport Extra Sweden, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/205.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/615.png
+📺 Channels: Unknown Channel, Sky Sports+, V Sport Premium, Event Stream, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/574.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/617.png
 --------------------------------------------------
-🏟️ Match: Stoke City Vs Norwich City
-🆔 Match ID: 2696551
-🕒 Start: 2026-09-01 22:00 (GMT+3)
+🏟️ Match: Queens Park Rangers Vs Cardiff City
+🆔 Match ID: 2696556
+🕒 Start: 2026-09-02 21:45 (GMT+3)
 📍 Tournament: EFL Championship
-📺 Channels: Unknown Channel, Sky Sports Football UK, Sky Sports Main Event UK, Sport TV3 Portugal, beIN Sports MAX 4 France, Nova Sport 3 SK, Nova Sport 3 CZ, Arena Sport 1 Slovenia, Arena 2 Premium Serbia, Cosmote Sport 3 Greece, Arena Sport 2 Croatia, V Sport Premium, ESPN4 Brazil, Diema Sport 2 Bulgaria, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 2 Israel, V Sport Premium Sweden, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/201.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/575.png
+📺 Channels: Unknown Channel, Sky Sports+, V Sport Football, Event Stream, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/582.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/565.png
+--------------------------------------------------
+🏟️ Match: West Bromwich Albion Vs Charlton Athletic
+🆔 Match ID: 2696557
+🕒 Start: 2026-09-02 21:45 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Unknown Channel, Sky Sports+, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/196.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/597.png
+--------------------------------------------------
+🏟️ Match: Burnley Vs Middlesbrough
+🆔 Match ID: 2696554
+🕒 Start: 2026-09-02 22:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Unknown Channel, Sky Sports Main Event UK, Sport TV3 Portugal, beIN Sports MAX 4 France, Arena Sport 1 Slovenia, Nova Sport 3 SK, Nova Sport 3 CZ, Arena 3 Premium Serbia, ESPN4 Mexico, Fox Sports Argentina, Cosmote Sport 3 Greece, ESPN4 Brazil, Arena Sport 1 Croatia, Diema Sport 2 Bulgaria, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 2 Israel, Viaplay Sport Sweden, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/275.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/573.png
 --------------------------------------------------
