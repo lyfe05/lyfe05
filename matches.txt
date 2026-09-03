@@ -1,48 +1,24 @@
-🏟️ Match: Sassuolo Vs Frosinone
-🆔 Match ID: 2698469
-🕒 Start: 2026-09-02 16:00 (GMT+3)
+🏟️ Match: Palermo Vs Mantova
+🆔 Match ID: 2698466
+🕒 Start: 2026-09-03 19:00 (GMT+3)
 📍 Tournament: Coppa Italia
-📺 Channels: Unknown Channel, Italia 1 IT, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Sport TV1 Portugal, MBC Action, Cytavision Sports 4 Cyprus, Arena 1 Premium Serbia, Match! Football 1 Russia, Arena Sport 1 Slovenia, Arena Sport 2 Croatia, MAX Sport 3 Bulgaria, Sport 2 Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/724.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/717.png
+📺 Channels: Unknown Channel, Italia 1 IT, CBS Sports Golazo, DAZN1 DE, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Arena Sport 2 Slovenia, Arena 1 Premium Serbia, Cytavision Sports 4 Cyprus, Match! Football 1 Russia, Arena Sport 2 Croatia, MAX Sport 3 Bulgaria, Sport 4 Israel, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/192.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3842.png
 --------------------------------------------------
-🏟️ Match: Udinese Vs Venezia
-🆔 Match ID: 2698470
-🕒 Start: 2026-09-02 19:00 (GMT+3)
+🏟️ Match: Real Sociedad Vs Celta de Vigo
+🆔 Match ID: 2700244
+🕒 Start: 2026-09-03 22:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Unknown Channel, M+ LALIGA TV, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Nova Sport 4 SK, Nova Sport 4 CZ, Match TV Russia, Match! Football 2 Russia, DAZN Eleven 1 Portugal, Canal+ Sport Poland, Canal+ Sport 6 Poland, Ziggo Sport 1 NL, Digi Sport 2 Romania, Prima Sport 2 Romania, DSports 1 Argentina, beIN Sports Malaysia, Arena 1 Premium Serbia, Cosmote Sport 3 Greece, MAX Sport 4 Bulgaria, Sportklub 1 Croatia, beIN Sports MENA 2, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/223.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/680.png
+--------------------------------------------------
+🏟️ Match: Cagliari Vs Hellas Verona
+🆔 Match ID: 2698468
+🕒 Start: 2026-09-03 22:00 (GMT+3)
 📍 Tournament: Coppa Italia
-📺 Channels: Unknown Channel, Italia 1 IT, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Sport TV1 Portugal, Polsat Sport 2 Poland, Match! Football 1 Russia, Arena 1 Premium Serbia, Cytavision Sports 4 Cyprus, Arena Sport 1 Slovenia, Nova Sports Start Greece, DSports 2 Argentina, Ziggo Sport 1 NL, MBC Action, Arena Sport 3 Croatia, MAX Sport 3 Bulgaria, Sport 2 Israel, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/195.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1989.png
---------------------------------------------------
-🏟️ Match: Millwall Vs Wrexham
-🆔 Match ID: 2696555
-🕒 Start: 2026-09-02 21:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Unknown Channel, Sky Sports+, V Sport Premium, Event Stream, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/574.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/617.png
---------------------------------------------------
-🏟️ Match: Queens Park Rangers Vs Cardiff City
-🆔 Match ID: 2696556
-🕒 Start: 2026-09-02 21:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Unknown Channel, Sky Sports+, V Sport Football, Event Stream, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/582.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/565.png
---------------------------------------------------
-🏟️ Match: West Bromwich Albion Vs Charlton Athletic
-🆔 Match ID: 2696557
-🕒 Start: 2026-09-02 21:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Unknown Channel, Sky Sports+, Event Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/196.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/597.png
---------------------------------------------------
-🏟️ Match: Burnley Vs Middlesbrough
-🆔 Match ID: 2696554
-🕒 Start: 2026-09-02 22:00 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Unknown Channel, Sky Sports Main Event UK, Sport TV3 Portugal, beIN Sports MAX 4 France, Arena Sport 1 Slovenia, Nova Sport 3 SK, Nova Sport 3 CZ, Arena 3 Premium Serbia, ESPN4 Mexico, Fox Sports Argentina, Cosmote Sport 3 Greece, ESPN4 Brazil, Arena Sport 1 Croatia, Diema Sport 2 Bulgaria, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 2 Israel, Viaplay Sport Sweden, Backup Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/275.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/573.png
+📺 Channels: Unknown Channel, Italia 1 IT, CBS Sports Golazo, Sport TV2 Portugal, Polsat Sport 2 Poland, Match! Football 1 Russia, Ziggo Sport 2 NL, Arena Sport 2 Slovenia, Cytavision Sports 4 Cyprus, Arena 2 Premium Serbia, Nova Sports Prime Greece, TRT Spor Turkey, Arena Sport 1 Croatia, MAX Sport 3 Bulgaria, Sport 4 Israel, Paramount+, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/185.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/409.png
 --------------------------------------------------
