@@ -1,24 +1,48 @@
-🏟️ Match: Palermo Vs Mantova
-🆔 Match ID: 2698466
-🕒 Start: 2026-09-03 19:00 (GMT+3)
-📍 Tournament: Coppa Italia
-📺 Channels: Unknown Channel, Italia 1 IT, CBS Sports Golazo, DAZN1 DE, Viaplay Sports 1 UK, Premier Sports 1 Ireland, Arena Sport 2 Slovenia, Arena 1 Premium Serbia, Cytavision Sports 4 Cyprus, Match! Football 1 Russia, Arena Sport 2 Croatia, MAX Sport 3 Bulgaria, Sport 4 Israel, Event Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/192.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3842.png
+🏟️ Match: Lyon Vs Auxerre
+🆔 Match ID: 2688665
+🕒 Start: 2026-09-04 20:00 (GMT+3)
+📍 Tournament: Ligue 1
+📺 Channels: Unknown Channel, Ligue1+ France, beIN SPORTS USA, beIN SPORTS en Español, DAZN1 DE, Sport TV3 Portugal, Eleven Sports 2 Poland, Arena Sport 2 Croatia, V Sport Football, Arena 3 Premium Serbia, Canal+ Sport 2 Afrique, Nova Sport Bulgaria, beIN Sports MENA 4, 5Sport Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/253.png
 --------------------------------------------------
-🏟️ Match: Real Sociedad Vs Celta de Vigo
-🆔 Match ID: 2700244
-🕒 Start: 2026-09-03 22:00 (GMT+3)
+🏟️ Match: Genoa Vs Como
+🆔 Match ID: 2686195
+🕒 Start: 2026-09-04 21:45 (GMT+3)
+📍 Tournament: Serie A
+📺 Channels: Unknown Channel, Paramount+, DAZN1 IT, Sport TV2 Portugal, Eleven Sports 1 Poland, Match! Football 1 Russia, Ziggo Sport 3 NL, Astro Football, Cytavision Sports 4 Cyprus, Cosmote Sport 2 Greece, Arena Sport 3 Croatia, TV4 Sport Live 1, MAX Sport 3 Bulgaria, Digi Sport 3 Romania, Prima Sport 3 Romania, Arena Sport 3 Serbia, ESPN4 Brazil, SuperSport Football, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/189.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/387.png
+--------------------------------------------------
+🏟️ Match: Ipswich Town Vs Liverpool FC
+🆔 Match ID: 2693591
+🕒 Start: 2026-09-04 22:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Unknown Channel, Hub Premier 1, USA Network, Sky Sports Main Event UK, Sky Sports Premier League UK, beIN Sports 3 Turkey, Sky Sport 8 NZ, DAZN1 Spain, Sky Sport Premier League DE, DAZN Eleven 2 Portugal, Canal+ Extra 1 Poland, Canal+ Extra 3 Poland, Canal+ Foot France, Sky Sport Calcio IT, Arena Sport 1 Slovenia, Astro Premier League, Astro Grandstand, Canal+ Sport CZ, Canal+ Sport SK, Cytavision Sports 3 Cyprus, Arena 1 Premium Serbia, Nova Sports Premier League Greece, See Denmark, Arena Sport 1 Croatia, V Sport Premium, Diema Sport 2 Bulgaria, ESPN Brazil, beIN Sports MENA 2, beIN Sports MENA English 1, Sport 2 Israel, Stan Sport, Sky Sports Premier League, USA Network USA, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/570.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18.png
+--------------------------------------------------
+🏟️ Match: Real Betis Vs Real Madrid
+🆔 Match ID: 2700217
+🕒 Start: 2026-09-04 22:00 (GMT+3)
 📍 Tournament: LaLiga
-📺 Channels: Unknown Channel, M+ LALIGA TV, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Nova Sport 4 SK, Nova Sport 4 CZ, Match TV Russia, Match! Football 2 Russia, DAZN Eleven 1 Portugal, Canal+ Sport Poland, Canal+ Sport 6 Poland, Ziggo Sport 1 NL, Digi Sport 2 Romania, Prima Sport 2 Romania, DSports 1 Argentina, beIN Sports Malaysia, Arena 1 Premium Serbia, Cosmote Sport 3 Greece, MAX Sport 4 Bulgaria, Sportklub 1 Croatia, beIN Sports MENA 2, Event Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/223.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/680.png
+📺 Channels: Unknown Channel, M+ LALIGA TV, ESPN+ USA, TSN5, Viaplay Sports 1 UK, Premier Sports 1 Ireland, DAZN2 DE, DAZN Eleven 1 Portugal, Canal+ Sport 2 Poland, Canal+ Sport 6 Poland, Nova Sport 5 SK, Nova Sport 5 CZ, Ziggo Sport 2 NL, beIN Sports Malaysia, ESPN Deportes, Digi Sport 2 Romania, Match TV Russia, Match! Football 2 Russia, Arena 2 Premium Serbia, Cosmote Sport 7 Greece, Prima Sport 2 Romania, MAX Sport 4 Bulgaria, ESPN Argentina, beIN Sports MENA 3, Sportklub 1 Croatia, DAZN France, Premier Sports 1 UK, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/691.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26.png
 --------------------------------------------------
-🏟️ Match: Cagliari Vs Hellas Verona
-🆔 Match ID: 2698468
-🕒 Start: 2026-09-03 22:00 (GMT+3)
-📍 Tournament: Coppa Italia
-📺 Channels: Unknown Channel, Italia 1 IT, CBS Sports Golazo, Sport TV2 Portugal, Polsat Sport 2 Poland, Match! Football 1 Russia, Ziggo Sport 2 NL, Arena Sport 2 Slovenia, Cytavision Sports 4 Cyprus, Arena 2 Premium Serbia, Nova Sports Prime Greece, TRT Spor Turkey, Arena Sport 1 Croatia, MAX Sport 3 Bulgaria, Sport 4 Israel, Paramount+, Event Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/185.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/409.png
+🏟️ Match: Shamrock Rovers Vs Shelbourne
+🆔 Match ID: 2651998
+🕒 Start: 2026-09-04 22:00 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: Unknown Channel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/433.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4167.png
+--------------------------------------------------
+🏟️ Match: PSG Vs Monaco
+🆔 Match ID: 2688668
+🕒 Start: 2026-09-04 22:05 (GMT+3)
+📍 Tournament: Ligue 1
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/263.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/259.png
 --------------------------------------------------
