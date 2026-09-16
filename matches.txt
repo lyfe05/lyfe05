@@ -1,96 +1,136 @@
-🏟️ Match: Genoa Vs Südtirol
-🆔 Match ID: 2698467
-🕒 Start: 2026-09-15 19:00 (GMT+3)
-📍 Tournament: Coppa Italia
-📺 Channels: Unknown Channel, Paramount+ USA, Italia 1, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Sport TV2 Portugal, Arena 1 Premium Serbia, Arena Sport 3 Slovenia, Cytavision Sports 4 Cyprus, Nova Sports Prime Greece, Arena Sport 1 Croatia, MAX Sport 3 Bulgaria, Sport 3 Israel, DAZN2 DE, Event Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/189.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/412.png
+🏟️ Match: Ararat-Armenia Vs Sparta Prague
+🆔 Match ID: 2732207
+🕒 Start: 2026-09-16 19:45 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Unknown Channel, Paramount+, TNT Sports 3 UK, Nova Sport 5 CZ, Sky Sport Austria 3, Movistar Liga de Campeones 2, Viaplay Sports 1 UK, Polsat Sport Extra 1 Poland, Sky Sport 252 IT, Digi Sport 2 Romania, Prima Sport 2 Romania, Canal+ Sport France, Canal+ Live 2 France, Arena 4 Premium Serbia, Cytavision Sports 3 Cyprus, Ziggo Sport 3 NL, beIN Sports 3 Malaysia, MagentaSport 6 Greece, Arena Sport 4 Croatia, ESPN3 Argentina, MAX Sport 3 Bulgaria, M.Liga de Campeones 2, TNT Sports 3
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/13551.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/370.png
 --------------------------------------------------
-🏟️ Match: Rayo Vallecano Vs Espanyol
-🆔 Match ID: 2700243
-🕒 Start: 2026-09-15 20:00 (GMT+3)
+🏟️ Match: Omonia Vs Celta de Vigo
+🆔 Match ID: 2732208
+🕒 Start: 2026-09-16 19:45 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Unknown Channel, Paramount+, TNT Sports 4 UK, Movistar Liga de Campeones, CBS Sports Network, Sky Sport Austria 2, Viaplay Sports 2 UK, DAZN Eleven 2 Portugal, Canal+ Foot France, Canal+ Live 1 France, Sky Sport 251 IT, TUDN USA, Polsat Sport Premium 2 Poland, Arena 1 Premium Serbia, Digi Sport 1 Romania, Prima Sport 1 Romania, Ziggo Sport 1 NL, Ziggo Sport 2 NL, beIN Sports Malaysia, Blue Sport 8 Live, MagentaSport 5 Greece, Arena Sport 3 Croatia, ESPN2 Argentina, Ring BG, beIN Sports MENA 1, Sport 2 Israel, TNT Sports 4
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/380.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/680.png
+--------------------------------------------------
+🏟️ Match: Atlético de Madrid Vs Osasuna
+🆔 Match ID: 2700236
+🕒 Start: 2026-09-16 20:00 (GMT+3)
 📍 Tournament: LaLiga
-📺 Channels: Unknown Channel, M+ LALIGA TV, ESPN+ USA, Viaplay Sports 1 UK, Premier Sports 1 Ireland, DAZN Eleven 2 Portugal, Canal+ Sport 6 Poland, Nova Sport 4 SK, Nova Sport 4 CZ, ESPN Deportes, Ziggo Sport 2 NL, beIN Sports 3 Malaysia, Digi Sport 2 Romania, Prima Sport 1 Romania, Arena 3 Premium Serbia, MAX Sport 4 Bulgaria, ESPN2 Argentina, SuperSport Laliga, beIN Sports MENA 2, Sportklub 1 Croatia, DAZN1 DE, Event Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/690.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/215.png
+📺 Channels: Unknown Channel, M+ LALIGA TV, ESPN+ USA, Viaplay Sports 1 UK, Premier Sports 1 Ireland, DAZN Eleven 3 Portugal, Canal+ Sport 4 Afrique, DAZN1 DE, ESPN Deportes, beIN Sports 2 Malaysia, Nova Sport 3 SK, Nova Sport 3 CZ, Match Football 2 Russia, Arena 2 Premium Serbia, MAX Sport 4 Bulgaria, Prima Sport 3 Romania, Digi Sport 3 Romania, ESPN Argentina, SuperSport Laliga, Supersport Grandstand, beIN Sports MENA 2, Sportklub 1 Croatia, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/221.png
 --------------------------------------------------
-🏟️ Match: Alavés Vs Valencia
-🆔 Match ID: 2700235
-🕒 Start: 2026-09-15 21:00 (GMT+3)
+🏟️ Match: Deportivo A Coruña Vs Sevilla
+🆔 Match ID: 2700238
+🕒 Start: 2026-09-16 20:00 (GMT+3)
 📍 Tournament: LaLiga
-📺 Channels: Unknown Channel, DAZN LaLiga, ESPN+ USA, DAZN Eleven 3 Portugal, Nova Sport 3 CZ, Nova Sport 3 SK, beIN Sports 2 Malaysia, Digi Sport 3 Romania, Prima Sport 2 Romania, Arena 5 Premium Serbia, beIN Sports MENA 6, Sportklub 5 Croatia, Event Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1254.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/143.png
+📺 Channels: Unknown Channel, DAZN LaLiga 2, ESPN+ USA, DAZN Eleven 4 Portugal, Canal+ Sport Poland, DAZN2 DE, Arena 3 Premium Serbia, Match Football 3 Russia, Prima Sport 4 Romania, Nova Sport 4 CZ, CANAL+ SPORT 6 Poland, Digi Sport 4 Romania, beIN Sports MENA 9, Sportklub 3 Croatia, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/214.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/28.png
 --------------------------------------------------
-🏟️ Match: Peterborough United Vs Barnsley
-🆔 Match ID: 2731610
-🕒 Start: 2026-09-15 21:30 (GMT+3)
+🏟️ Match: Everton Vs Wolverhampton Wanderers
+🆔 Match ID: 2731612
+🕒 Start: 2026-09-16 21:45 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, beIN Sports MAX 5 France, Event Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/636.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/563.png
+📺 Channels: Unknown Channel, Sky Sports+, Sport TV2 Portugal, beIN Sports 5 Max France, ESPN2 Brazil, V Sport Football, Arena 5 Premium Serbia, Diema Sport Bulgaria, SuperSport PSL, beIN Sports MENA 6, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/197.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/203.png
 --------------------------------------------------
-🏟️ Match: West Ham United Vs Fulham
-🆔 Match ID: 2731611
-🕒 Start: 2026-09-15 21:45 (GMT+3)
+🏟️ Match: Fleetwood Town Vs Sheffield United
+🆔 Match ID: 2731623
+🕒 Start: 2026-09-16 21:45 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, Sport TV+ Portugal, beIN Sports MAX 4 France, Digi Sport 4 Romania, Nova Sport 6 CZ, Cytavision Sports 5 Cyprus, Arena 4 Premium Serbia, Arena Sport 4 Croatia, V Sport Football, Nova Sport Bulgaria, SuperSport PSL, beIN Sports MENA 5, Sport 1 Israel, Event Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/198.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/211.png
+📺 Channels: Unknown Channel, Sky Sports+, beIN Sports MAX 6 France, V Sport 1 Sweden, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/653.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/583.png
 --------------------------------------------------
-🏟️ Match: Middlesbrough Vs Millwall
-🆔 Match ID: 2696570
-🕒 Start: 2026-09-15 21:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Unknown Channel, Sky Sports+, V Sport 1 Sweden, Event Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/573.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/574.png
---------------------------------------------------
-🏟️ Match: Bristol City Vs Lincoln City
-🆔 Match ID: 2696576
-🕒 Start: 2026-09-15 21:45 (GMT+3)
-📍 Tournament: EFL Championship
-📺 Channels: Unknown Channel, Sky Sports+
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/564.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/655.png
---------------------------------------------------
-🏟️ Match: Reading Vs Brentford
-🆔 Match ID: 2731615
-🕒 Start: 2026-09-15 22:00 (GMT+3)
+🏟️ Match: Manchester United Vs Brighton & Hove Albion
+🆔 Match ID: 2731614
+🕒 Start: 2026-09-16 22:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, Sport TV3 Portugal, beIN Sports MAX 6 France, Nova Sport 5 SK, Nova Sport 5 CZ, Arena Sport 2 Slovenia, Arena Sport 1x2 Serbia, Arena Sport 1 Serbia, Diema Sport Bulgaria, SuperSport Football, Event Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/581.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/671.png
+📺 Channels: Unknown Channel, Sky Sports+, ITV 1 UK, Sky Sports Main Event UK, Sky Sports Football UK, Sky Sport Top Event DE, Sky Sport Premier League DE, Sport TV1 Portugal, beIN Sports 1 France, Digi Sport 4 Romania, Canal+ Sport 3 Afrique, Arena 4 Premium Serbia, Nova Sport 2 CZ, TV3 MAX Denmark, Arena Sport 4 Croatia, ESPN Brazil, Diema Sport 2 Bulgaria, SuperSport Premier League, beIN Sports MENA 4, beIN Sports MENA English 1, Sport 3 Israel, Sky Sports Premier League DE
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/21.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/670.png
 --------------------------------------------------
-🏟️ Match: Ipswich Town Vs Arsenal
-🆔 Match ID: 2731617
-🕒 Start: 2026-09-15 22:00 (GMT+3)
+🏟️ Match: Coventry City Vs Aston Villa
+🆔 Match ID: 2731618
+🕒 Start: 2026-09-16 22:00 (GMT+3)
 📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, Sport TV2 Portugal, beIN Sports 2 France, Nova Sport 1 CZ, Digi Sport 3 Romania, Arena 2 Premium Serbia, Cytavision Sports 3 Cyprus, V Sport Premium, TV3 MAX Denmark, Arena Sport 3 Croatia, Diema Sport 3 Bulgaria, ESPN4 Brazil, beIN Sports MENA 4, Sport 3 Israel, Event Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/570.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2.png
+📺 Channels: Unknown Channel, Sky Sports+, Sport TV3 Portugal, beIN Sports MAX 4 France, Nova Sport 1 CZ, Arena Sport 3 Slovenia, Arena Sport 1 Serbia, V Sport Premium, ESPN4 Brazil, TV3 + Denmark, Supersport Grandstand, Diema Sport 3 Bulgaria, beIN Sports MENA 5, V Sport Premium Sweden
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/566.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/199.png
 --------------------------------------------------
-🏟️ Match: Liverpool FC Vs Tottenham Hotspur
-🆔 Match ID: 2731620
-🕒 Start: 2026-09-15 22:00 (GMT+3)
-📍 Tournament: EFL Cup
-📺 Channels: Unknown Channel, Sky Sports+, ITV 4 UK, Sky Sports Main Event UK, Sky Sports Football UK, Sky Sport Top Event DE, Sport TV1 Portugal, beIN Sports 1 France, Digi Sport 2 Romania, Nova Sport 2 CZ, Canal+ Sport 3 Afrique, ESPN3 Mexico, Arena 3 Premium Serbia, TV3+ HD Denmark, Cytavision Sports 6 Cyprus, Arena Sport 1 Croatia, Diema Sport 2 Bulgaria, ESPN Brazil, SuperSport Grandstand, SuperSport Premier League, beIN Sports MENA 3, beIN Sports MENA English 1, Sport 4 Israel, Sky Sport Premier League DE, Event Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
+🏟️ Match: Anderlecht Vs Lyon
+🆔 Match ID: 2732209
+🕒 Start: 2026-09-16 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Unknown Channel, Paramount+, TNT Sports 4 UK, TNT Sports 6 UK, Movistar Liga de Campeones 5, DAZN Eleven 1 Portugal, Sky Sport Mix DE, Sky Sport Austria 5, Canal+ Foot France, Canal+ Live 1 France, Sky Sport Max IT, Digi Sport 3 Romania, Prima Sport 3 Romania, Ziggo Sport 5 NL, Polsat Sport Extra 3 Poland, Arena Sport 3 Serbia, Blue Sport 1 Live, MagentaSport 6 Greece, ESPN3 Argentina, Ring BG
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/369.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19.png
 --------------------------------------------------
-🏟️ Match: Fiorentina Vs Pisa
-🆔 Match ID: 2698464
-🕒 Start: 2026-09-15 22:00 (GMT+3)
-📍 Tournament: Coppa Italia
-📺 Channels: Unknown Channel, Paramount+ USA, Italia 1 IT, Viaplay Sports 2 UK, DAZN1 Spain, Premier Sports 2 Ireland, Sport TV4 Portugal, Polsat Sport 2 Poland, Arena Sport 2 Serbia, Arena Sport 3 Slovenia, Nova Sports Prime Greece, Cytavision Sports 4 Cyprus, Arena Sport 2 Croatia, MAX Sport 3 Bulgaria, DAZN2 DE, Event Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/15.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1209.png
+🏟️ Match: Hapoel Be'er Sheva Vs Dinamo Zagreb
+🆔 Match ID: 2732210
+🕒 Start: 2026-09-16 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Unknown Channel, Paramount+, TNT Sports 7 UK, Sky Sport Austria 7, Movistar Liga de Campeones 8, Sky Sport 255 IT, Canal+ Live 5 France, MagentaSport 9 Greece, Arena Sport 8 Serbia, Arena Sport 1 Croatia, beIN Sports MENA English 2, Sport 1 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2488.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/349.png
 --------------------------------------------------
-🏟️ Match: Elche Vs Real Madrid
-🆔 Match ID: 2700239
-🕒 Start: 2026-09-15 22:30 (GMT+3)
+🏟️ Match: Olympiacos Vs Jagiellonia
+🆔 Match ID: 2732211
+🕒 Start: 2026-09-16 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Unknown Channel, Paramount+, TNT Sports 8 UK, Sky Sport Austria 6, Movistar Liga de Campeones 3, Polsat Sport Premium 1 Poland, Polsat Sport Poland, Blue Sport 4 Live, Canal+ Live 6 France, Cytavision Sports 3 Cyprus, TUDN USA, UniMás, MagentaSport 2 Greece, Arena Sport 5 Serbia, MAX Sport 2 Bulgaria
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/24.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/504.png
+--------------------------------------------------
+🏟️ Match: Bayer Leverkusen Vs Celje
+🆔 Match ID: 2732212
+🕒 Start: 2026-09-16 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Unknown Channel, Paramount+, TNT Sports 5 UK, TNT Sports 3 UK, Movistar Liga de Campeones 2, Sky Sport Austria 2, RTL DE, DAZN Eleven 4 Portugal, Canal+ Live 4 France, Sky Sport 253 IT, ŠTV 1 Slovenia, Blue Sport 2 Live, SONY TEN 2 HD, Ziggo Sport 3 NL, Arena Sport 7 Serbia, Polsat Sport Extra 2 Poland, beIN Sports 3 Malaysia, MagentaSport 5 Greece, Cytavision Sports 7 Cyprus
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/162.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1052.png
+--------------------------------------------------
+🏟️ Match: Sturm Graz Vs Rennes
+🆔 Match ID: 2732213
+🕒 Start: 2026-09-16 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Unknown Channel, Paramount+, TNT Sports 9 UK, Movistar Liga de Campeones 6, Blue Sport 6 Live, Canal+ Sport France, Polsat Sport Extra 4 Poland, Arena Sport 6 Serbia, Canal+ Live 2 France, MagentaSport 8 Greece, beIN Sports MENA Xtra 1, Canal+ Live 7 France, TNT Sports 1 UK, Ziggo Sport NL
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/449.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/264.png
+--------------------------------------------------
+🏟️ Match: Sunderland Vs AZ
+🆔 Match ID: 2732214
+🕒 Start: 2026-09-16 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Unknown Channel, Paramount+, TNT Sports 1 UK, Ziggo Sport 1 NL, Sky Sport Austria 4, Movistar Liga de Campeones 7, DAZN Eleven 3 Portugal, Sky Sport 254 IT, Canal+ Live 7 France, Cytavision Sports 5 Cyprus, MagentaSport 7 Greece, Polsat Sport Extra 1 Poland, Arena Sport 4 Serbia, MAX Sport 3 Bulgaria, beIN Sports MENA 8, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/208.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4.png
+--------------------------------------------------
+🏟️ Match: Milan Vs Benfica
+🆔 Match ID: 2732215
+🕒 Start: 2026-09-16 22:00 (GMT+3)
+📍 Tournament: UEFA Europa League
+📺 Channels: Unknown Channel, Paramount+, TNT Sports 2 UK, Sky Sport 252 IT, Sky Sport 251 IT, Sky Sport Uno IT, SONY TEN 1 HD, Sport TV5 Portugal, Sky Sport Austria 3, CBS Sports Network, Movistar Liga de Campeones, Canal+ Live 3 France, Blue Sport D 2, beIN Sports Malaysia, Cytavision Sports 4 Cyprus, Digi Sport 1 Romania, Prima Sport 2 Romania, Ziggo Sport 2 NL, MagentaSport 3 Greece, Polsat Sport Premium 2 Poland, Arena 1 Premium Serbia, Arena Sport 3 Croatia, ESPN2 Argentina, bTV Action Bulgaria, SuperSport Football, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 4 Israel, Prime Video IT
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/147.png
+--------------------------------------------------
+🏟️ Match: Barcelona Vs Racing de Santander
+🆔 Match ID: 2700240
+🕒 Start: 2026-09-16 22:30 (GMT+3)
 📍 Tournament: LaLiga
-📺 Channels: Unknown Channel, M+ LALIGA TV, ESPN2 USA, ESPN+ USA, Viaplay Sports 1 UK, Premier Sports 1 Ireland, DAZN Eleven 1 Portugal, Canal+ Sport 4 Afrique, Nova Sport 4 SK, Nova Sport 4 CZ, Canal+ Sport 6 Poland, Canal+ Sport Poland, ESPN Deportes, Ziggo Sport 1 NL, Ziggo Sport 2 NL, Digi Sport 1 Romania, Prima Sport 1 Romania, beIN Sports Malaysia, Arena 1 Premium Serbia, TV2 Sport Norway, MAX Sport 4 Bulgaria, SuperSport Laliga, beIN Sports MENA 2, Sportklub 1 Croatia, DAZN1 DE, DAZN France, Event Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/682.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26.png
+📺 Channels: Unknown Channel, DAZN LaLiga, ESPN+ USA, TSN2, Viaplay Sports 1 UK, Premier Sports 1 Ireland, DAZN1 DE, DAZN Eleven 2 Portugal, Match TV Russia, Canal+ Sport 6 Poland, Nova Sport 3 SK, Nova Sport 3 CZ, Ziggo Sport 6 NL, Arena 2 Premium Serbia, Match Football 2 Russia, beIN Sports 2 Malaysia, MAX Sport 4 Bulgaria, Digi Sport 2 Romania, Prima Sport 1 Romania, Canal+ Sport 4 Afrique, Cytavision Sports 6 Cyprus, ESPN Deportes, SuperSport Laliga, beIN Sports MENA 2, Sportklub 1 Croatia, DAZN France
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/222.png
+--------------------------------------------------
+🏟️ Match: Levante Vs Athletic Bilbao
+🆔 Match ID: 2700241
+🕒 Start: 2026-09-16 22:30 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Unknown Channel, M+ LALIGA TV, ESPN+ USA, Viaplay Sports 2 UK, Premier Sports 2 Ireland, DAZN2 DE, Canal+ Sport Poland, Arena 3 Premium Serbia, Match Football 3 Russia, DSports 1 Argentina, Prima Sport 4 Romania, Nova Sport 4 SK, Nova Sport 4 CZ, beIN Sports MENA 9, Sportklub 3 Croatia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/218.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/213.png
 --------------------------------------------------
