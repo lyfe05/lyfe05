@@ -1,120 +1,136 @@
-🏟️ Match: Solomon Islands Vs Vanuatu
-🆔 Match ID: 2734745
-🕒 Start: 2026-09-24 07:00 (GMT+3)
+🏟️ Match: Australia Vs Brazil
+🆔 Match ID: 2699262
+🕒 Start: 2026-09-25 13:00 (GMT+3)
 📍 Tournament: International Friendlies
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1341.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1337.png
+📺 Channels: SporTV BR, Event SD Stream, TyC Sports Argentina
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/74.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/79.png
 --------------------------------------------------
-🏟️ Match: Papua New Guinea Vs New Caledonia
-🆔 Match ID: 2734746
-🕒 Start: 2026-09-24 10:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: NHL Gamecenter, NHL Network, MSG USA
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1342.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1333.png
---------------------------------------------------
-🏟️ Match: Palestine Vs New Zealand
-🆔 Match ID: 2734303
-🕒 Start: 2026-09-24 12:30 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Event SD Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1398.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/54.png
---------------------------------------------------
-🏟️ Match: Japan Vs Uruguay
-🆔 Match ID: 2723498
-🕒 Start: 2026-09-24 13:05 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Astro Football
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/52.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/56.png
---------------------------------------------------
-🏟️ Match: Korea Republic Vs Ecuador
-🆔 Match ID: 2723499
-🕒 Start: 2026-09-24 14:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Event SD Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/70.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/101.png
---------------------------------------------------
-🏟️ Match: China PR Vs Maldives
-🆔 Match ID: 2734422
-🕒 Start: 2026-09-24 14:35 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: Event SD Stream
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/120.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1399.png
---------------------------------------------------
-🏟️ Match: Namibia Vs Congo
-🆔 Match ID: 2733207
-🕒 Start: 2026-09-24 16:00 (GMT+3)
-📍 Tournament: Africa Cup Of Nations Qualifiers
-📺 Channels: beIN SPORTS USA, beIN SPORTS en Español, beIN Sports 3 Malaysia, Canal+ Sport 1 Afrique
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1377.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1384.png
---------------------------------------------------
-🏟️ Match: Uzbekistan Vs Iran
-🆔 Match ID: 2732583
-🕒 Start: 2026-09-24 17:00 (GMT+3)
-📍 Tournament: International Friendlies
-📺 Channels: IRIB Varzesh
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/592.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/102.png
---------------------------------------------------
-🏟️ Match: DR Congo Vs Equatorial Guinea
-🆔 Match ID: 2733184
-🕒 Start: 2026-09-24 19:00 (GMT+3)
-📍 Tournament: Africa Cup Of Nations Qualifiers
-📺 Channels: beIN SPORTS USA, beIN Sports 2 France, beIN Sports MAX 4 France, Canal+ Sport 1 Afrique, beIN Sports Malaysia
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/895.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1011.png
---------------------------------------------------
-🏟️ Match: Mauritania Vs CAR
-🆔 Match ID: 2733209
-🕒 Start: 2026-09-24 19:00 (GMT+3)
+🏟️ Match: Mozambique Vs Senegal
+🆔 Match ID: 2733217
+🕒 Start: 2026-09-25 16:00 (GMT+3)
 📍 Tournament: Africa Cup Of Nations Qualifiers
 📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2070.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/967.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/595.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/121.png
 --------------------------------------------------
-🏟️ Match: Libya Vs Botswana
-🆔 Match ID: 2733208
-🕒 Start: 2026-09-24 19:00 (GMT+3)
+🏟️ Match: Tanzania Vs Guinea-Bissau
+🆔 Match ID: 2733213
+🕒 Start: 2026-09-25 16:00 (GMT+3)
 📍 Tournament: Africa Cup Of Nations Qualifiers
-📺 Channels: beIN Sports 3 Malaysia, beIN Sports MENA 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/892.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/839.png
+📺 Channels: beIN SPORTS en Español, Sport TV1 Portugal, 5Sport Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/585.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1376.png
 --------------------------------------------------
-🏟️ Match: Cameroon Vs Comoros
-🆔 Match ID: 2733210
-🕒 Start: 2026-09-24 22:00 (GMT+3)
-📍 Tournament: Africa Cup Of Nations Qualifiers
-📺 Channels: beIN SPORTS en Español, beIN Sports 2 Malaysia, Canal+ Sport 1 Afrique, beIN Sports MAX 4 France, beIN Sports MENA 8
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/87.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1381.png
+🏟️ Match: India Vs Panama
+🆔 Match ID: 2731456
+🕒 Start: 2026-09-25 17:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: SONY TEN 2 HD, 5Sport Israel (CH-144) Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1397.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1022.png
 --------------------------------------------------
-🏟️ Match: Sierra Leone Vs Zimbabwe
-🆔 Match ID: 2733183
-🕒 Start: 2026-09-24 22:00 (GMT+3)
+🏟️ Match: Niger Vs Lesotho
+🆔 Match ID: 2733186
+🕒 Start: 2026-09-25 18:00 (GMT+3)
 📍 Tournament: Africa Cup Of Nations Qualifiers
-📺 Channels: beIN SPORTS Xtra
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1370.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/587.png
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1007.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/894.png
 --------------------------------------------------
-🏟️ Match: Tunisia Vs Uganda
-🆔 Match ID: 2733211
-🕒 Start: 2026-09-24 22:00 (GMT+3)
+🏟️ Match: Sudan Vs Ethiopia
+🆔 Match ID: 2733219
+🕒 Start: 2026-09-25 19:00 (GMT+3)
 📍 Tournament: Africa Cup Of Nations Qualifiers
-📺 Channels: beIN Sports MAX 5 France, beIN Sports 3 Malaysia, beIN Sports MENA 1
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/112.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/898.png
+📺 Channels: beIN Sports MENA 1
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1017.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1369.png
 --------------------------------------------------
-🏟️ Match: Côte d'Ivoire Vs Ghana
-🆔 Match ID: 2733185
-🕒 Start: 2026-09-24 22:00 (GMT+3)
+🏟️ Match: Nigeria Vs Madagascar
+🆔 Match ID: 2733215
+🕒 Start: 2026-09-25 19:00 (GMT+3)
 📍 Tournament: Africa Cup Of Nations Qualifiers
-📺 Channels: beIN SPORTS USA, beIN Sports 2 France, Canal+ Sport 2 Afrique, beIN Sports Malaysia, beIN Sports MENA 7
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/41.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/60.png
+📺 Channels: beIN SPORTS USA, Canal+ Sport 1 Afrique, beIN Sports 2 France, beIN Sports MAX 6 France, beIN Sports Malaysia, beIN Sports MENA 3, 5Stars Israel, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/85.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1380.png
+--------------------------------------------------
+🏟️ Match: Malawi Vs South Sudan
+🆔 Match ID: 2733188
+🕒 Start: 2026-09-25 19:00 (GMT+3)
+📍 Tournament: Africa Cup Of Nations Qualifiers
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1379.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5836.png
+--------------------------------------------------
+🏟️ Match: Gambia Vs Somalia
+🆔 Match ID: 2733187
+🕒 Start: 2026-09-25 19:00 (GMT+3)
+📍 Tournament: Africa Cup Of Nations Qualifiers
+📺 Channels: beIN SPORTS en Español, beIN Sports 2 Malaysia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/588.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1378.png
+--------------------------------------------------
+🏟️ Match: Togo Vs Burundi
+🆔 Match ID: 2733220
+🕒 Start: 2026-09-25 19:00 (GMT+3)
+📍 Tournament: Africa Cup Of Nations Qualifiers
+📺 Channels: beIN SPORTS Xtra, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/106.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1383.png
+--------------------------------------------------
+🏟️ Match: Rwanda Vs Liberia
+🆔 Match ID: 2733214
+🕒 Start: 2026-09-25 19:00 (GMT+3)
+📍 Tournament: Africa Cup Of Nations Qualifiers
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1366.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1382.png
+--------------------------------------------------
+🏟️ Match: Galway United Vs Shelbourne
+🆔 Match ID: 2651915
+🕒 Start: 2026-09-25 21:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: Unknown Channel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/11862.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4167.png
+--------------------------------------------------
+🏟️ Match: Morocco Vs Gabon
+🆔 Match ID: 2733189
+🕒 Start: 2026-09-25 22:00 (GMT+3)
+📍 Tournament: Africa Cup Of Nations Qualifiers
+📺 Channels: beIN SPORTS USA, beIN Sports 1 France, Canal+ Sport 3 Afrique, beIN Sports Malaysia, beIN Sports MENA 3
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/108.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1016.png
+--------------------------------------------------
+🏟️ Match: Egypt Vs Angola
+🆔 Match ID: 2733190
+🕒 Start: 2026-09-25 22:00 (GMT+3)
+📍 Tournament: Africa Cup Of Nations Qualifiers
+📺 Channels: beIN SPORTS USA, beIN SPORTS en Español, Sport TV6 Portugal, beIN Sports MAX 5 France, beIN Sports 3 Malaysia, beIN Sports MENA 1, 5 Live Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/590.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/97.png
+--------------------------------------------------
+🏟️ Match: Algeria Vs Zambia
+🆔 Match ID: 2733212
+🕒 Start: 2026-09-25 22:00 (GMT+3)
+📍 Tournament: Africa Cup Of Nations Qualifiers
+📺 Channels: beIN Sports 2 France, beIN Sports MENA 4
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/59.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/596.png
+--------------------------------------------------
+🏟️ Match: Mali Vs Cabo Verde
+🆔 Match ID: 2733218
+🕒 Start: 2026-09-25 22:00 (GMT+3)
+📍 Tournament: Africa Cup Of Nations Qualifiers
+📺 Channels: Sport TV3 Portugal, beIN Sports MAX 4 France, Canal+ Sport 2 Afrique, beIN Sports MENA Xtra 1
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1009.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/589.png
+--------------------------------------------------
+🏟️ Match: Burkina Faso Vs Benin
+🆔 Match ID: 2733216
+🕒 Start: 2026-09-25 22:00 (GMT+3)
+📍 Tournament: Africa Cup Of Nations Qualifiers
+📺 Channels: Canal+ Sport 1 Afrique
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1018.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1385.png
 --------------------------------------------------
