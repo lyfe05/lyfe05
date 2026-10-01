@@ -1,8 +1,8 @@
-🏟️ Match: Eritrea Vs South Africa
-🆔 Match ID: 2733200
-🕒 Start: 2026-09-30 19:00 (GMT+3)
+🏟️ Match: Guinea Vs Kenya
+🆔 Match ID: 2733201
+🕒 Start: 2026-10-01 19:00 (GMT+3)
 📍 Tournament: Africa Cup Of Nations Qualifiers
-📺 Channels: beIN SPORTS USA, beIN SPORTS en Español, beIN Sports 2 Malaysia, SuperSport PSL, Sport 5 Stars Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1373.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/39.png
+📺 Channels: beIN SPORTS USA, beIN SPORTS en Español, beIN Sports 2 Malaysia, SuperSport PSL, beIN Sports MENA 3
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1010.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1372.png
 --------------------------------------------------
