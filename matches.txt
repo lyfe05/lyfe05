@@ -1,8 +1,8 @@
-🏟️ Match: Guinea Vs Kenya
-🆔 Match ID: 2733201
-🕒 Start: 2026-10-01 19:00 (GMT+3)
-📍 Tournament: Africa Cup Of Nations Qualifiers
-📺 Channels: beIN SPORTS USA, beIN SPORTS en Español, beIN Sports 2 Malaysia, SuperSport PSL, beIN Sports MENA 3
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1010.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1372.png
+🏟️ Match: Dundalk Vs Bohemian
+🆔 Match ID: 2652024
+🕒 Start: 2026-10-02 21:45 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: Unknown Channel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/489.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/346.png
 --------------------------------------------------
