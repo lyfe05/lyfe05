@@ -1,8 +1,392 @@
-🏟️ Match: Dundalk Vs Bohemian
-🆔 Match ID: 2652024
-🕒 Start: 2026-10-02 21:45 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
+🏟️ Match: Fiji Vs Vanuatu
+🆔 Match ID: 2735757
+🕒 Start: 2026-10-03 07:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1339.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1337.png
+--------------------------------------------------
+🏟️ Match: Brentwood Vs Dagenham & Redbridge
+🆔 Match ID: 2734978
+🕒 Start: 2026-10-03 14:30 (GMT+3)
+📍 Tournament: FA Cup
 📺 Channels: Unknown Channel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/489.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/346.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1480.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/604.png
+--------------------------------------------------
+🏟️ Match: Sri Lanka Vs Djibouti
+🆔 Match ID: 2729249
+🕒 Start: 2026-10-03 15:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1407.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1368.png
+--------------------------------------------------
+🏟️ Match: Leatherhead Vs Hanworth Villa
+🆔 Match ID: 2734956
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1541.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/26283.png
+--------------------------------------------------
+🏟️ Match: Macclesfield Vs Scarborough Athletic
+🆔 Match ID: 2734957
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19681.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/51779.png
+--------------------------------------------------
+🏟️ Match: Marine Vs Warrington Town
+🆔 Match ID: 2734958
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1549.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1585.png
+--------------------------------------------------
+🏟️ Match: Trafford Vs Atherton Collieries
+🆔 Match ID: 2734959
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5806.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/10176.png
+--------------------------------------------------
+🏟️ Match: Guiseley Vs Bradford PA
+🆔 Match ID: 2734960
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1446.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1443.png
+--------------------------------------------------
+🏟️ Match: Gainsborough Vs Anstey Nomads
+🆔 Match ID: 2734961
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1518.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/34183.png
+--------------------------------------------------
+🏟️ Match: Morecambe Vs Darlington
+🆔 Match ID: 2734962
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/651.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4429.png
+--------------------------------------------------
+🏟️ Match: Buxton Vs South Shields
+🆔 Match ID: 2734963
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1484.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/18859.png
+--------------------------------------------------
+🏟️ Match: Bury Vs Bromsgrove Sp.
+🆔 Match ID: 2734964
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/614.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/10022.png
+--------------------------------------------------
+🏟️ Match: Barton Town Vs Chorley
+🆔 Match ID: 2734965
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18411.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1492.png
+--------------------------------------------------
+🏟️ Match: Worksop Town Vs F.C. United of Manchester
+🆔 Match ID: 2734966
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Unknown Channel, ESPN+ USA
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/51629.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1515.png
+--------------------------------------------------
+🏟️ Match: Stafford Vs Halesowen
+🆔 Match ID: 2734967
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1570.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3481.png
+--------------------------------------------------
+🏟️ Match: Spennymoor Town Vs Chester
+🆔 Match ID: 2734968
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1567.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2296.png
+--------------------------------------------------
+🏟️ Match: Mulbarton Wanderers Vs Gloucester City
+🆔 Match ID: 2734969
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/47114.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1454.png
+--------------------------------------------------
+🏟️ Match: Bury Town Vs Spalding Utd
+🆔 Match ID: 2734970
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7016.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/8234.png
+--------------------------------------------------
+🏟️ Match: Harborough Vs St Albans City
+🆔 Match ID: 2734971
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19725.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1568.png
+--------------------------------------------------
+🏟️ Match: Bedford Vs Wingate & Finchley
+🆔 Match ID: 2734972
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6849.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1592.png
+--------------------------------------------------
+🏟️ Match: Kettering Vs Worcester
+🆔 Match ID: 2734973
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/628.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1595.png
+--------------------------------------------------
+🏟️ Match: Cambridge City Vs Alvechurch
+🆔 Match ID: 2734974
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1453.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/34985.png
+--------------------------------------------------
+🏟️ Match: Brackley Town Vs Chelmsford City
+🆔 Match ID: 2734975
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1479.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1489.png
+--------------------------------------------------
+🏟️ Match: Chesham United Vs Real Bedford
+🆔 Match ID: 2734976
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6287.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/53765.png
+--------------------------------------------------
+🏟️ Match: Oxford City Vs Enfield Town
+🆔 Match ID: 2734977
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Unknown Channel, Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/602.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1511.png
+--------------------------------------------------
+🏟️ Match: Leiston Vs Coventry United FC
+🆔 Match ID: 2734979
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/14978.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/53978.png
+--------------------------------------------------
+🏟️ Match: Redditch Utd Vs Berkhamsted
+🆔 Match ID: 2734980
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3193.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/14600.png
+--------------------------------------------------
+🏟️ Match: AFC Rushden & Diamonds Vs Braintree Town
+🆔 Match ID: 2734981
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Unknown Channel, #Vamos ES, Sport TV1 Portugal, SONY TEN 2, SONY TEN 3 HD, STV 1 Slovenia, Movistar Liga de Campeones, 5Sport Israel, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7037.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1452.png
+--------------------------------------------------
+🏟️ Match: Dorking Wanderers Vs Chatham
+🆔 Match ID: 2734982
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/21680.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/10283.png
+--------------------------------------------------
+🏟️ Match: Truro City Vs Cirencester
+🆔 Match ID: 2734983
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1581.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5498.png
+--------------------------------------------------
+🏟️ Match: Tonbridge Angels Vs Torquay United
+🆔 Match ID: 2734984
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18858.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/660.png
+--------------------------------------------------
+🏟️ Match: Weymouth Vs SE Dons
+🆔 Match ID: 2734985
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18495.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/60814.png
+--------------------------------------------------
+🏟️ Match: Sheppey Utd Vs Chertsey
+🆔 Match ID: 2734986
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/51778.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/21888.png
+--------------------------------------------------
+🏟️ Match: Cray Wanderers Vs Chippenham Town
+🆔 Match ID: 2734987
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1497.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1491.png
+--------------------------------------------------
+🏟️ Match: Crowborough Athletic Vs Wimborne
+🆔 Match ID: 2734988
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/44634.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/13942.png
+--------------------------------------------------
+🏟️ Match: Plymouth Parkway Vs Horsham
+🆔 Match ID: 2734989
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4437.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1535.png
+--------------------------------------------------
+🏟️ Match: Uxbridge Vs Hungerford Town
+🆔 Match ID: 2734990
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10007.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5376.png
+--------------------------------------------------
+🏟️ Match: Ebbsfleet United Vs Sholing
+🆔 Match ID: 2734991
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1441.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1561.png
+--------------------------------------------------
+🏟️ Match: Salisbury Vs Dulwich Hamlet
+🆔 Match ID: 2734992
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/14601.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1505.png
+--------------------------------------------------
+🏟️ Match: Thame Utd Vs Eastbourne Borough
+🆔 Match ID: 2734993
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/13742.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1508.png
+--------------------------------------------------
+🏟️ Match: Hanwell Town Vs Dover Athletic
+🆔 Match ID: 2734994
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18384.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1503.png
+--------------------------------------------------
+🏟️ Match: Tadley Calleva Vs Dartford
+🆔 Match ID: 2734995
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: FA Cup
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/53982.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1499.png
+--------------------------------------------------
+🏟️ Match: India Vs Brazil
+🆔 Match ID: 2722096
+🕒 Start: 2026-10-03 17:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: #Vamos ES, Sport TV1 Portugal, SONY TEN 2, SONY TEN 3 HD, STV 1 Slovenia, Movistar Liga de Campeones, 5Sport Israel, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1397.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/79.png
+--------------------------------------------------
+🏟️ Match: Russia Vs Namibia
+🆔 Match ID: 2733592
+🕒 Start: 2026-10-03 18:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Match TV Russia
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/124.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1377.png
+--------------------------------------------------
+🏟️ Match: Canada Vs Peru
+🆔 Match ID: 2716746
+🕒 Start: 2026-10-03 21:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: TSN4, TSN5, RDS CA, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/132.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/127.png
+--------------------------------------------------
+🏟️ Match: Tunisia Vs Mali
+🆔 Match ID: 2732727
+🕒 Start: 2026-10-03 22:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/112.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1009.png
+--------------------------------------------------
+🏟️ Match: Côte d'Ivoire Vs Cameroon
+🆔 Match ID: 2733559
+🕒 Start: 2026-10-03 22:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/41.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/87.png
+--------------------------------------------------
+🏟️ Match: Argentina Vs Burkina Faso
+🆔 Match ID: 2734589
+🕒 Start: 2026-10-04 03:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: TyC Sports Argentina, Telefe Argentina, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Movistar Liga de Campeones, Movistar Plus+, Sky Sport Uno IT, Match! Football 3 Russia, Sport 5 Israel, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/55.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1018.png
+--------------------------------------------------
+🏟️ Match: United States Vs Mexico
+🆔 Match ID: 2723173
+🕒 Start: 2026-10-04 05:00 (GMT+3)
+📍 Tournament: International Friendlies
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/81.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/69.png
 --------------------------------------------------
