@@ -1,0 +1,40 @@
+🏟️ Match: Shamrock Rovers Vs Drogheda United
+🆔 Match ID: 2652023
+🕒 Start: 2026-10-08 22:00 (GMT+3)
+📍 Tournament: League of Ireland Premier Division
+📺 Channels: Unknown Channel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/433.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1883.png
+--------------------------------------------------
+🏟️ Match: Santos Vs Flamengo
+🆔 Match ID: 2652484
+🕒 Start: 2026-10-09 01:30 (GMT+3)
+📍 Tournament: Brasileirão
+📺 Channels: Unknown Channel, Premiere BR, Viaplay Sports 2 UK, Premier Sports 2 Ireland, M+ Vamos ES, Canal 11 Portugal, Match! Football 3 Russia, Arena 3 Premium Serbia, SportDigital Fussball, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1798.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1802.png
+--------------------------------------------------
+🏟️ Match: Athletico Paranaense Vs Atlético Mineiro
+🆔 Match ID: 2652489
+🕒 Start: 2026-10-09 02:00 (GMT+3)
+📍 Tournament: Brasileirão
+📺 Channels: Premiere 3 BR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1862.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1683.png
+--------------------------------------------------
+🏟️ Match: Palmeiras Vs Bahia
+🆔 Match ID: 2652485
+🕒 Start: 2026-10-09 03:30 (GMT+3)
+📍 Tournament: Brasileirão
+📺 Channels: Premiere 2 BR, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Arena 3 Premium Serbia, Match! Football 3 Russia, Canal 11 Portugal, Sport 2 Israel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1693.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1795.png
+--------------------------------------------------
+🏟️ Match: Fluminense Vs Coritiba
+🆔 Match ID: 2652482
+🕒 Start: 2026-10-09 03:30 (GMT+3)
+📍 Tournament: Brasileirão
+📺 Channels: Premiere 5 BR
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1666.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1796.png
+--------------------------------------------------
