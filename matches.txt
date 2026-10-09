@@ -1,40 +1,64 @@
-🏟️ Match: Shamrock Rovers Vs Drogheda United
-🆔 Match ID: 2652023
-🕒 Start: 2026-10-08 22:00 (GMT+3)
+🏟️ Match: Al Kholood Vs Al Qadsiah
+🆔 Match ID: 2717235
+🕒 Start: 2026-10-09 16:50 (GMT+3)
+📍 Tournament: Saudi Pro League
+📺 Channels: Unknown Channel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26921.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5546.png
+--------------------------------------------------
+🏟️ Match: Al-Fateh Vs Al-Ahli
+🆔 Match ID: 2717231
+🕒 Start: 2026-10-09 17:55 (GMT+3)
+📍 Tournament: Saudi Pro League
+📺 Channels: Unknown Channel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2331.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2339.png
+--------------------------------------------------
+🏟️ Match: Al-Nassr Vs Diriyah Club
+🆔 Match ID: 2717236
+🕒 Start: 2026-10-09 21:00 (GMT+3)
+📍 Tournament: Saudi Pro League
+📺 Channels: Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2329.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/51865.png
+--------------------------------------------------
+🏟️ Match: Borussia Dortmund Vs Werder Bremen
+🆔 Match ID: 2702901
+🕒 Start: 2026-10-09 21:30 (GMT+3)
+📍 Tournament: Bundesliga
+📺 Channels: Unknown Channel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/155.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/150.png
+--------------------------------------------------
+🏟️ Match: Lens Vs Lyon
+🆔 Match ID: 2688690
+🕒 Start: 2026-10-09 21:45 (GMT+3)
+📍 Tournament: Ligue 1
+📺 Channels: Unknown Channel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/256.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19.png
+--------------------------------------------------
+🏟️ Match: Shelbourne Vs Sligo Rovers
+🆔 Match ID: 2652025
+🕒 Start: 2026-10-09 21:45 (GMT+3)
 📍 Tournament: League of Ireland Premier Division
 📺 Channels: Unknown Channel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/433.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1883.png
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4167.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4170.png
 --------------------------------------------------
-🏟️ Match: Santos Vs Flamengo
-🆔 Match ID: 2652484
-🕒 Start: 2026-10-09 01:30 (GMT+3)
-📍 Tournament: Brasileirão
-📺 Channels: Unknown Channel, Premiere BR, Viaplay Sports 2 UK, Premier Sports 2 Ireland, M+ Vamos ES, Canal 11 Portugal, Match! Football 3 Russia, Arena 3 Premium Serbia, SportDigital Fussball, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1798.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1802.png
+🏟️ Match: Málaga Vs Espanyol
+🆔 Match ID: 2700260
+🕒 Start: 2026-10-09 22:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Unknown Channel
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/219.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/215.png
 --------------------------------------------------
-🏟️ Match: Athletico Paranaense Vs Atlético Mineiro
-🆔 Match ID: 2652489
-🕒 Start: 2026-10-09 02:00 (GMT+3)
-📍 Tournament: Brasileirão
-📺 Channels: Premiere 3 BR
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1862.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1683.png
---------------------------------------------------
-🏟️ Match: Palmeiras Vs Bahia
-🆔 Match ID: 2652485
-🕒 Start: 2026-10-09 03:30 (GMT+3)
-📍 Tournament: Brasileirão
-📺 Channels: Premiere 2 BR, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Arena 3 Premium Serbia, Match! Football 3 Russia, Canal 11 Portugal, Sport 2 Israel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1693.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1795.png
---------------------------------------------------
-🏟️ Match: Fluminense Vs Coritiba
-🆔 Match ID: 2652482
-🕒 Start: 2026-10-09 03:30 (GMT+3)
-📍 Tournament: Brasileirão
-📺 Channels: Premiere 5 BR
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1666.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1796.png
+🏟️ Match: West Ham United Vs Queens Park Rangers
+🆔 Match ID: 2696617
+🕒 Start: 2026-10-09 22:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Unknown Channel, Not specified
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/198.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/582.png
 --------------------------------------------------
