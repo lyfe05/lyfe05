@@ -1,64 +1,160 @@
-🏟️ Match: Al Kholood Vs Al Qadsiah
-🆔 Match ID: 2717235
-🕒 Start: 2026-10-09 16:50 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: Unknown Channel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26921.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5546.png
+🏟️ Match: Arsenal Vs Leeds United
+🆔 Match ID: 2693615
+🕒 Start: 2026-10-10 14:30 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Unknown Channel, Hub Premier 1, TNT Sports 1 UK, USA Network, NBC UNIVERSO, Sky Sport 8 NZ, Sky Sport Austria 1, Astro Premier League, Astro Grandstand, DAZN1 Spain, Sky Sport Premier League DE, DAZN Eleven 1 Portugal, Canal+ Extra 1 Poland, Canal+ Live 6 France, Canal+ France, Canal+ Foot France, Canal+ Sport SK, Canal+ Sport CZ, Sky Sport Calcio IT, Cytavision Sports 3 Cyprus, beIN Sports 3 Turkey, ESPN Argentina, Sky Sport Max Italy, Arena 1 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, Diema Sport 2 Bulgaria, ESPN Brazil, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel, Backup Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/571.png
 --------------------------------------------------
-🏟️ Match: Al-Fateh Vs Al-Ahli
-🆔 Match ID: 2717231
-🕒 Start: 2026-10-09 17:55 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: Unknown Channel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2331.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2339.png
---------------------------------------------------
-🏟️ Match: Al-Nassr Vs Diriyah Club
-🆔 Match ID: 2717236
-🕒 Start: 2026-10-09 21:00 (GMT+3)
-📍 Tournament: Saudi Pro League
-📺 Channels: Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2329.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/51865.png
---------------------------------------------------
-🏟️ Match: Borussia Dortmund Vs Werder Bremen
-🆔 Match ID: 2702901
-🕒 Start: 2026-10-09 21:30 (GMT+3)
-📍 Tournament: Bundesliga
-📺 Channels: Unknown Channel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/155.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/150.png
---------------------------------------------------
-🏟️ Match: Lens Vs Lyon
-🆔 Match ID: 2688690
-🕒 Start: 2026-10-09 21:45 (GMT+3)
-📍 Tournament: Ligue 1
-📺 Channels: Unknown Channel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/256.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/19.png
---------------------------------------------------
-🏟️ Match: Shelbourne Vs Sligo Rovers
-🆔 Match ID: 2652025
-🕒 Start: 2026-10-09 21:45 (GMT+3)
-📍 Tournament: League of Ireland Premier Division
-📺 Channels: Unknown Channel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4167.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4170.png
---------------------------------------------------
-🏟️ Match: Málaga Vs Espanyol
-🆔 Match ID: 2700260
-🕒 Start: 2026-10-09 22:00 (GMT+3)
-📍 Tournament: LaLiga
-📺 Channels: Unknown Channel
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/219.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/215.png
---------------------------------------------------
-🏟️ Match: West Ham United Vs Queens Park Rangers
-🆔 Match ID: 2696617
-🕒 Start: 2026-10-09 22:00 (GMT+3)
+🏟️ Match: Charlton Athletic Vs Bristol City
+🆔 Match ID: 2696608
+🕒 Start: 2026-10-10 14:30 (GMT+3)
 📍 Tournament: EFL Championship
-📺 Channels: Unknown Channel, Not specified
-🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/198.png
-🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/582.png
+📺 Channels: Unknown Channel, Sky Sports+, V Sport Football
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/597.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/564.png
+--------------------------------------------------
+🏟️ Match: Swansea City Vs Norwich City
+🆔 Match ID: 2696614
+🕒 Start: 2026-10-10 14:30 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Unknown Channel, CBS Sports Network, Sky Sports+, TV3 MAX Denmark
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/576.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/575.png
+--------------------------------------------------
+🏟️ Match: West Bromwich Albion Vs Birmingham City
+🆔 Match ID: 2696616
+🕒 Start: 2026-10-10 14:30 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Unknown Channel, CBS Sports Golazo, Sky Sports Main Event UK, Sky Sports Football UK, MagentaSport 2 Greece, Arena 2 Premium Serbia, Arena Sport 2 Croatia, V Sport Premium, Nova Sport Bulgaria, beIN Sports MENA 2, beIN Sports MENA English 2, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/196.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/205.png
+--------------------------------------------------
+🏟️ Match: Rayo Vallecano Vs Athletic Bilbao
+🆔 Match ID: 2700262
+🕒 Start: 2026-10-10 15:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Unknown Channel, DAZN LaLiga, ESPN+ USA, DAZN Eleven 2 Portugal, Canal+ Sport 6 Poland, Match! Football 2 Russia, Sportklub 1 Croatia, Ziggo Sport 1 NL, Digi Sport 1 Romania, Prima Sport 1 Romania, Nova Sport 4 SK, Nova Sport 4 CZ, beIN Sports 2 Malaysia, Canal+ Sport Poland, Arena 3 Premium Serbia, ESPN Deportes, MAX Sport 4 Bulgaria, SuperSport Laliga, beIN Sports MENA 5, Backup Stream, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/690.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/213.png
+--------------------------------------------------
+🏟️ Match: Aston Villa Vs Brentford
+🆔 Match ID: 2693616
+🕒 Start: 2026-10-10 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Unknown Channel, Hub Premier 2, USA Network, NBC UNIVERSO, Sky Sport 7 NZ, DAZN2 Spain, Sky Sport Mix DE, DAZN Eleven 2 Portugal, Canal+ Extra 3 Poland, Canal+ Live 7 France, Canal+ Sport 4 SK, Canal+ Sport 4 CZ, Canal+ Sport 5 CZ, Cytavision Sports 7 Cyprus, Arena 2 Premium Serbia, Nova Sports 2 Greece, Viaplay Sport News Denmark, Diema Sport 3 Bulgaria, ESPN Brazil, beIN Sports MENA 2, Sport 4 Israel, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/199.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/671.png
+--------------------------------------------------
+🏟️ Match: Chelsea Vs AFC Bournemouth
+🆔 Match ID: 2693617
+🕒 Start: 2026-10-10 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Unknown Channel, Hub Premier 5, Sky Sport 4 NZ, DAZN1 Spain, DAZN Eleven 1 Portugal, Canal+ Extra 1 Poland, Canal+ Live 6 France, Sky Sport Calcio IT, Canal+ Sport SK, Canal+ Sport CZ, V Sport Premium, Astro Premier League 2, Sky Sport Max Italy, Cytavision Sports 3 Cyprus, Arena 1 Premium Serbia, Nova Sports Premier League Greece, TV3 MAX Denmark, beIN Sports 3 Turkey, ESPN Argentina, Arena Sport 1 Croatia, Diema Sport 2 Bulgaria, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 2 Israel, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/9.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/622.png
+--------------------------------------------------
+🏟️ Match: Ipswich Town Vs Fulham
+🆔 Match ID: 2693621
+🕒 Start: 2026-10-10 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Unknown Channel, Hub Premier 4, Sky Sport 5 NZ, DAZN3 Spain, Canal+ Extra 6 Poland, Canal+ Live 8 France, Canal+ Sport 7 CZ, Arena Sport 5 Serbia, Nova Sports Start Greece, Cytavision Sports 6 Cyprus, TV3 Sport Denmark, beIN Sports MENA 4, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/570.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/211.png
+--------------------------------------------------
+🏟️ Match: Sunderland Vs Brighton & Hove Albion
+🆔 Match ID: 2693624
+🕒 Start: 2026-10-10 17:00 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Unknown Channel, Hub Premier 3, Sky Sport 6 NZ, Canal+ Extra 5 Poland, Canal+ Sport 8 CZ, Arena 4 Premium Serbia, Cytavision Sports 4 Cyprus, Canal+ Live 9 France, ESPN4 Brazil, Nova Sports 6 Greece, Arena Sport 3 Croatia, beIN Sports 2 Turkey, V Sport Football, SuperSport Football, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/208.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/670.png
+--------------------------------------------------
+🏟️ Match: Blackburn Rovers Vs Cardiff City
+🆔 Match ID: 2696606
+🕒 Start: 2026-10-10 17:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/210.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/565.png
+--------------------------------------------------
+🏟️ Match: Bolton Wanderers Vs Stoke City
+🆔 Match ID: 2696607
+🕒 Start: 2026-10-10 17:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Unknown Channel, Sky Sports+, Fox Sports 2 Argentina, MagentaSport 4 Greece, beIN Sports MENA English 2
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/200.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/201.png
+--------------------------------------------------
+🏟️ Match: Derby County Vs Wrexham
+🆔 Match ID: 2696609
+🕒 Start: 2026-10-10 17:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Unknown Channel, Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/568.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/617.png
+--------------------------------------------------
+🏟️ Match: Middlesbrough Vs Wolverhampton Wanderers
+🆔 Match ID: 2696610
+🕒 Start: 2026-10-10 17:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Unknown Channel, CBS Sports Golazo
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/573.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/203.png
+--------------------------------------------------
+🏟️ Match: Preston North End Vs Millwall
+🆔 Match ID: 2696611
+🕒 Start: 2026-10-10 17:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/578.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/574.png
+--------------------------------------------------
+🏟️ Match: Sheffield United Vs Lincoln City
+🆔 Match ID: 2696612
+🕒 Start: 2026-10-10 17:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Unknown Channel, Sky Sports+, RTE 2 Ireland
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/583.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/655.png
+--------------------------------------------------
+🏟️ Match: Watford Vs Burnley
+🆔 Match ID: 2696615
+🕒 Start: 2026-10-10 17:00 (GMT+3)
+📍 Tournament: EFL Championship
+📺 Channels: Sky Sports+
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/580.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/275.png
+--------------------------------------------------
+🏟️ Match: Alavés Vs Atlético de Madrid
+🆔 Match ID: 2700255
+🕒 Start: 2026-10-10 17:15 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Unknown Channel, M+ LALIGA TV, ESPN+ USA, DAZN Eleven 3 Portugal, Canal+ Sport 6 Poland, Match! Football 2 Russia, Ziggo Sport 1 NL, Sportklub 1 Croatia, Digi Sport 4 Romania, Prima Sport 3 Romania, beIN Sports 2 Malaysia, Nova Sport 4 SK, Nova Sport 4 CZ, ESPN2 Argentina, TV 2 Sport Norway, Arena 3 Premium Serbia, ESPN Deportes, MAX Sport 4 Bulgaria, SuperSport Laliga, beIN Sports MENA 5, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1254.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3.png
+--------------------------------------------------
+🏟️ Match: Manchester United Vs Tottenham Hotspur
+🆔 Match ID: 2693623
+🕒 Start: 2026-10-10 19:30 (GMT+3)
+📍 Tournament: Premier League
+📺 Channels: Unknown Channel, Hub Premier 1, NBC USA, NBCNY USA, Sky Sports Main Event UK, Sky Sports Premier League UK, Astro Premier League, Astro Grandstand, Sky Sport 8 NZ, DAZN1 Spain, Sky Sport Premier League DE, Canal+ Extra 1 Poland, Canal+ Foot France, Canal+ Live 6 France, Telemundo, Sky Sport Uno IT, V Sport Premium, Canal+ Sport SK, Canal+ Sport CZ, TV3+ HD Denmark, Cytavision Sports 3 Cyprus, ESPN Argentina, Arena 2 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, Diema Sport 2 Bulgaria, beIN Sports 3 Turkey, ESPN Brazil, SuperSport Premier League, beIN Sports MENA 1, beIN Sports MENA English 1, Sport 1 Israel, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/21.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/202.png
+--------------------------------------------------
+🏟️ Match: Barcelona Vs Getafe
+🆔 Match ID: 2700258
+🕒 Start: 2026-10-10 19:30 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Unknown Channel, DAZN LaLiga, ESPN+ USA, TSN3, DAZN Eleven 2 Portugal, Canal+ Sport 6 Poland, Digi Sport 1 Romania, Prima Sport 1 Romania, Sportklub 1 Croatia, Ziggo Sport 1 NL, Match! Football 2 Russia, ESPN Deportes, beIN Sports Malaysia, ESPN2 Argentina, Nova Sport 4 SK, Arena 3 Premium Serbia, Nova Sport 4 CZ, MAX Sport 4 Bulgaria, SuperSport Laliga, beIN Sports MENA 2, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/216.png
+--------------------------------------------------
+🏟️ Match: Real Madrid Vs Villarreal
+🆔 Match ID: 2700263
+🕒 Start: 2026-10-10 22:00 (GMT+3)
+📍 Tournament: LaLiga
+📺 Channels: Unknown Channel, M+ LALIGA TV, ESPN+ USA, Movistar Plus+, DAZN Eleven 1 Portugal, Canal+ Sport 6 Poland, Match! Football 2 Russia, MATCH TV Russia, Sportklub 1 Croatia, ZONA DAZN Italy, Ziggo Sport 1 NL, Nova Sport 4 SK, Nova Sport 4 CZ, beIN Sports Malaysia, ESPN Deportes, Canal+ Sport Poland, DSports 1 Argentina, Arena 2 Premium Serbia, Digi Sport 2 Romania, Prima Sport 2 Romania, MAX Sport 4 Bulgaria, beIN Sports MENA 2, SuperSport Laliga, beIN Sports MENA English 1, Event Stream
+🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26.png
+🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/226.png
 --------------------------------------------------
